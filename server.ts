@@ -44,31 +44,38 @@ const getHfToken = () => process.env.HF_API_KEY || process.env.HF_TOKEN;
 
 // Fallback LLM Models on Hugging Face Serverless (via router.huggingface.co)
 const LLM_MODELS = [
+  "Qwen/Qwen2.5-72B-Instruct:hf-inference",
+  "Qwen/Qwen2.5-7B-Instruct:hf-inference",
+  "meta-llama/Llama-3.2-3B-Instruct:hf-inference",
+  "Qwen/Qwen2.5-1.5B-Instruct:hf-inference",
   "Qwen/Qwen2.5-72B-Instruct",
-  "mistralai/Mistral-7B-Instruct-v0.3",
-  "Qwen/Qwen2.5-7B-Instruct",
-  "Qwen/Qwen2.5-1.5B-Instruct"
+  "mistralai/Mistral-7B-Instruct-v0.3"
 ];
 
 async function callLLM(prompt: string, systemInstruction: string, hfToken: string): Promise<any> {
-  const formattedPrompt = `<|im_start|>system\n${systemInstruction}<|im_end|>\n<|im_start|>user\n${prompt}<|im_end|>\n<|im_start|>assistant\n`;
-
   for (const model of LLM_MODELS) {
-    console.log(`🤖 Using LLM model: ${model} via hf-inference...`);
+    console.log(`🤖 Using LLM model: ${model}...`);
     try {
-      const url = `https://router.huggingface.co/hf-inference/models/${model}`;
-      const response = await fetch(url, {
+      const response = await fetch("https://router.huggingface.co/v1/chat/completions", {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${hfToken}`,
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-          inputs: formattedPrompt,
-          parameters: {
-            max_new_tokens: 2048,
-            temperature: 0.7
-          }
+          model: model,
+          messages: [
+            {
+              role: "system",
+              content: systemInstruction
+            },
+            {
+              role: "user",
+              content: prompt
+            }
+          ],
+          temperature: 0.7,
+          max_tokens: 3000
         })
       });
 
@@ -78,23 +85,7 @@ async function callLLM(prompt: string, systemInstruction: string, hfToken: strin
       }
 
       const data = await response.json();
-      let content = "";
-      if (Array.isArray(data)) {
-        content = data[0]?.generated_text || "";
-      } else if (data.generated_text) {
-        content = data.generated_text;
-      } else {
-        throw new Error(`Unexpected response format: ${JSON.stringify(data)}`);
-      }
-
-      // Strip prompt if included in output
-      if (content.startsWith(formattedPrompt)) {
-        content = content.substring(formattedPrompt.length);
-      } else if (content.includes("<|im_start|>assistant\n")) {
-        content = content.substring(content.indexOf("<|im_start|>assistant\n") + "<|im_start|>assistant\n".length);
-      }
-      content = content.replace(/<\|im_end\|>$/, "").trim();
-
+      const content = data.choices?.[0]?.message?.content;
       if (!content) {
         throw new Error("Empty content returned from model.");
       }
