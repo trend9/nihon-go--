@@ -30,7 +30,6 @@ jobs:
 
       - name: Run Article Generator
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: npx tsx scripts/generate-article.ts
 

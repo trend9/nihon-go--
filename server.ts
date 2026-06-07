@@ -2,7 +2,6 @@ import express from "express";
 import path from "path";
 import fs from "fs";
 import { createServer as createViteServer } from "vite";
-import { GoogleGenAI, Type } from "@google/genai";
 import { initialArticles } from "./src/data/initialArticles.ts";
 import { Article } from "./src/types.ts";
 
@@ -41,15 +40,7 @@ function saveArticles(articles: Article[]) {
 // Ensure database is populated at startup
 let inMemoryArticles = loadArticles();
 
-// AI Setup
-const ai = new GoogleGenAI({
-  apiKey: process.env.GEMINI_API_KEY,
-  httpOptions: {
-    headers: {
-      "User-Agent": "aistudio-build",
-    },
-  },
-});
+const getHfToken = () => process.env.HF_API_KEY || process.env.HF_TOKEN;
 
 // Admin Authorization Middleware (Double checking email matches)
 const requireAdmin = (req: express.Request, res: express.Response, next: express.NextFunction) => {
@@ -134,21 +125,46 @@ app.delete("/api/articles/:id", requireAdmin, (req, res) => {
 app.post("/api/check-article", requireAdmin, async (req, res) => {
   try {
     const article = req.body as Article;
-    
-    const response = await ai.models.generateContent({
-      model: "gemini-3.5-flash",
-      contents: JSON.stringify(article),
-      config: {
-        systemInstruction: `You are an expert bilingual Japanese-English proofreader.
+    const hfToken = getHfToken();
+    if (!hfToken) {
+      return res.status(500).json({ error: "HF_TOKEN / HF_API_KEY environment variable is not configured." });
+    }
+
+    const systemInstruction = `You are an expert bilingual Japanese-English proofreader.
 Analyze the Japanese contents (vocabulary, kana, romaji, example sentences, pronunciation tips) and English translations for any typos, spelling errors, character corruption (mojibake), or styling issues.
 You must correct any errors you find.
-Return ONLY a valid JSON object matching the exact provided structure of the Article. Do not warp the structure, remove any fields or append Markdown outside the JSON.`,
-        responseMimeType: "application/json",
+Return ONLY a valid JSON object matching the exact provided structure of the Article. Do not warp the structure, remove any fields or append Markdown outside the JSON.`;
+
+    const textRes = await fetch("https://api-inference.huggingface.co/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${hfToken}`,
+        "Content-Type": "application/json",
       },
+      body: JSON.stringify({
+        model: "Qwen/Qwen2.5-72B-Instruct",
+        messages: [
+          { role: "system", content: systemInstruction },
+          { role: "user", content: JSON.stringify(article) }
+        ],
+        max_tokens: 4096,
+        temperature: 0.2,
+      }),
     });
 
-    const parsedData = JSON.parse(response.text || "{}");
-    // Ensure isVerified is set
+    if (!textRes.ok) {
+      const errorText = await textRes.text();
+      return res.status(500).json({ error: `Hugging Face API error: ${errorText}` });
+    }
+
+    const textData = await textRes.json();
+    const textOutput = textData.choices?.[0]?.message?.content?.trim();
+    if (!textOutput) {
+      return res.status(500).json({ error: "Empty response from Hugging Face API" });
+    }
+
+    const cleanedJson = textOutput.replace(/^```json\s*/i, "").replace(/```$/, "").trim();
+    const parsedData = JSON.parse(cleanedJson);
     parsedData.isVerified = true;
     res.json(parsedData);
   } catch (err: any) {
@@ -223,15 +239,48 @@ JSON Structure Schema Required:
 }
 `;
 
-    const response = await ai.models.generateContent({
-      model: "gemini-3.5-flash",
-      contents: prompt,
-      config: {
-        responseMimeType: "application/json",
+    const hfToken = getHfToken();
+    if (!hfToken) {
+      return res.status(500).json({ error: "HF_TOKEN / HF_API_KEY environment variable is not configured." });
+    }
+
+    console.log("Calling Hugging Face Inference API for text generation...");
+    const textRes = await fetch("https://api-inference.huggingface.co/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${hfToken}`,
+        "Content-Type": "application/json",
       },
+      body: JSON.stringify({
+        model: "Qwen/Qwen2.5-72B-Instruct",
+        messages: [
+          {
+            role: "system",
+            content: "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON."
+          },
+          {
+            role: "user",
+            content: prompt
+          }
+        ],
+        max_tokens: 4096,
+        temperature: 0.7,
+      }),
     });
 
-    const parsedArticle = JSON.parse(response.text || "{}") as any;
+    if (!textRes.ok) {
+      const errorText = await textRes.text();
+      return res.status(500).json({ error: `Hugging Face Text API returned status ${textRes.status}: ${errorText}` });
+    }
+
+    const textData = await textRes.json();
+    const textOutput = textData.choices?.[0]?.message?.content?.trim();
+    if (!textOutput) {
+      return res.status(500).json({ error: "Empty response from Hugging Face API" });
+    }
+
+    const cleanedJson = textOutput.replace(/^```json\s*/i, "").replace(/```$/, "").trim();
+    const parsedArticle = JSON.parse(cleanedJson) as any;
 
     if (!parsedArticle.id || !parsedArticle.title) {
       throw new Error("AI returned an invalid article structure.");
@@ -241,32 +290,27 @@ JSON Structure Schema Required:
     const imagePrompt = parsedArticle.imagePrompt || `Vintage British newspaper illustration of ${topic || "Japanese scenery"}`;
     let base64Image = "";
 
-    // If an API key is available, let's call Hugging Face
-    const hfToken = process.env.HF_API_KEY || process.env.HF_TOKEN;
-    if (hfToken) {
-      try {
-        console.log("Calling Hugging Face image generation model for prompt:", imagePrompt);
-        // Using FLUX.1-schnell or SD 3.5 medium
-        const hfRes = await fetch("https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell", {
-          method: "POST",
-          headers: {
-            "Authorization": `Bearer ${hfToken}`,
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ inputs: `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving` }),
-        });
+    try {
+      console.log("Calling Hugging Face image generation model for prompt:", imagePrompt);
+      const hfRes = await fetch("https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell", {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${hfToken}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ inputs: `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving` }),
+      });
 
-        if (hfRes.ok) {
-          const buffer = await hfRes.arrayBuffer();
-          const base64Str = Buffer.from(buffer).toString("base64");
-          base64Image = `data:image/jpeg;base64,${base64Str}`;
-          console.log("Hugging face image generated successfully.");
-        } else {
-          console.warn("Hugging Face API returned non-200:", hfRes.status, hfRes.statusText);
-        }
-      } catch (err) {
-        console.error("Hugging Face API execution failed, will fall back:", err);
+      if (hfRes.ok) {
+        const buffer = await hfRes.arrayBuffer();
+        const base64Str = Buffer.from(buffer).toString("base64");
+        base64Image = `data:image/jpeg;base64,${base64Str}`;
+        console.log("Hugging face image generated successfully.");
+      } else {
+        console.warn("Hugging Face API returned non-200:", hfRes.status, hfRes.statusText);
       }
+    } catch (err) {
+      console.error("Hugging Face API execution failed, will fall back:", err);
     }
 
     // If Hugging Face fails or key not provided, assign a gorgeous matching Unsplash search string
@@ -285,7 +329,7 @@ JSON Structure Schema Required:
     }
 
     parsedArticle.thumbnailAlt = imagePrompt;
-    parsedArticle.isVerified = true; // Auto-checked via system prompt instructions
+    parsedArticle.isVerified = true;
 
     // Prepend to database
     inMemoryArticles.unshift(parsedArticle);

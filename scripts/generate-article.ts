@@ -1,5 +1,4 @@
 import "dotenv/config";
-import { GoogleGenAI } from "@google/genai";
 import fs from "fs";
 import path from "path";
 import { Article } from "../src/types";
@@ -75,7 +74,7 @@ async function generate() {
   const publishedAt = publishedAtMap[nextLevel];
   const levelName = levelNamesMap[nextLevel];
 
-  // Pick a random topic hint to inspire Gemini
+  // Pick a random topic hint to inspire Hugging Face model
   const topicsPool = [
     "ordering coffee and custom requests at a cafe",
     "asking for directions in a subway station",
@@ -94,14 +93,11 @@ async function generate() {
   ];
   const topicHint = topicsPool[Math.floor(Math.random() * topicsPool.length)];
 
-  // Initialize Gemini
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) {
-    console.error("Error: GEMINI_API_KEY environment variable is not set.");
+  const hfToken = process.env.HF_API_KEY || process.env.HF_TOKEN;
+  if (!hfToken) {
+    console.error("Error: HF_TOKEN or HF_API_KEY environment variable is not set.");
     process.exit(1);
   }
-
-  const ai = new GoogleGenAI({ apiKey });
 
   const prompt = `Create a high-quality Japanese language learning article optimized for English speakers.
 Level: Level ${nextLevel} (${levelName}).
@@ -153,56 +149,80 @@ JSON Structure Schema Required:
 }
 `;
 
-  console.log("Calling Gemini API to generate article contents...");
-  const response = await ai.models.generateContent({
-    model: "gemini-3.5-flash",
-    contents: prompt,
-    config: {
-      responseMimeType: "application/json",
+  console.log("Calling Hugging Face Inference API for text generation...");
+  const textRes = await fetch("https://api-inference.huggingface.co/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${hfToken}`,
+      "Content-Type": "application/json",
     },
+    body: JSON.stringify({
+      model: "Qwen/Qwen2.5-72B-Instruct",
+      messages: [
+        {
+          role: "system",
+          content: "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON."
+        },
+        {
+          role: "user",
+          content: prompt
+        }
+      ],
+      max_tokens: 4096,
+      temperature: 0.7,
+    }),
   });
 
-  const parsedArticle = JSON.parse(response.text || "{}") as Article & { imagePrompt?: string };
+  if (!textRes.ok) {
+    const errorText = await textRes.text();
+    throw new Error(`Hugging Face Text API returned status ${textRes.status}: ${errorText}`);
+  }
+
+  const textData = await textRes.json();
+  const textOutput = textData.choices?.[0]?.message?.content?.trim();
+  if (!textOutput) {
+    throw new Error("Hugging Face API returned an empty text completion.");
+  }
+
+  // Clean up code block formatting if LLM includes it
+  const cleanedJson = textOutput.replace(/^```json\s*/i, "").replace(/```$/, "").trim();
+  const parsedArticle = JSON.parse(cleanedJson) as Article & { imagePrompt?: string };
+
   if (!parsedArticle.id || !parsedArticle.title) {
     throw new Error("AI returned an invalid article structure.");
   }
 
-  // Ensure unique ID with timestamp just in case
+  // Ensure unique ID with timestamp
   const originalId = parsedArticle.id;
   parsedArticle.id = `${originalId.split("-").slice(0, 4).join("-")}-${Date.now()}`;
 
   // Call Hugging Face API to generate image
   const imagePrompt = parsedArticle.imagePrompt || `Vintage British newspaper illustration of ${topicHint}`;
-  const hfToken = process.env.HF_API_KEY || process.env.HF_TOKEN;
   let imageSavedPath = "";
 
-  if (hfToken) {
-    try {
-      console.log(`Calling Hugging Face API (FLUX.1-schnell) for prompt: "${imagePrompt}"...`);
-      const hfRes = await fetch("https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell", {
-        method: "POST",
-        headers: {
-          "Authorization": `Bearer ${hfToken}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ inputs: `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving` }),
-      });
+  try {
+    console.log(`Calling Hugging Face API (FLUX.1-schnell) for prompt: "${imagePrompt}"...`);
+    const hfRes = await fetch("https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell", {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${hfToken}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ inputs: `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving` }),
+    });
 
-      if (hfRes.ok) {
-        const buffer = await hfRes.arrayBuffer();
-        const fileName = `${parsedArticle.id}.jpg`;
-        const localPath = path.join(IMAGES_DIR, fileName);
-        fs.writeFileSync(localPath, Buffer.from(buffer));
-        imageSavedPath = `/images/${fileName}`;
-        console.log(`Saved Hugging Face image to: ${localPath}`);
-      } else {
-        console.warn("Hugging Face API returned non-200 status:", hfRes.status, hfRes.statusText);
-      }
-    } catch (err) {
-      console.error("Hugging Face API execution failed:", err);
+    if (hfRes.ok) {
+      const buffer = await hfRes.arrayBuffer();
+      const fileName = `${parsedArticle.id}.jpg`;
+      const localPath = path.join(IMAGES_DIR, fileName);
+      fs.writeFileSync(localPath, Buffer.from(buffer));
+      imageSavedPath = `/images/${fileName}`;
+      console.log(`Saved Hugging Face image to: ${localPath}`);
+    } else {
+      console.warn("Hugging Face API returned non-200 status:", hfRes.status, hfRes.statusText);
     }
-  } else {
-    console.warn("No Hugging Face token provided in env. Image generation will fall back to Unsplash.");
+  } catch (err) {
+    console.error("Hugging Face API execution failed:", err);
   }
 
   // Fallback to Unsplash if image wasn't saved
