@@ -7,25 +7,35 @@ import fs from "fs";
 import { createServer as createViteServer } from "vite";
 import { initialArticles } from "./src/data/initialArticles.ts";
 import { Article } from "./src/types.ts";
-import { OAuth2Client } from "google-auth-library";
+import admin from "firebase-admin";
 
 const app = express();
 const PORT = 3000;
 const ARTICLES_FILE = path.join(process.cwd(), "src/data/articles.json");
 
-const client = new OAuth2Client();
+const serviceAccountEnv = process.env.FIREBASE_SERVICE_ACCOUNT;
+if (serviceAccountEnv) {
+  try {
+    const serviceAccount = JSON.parse(serviceAccountEnv);
+    admin.initializeApp({
+      credential: admin.credential.cert(serviceAccount)
+    });
+    console.log("Firebase Admin initialized with service account credentials.");
+  } catch (err: any) {
+    console.error("Failed to parse FIREBASE_SERVICE_ACCOUNT JSON, fallback to default:", err.message);
+    admin.initializeApp();
+  }
+} else {
+  console.log("No FIREBASE_SERVICE_ACCOUNT found, using default Firebase Admin initialization.");
+  admin.initializeApp();
+}
 
 async function verifyGoogleToken(token: string): Promise<string | null> {
   try {
-    const clientId = process.env.VITE_GOOGLE_CLIENT_ID;
-    const ticket = await client.verifyIdToken({
-      idToken: token,
-      audience: clientId || undefined,
-    });
-    const payload = ticket.getPayload();
-    return payload?.email || null;
+    const decodedToken = await admin.auth().verifyIdToken(token);
+    return decodedToken.email || null;
   } catch (error) {
-    console.error("Token verification failed, attempting decode fallback:", error);
+    console.error("Firebase token verification failed, attempting decode fallback:", error);
     try {
       const payloadBase64 = token.split(".")[1];
       const decodedPayload = JSON.parse(Buffer.from(payloadBase64, "base64").toString("utf-8"));

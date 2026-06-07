@@ -6,6 +6,30 @@ import {
 } from "lucide-react";
 import { Article, PostItData } from "../types";
 
+import { initializeApp } from "firebase/app";
+import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
+
+const firebaseConfig = {
+  apiKey: (import.meta as any).env.VITE_FIREBASE_API_KEY,
+  authDomain: (import.meta as any).env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: (import.meta as any).env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: (import.meta as any).env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: (import.meta as any).env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: (import.meta as any).env.VITE_FIREBASE_APP_ID
+};
+
+let firebaseApp: any = null;
+let firebaseAuth: any = null;
+
+if (firebaseConfig.apiKey) {
+  try {
+    firebaseApp = initializeApp(firebaseConfig);
+    firebaseAuth = getAuth(firebaseApp);
+  } catch (err) {
+    console.error("Firebase client initialization failed:", err);
+  }
+}
+
 interface CmsDashboardProps {
   onBackToFeed: () => void;
   articles: Article[];
@@ -36,68 +60,34 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
   // Loading/Operation feedback
   const [editorialFeedback, setEditorialFeedback] = useState<string>("");
 
-  useEffect(() => {
-    if (isAdminLoggedIn) return;
-
-    // Load Google Identity Services script
-    const scriptId = "google-gsi-client";
-    let script = document.getElementById(scriptId) as HTMLScriptElement | null;
-    if (!script) {
-      script = document.createElement("script");
-      script.src = "https://accounts.google.com/gsi/client";
-      script.id = scriptId;
-      script.async = true;
-      script.defer = true;
-      document.body.appendChild(script);
+  const handleGoogleLogin = async () => {
+    if (!firebaseAuth) {
+      setAuthError("Firebase is not initialized. Please configure VITE_FIREBASE_API_KEY and other client keys in your .env file.");
+      return;
     }
-
-    const initializeGoogleSignIn = () => {
-      if (!(window as any).google) return;
-      const googleClientId = (import.meta as any).env.VITE_GOOGLE_CLIENT_ID;
-
-      (window as any).google.accounts.id.initialize({
-        client_id: googleClientId || "YOUR_GOOGLE_CLIENT_ID",
-        callback: async (response: any) => {
-          const credential = response.credential;
-          try {
-            const res = await fetch("/api/auth/verify", {
-              method: "POST",
-              headers: { "Content-Type": "application/json" },
-              body: JSON.stringify({ token: credential }),
-            });
-            if (res.ok) {
-              localStorage.setItem("nihongo_admin_token", credential);
-              setToken(credential);
-              setIsAdminLoggedIn(true);
-              setAuthError("");
-            } else {
-              const errData = await res.json();
-              setAuthError(errData.error || "Authentication failed.");
-            }
-          } catch (err: any) {
-            setAuthError(`Verification connection error: ${err.message}`);
-          }
-        }
+    const provider = new GoogleAuthProvider();
+    try {
+      const result = await signInWithPopup(firebaseAuth, provider);
+      const credential = await result.user.getIdToken();
+      
+      const res = await fetch("/api/auth/verify", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ token: credential }),
       });
-
-      const btnParent = document.getElementById("google-signin-btn");
-      if (btnParent) {
-        (window as any).google.accounts.id.renderButton(btnParent, {
-          theme: "outline",
-          size: "large",
-          type: "standard",
-        });
+      if (res.ok) {
+        localStorage.setItem("nihongo_admin_token", credential);
+        setToken(credential);
+        setIsAdminLoggedIn(true);
+        setAuthError("");
+      } else {
+        const errData = await res.json();
+        setAuthError(errData.error || "Authentication failed.");
       }
-    };
-
-    script.onload = () => {
-      initializeGoogleSignIn();
-    };
-
-    if ((window as any).google) {
-      initializeGoogleSignIn();
+    } catch (err: any) {
+      setAuthError(`Sign-in failed: ${err.message}`);
     }
-  }, [isAdminLoggedIn]);
+  };
 
   const handleLogout = () => {
     setIsAdminLoggedIn(false);
@@ -310,14 +300,20 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
               </div>
             )}
 
-            {!(import.meta as any).env.VITE_GOOGLE_CLIENT_ID && (
+            {!(import.meta as any).env.VITE_FIREBASE_API_KEY && (
               <div className="mb-4 p-3 bg-amber-50 border border-amber-300 rounded text-amber-950 text-xs font-sans text-left">
-                <strong>Config Required:</strong> Please set <code>VITE_GOOGLE_CLIENT_ID</code> and <code>ADMIN_EMAIL</code> in your <code>.env</code> file.
+                <strong>Config Required:</strong> Please set <code>VITE_FIREBASE_API_KEY</code> and other Firebase variables in your <code>.env</code> file.
               </div>
             )}
 
             <div className="flex justify-center py-4">
-              <div id="google-signin-btn"></div>
+              <button
+                onClick={handleGoogleLogin}
+                id="btn-google-login"
+                className="py-2.5 px-5 bg-white border border-cream-900 text-cream-900 font-serif font-bold text-sm hover:bg-cream-900 hover:text-white transition-colors flex items-center justify-center gap-2 shadow"
+              >
+                Sign In with Google Account
+              </button>
             </div>
           </motion.div>
         ) : (
