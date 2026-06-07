@@ -135,7 +135,7 @@ Analyze the Japanese contents (vocabulary, kana, romaji, example sentences, pron
 You must correct any errors you find.
 Return ONLY a valid JSON object matching the exact provided structure of the Article. Do not warp the structure, remove any fields or append Markdown outside the JSON.`;
 
-    const textRes = await fetch("https://api-inference.huggingface.co/v1/chat/completions", {
+    const textRes = await fetch("https://api-inference.huggingface.co/models/Qwen/Qwen2.5-72B-Instruct/v1/chat/completions", {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${hfToken}`,
