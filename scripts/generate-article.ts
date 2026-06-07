@@ -231,11 +231,41 @@ JSON Structure Schema Required:
 `;
 
   console.log("Calling Hugging Face Inference API for text generation...");
-  const parsedArticle = await callLLM(prompt, hfToken);
-
-  if (!parsedArticle.id || !parsedArticle.title) {
-    throw new Error("AI returned an invalid article structure.");
+  let parsedArticle: any;
+  try {
+    parsedArticle = await callLLM(prompt, hfToken);
+    if (!parsedArticle || !parsedArticle.id || !parsedArticle.title) {
+      throw new Error("AI returned an invalid article structure.");
+    }
+  } catch (error: any) {
+    console.warn("⚠️ Hugging Face LLM generation failed. Using local fallback templates...");
+    console.warn(`   Reason: ${error.message || error}`);
+    
+    // Load local templates
+    const templatesPath = path.join(process.cwd(), "scripts/fallback-templates.json");
+    if (!fs.existsSync(templatesPath)) {
+      throw new Error(`Fallback templates file missing at: ${templatesPath}`);
+    }
+    
+    const templatesData = JSON.parse(fs.readFileSync(templatesPath, "utf-8"));
+    const templatesForLevel = templatesData[String(nextLevel)];
+    
+    if (!templatesForLevel || templatesForLevel.length === 0) {
+      throw new Error(`No fallback templates found for Level ${nextLevel}`);
+    }
+    
+    // Pick a template randomly from the available ones
+    const selectedTemplate = templatesForLevel[Math.floor(Math.random() * templatesForLevel.length)];
+    
+    // Clone template so we don't mutate shared references
+    parsedArticle = JSON.parse(JSON.stringify(selectedTemplate));
   }
+
+  // Ensure dynamic attributes are synchronized with execution state
+  parsedArticle.level = nextLevel;
+  parsedArticle.levelName = levelName;
+  parsedArticle.timeOfDay = targetTime;
+  parsedArticle.publishedAt = publishedAt;
 
   // Ensure unique ID with timestamp
   const originalId = parsedArticle.id;
