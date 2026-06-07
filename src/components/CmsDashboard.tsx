@@ -52,10 +52,10 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
     }
 
     const initializeGoogleSignIn = () => {
-      if (!window.google) return;
-      const googleClientId = import.meta.env.VITE_GOOGLE_CLIENT_ID;
+      if (!(window as any).google) return;
+      const googleClientId = (import.meta as any).env.VITE_GOOGLE_CLIENT_ID;
 
-      window.google.accounts.id.initialize({
+      (window as any).google.accounts.id.initialize({
         client_id: googleClientId || "YOUR_GOOGLE_CLIENT_ID",
         callback: async (response: any) => {
           const credential = response.credential;
@@ -82,7 +82,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
 
       const btnParent = document.getElementById("google-signin-btn");
       if (btnParent) {
-        window.google.accounts.id.renderButton(btnParent, {
+        (window as any).google.accounts.id.renderButton(btnParent, {
           theme: "outline",
           size: "large",
           type: "standard",
@@ -94,7 +94,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
       initializeGoogleSignIn();
     };
 
-    if (window.google) {
+    if ((window as any).google) {
       initializeGoogleSignIn();
     }
   }, [isAdminLoggedIn]);
@@ -310,7 +310,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
               </div>
             )}
 
-            {!import.meta.env.VITE_GOOGLE_CLIENT_ID && (
+            {!(import.meta as any).env.VITE_GOOGLE_CLIENT_ID && (
               <div className="mb-4 p-3 bg-amber-50 border border-amber-300 rounded text-amber-950 text-xs font-sans text-left">
                 <strong>Config Required:</strong> Please set <code>VITE_GOOGLE_CLIENT_ID</code> and <code>ADMIN_EMAIL</code> in your <code>.env</code> file.
               </div>
