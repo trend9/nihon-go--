@@ -14,10 +14,12 @@ interface CmsDashboardProps {
 
 export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsDashboardProps) {
   // Authentication states
-  const [isAdminLoggedIn, setIsAdminLoggedIn] = useState<boolean>(() => {
-    return localStorage.getItem("nihongo_admin_authenticated") === "true";
+  const [token, setToken] = useState<string | null>(() => {
+    return localStorage.getItem("nihongo_admin_token");
   });
-  const [emailInput, setEmailInput] = useState<string>("");
+  const [isAdminLoggedIn, setIsAdminLoggedIn] = useState<boolean>(() => {
+    return !!localStorage.getItem("nihongo_admin_token");
+  });
   const [authError, setAuthError] = useState<string>("");
 
   // Article creation/edit states
@@ -34,28 +36,84 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
   // Loading/Operation feedback
   const [editorialFeedback, setEditorialFeedback] = useState<string>("");
 
-  // Handle Simulated Google Identity login (accepting mattan029@gmail.com)
-  const handleLogin = (e: FormEvent) => {
-    e.preventDefault();
-    if (emailInput.trim().toLowerCase() === "mattan029@gmail.com") {
-      setIsAdminLoggedIn(true);
-      setAuthError("");
-      localStorage.setItem("nihongo_admin_authenticated", "true");
-      localStorage.setItem("nihongo_admin_email", "mattan029@gmail.com");
-    } else {
-      setAuthError("Unauthorized email. Privileged access granted ONLY to mattan029@gmail.com.");
+  useEffect(() => {
+    if (isAdminLoggedIn) return;
+
+    // Load Google Identity Services script
+    const scriptId = "google-gsi-client";
+    let script = document.getElementById(scriptId) as HTMLScriptElement | null;
+    if (!script) {
+      script = document.createElement("script");
+      script.src = "https://accounts.google.com/gsi/client";
+      script.id = scriptId;
+      script.async = true;
+      script.defer = true;
+      document.body.appendChild(script);
     }
-  };
+
+    const initializeGoogleSignIn = () => {
+      if (!window.google) return;
+      const googleClientId = import.meta.env.VITE_GOOGLE_CLIENT_ID;
+
+      window.google.accounts.id.initialize({
+        client_id: googleClientId || "YOUR_GOOGLE_CLIENT_ID",
+        callback: async (response: any) => {
+          const credential = response.credential;
+          try {
+            const res = await fetch("/api/auth/verify", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ token: credential }),
+            });
+            if (res.ok) {
+              localStorage.setItem("nihongo_admin_token", credential);
+              setToken(credential);
+              setIsAdminLoggedIn(true);
+              setAuthError("");
+            } else {
+              const errData = await res.json();
+              setAuthError(errData.error || "Authentication failed.");
+            }
+          } catch (err: any) {
+            setAuthError(`Verification connection error: ${err.message}`);
+          }
+        }
+      });
+
+      const btnParent = document.getElementById("google-signin-btn");
+      if (btnParent) {
+        window.google.accounts.id.renderButton(btnParent, {
+          theme: "outline",
+          size: "large",
+          type: "standard",
+        });
+      }
+    };
+
+    script.onload = () => {
+      initializeGoogleSignIn();
+    };
+
+    if (window.google) {
+      initializeGoogleSignIn();
+    }
+  }, [isAdminLoggedIn]);
 
   const handleLogout = () => {
     setIsAdminLoggedIn(false);
-    localStorage.removeItem("nihongo_admin_authenticated");
-    localStorage.removeItem("nihongo_admin_email");
+    setToken(null);
+    localStorage.removeItem("nihongo_admin_token");
   };
 
-  const getAdminEmail = () => "mattan029@gmail.com";
+  const getAuthHeaders = () => {
+    const savedToken = localStorage.getItem("nihongo_admin_token") || token || "";
+    return {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${savedToken}`,
+    };
+  };
 
-  // Trigger server-side AI content writing
+  // Trigger server-side content writing
   const handleAiAutoGeneration = async () => {
     setIsGenerating(true);
     setEditorialFeedback("");
@@ -63,7 +121,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
     const steps = [
       "📜 Drafting pedagogical curriculum outline and custom grammar...",
       "🖌️ Composing situational dialogue and thumbtack post-its...",
-      "🎨 Prompting Hugging Face for vintage charcoal plate illustrations...",
+      "🎨 Generating vintage charcoal plate illustrations...",
       "🔍 Executing spelling verification and unicode corruption scan...",
       "📰 Proofing and packing column layout metadata..."
     ];
@@ -81,10 +139,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
     try {
       const res = await fetch("/api/generate-article", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "x-admin-email": getAdminEmail(),
-        },
+        headers: getAuthHeaders(),
         body: JSON.stringify({
           level: selectedLevel,
           topic: customTopic,
@@ -111,16 +166,13 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
     }
   };
 
-  // Trigger server-side AI Proofreading check (検品)
+  // Trigger server-side Proofreading check (検品)
   const handleAiProofreadCheck = async (article: Article) => {
     try {
       setEditorialFeedback(`Proofreading '${article.title}' for character issues...`);
       const res = await fetch("/api/check-article", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "x-admin-email": getAdminEmail(),
-        },
+        headers: getAuthHeaders(),
         body: JSON.stringify(article),
       });
 
@@ -129,10 +181,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
         // Save corrected article
         const saveRes = await fetch(`/api/articles/${article.id}`, {
           method: "PUT",
-          headers: {
-            "Content-Type": "application/json",
-            "x-admin-email": getAdminEmail(),
-          },
+          headers: getAuthHeaders(),
           body: JSON.stringify(corrected),
         });
 
@@ -143,7 +192,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
           setEditorialFeedback("Failed to update corrected article on disk.");
         }
       } else {
-        setEditorialFeedback("AI Verify check failed.");
+        setEditorialFeedback("Verify check failed.");
       }
     } catch (err: any) {
       setEditorialFeedback(`Error: ${err.message}`);
@@ -158,10 +207,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
     try {
       const res = await fetch(`/api/articles/${editingArticle.id}`, {
         method: "PUT",
-        headers: {
-          "Content-Type": "application/json",
-          "x-admin-email": getAdminEmail(),
-        },
+        headers: getAuthHeaders(),
         body: JSON.stringify(editingArticle),
       });
 
@@ -186,7 +232,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
       const res = await fetch(`/api/articles/${id}`, {
         method: "DELETE",
         headers: {
-          "x-admin-email": getAdminEmail(),
+          "Authorization": getAuthHeaders()["Authorization"],
         },
       });
 
@@ -254,7 +300,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
               Editor in Chief Access
             </h2>
             <p className="text-sm text-cream-900/60 font-serif mb-6 leading-relaxed">
-              Authenticate via Google Identity card. Credentials restricted to chief writer <span className="font-mono text-emerald-950 font-bold block bg-cream-200/50 px-1 py-0.5 mt-1 rounded">mattan029@gmail.com</span>
+              Authenticate via Google Identity account. Access is restricted to authorized editors.
             </p>
 
             {authError && (
@@ -264,35 +310,15 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
               </div>
             )}
 
-            <form onSubmit={handleLogin} className="space-y-4">
-              <div className="text-left space-y-1.5">
-                <label className="font-mono text-[10px] tracking-wider uppercase font-semibold text-cream-950">
-                  Google Account Email address
-                </label>
-                <div className="relative">
-                  <span className="absolute left-3 top-2.5 text-cream-900/40">
-                    <KeyRound className="w-4 h-4" />
-                  </span>
-                  <input
-                    type="email"
-                    required
-                    value={emailInput}
-                    onChange={(e) => setEmailInput(e.target.value)}
-                    id="admin-email-input"
-                    placeholder="mattan029@gmail.com"
-                    className="w-full bg-white border border-cream-900/30 px-9 py-2 text-sm rounded focus:ring-1 focus:ring-cream-900 focus:outline-none"
-                  />
-                </div>
+            {!import.meta.env.VITE_GOOGLE_CLIENT_ID && (
+              <div className="mb-4 p-3 bg-amber-50 border border-amber-300 rounded text-amber-950 text-xs font-sans text-left">
+                <strong>Config Required:</strong> Please set <code>VITE_GOOGLE_CLIENT_ID</code> and <code>ADMIN_EMAIL</code> in your <code>.env</code> file.
               </div>
+            )}
 
-              <button
-                type="submit"
-                id="btn-admin-submit"
-                className="w-full py-2.5 bg-cream-900 text-cream-50 font-serif font-semibold text-sm hover:bg-cream-950 border border-transparent transition-colors flex items-center justify-center gap-2 shadow"
-              >
-                Sign In as Administrator
-              </button>
-            </form>
+            <div className="flex justify-center py-4">
+              <div id="google-signin-btn"></div>
+            </div>
           </motion.div>
         ) : (
           
@@ -306,7 +332,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
             <div className="text-center py-6 border-b-4 border-double border-cream-900 mb-6">
               <div className="flex justify-between items-baseline mb-2 flex-wrap gap-2 text-xs font-mono font-bold text-cream-900/50">
                 <span>PRESS OFFICE: TOKYO-LONDON MATRIX</span>
-                <span>CHIEF WRITER: mattan029@gmail.com</span>
+                <span>CHIEF WRITER: Authorized Editor</span>
               </div>
               <h1 className="font-serif text-4xl sm:text-5xl font-extrabold tracking-tight text-cream-950">
                 nihon-go!! Editorial Suite
@@ -351,7 +377,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
                 }`}
               >
                 <span className="flex items-center gap-2">
-                  <Sparkles className="w-5 h-5 text-amber-700 font-bold" /> Gemini & HF Columnist
+                  <Sparkles className="w-5 h-5 text-amber-700 font-bold" /> Automated Columnist
                 </span>
               </button>
               <button
@@ -371,15 +397,15 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
             {/* TAB CONTENTS */}
             <div className="bg-cream-100 border-x border-b border-cream-900/20 p-6 sm:p-8 rounded-b-md shadow-inner">
               
-              {/* TAB 1: AI GENERATOR */}
+              {/* TAB 1: AUTOMATED GENERATOR */}
               {activeTab === "generator" && (
                 <div className="space-y-6">
                   <div className="max-w-2xl">
                     <h3 className="font-serif font-bold text-xl text-cream-950 mb-2 flex items-center gap-2">
-                      <Sparkles className="w-5 h-5 text-amber-600" /> Deploy Automatic Japanese Learning Article
+                      <Sparkles className="w-5 h-5 text-amber-600" /> Deploy Automated Japanese Learning Article
                     </h3>
                     <p className="text-sm font-serif text-cream-900/60 leading-relaxed mb-6">
-                      Trigger our server-side Gemini 3.5 content desk. It automatically structures a pedagogical Japanese lesson matching the target level, frames post-it notes with spoken pronunciation vectors, crafts interactive quizzes, and requests Hugging Face (or stable fallbacks) to etch a thematic newsprint illustration.
+                      Trigger our server-side curriculum generator. It automatically structures a pedagogical Japanese lesson matching the target level, frames post-it notes with spoken pronunciation vectors, crafts interactive quizzes, and etches a thematic newsprint illustration.
                     </p>
                   </div>
 
@@ -449,7 +475,7 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
                         id="btn-ai-generate"
                         className="px-6 py-3 bg-cream-900 text-cream-50 font-serif font-extrabold text-sm hover:bg-cream-950 transition-transform hover:scale-[1.02] flex items-center gap-2 shadow-md"
                       >
-                        <Sparkles className="w-4 h-4 text-amber-300" /> Print AI-Generated Issue (Gemini & HF)
+                        <Sparkles className="w-4 h-4 text-amber-300" /> Publish Automated Issue
                       </button>
                     )}
                   </div>
@@ -504,10 +530,10 @@ export function CmsDashboard({ onBackToFeed, articles, onRefreshArticles }: CmsD
                         <div className="flex flex-wrap gap-2 items-center sm:self-center">
                           <button
                             onClick={() => handleAiProofreadCheck(art)}
-                            title="Perform AI Proofread Check for Typos"
+                            title="Perform Proofread Check for Typos"
                             className="p-2 border border-emerald-900/20 text-emerald-800 rounded hover:bg-emerald-50 transition-colors flex items-center gap-1.5 font-sans font-bold text-xs"
                           >
-                            <CheckCircle className="w-3.5 h-3.5" /> AI Verify (検品)
+                            <CheckCircle className="w-3.5 h-3.5" /> Verify Draft (検品)
                           </button>
                           
                           <button

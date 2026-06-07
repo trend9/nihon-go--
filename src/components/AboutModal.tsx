@@ -64,17 +64,17 @@ export function AboutModal({ isOpen, onClose }: AboutModalProps) {
           </ul>
 
           <h3 className="font-serif font-bold text-lg text-cream-900 flex items-center gap-2 border-b border-cream-900/10 pb-1 mt-6">
-            <ShieldCheck className="w-5 h-5 text-emerald-700" /> Automated AI Verification Engine (EEAT)
+            <ShieldCheck className="w-5 h-5 text-emerald-700" /> Automated Verification Engine (EEAT)
           </h3>
           <p>
-            To support high publishing speed (5 times daily updates), we leverage a proprietary artificial intelligence validator powered by premium models. Every piece of prose is tested client-side and server-side to guarantee correct Hiragana/Katakana readings, accurate Romaji pronunciation paths, and verified translations, fulfilling the absolute highest educational standards.
+            To support high publishing speed (5 times daily updates), we leverage a proprietary automated verification engine. Every piece of prose is tested client-side and server-side to guarantee correct Hiragana/Katakana readings, accurate Romaji pronunciation paths, and verified translations, fulfilling the absolute highest educational standards.
           </p>
 
           <h3 className="font-serif font-bold text-lg text-cream-900 flex items-center gap-2 border-b border-cream-900/10 pb-1 mt-6">
             <Mail className="w-5 h-5 text-sky-800" /> Correspondence & Support
           </h3>
           <p>
-            For editorial advice, educational inquiries, or technical feedback, please address correspondence to: <strong className="font-mono">editorial-desk@nihon-go.org</strong> or contact our Chief Webmaster at <strong className="font-mono">mattan029@gmail.com</strong>.
+            For editorial advice, educational inquiries, or technical feedback, please address correspondence to: <strong className="font-mono">editorial-desk@nihon-go.org</strong> or contact our Chief Webmaster.
           </p>
         </div>
 

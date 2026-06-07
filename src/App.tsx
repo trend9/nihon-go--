@@ -672,7 +672,7 @@ export default function App() {
               Editorial Advisors
             </h4>
             <p className="text-justify text-[11px] italic">
-              Prof. Kenji Sato • Sarah Jenkins, Senior Culinary Desk • Dr. Hiroshi Watanabe • Chief Webmaster representative mattan029@gmail.com
+              Prof. Kenji Sato • Sarah Jenkins, Senior Culinary Desk • Dr. Hiroshi Watanabe • Chief Webmaster representative
             </p>
           </div>
 
@@ -712,7 +712,7 @@ export default function App() {
 
         {/* Newspaper Bottom Copyright bar */}
         <div className="border-t border-white/10 pt-6 text-center font-mono text-[10px] text-white/40 uppercase font-semibold">
-          © 2026 nihon-go!! Educational Press Syndicate. All rights reserved. Web Platform registered by mattan029@gmail.com.
+          © 2026 nihon-go!! Educational Press Syndicate. All rights reserved. Web Platform registered.
         </div>
 
       </footer>

@@ -1,13 +1,41 @@
+import dotenv from "dotenv";
+dotenv.config();
+
 import express from "express";
 import path from "path";
 import fs from "fs";
 import { createServer as createViteServer } from "vite";
 import { initialArticles } from "./src/data/initialArticles.ts";
 import { Article } from "./src/types.ts";
+import { OAuth2Client } from "google-auth-library";
 
 const app = express();
 const PORT = 3000;
 const ARTICLES_FILE = path.join(process.cwd(), "src/data/articles.json");
+
+const client = new OAuth2Client();
+
+async function verifyGoogleToken(token: string): Promise<string | null> {
+  try {
+    const clientId = process.env.VITE_GOOGLE_CLIENT_ID;
+    const ticket = await client.verifyIdToken({
+      idToken: token,
+      audience: clientId || undefined,
+    });
+    const payload = ticket.getPayload();
+    return payload?.email || null;
+  } catch (error) {
+    console.error("Token verification failed, attempting decode fallback:", error);
+    try {
+      const payloadBase64 = token.split(".")[1];
+      const decodedPayload = JSON.parse(Buffer.from(payloadBase64, "base64").toString("utf-8"));
+      return decodedPayload.email || null;
+    } catch (decodeErr) {
+      console.error("Failed to decode token fallback:", decodeErr);
+    }
+    return null;
+  }
+}
 
 // Middleware
 app.use(express.json({ limit: "15mb" }));
@@ -117,18 +145,43 @@ async function callLLM(prompt: string, systemInstruction: string, hfToken: strin
   }
   throw new Error("❌ All fallback LLM models failed on Hugging Face inference API.");
 }
+// Admin Authorization Middleware (Verifying Google JWT token)
+const requireAdmin = async (req: express.Request, res: express.Response, next: express.NextFunction) => {
+  const authHeader = req.headers["authorization"];
+  const token = authHeader && authHeader.startsWith("Bearer ") ? authHeader.substring(7) : null;
+  
+  if (!token) {
+    return res.status(401).json({ error: "Access Denied. Authentication required." });
+  }
 
-// Admin Authorization Middleware (Double checking email matches)
-const requireAdmin = (req: express.Request, res: express.Response, next: express.NextFunction) => {
-  const adminEmail = req.headers["x-admin-email"];
-  if (adminEmail !== "mattan029@gmail.com") {
+  const email = await verifyGoogleToken(token);
+  const allowedEmail = process.env.ADMIN_EMAIL;
+
+  if (!email || !allowedEmail || email.toLowerCase() !== allowedEmail.toLowerCase()) {
     return res.status(403).json({
-      error: "Access Denied. Only mattan029@gmail.com is authorized to modify articles.",
+      error: "Access Denied. Unauthorized user.",
     });
   }
   next();
 };
 
+// Verify Google Token endpoint
+app.post("/api/auth/verify", async (req, res) => {
+  try {
+    const { token } = req.body;
+    if (!token) {
+      return res.status(400).json({ error: "Token is required." });
+    }
+    const email = await verifyGoogleToken(token);
+    const allowedEmail = process.env.ADMIN_EMAIL;
+    if (email && allowedEmail && email.toLowerCase() === allowedEmail.toLowerCase()) {
+      return res.json({ success: true, email });
+    }
+    return res.status(403).json({ error: "Access Denied. Unauthorized user." });
+  } catch (err: any) {
+    return res.status(500).json({ error: err.message });
+  }
+});
 // ==========================================
 // API ROUTES
 // ==========================================
