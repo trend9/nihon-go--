@@ -1,0 +1,6 @@
+{
+  "name": "nihon-go!!",
+  "description": "Automatic Japanese learning platform with UK newspaper style layout, customizable levels, CMS editing, AI-powered checks, and daily publication intervals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

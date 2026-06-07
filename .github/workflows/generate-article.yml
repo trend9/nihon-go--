@@ -1,0 +1,52 @@
+name: Periodic Japanese Article Generator
+
+on:
+  schedule:
+    # Run every 3 hours to match "Delivered Every 3 Hours"
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+jobs:
+  generate-article:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Essential permission to commit and push changes back to main
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-cache: 'npm'
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Article Generator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: npx tsx scripts/generate-article.ts
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the generated image assets and the updated database JSON
+          git add src/data/articles.json
+          git add public/images/ || true
+          
+          # Commit only if there are changes
+          if git diff --staged --quiet; then
+            echo "No new article generated or changed."
+          else
+            git commit -m "Auto-generate: New daily Japanese article and vintage illustration [skip ci]"
+            git push origin main
+          fi

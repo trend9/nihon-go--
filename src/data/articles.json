@@ -1,0 +1,283 @@
+[
+  {
+    "id": "level1-good-morning-tokyo-greetings",
+    "title": "Good Morning, Tokyo! Master Essential Japanese Greetings",
+    "subtitle": "The editorial desk explores the subtle distinction between casual and formal morning exchanges.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learn how to greet people appropriately in Tokyo of the morning. Understand formal vs informal greetings with interactive post-it cards.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&q=80&w=800",
+    "thumbnailAlt": "A misty morning view of iconic Tokyo Tower in sepia tones, evoking a classic print news photo.",
+    "byline": "By Kenji Sato, Language Desk",
+    "introduction": "In the bustling streets of Tokyo, the dawn of a new day brings a wave of polite chatter. For those stepping onto Japanese soil for the first time, mastering the morning greeting is your golden key to local warmth. But beware: using the wrong level of formality with your boss could cause raised eyebrows.",
+    "grammarExplanation": "In Japanese, social hierarchy and distance dictate how we speak. Greetings are no exception! While 'Ohayou' is perfect for family and friends, you must append 'Gozaimasu' to show respect to superiors, teachers, or shop staff. The suffix adds a layer of formal politeness, reflecting the mutual respect central to Japanese society.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: おはよう",
+        "japanese": "おはよう",
+        "kana": "おはよう",
+        "romaji": "ohayou",
+        "english": "Good morning (Casual)",
+        "explanation": "Used among close friends, classmates, and family members. It literally stems from 'hayai' (early).",
+        "exampleJp: "ゆうと、おはよう！よく眠れた？",
+        "exampleEn": "Morning Yuto! Did you sleep well?",
+        "tip": "Pronunciation note: Keep the 'o' sounds clear and do not drop the ending 'u' entirely—it elongates the 'yo'."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: おはようございます",
+        "japanese": "おはようございます",
+        "kana": "おはようございます",
+        "romaji": "ohayou gozaimasu",
+        "english": "Good morning (Formal)",
+        "explanation": "Appropriate for workplace superiors, strangers, or elders. 'Gozaimasu' is a polite form of 'to be'.",
+        "exampleJp": "部長、おはようございます。今日の資料です。",
+        "exampleEn": "Good morning, Director. Here are today's documents.",
+        "tip": "Note: In rapid conversations, the final 'u' in 'gozaimasu' is often silent. It sounds like 'gozaimas'."
+      }
+    ],
+    "culturalInsight": "THE SHACKLES OF FORMALITY\nUnlike Western languages where 'good morning' can be said universally, Japanese wraps greetings in social code. Leaving off 'Gozaimasu' in a business setting can imply you view yourself as equal or superior to your client. When in doubt, always default to the longer, formal form to maintain harmony (Wa).",
+    "quiz": {
+      "question": "Which morning greeting is most appropriate when addressing a Japanese coworker who is older than you?",
+      "options": [
+        "Ohayou (おはよう)",
+        "Ohayou Gozaimasu (おはようございます)",
+        "Konnichiwa (こんにちは)",
+        "Yaa (やあ)"
+      ],
+      "answerIndex": 1,
+      "explanation": "Since the coworker is older, showing respect through the formal greeting 'Ohayou Gozaimasu' is highly recommended to preserve workplace harmony."
+    },
+    "schemaMarkup": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"TechArticle\",\n  \"headline\": \"Good Morning, Tokyo! Master Essential Japanese Greetings\",\n  \"alternativeHeadline\": \"An editorial analysis of morning etiquette and social hierarchy in Japan.\",\n  \"image\": \"https://images.unsplash.com/photo-1503899036084-c55cdd92da26\",\n  \"author\": \"Kenji Sato\",\n  \"genre\": \"Education\",\n  \"keywords\": \"Japanese Greetings, Ohayou Gozaimasu, Morning etiquette\",\n  \"publisher\": \"nihon-go!!\"\n}",
+    "isVerified": true
+  },
+  {
+    "id": "level2-art-of-ordering-ramen",
+    "title": "The Art of Ordering Ramen: Simple Sentence Assembly",
+    "subtitle": "A step-by-step culinary and grammatical guide to securing your perfect piping bowl of noodles.",
+    "level": 2,
+    "levelName": "Level 2: Basic / Elementary",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to use Japanese particles and noun phrases to order food like a local. Guide to ordering ramen using '... o kudasai'.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&q=80&w=800",
+    "thumbnailAlt": "A piping hot bowl of Japanese shoyu ramen, styled with charcoal contrasts, giving an artisanal print feel.",
+    "byline": "By Sarah Jenkins, Culinary Desk",
+    "introduction": "As the clock ticks past eleven, the aroma of simmering pork broth triggers hunger across Tokyo's narrow alleys. Stepping into a ramen shop is an immersive sensory experience. Armed with the phrase '... o kudasai' (Please give me ...), you can conquer any ticket machine or counter service.",
+    "grammarExplanation": "The structure is simple: [Noun] + を (particle 'o') + ください (kudasai). The particle を operates as the direct object marker, indicating that the preceding noun is the item you are requesting. 'Kudasai' is the polite imperative expression for 'please give me'. For multiple items, append the quantity after the noun: [Noun] + [Quantity] + をください.",
+    "postIts": [
+      {
+        "id": "p3",
+        "color": "pink",
+        "title": "Vocabulary: ラーメン",
+        "japanese": "ラーメン",
+        "kana": "らーめん",
+        "romaji": "raamen",
+        "english": "Ramen",
+        "explanation": "Japanese wheat noodles served in meat or fish-based broth, often flavored with soy sauce or miso.",
+        "exampleJp": "しょうゆラーメンを一つください。",
+        "exampleEn": "Please give me one Soy Sauce Ramen.",
+        "tip": "Ramen is written in Katakana because it originated in China before evolving into a domestic masterpiece."
+      },
+      {
+        "id": "p4",
+        "color": "green",
+        "title": "Grammar: ~をください",
+        "japanese": "をください",
+        "kana": "をください",
+        "romaji": "o kudasai",
+        "english": "Please give me...",
+        "explanation": "Polite request pattern. Use it to order items at a restaurant or purchase products at a register.",
+        "exampleJp": "お水を一杯ください。",
+        "exampleEn": "Please give me a glass of water."
+      }
+    ],
+    "culturalInsight": "TICKET VENDING MACHINES\nIn modern ramen shops, you'll often encounter a 'Shokkenki' (food ticket machine) at the entrance. Even so, when handing the ticket to the chef behind the counter, it is common and polite to say: 'Onegai shimasu' (I leave it in your care) or simply 'Miso ramen, kudasai' to indicate your preference.",
+    "quiz": {
+      "question": "Which of the following is the correct Japanese phrase to request 'one bowl of ramen' politely?",
+      "options": [
+        "Ramen o kudasai (ラーメンをください)",
+        "Ramen ohayou (ラーメンおはよう)",
+        "Ramen ga suki (ラーメンが好き)",
+        "Ramen taberu (ラーメン食べる)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Using '[Noun] + o kudasai' is the standard polite request formula. Option 0 translates exactly to 'Ramen, please'."
+    },
+    "schemaMarkup": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"HowTo\",\n  \"name\": \"How to Order Ramen in Japan\",\n  \"description\": \"A guide to ordering food at Japanese diners using the particle 'o' and request 'kudasai'.\",\n  \"step\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Select your menu item, such as Ramen (ラーメン).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Address the counter chef or waiter and append the direct object particle o (を).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"End with the polite request verb kudasai (ください).\"\n    }\n  ]\n}",
+    "isVerified": true
+  },
+  {
+    "id": "level3-expressing-intentions-and-desires",
+    "title": "Expressing Intentions: The '-tai' Desiderative Form",
+    "subtitle": "Moving beyond basic requests to express personal wishes, goals, and travel dreams.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to conjugate Japanese verbs into the -tai form to express a personal desire ('want to do'). Intermediate grammar with post-its.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&q=80&w=800",
+    "thumbnailAlt": "The traditional temples of Kyoto surrounded by autumn foliage, rendered in high contrast block-print styling.",
+    "byline": "By Takeshi Hayashi, Grammar Desk",
+    "introduction": "As the afternoon light bathes historic shrines in a golden glow, intermediate learners find themselves wanting to describe more than just immediate objects. You want to describe experiences: 'I want to visit Kyoto,' 'I want to drink matcha tea.' Welcome to the world of the '-tai' desiderative adjective suffix.",
+    "grammarExplanation": "To express 'I want to [do a verb]', conjugate the verb to the polite '-masu' stem and replace 'masu' with '-tai'. For example: taberu (to eat) -> tabemasu -> tabetai (want to eat). Once conjugated in the -tai form, the verb behaves grammatically like an i-adjective (meaning it conjugates like an adjective for negatives or past tense: tabetaku nai = do not want to eat). To make it polite, simply append 'desu': 'Tabetai desu'.",
+    "postIts": [
+      {
+        "id": "p5",
+        "color": "yellow",
+        "title": "Verb Conjugation: 行きたい",
+        "japanese": "行きたい",
+        "kana": "いきたい",
+        "romaji": "ikitai",
+        "english": "Want to go",
+        "explanation": "Derived from 'iku' (to go) -> polite form 'ikimasu' -> drop 'masu' and add 'tai'.",
+        "exampleJp": "いつか京都の伝統的なお寺に行きたいです。",
+        "exampleEn": "I want to go to traditional temples in Kyoto someday.",
+        "tip": "Particle tip: In '-tai' forms, you can mark the target object with either を (o) or が (ga). が emphasizes the target of your desire."
+      },
+      {
+        "id": "p6",
+        "color": "pink",
+        "title": "Vocabulary: 表明する",
+        "japanese": "表明する",
+        "kana": "ひょうめいする",
+        "romaji": "hyoumei suru",
+        "english": "To express / state",
+        "explanation": "A high-frequency Sino-Japanese verb (Suru-verb) used when officially declaring intentions, feelings, or policies.",
+        "exampleJp": "自分の意思を日本語で表明したいです。",
+        "exampleEn": "I want to express my intentions in Japanese."
+      }
+    ],
+    "culturalInsight": "DESIRES OF OTHERS\nCrucial Rule: The -tai form can ONLY be used for first-person desires ('I want to'). Since Japanese culture considers it impossible to know a third person's mind with absolute certainty, you cannot say 'He wants to go' using -tai. For third parties, use suffix patterns like '-tagatte iru' or indirect expressions.",
+    "quiz": {
+      "question": "How do you conjugate the verb Nomu (のむ - to drink) to say 'I want to drink' politely?",
+      "options": [
+        "Nomitai desu (のみたいです)",
+        "Nomu kudasai (のむください)",
+        "Nomasu tai desu (のましますたいです)",
+        "Nomu desu (のむです)"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Nomu' is a Class 1 (U-type) verb. Its stem is 'nomi'. Replacing 'masu' with 'tai' yields 'nomitai'. Adding 'desu' creates the polite 'Nomitai desu'."
+    },
+    "schemaMarkup": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"Expressing Intentions: The '-tai' Desiderative Form\",\n  \"author\": \"Takeshi Hayashi\",\n  \"datePublished\": \"2026-06-07\",\n  \"description\": \"Technical verb-conjugation framework for third-person desires and first-person assertions in conversational Japanese.\"\n}",
+    "isVerified": true
+  },
+  {
+    "id": "level4-conditional-proposals-tara",
+    "title": "Navigating Workplace Scenarios: The 'たら' (tara) Conditional",
+    "subtitle": "A logical deep dive into proposal parameters, contingency clauses, and office ethics.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learn how to use the 'たら' (tara) conditional suffix in business Japanese settings to propose terms and discuss contingent outcomes.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&q=80&w=800",
+    "thumbnailAlt": "A neon-lit Tokyo office street illuminated in rainy reflection, high artistic print contrast.",
+    "byline": "By Akiko Tanaka, Business Desk",
+    "introduction": "As evening rain sweeps across Shibuya, glowing office windows frame late-night project strategy. For those operating within Japanese corporate environments, handling contingencies with tactical precision is mandatory. To say 'If X occurs, we will do Y,' you require the command of the robust '-tara' conditional form.",
+    "grammarExplanation": "The '-tara' conditional is created by taking the past tense of a verb or adjective (the 'ta' form) and adding '-ra'. For example: suru (to do) -> shita (past) -> shitara (if/when we do). Unlike other conditionals (to,ba,nara), '-tara' places a chronological sequence where the first action must end before the second can occur. It is highly versatile, supporting commands, requests, and future speculations.",
+    "postIts": [
+      {
+        "id": "p7",
+        "color": "blue",
+        "title": "Work Syntax: 終わったら",
+        "japanese": "終わったら",
+        "kana": "おわったら",
+        "romaji": "owattara",
+        "english": "If/when you finish",
+        "explanation": "Formed from owaru (終わる - to finish) -> past tense 'owatta' + 'ra'. Expresses sequence confirmation.",
+        "exampleJp": "会議が終わったら、議事録を共有していただけますか？",
+        "exampleEn": "Could you share the minutes once the meeting ends?",
+        "tip": "Etiquette note: When checking in with colleagues, placing your request behind a 'tara' clause softens the directive into a polite sequence."
+      },
+      {
+        "id": "p8",
+        "color": "green",
+        "title": "Vocabulary: 相談する",
+        "japanese": "相談する",
+        "kana": "そうだんする",
+        "romaji": "soudan suru",
+        "english": "To consult / discuss",
+        "explanation": "A core element of Hou-Ren-So (Report-Contact-Consult), the famous Japanese business workflow.",
+        "exampleJp": "問題が発生したら、すぐに上司に相談してください。",
+        "exampleEn": "If any problem occurs, please consult your supervisor immediately."
+      }
+    ],
+    "culturalInsight": "HOU-REN-SO (REPORT, INQUIRE, CONSULT)\nIn standard Japanese corporate culture, keeping superiors inside a closed communication loop is imperative. Using conditionals like 'shitara' to clarify who you will inform or consult when structural hitches occur shows readiness and high corporate literacy.",
+    "quiz": {
+      "question": "Which of the following creates the correct conditional clause meaning 'If/when it rains' using 'Furu' (ふる - to fall)?",
+      "options": [
+        "Futtara (ふったら)",
+        "Furutara (ふるたら)",
+        "Fureba (ふれば)",
+        "Furinasara (ふりなさら)"
+      ],
+      "answerIndex": 0,
+      "explanation": "To convert Class 1 'Furu' into past form, it undergoes a geminate consonant shift: 'futta'. Appending 'ra' yields 'futtara'. Option 0 is correct."
+    },
+    "schemaMarkup": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"Navigating Workplace Scenarios: The 'たら' (tara) Conditional\",\n  \"author\": \"Akiko Tanaka\",\n  \"publisher\": \"nihon-go!!\",\n  \"description\": \"Syntactic structures and situational execution parameters for the Japanese conditional suffix -tara.\"\n}",
+    "isVerified": true
+  },
+  {
+    "id": "level5-philosophical-aesthetics-wabi-sabi",
+    "title": "The Silent Canvas: Wabi-Sabi and Passive/Descriptive Elegance",
+    "subtitle": "An advanced syntactic exploration of impermanence and subtle linguistic shade.",
+    "level": 5,
+    "levelName": "Level 5: Advanced",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Explore the philosophy of Japanese aesthetics (wabi-sabi) through advanced descriptive passive voice and delicate transitive structures.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1542931287-023b922fa89b?auto=format&fit=crop&q=80&w=800",
+    "thumbnailAlt": "A stone lantern illuminated in a serene charcoal Zen garden, deep artistic contrast.",
+    "byline": "By Dr. Hiroshi Watanabe, Aesthetics Bureau",
+    "introduction": "As midnight settles over quiet stone courtyards, Japanese aesthetics manifest a quiet grace known as Wabi-Sabi—the appreciation of beauty in the imperfect, impermanent, and incomplete. To articulate these deep traditional aesthetics, simple declarative nouns fail. We must delve into advanced grammar, passive descriptions, and nuanced expressions of indirect impact.",
+    "grammarExplanation": "Advanced descriptive Japanese relies on the suffering passive ('Meiwaku Ukemi') and the passive-of-spontaneity ('Jihatsu'). Jihatsu involves verbs of thinking or feeling (such as omou, kanjiru) conjugated into the passive form (e.g., omowareru, shinobareru) to show that a feeling arises naturally, spontaneously, and politely without conscious force, evoking an elegant sense of restraint. Meanwhile, combining passive patterns with 'te-iku' or 'te-kuru' describes slow, organic historical shifts.",
+    "postIts": [
+      {
+        "id": "p9",
+        "color": "pink",
+        "title": "Aesthetics: 偲ばれる",
+        "japanese": "偲ばれる",
+        "kana": "しのばれる",
+        "romaji": "shinobareru",
+        "english": "To be spontaneously reminiscent of / bring to mind",
+        "explanation": "Passive-of-spontaneity (Jihatsu). Expresses that memories or appreciation arise naturally upon observing an object.",
+        "exampleJp": "苔むした石段に、歳月の儚さが偲ばれる。",
+        "exampleEn": "The moss-covered stone steps spontaneously remind the observer of the fragility of time.",
+        "tip": "Grammatical nuance: By taking the active verb 'shinobu' (to remember fondly) and framing it in the passive 'shinobareru', the subject's ego is submerged. It fits the understated nature of zen."
+      },
+      {
+        "id": "p10",
+        "color": "yellow",
+        "title": "Vocabulary: 醸し出す",
+        "japanese": "醸し出す",
+        "kana": "かもしだす",
+        "romaji": "かもしだす",
+        "english": "To brew / exude / generate (an atmosphere)",
+        "explanation": "Literally meaning to brew saké. Grammatically used in advanced writing to indicate a subtle, slow generation of a distinct aura.",
+        "exampleJp": "そのひび割れた茶碗は、静寂な美を醸し出している。",
+        "exampleEn": "That cracked teacup exudes a serene beauty."
+      }
+    ],
+    "culturalInsight": "THE SHUNNING OF SYMMETRY\nIn traditional Western arts, symmetry represents perfection and divinity. In Japanese Zen and Shinto-influenced design, absolute symmetry is rejected as sterile. A cracked bowl repaired with gold powder (Kintsugi) exudes 'Wabi-Sabi' because its scars are not concealed, but rather contextualized into its narrative.",
+    "quiz": {
+      "question": "Which term represents the spontaneous verbal pattern indicating feelings rising naturally without direct intent?",
+      "options": [
+        "Jihatsu (自発)",
+        "Meiwaku Ukemi (迷惑受身)",
+        "She-eki (使役)",
+        "Keigo (敬語)"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Jihatsu' (自発) translates literally to 'spontaneous generation' and describes verbs of emotion or thinking behaving passively to show natural emergence."
+    },
+    "schemaMarkup": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ScholarlyArticle\",\n  \"headline\": \"The Silent Canvas: Wabi-Sabi and Passive/Descriptive Elegance\",\n  \"author\": \"Dr. Hiroshi Watanabe\",\n  \"genre\": \"Aesthetics\",\n  \"about\": \"Zen philosophy, passive spontaneity\"\n}",
+    "isVerified": true
+  }
+]
