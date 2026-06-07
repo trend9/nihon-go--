@@ -42,6 +42,71 @@ let inMemoryArticles = loadArticles();
 
 const getHfToken = () => process.env.HF_API_KEY || process.env.HF_TOKEN;
 
+// Fallback LLM Models on Hugging Face Serverless (via router.huggingface.co)
+const LLM_MODELS = [
+  "Qwen/Qwen2.5-72B-Instruct",
+  "meta-llama/Llama-3.3-70B-Instruct",
+  "meta-llama/Meta-Llama-3-8B-Instruct",
+  "mistralai/Mistral-7B-Instruct-v0.3"
+];
+
+const HF_LLM_URL = "https://router.huggingface.co/v1/chat/completions";
+
+async function callLLM(prompt: string, systemInstruction: string, hfToken: string): Promise<any> {
+  for (const model of LLM_MODELS) {
+    console.log(`🤖 Using LLM model: ${model}...`);
+    try {
+      const response = await fetch(HF_LLM_URL, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${hfToken}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          model: model,
+          messages: [
+            {
+              role: "system",
+              content: systemInstruction
+            },
+            {
+              role: "user",
+              content: prompt
+            }
+          ],
+          temperature: 0.8,
+          max_tokens: 3000
+        })
+      });
+
+      if (!response.ok) {
+        const errText = await response.text();
+        throw new Error(`HTTP ${response.status}: ${errText}`);
+      }
+
+      const data = await response.json();
+      const content = data.choices?.[0]?.message?.content;
+      if (!content) {
+        throw new Error("Empty content returned from model.");
+      }
+
+      // Robust JSON extraction
+      let jsonText = content.trim();
+      const jsonStart = jsonText.indexOf('{');
+      const jsonEnd = jsonText.lastIndexOf('}');
+      if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+        jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+      }
+      return JSON.parse(jsonText);
+    } catch (error: any) {
+      console.warn(`⚠️ Model ${model} failed:`, error.message);
+      // Wait briefly before trying next model
+      await new Promise(resolve => setTimeout(resolve, 3000));
+    }
+  }
+  throw new Error("❌ All fallback LLM models failed on Hugging Face inference API.");
+}
+
 // Admin Authorization Middleware (Double checking email matches)
 const requireAdmin = (req: express.Request, res: express.Response, next: express.NextFunction) => {
   const adminEmail = req.headers["x-admin-email"];
@@ -135,36 +200,7 @@ Analyze the Japanese contents (vocabulary, kana, romaji, example sentences, pron
 You must correct any errors you find.
 Return ONLY a valid JSON object matching the exact provided structure of the Article. Do not warp the structure, remove any fields or append Markdown outside the JSON.`;
 
-    const textRes = await fetch("https://router.huggingface.co/hf-inference/models/mistralai/Mistral-7B-Instruct-v0.3/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${hfToken}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        model: "mistralai/Mistral-7B-Instruct-v0.3",
-        messages: [
-          { role: "system", content: systemInstruction },
-          { role: "user", content: JSON.stringify(article) }
-        ],
-        max_tokens: 4096,
-        temperature: 0.2,
-      }),
-    });
-
-    if (!textRes.ok) {
-      const errorText = await textRes.text();
-      return res.status(500).json({ error: `Hugging Face API error: ${errorText}` });
-    }
-
-    const textData = await textRes.json();
-    const textOutput = textData.choices?.[0]?.message?.content?.trim();
-    if (!textOutput) {
-      return res.status(500).json({ error: "Empty response from Hugging Face API" });
-    }
-
-    const cleanedJson = textOutput.replace(/^```json\s*/i, "").replace(/```$/, "").trim();
-    const parsedData = JSON.parse(cleanedJson);
+    const parsedData = await callLLM(JSON.stringify(article), systemInstruction, hfToken);
     parsedData.isVerified = true;
     res.json(parsedData);
   } catch (err: any) {
@@ -244,43 +280,9 @@ JSON Structure Schema Required:
       return res.status(500).json({ error: "HF_TOKEN / HF_API_KEY environment variable is not configured." });
     }
 
-    console.log("Calling Hugging Face Inference API for text generation...");
-    const textRes = await fetch("https://router.huggingface.co/hf-inference/models/mistralai/Mistral-7B-Instruct-v0.3/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${hfToken}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        model: "mistralai/Mistral-7B-Instruct-v0.3",
-        messages: [
-          {
-            role: "system",
-            content: "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON."
-          },
-          {
-            role: "user",
-            content: prompt
-          }
-        ],
-        max_tokens: 4096,
-        temperature: 0.7,
-      }),
-    });
+    const systemInstruction = "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON.";
 
-    if (!textRes.ok) {
-      const errorText = await textRes.text();
-      return res.status(500).json({ error: `Hugging Face Text API returned status ${textRes.status}: ${errorText}` });
-    }
-
-    const textData = await textRes.json();
-    const textOutput = textData.choices?.[0]?.message?.content?.trim();
-    if (!textOutput) {
-      return res.status(500).json({ error: "Empty response from Hugging Face API" });
-    }
-
-    const cleanedJson = textOutput.replace(/^```json\s*/i, "").replace(/```$/, "").trim();
-    const parsedArticle = JSON.parse(cleanedJson) as any;
+    const parsedArticle = await callLLM(prompt, systemInstruction, hfToken);
 
     if (!parsedArticle.id || !parsedArticle.title) {
       throw new Error("AI returned an invalid article structure.");

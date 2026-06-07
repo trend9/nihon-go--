@@ -34,6 +34,73 @@ function saveArticles(articles: Article[]) {
   }
 }
 
+// Fallback LLM Models on Hugging Face Serverless (via router.huggingface.co)
+const LLM_MODELS = [
+  "Qwen/Qwen2.5-72B-Instruct",
+  "meta-llama/Llama-3.3-70B-Instruct",
+  "meta-llama/Meta-Llama-3-8B-Instruct",
+  "mistralai/Mistral-7B-Instruct-v0.3"
+];
+
+const FLUX_MODEL = "black-forest-labs/FLUX.1-schnell";
+const HF_LLM_URL = "https://router.huggingface.co/v1/chat/completions";
+const HF_IMAGE_URL = (model: string) => `https://router.huggingface.co/hf-inference/models/${model}`;
+
+async function callLLM(prompt: string, hfToken: string): Promise<any> {
+  for (const model of LLM_MODELS) {
+    console.log(`🤖 Using LLM model: ${model}...`);
+    try {
+      const response = await fetch(HF_LLM_URL, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${hfToken}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          model: model,
+          messages: [
+            {
+              role: "system",
+              content: "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON."
+            },
+            {
+              role: "user",
+              content: prompt
+            }
+          ],
+          temperature: 0.8,
+          max_tokens: 3000
+        })
+      });
+
+      if (!response.ok) {
+        const errText = await response.text();
+        throw new Error(`HTTP ${response.status}: ${errText}`);
+      }
+
+      const data = await response.json();
+      const content = data.choices?.[0]?.message?.content;
+      if (!content) {
+        throw new Error("Empty content returned from model.");
+      }
+
+      // Robust JSON extraction
+      let jsonText = content.trim();
+      const jsonStart = jsonText.indexOf('{');
+      const jsonEnd = jsonText.lastIndexOf('}');
+      if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+        jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+      }
+      return JSON.parse(jsonText);
+    } catch (error: any) {
+      console.warn(`⚠️ Model ${model} failed:`, error.message);
+      // Wait briefly before trying next model
+      await new Promise(resolve => setTimeout(resolve, 3000));
+    }
+  }
+  throw new Error("❌ All fallback LLM models failed on Hugging Face inference API.");
+}
+
 async function generate() {
   const articles = loadArticles();
   if (articles.length === 0) {
@@ -150,43 +217,7 @@ JSON Structure Schema Required:
 `;
 
   console.log("Calling Hugging Face Inference API for text generation...");
-  const textRes = await fetch("https://router.huggingface.co/hf-inference/models/mistralai/Mistral-7B-Instruct-v0.3/v1/chat/completions", {
-    method: "POST",
-    headers: {
-      "Authorization": `Bearer ${hfToken}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      model: "mistralai/Mistral-7B-Instruct-v0.3",
-      messages: [
-        {
-          role: "system",
-          content: "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON."
-        },
-        {
-          role: "user",
-          content: prompt
-        }
-      ],
-      max_tokens: 4096,
-      temperature: 0.7,
-    }),
-  });
-
-  if (!textRes.ok) {
-    const errorText = await textRes.text();
-    throw new Error(`Hugging Face Text API returned status ${textRes.status}: ${errorText}`);
-  }
-
-  const textData = await textRes.json();
-  const textOutput = textData.choices?.[0]?.message?.content?.trim();
-  if (!textOutput) {
-    throw new Error("Hugging Face API returned an empty text completion.");
-  }
-
-  // Clean up code block formatting if LLM includes it
-  const cleanedJson = textOutput.replace(/^```json\s*/i, "").replace(/```$/, "").trim();
-  const parsedArticle = JSON.parse(cleanedJson) as Article & { imagePrompt?: string };
+  const parsedArticle = await callLLM(prompt, hfToken);
 
   if (!parsedArticle.id || !parsedArticle.title) {
     throw new Error("AI returned an invalid article structure.");
@@ -202,7 +233,7 @@ JSON Structure Schema Required:
 
   try {
     console.log(`Calling Hugging Face API (FLUX.1-schnell) for prompt: "${imagePrompt}"...`);
-    const hfRes = await fetch("https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell", {
+    const hfRes = await fetch(HF_IMAGE_URL(FLUX_MODEL), {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${hfToken}`,
