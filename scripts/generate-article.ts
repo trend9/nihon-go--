@@ -150,14 +150,14 @@ JSON Structure Schema Required:
 `;
 
   console.log("Calling Hugging Face Inference API for text generation...");
-  const textRes = await fetch("https://router.huggingface.co/hf-inference/models/Qwen/Qwen2.5-72B-Instruct/v1/chat/completions", {
+  const textRes = await fetch("https://router.huggingface.co/hf-inference/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions", {
     method: "POST",
     headers: {
       "Authorization": `Bearer ${hfToken}`,
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "Qwen/Qwen2.5-72B-Instruct",
+      model: "Qwen/Qwen2.5-7B-Instruct",
       messages: [
         {
           role: "system",

@@ -135,14 +135,14 @@ Analyze the Japanese contents (vocabulary, kana, romaji, example sentences, pron
 You must correct any errors you find.
 Return ONLY a valid JSON object matching the exact provided structure of the Article. Do not warp the structure, remove any fields or append Markdown outside the JSON.`;
 
-    const textRes = await fetch("https://router.huggingface.co/hf-inference/models/Qwen/Qwen2.5-72B-Instruct/v1/chat/completions", {
+    const textRes = await fetch("https://router.huggingface.co/hf-inference/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions", {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${hfToken}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: "Qwen/Qwen2.5-72B-Instruct",
+        model: "Qwen/Qwen2.5-7B-Instruct",
         messages: [
           { role: "system", content: systemInstruction },
           { role: "user", content: JSON.stringify(article) }
@@ -245,14 +245,14 @@ JSON Structure Schema Required:
     }
 
     console.log("Calling Hugging Face Inference API for text generation...");
-    const textRes = await fetch("https://router.huggingface.co/hf-inference/models/Qwen/Qwen2.5-72B-Instruct/v1/chat/completions", {
+    const textRes = await fetch("https://router.huggingface.co/hf-inference/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions", {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${hfToken}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: "Qwen/Qwen2.5-72B-Instruct",
+        model: "Qwen/Qwen2.5-7B-Instruct",
         messages: [
           {
             role: "system",
