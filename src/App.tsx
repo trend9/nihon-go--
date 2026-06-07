@@ -696,15 +696,6 @@ export default function App() {
               >
                 Privacy Policy & Cookies
               </button>
-              <span>•</span>
-              <button
-                onClick={() => navigateTo("/host")}
-                id="footer-cms-anchor"
-                className="hover:underline text-red-400 font-bold flex items-center gap-1"
-                title="Hidden Administrative CMS"
-              >
-                <Lock className="w-3.5 h-3.5" /> Editorial Room
-              </button>
             </div>
           </div>
 
