@@ -150,7 +150,7 @@ JSON Structure Schema Required:
 `;
 
   console.log("Calling Hugging Face Inference API for text generation...");
-  const textRes = await fetch("https://api-inference.huggingface.co/models/Qwen/Qwen2.5-72B-Instruct/v1/chat/completions", {
+  const textRes = await fetch("https://router.huggingface.co/v1/chat/completions", {
     method: "POST",
     headers: {
       "Authorization": `Bearer ${hfToken}`,
@@ -202,7 +202,7 @@ JSON Structure Schema Required:
 
   try {
     console.log(`Calling Hugging Face API (FLUX.1-schnell) for prompt: "${imagePrompt}"...`);
-    const hfRes = await fetch("https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell", {
+    const hfRes = await fetch("https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell", {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${hfToken}`,
