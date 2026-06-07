@@ -37,39 +37,34 @@ function saveArticles(articles: Article[]) {
 // Fallback LLM Models on Hugging Face Serverless (via router.huggingface.co)
 const LLM_MODELS = [
   "Qwen/Qwen2.5-72B-Instruct",
-  "meta-llama/Llama-3.3-70B-Instruct",
-  "meta-llama/Meta-Llama-3-8B-Instruct",
-  "mistralai/Mistral-7B-Instruct-v0.3"
+  "mistralai/Mistral-7B-Instruct-v0.3",
+  "Qwen/Qwen2.5-7B-Instruct",
+  "Qwen/Qwen2.5-1.5B-Instruct"
 ];
 
 const FLUX_MODEL = "black-forest-labs/FLUX.1-schnell";
-const HF_LLM_URL = "https://router.huggingface.co/v1/chat/completions";
 const HF_IMAGE_URL = (model: string) => `https://router.huggingface.co/hf-inference/models/${model}`;
 
 async function callLLM(prompt: string, hfToken: string): Promise<any> {
+  const systemInstruction = "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON.";
+  const formattedPrompt = `<|im_start|>system\n${systemInstruction}<|im_end|>\n<|im_start|>user\n${prompt}<|im_end|>\n<|im_start|>assistant\n`;
+
   for (const model of LLM_MODELS) {
-    console.log(`🤖 Using LLM model: ${model}...`);
+    console.log(`🤖 Using LLM model: ${model} via hf-inference...`);
     try {
-      const response = await fetch(HF_LLM_URL, {
+      const url = `https://router.huggingface.co/hf-inference/models/${model}`;
+      const response = await fetch(url, {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${hfToken}`,
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-          model: model,
-          messages: [
-            {
-              role: "system",
-              content: "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON."
-            },
-            {
-              role: "user",
-              content: prompt
-            }
-          ],
-          temperature: 0.8,
-          max_tokens: 3000
+          inputs: formattedPrompt,
+          parameters: {
+            max_new_tokens: 2048,
+            temperature: 0.7
+          }
         })
       });
 
@@ -79,7 +74,23 @@ async function callLLM(prompt: string, hfToken: string): Promise<any> {
       }
 
       const data = await response.json();
-      const content = data.choices?.[0]?.message?.content;
+      let content = "";
+      if (Array.isArray(data)) {
+        content = data[0]?.generated_text || "";
+      } else if (data.generated_text) {
+        content = data.generated_text;
+      } else {
+        throw new Error(`Unexpected response format: ${JSON.stringify(data)}`);
+      }
+
+      // Strip prompt if included in output
+      if (content.startsWith(formattedPrompt)) {
+        content = content.substring(formattedPrompt.length);
+      } else if (content.includes("<|im_start|>assistant\n")) {
+        content = content.substring(content.indexOf("<|im_start|>assistant\n") + "<|im_start|>assistant\n".length);
+      }
+      content = content.replace(/<\|im_end\|>$/, "").trim();
+
       if (!content) {
         throw new Error("Empty content returned from model.");
       }
