@@ -36,12 +36,10 @@ function saveArticles(articles: Article[]) {
 
 // Fallback LLM Models on Hugging Face Serverless (via router.huggingface.co)
 const LLM_MODELS = [
-  "Qwen/Qwen2.5-72B-Instruct:hf-inference",
-  "Qwen/Qwen2.5-7B-Instruct:hf-inference",
-  "meta-llama/Llama-3.2-3B-Instruct:hf-inference",
-  "Qwen/Qwen2.5-1.5B-Instruct:hf-inference",
-  "Qwen/Qwen2.5-72B-Instruct",
-  "mistralai/Mistral-7B-Instruct-v0.3"
+  "mistralai/Mistral-7B-Instruct-v0.3",
+  "HuggingFaceH4/zephyr-7b-beta",
+  "microsoft/Phi-3-mini-128k-instruct",
+  "google/gemma-2-2b-it"
 ];
 
 const FLUX_MODEL = "black-forest-labs/FLUX.1-schnell";
@@ -52,53 +50,66 @@ async function callLLM(prompt: string, hfToken: string): Promise<any> {
 
   for (const model of LLM_MODELS) {
     console.log(`🤖 Using LLM model: ${model}...`);
-    try {
-      const response = await fetch("https://router.huggingface.co/v1/chat/completions", {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${hfToken}`,
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          model: model,
-          messages: [
-            {
-              role: "system",
-              content: systemInstruction
-            },
-            {
-              role: "user",
-              content: prompt
-            }
-          ],
-          temperature: 0.7,
-          max_tokens: 3000
-        })
-      });
+    
+    // We try the direct model-specific endpoints (both api-inference and router as fallback)
+    const urls = [
+      `https://api-inference.huggingface.co/models/${model}/v1/chat/completions`,
+      `https://router.huggingface.co/hf-inference/models/${model}/v1/chat/completions`
+    ];
 
-      if (!response.ok) {
-        const errText = await response.text();
-        throw new Error(`HTTP ${response.status}: ${errText}`);
-      }
+    for (const url of urls) {
+      try {
+        console.log(`   Trying endpoint: ${url}`);
+        const response = await fetch(url, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${hfToken}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            model: model,
+            messages: [
+              {
+                role: "system",
+                content: systemInstruction
+              },
+              {
+                role: "user",
+                content: prompt
+              }
+            ],
+            temperature: 0.7,
+            max_tokens: 3000
+          })
+        });
 
-      const data = await response.json();
-      const content = data.choices?.[0]?.message?.content;
-      if (!content) {
-        throw new Error("Empty content returned from model.");
-      }
+        if (!response.ok) {
+          const errText = await response.text();
+          throw new Error(`HTTP ${response.status}: ${errText}`);
+        }
 
-      // Robust JSON extraction
-      let jsonText = content.trim();
-      const jsonStart = jsonText.indexOf('{');
-      const jsonEnd = jsonText.lastIndexOf('}');
-      if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
-        jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+        const data = await response.json();
+        const content = data.choices?.[0]?.message?.content;
+        if (!content) {
+          throw new Error("Empty content returned from model.");
+        }
+
+        // Robust JSON extraction
+        let jsonText = content.trim();
+        const jsonStart = jsonText.indexOf('{');
+        const jsonEnd = jsonText.lastIndexOf('}');
+        if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+          jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+        }
+        return JSON.parse(jsonText);
+      } catch (error: any) {
+        console.warn(`   ⚠️ Endpoint failed:`, error.message);
+        // If it's a connection/DNS issue, try the next URL immediately
+        if (error.message.includes("fetch failed") || error.message.includes("ENOTFOUND")) {
+          continue;
+        }
+        await new Promise(resolve => setTimeout(resolve, 2000));
       }
-      return JSON.parse(jsonText);
-    } catch (error: any) {
-      console.warn(`⚠️ Model ${model} failed:`, error.message);
-      // Wait briefly before trying next model
-      await new Promise(resolve => setTimeout(resolve, 3000));
     }
   }
   throw new Error("❌ All fallback LLM models failed on Hugging Face inference API.");
@@ -230,10 +241,12 @@ JSON Structure Schema Required:
   const originalId = parsedArticle.id;
   parsedArticle.id = `${originalId.split("-").slice(0, 4).join("-")}-${Date.now()}`;
 
-  // Call Hugging Face API to generate image
+  // Call Image Generation APIs (Hugging Face -> Pollinations AI -> AI Horde as fallback)
   const imagePrompt = parsedArticle.imagePrompt || `Vintage British newspaper illustration of ${topicHint}`;
+  const promptFull = `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving`;
   let imageSavedPath = "";
 
+  // 1. Try Hugging Face FLUX.1-schnell
   try {
     console.log(`Calling Hugging Face API (FLUX.1-schnell) for prompt: "${imagePrompt}"...`);
     const hfRes = await fetch(HF_IMAGE_URL(FLUX_MODEL), {
@@ -242,7 +255,7 @@ JSON Structure Schema Required:
         "Authorization": `Bearer ${hfToken}`,
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ inputs: `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving` }),
+      body: JSON.stringify({ inputs: promptFull }),
     });
 
     if (hfRes.ok) {
@@ -257,6 +270,89 @@ JSON Structure Schema Required:
     }
   } catch (err) {
     console.error("Hugging Face API execution failed:", err);
+  }
+
+  // 2. Try Pollinations AI as second option
+  if (!imageSavedPath) {
+    try {
+      console.log(`Calling Pollinations AI for prompt: "${imagePrompt}"...`);
+      const encodedPrompt = encodeURIComponent(promptFull);
+      const pollinationsUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}?width=800&height=450&nologo=true&private=true`;
+      
+      const polRes = await fetch(pollinationsUrl);
+      if (polRes.ok) {
+        const buffer = await polRes.arrayBuffer();
+        const fileName = `${parsedArticle.id}.jpg`;
+        const localPath = path.join(IMAGES_DIR, fileName);
+        fs.writeFileSync(localPath, Buffer.from(buffer));
+        imageSavedPath = `/images/${fileName}`;
+        console.log(`Saved Pollinations AI image to: ${localPath}`);
+      } else {
+        console.warn("Pollinations AI returned non-200 status:", polRes.status);
+      }
+    } catch (err) {
+      console.error("Pollinations AI execution failed:", err);
+    }
+  }
+
+  // 3. Try AI Horde as third option (crowd-sourced free queue)
+  if (!imageSavedPath) {
+    try {
+      console.log("Calling AI Horde for prompt...");
+      const submitResp = await fetch("https://aihorde.net/api/v2/generate/async", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "apikey": "0000000000",
+          "Client-Agent": "NihongoApp:1.0:user@example.com"
+        },
+        body: JSON.stringify({
+          prompt: promptFull,
+          params: {
+            width: 512,
+            height: 512,
+            steps: 20
+          }
+        })
+      });
+
+      if (submitResp.ok) {
+        const submitData: any = await submitResp.json();
+        const jobId = submitData.id;
+        console.log(`AI Horde accepted request! Job ID: ${jobId}. Polling...`);
+        
+        // Poll status up to 15 times (45 seconds max)
+        for (let poll = 1; poll <= 15; poll++) {
+          await new Promise(resolve => setTimeout(resolve, 3000));
+          const statusResp = await fetch(`https://aihorde.net/api/v2/generate/status/${jobId}`);
+          if (statusResp.ok) {
+            const statusData: any = await statusResp.json();
+            if (statusData.done === true) {
+              const imgUrl = statusData.generations?.[0]?.img;
+              if (imgUrl) {
+                const imgResp = await fetch(imgUrl);
+                if (imgResp.ok) {
+                  const buffer = await imgResp.arrayBuffer();
+                  const fileName = `${parsedArticle.id}.jpg`;
+                  const localPath = path.join(IMAGES_DIR, fileName);
+                  fs.writeFileSync(localPath, Buffer.from(buffer));
+                  imageSavedPath = `/images/${fileName}`;
+                  console.log(`Saved AI Horde image to: ${localPath}`);
+                  break;
+                }
+              }
+            } else if (statusData.faulted === true) {
+              console.warn("AI Horde job failed (faulted).");
+              break;
+            }
+          }
+        }
+      } else {
+        console.warn("AI Horde submission returned status:", submitResp.status);
+      }
+    } catch (err) {
+      console.error("AI Horde execution failed:", err);
+    }
   }
 
   // Fallback to Unsplash if image wasn't saved

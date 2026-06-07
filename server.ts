@@ -44,64 +44,75 @@ const getHfToken = () => process.env.HF_API_KEY || process.env.HF_TOKEN;
 
 // Fallback LLM Models on Hugging Face Serverless (via router.huggingface.co)
 const LLM_MODELS = [
-  "Qwen/Qwen2.5-72B-Instruct:hf-inference",
-  "Qwen/Qwen2.5-7B-Instruct:hf-inference",
-  "meta-llama/Llama-3.2-3B-Instruct:hf-inference",
-  "Qwen/Qwen2.5-1.5B-Instruct:hf-inference",
-  "Qwen/Qwen2.5-72B-Instruct",
-  "mistralai/Mistral-7B-Instruct-v0.3"
+  "mistralai/Mistral-7B-Instruct-v0.3",
+  "HuggingFaceH4/zephyr-7b-beta",
+  "microsoft/Phi-3-mini-128k-instruct",
+  "google/gemma-2-2b-it"
 ];
 
 async function callLLM(prompt: string, systemInstruction: string, hfToken: string): Promise<any> {
   for (const model of LLM_MODELS) {
     console.log(`🤖 Using LLM model: ${model}...`);
-    try {
-      const response = await fetch("https://router.huggingface.co/v1/chat/completions", {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${hfToken}`,
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          model: model,
-          messages: [
-            {
-              role: "system",
-              content: systemInstruction
-            },
-            {
-              role: "user",
-              content: prompt
-            }
-          ],
-          temperature: 0.7,
-          max_tokens: 3000
-        })
-      });
+    
+    // We try the direct model-specific endpoints (both api-inference and router as fallback)
+    const urls = [
+      `https://api-inference.huggingface.co/models/${model}/v1/chat/completions`,
+      `https://router.huggingface.co/hf-inference/models/${model}/v1/chat/completions`
+    ];
 
-      if (!response.ok) {
-        const errText = await response.text();
-        throw new Error(`HTTP ${response.status}: ${errText}`);
-      }
+    for (const url of urls) {
+      try {
+        console.log(`   Trying endpoint: ${url}`);
+        const response = await fetch(url, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${hfToken}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            model: model,
+            messages: [
+              {
+                role: "system",
+                content: systemInstruction
+              },
+              {
+                role: "user",
+                content: prompt
+              }
+            ],
+            temperature: 0.7,
+            max_tokens: 3000
+          })
+        });
 
-      const data = await response.json();
-      const content = data.choices?.[0]?.message?.content;
-      if (!content) {
-        throw new Error("Empty content returned from model.");
-      }
+        if (!response.ok) {
+          const errText = await response.text();
+          throw new Error(`HTTP ${response.status}: ${errText}`);
+        }
 
-      // Robust JSON extraction
-      let jsonText = content.trim();
-      const jsonStart = jsonText.indexOf('{');
-      const jsonEnd = jsonText.lastIndexOf('}');
-      if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
-        jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+        const data = await response.json();
+        const content = data.choices?.[0]?.message?.content;
+        if (!content) {
+          throw new Error("Empty content returned from model.");
+        }
+
+        // Robust JSON extraction
+        let jsonText = content.trim();
+        const jsonStart = jsonText.indexOf('{');
+        const jsonEnd = jsonText.lastIndexOf('}');
+        if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+          jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+        }
+        return JSON.parse(jsonText);
+      } catch (error: any) {
+        console.warn(`   ⚠️ Endpoint failed:`, error.message);
+        // If it's a connection/DNS issue, try the next URL immediately
+        if (error.message.includes("fetch failed") || error.message.includes("ENOTFOUND")) {
+          continue;
+        }
+        await new Promise(resolve => setTimeout(resolve, 2000));
       }
-      return JSON.parse(jsonText);
-    } catch (error: any) {
-      console.warn(`⚠️ Model ${model} failed:`, error.message);
-      // Wait briefly before trying next model
-      await new Promise(resolve => setTimeout(resolve, 3000));
     }
   }
   throw new Error("❌ All fallback LLM models failed on Hugging Face inference API.");
@@ -288,10 +299,12 @@ JSON Structure Schema Required:
       throw new Error("AI returned an invalid article structure.");
     }
 
-    // Dynamic Image Generation via Hugging Face
+    // Dynamic Image Generation via Hugging Face, Pollinations AI, and AI Horde as fallbacks
     const imagePrompt = parsedArticle.imagePrompt || `Vintage British newspaper illustration of ${topic || "Japanese scenery"}`;
+    const promptFull = `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving`;
     let base64Image = "";
 
+    // 1. Try Hugging Face FLUX.1-schnell
     try {
       console.log("Calling Hugging Face image generation model for prompt:", imagePrompt);
       const hfRes = await fetch("https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell", {
@@ -300,7 +313,7 @@ JSON Structure Schema Required:
           "Authorization": `Bearer ${hfToken}`,
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ inputs: `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving` }),
+        body: JSON.stringify({ inputs: promptFull }),
       });
 
       if (hfRes.ok) {
@@ -313,6 +326,79 @@ JSON Structure Schema Required:
       }
     } catch (err) {
       console.error("Hugging Face API execution failed, will fall back:", err);
+    }
+
+    // 2. Try Pollinations AI as second option
+    if (!base64Image) {
+      try {
+        console.log("Calling Pollinations AI for image generation...");
+        const encodedPrompt = encodeURIComponent(promptFull);
+        const polRes = await fetch(`https://image.pollinations.ai/prompt/${encodedPrompt}?width=800&height=450&nologo=true&private=true`);
+        if (polRes.ok) {
+          const buffer = await polRes.arrayBuffer();
+          const base64Str = Buffer.from(buffer).toString("base64");
+          base64Image = `data:image/jpeg;base64,${base64Str}`;
+          console.log("Pollinations AI image generated successfully.");
+        } else {
+          console.warn("Pollinations AI returned non-200 status:", polRes.status);
+        }
+      } catch (err) {
+        console.error("Pollinations AI execution failed:", err);
+      }
+    }
+
+    // 3. Try AI Horde as third option
+    if (!base64Image) {
+      try {
+        console.log("Calling AI Horde for image generation...");
+        const submitResp = await fetch("https://aihorde.net/api/v2/generate/async", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "apikey": "0000000000",
+            "Client-Agent": "NihongoApp:1.0:user@example.com"
+          },
+          body: JSON.stringify({
+            prompt: promptFull,
+            params: {
+              width: 512,
+              height: 512,
+              steps: 20
+            }
+          })
+        });
+
+        if (submitResp.ok) {
+          const submitData: any = await submitResp.json();
+          const jobId = submitData.id;
+          
+          for (let poll = 1; poll <= 15; poll++) {
+            await new Promise(resolve => setTimeout(resolve, 3000));
+            const statusResp = await fetch(`https://aihorde.net/api/v2/generate/status/${jobId}`);
+            if (statusResp.ok) {
+              const statusData: any = await statusResp.json();
+              if (statusData.done === true) {
+                const imgUrl = statusData.generations?.[0]?.img;
+                if (imgUrl) {
+                  const imgResp = await fetch(imgUrl);
+                  if (imgResp.ok) {
+                    const buffer = await imgResp.arrayBuffer();
+                    const base64Str = Buffer.from(buffer).toString("base64");
+                    base64Image = `data:image/jpeg;base64,${base64Str}`;
+                    console.log("AI Horde image generated successfully.");
+                    break;
+                  }
+                }
+              } else if (statusData.faulted === true) {
+                console.warn("AI Horde job failed.");
+                break;
+              }
+            }
+          }
+        }
+      } catch (err) {
+        console.error("AI Horde execution failed:", err);
+      }
     }
 
     // If Hugging Face fails or key not provided, assign a gorgeous matching Unsplash search string
