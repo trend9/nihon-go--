@@ -53,82 +53,41 @@ function saveArticles(articles: Article[]) {
 // Ensure database is populated at startup
 let inMemoryArticles = loadArticles();
 
-const getHfToken = () => process.env.HF_API_KEY || process.env.HF_TOKEN;
+const getColabUrl = () => process.env.COLAB_API_URL;
 
-// Fallback LLM Models on Hugging Face Serverless (via router.huggingface.co)
-const LLM_MODELS = [
-  "mistralai/Mistral-7B-Instruct-v0.3",
-  "HuggingFaceH4/zephyr-7b-beta",
-  "microsoft/Phi-3-mini-128k-instruct",
-  "google/gemma-2-2b-it"
-];
+async function callLLM(prompt: string, systemInstruction: string, colabUrl: string): Promise<any> {
+  console.log(`🤖 Using Colab LLM...`);
+  
+  const response = await fetch(`${colabUrl}/generate/text`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      system_prompt: systemInstruction,
+      user_prompt: prompt
+    })
+  });
 
-async function callLLM(prompt: string, systemInstruction: string, hfToken: string): Promise<any> {
-  for (const model of LLM_MODELS) {
-    console.log(`🤖 Using LLM model: ${model}...`);
-    
-    // We try the direct model-specific endpoints (both api-inference and router as fallback)
-    const urls = [
-      `https://api-inference.huggingface.co/models/${model}/v1/chat/completions`,
-      `https://router.huggingface.co/hf-inference/models/${model}/v1/chat/completions`
-    ];
-
-    for (const url of urls) {
-      try {
-        console.log(`   Trying endpoint: ${url}`);
-        const response = await fetch(url, {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${hfToken}`,
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            model: model,
-            messages: [
-              {
-                role: "system",
-                content: systemInstruction
-              },
-              {
-                role: "user",
-                content: prompt
-              }
-            ],
-            temperature: 0.7,
-            max_tokens: 3000
-          })
-        });
-
-        if (!response.ok) {
-          const errText = await response.text();
-          throw new Error(`HTTP ${response.status}: ${errText}`);
-        }
-
-        const data = await response.json();
-        const content = data.choices?.[0]?.message?.content;
-        if (!content) {
-          throw new Error("Empty content returned from model.");
-        }
-
-        // Robust JSON extraction
-        let jsonText = content.trim();
-        const jsonStart = jsonText.indexOf('{');
-        const jsonEnd = jsonText.lastIndexOf('}');
-        if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
-          jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
-        }
-        return JSON.parse(jsonText);
-      } catch (error: any) {
-        console.warn(`   ⚠️ Endpoint failed:`, error.message);
-        // If it's a connection/DNS issue, try the next URL immediately
-        if (error.message.includes("fetch failed") || error.message.includes("ENOTFOUND")) {
-          continue;
-        }
-        await new Promise(resolve => setTimeout(resolve, 2000));
-      }
-    }
+  if (!response.ok) {
+    const errText = await response.text();
+    throw new Error(`HTTP ${response.status}: ${errText}`);
   }
-  throw new Error("❌ All fallback LLM models failed on Hugging Face inference API.");
+
+  const data: any = await response.json();
+  const content = data.result;
+  if (!content) {
+    throw new Error("Empty content returned from Colab.");
+  }
+
+  // Robust JSON extraction
+  let jsonText = content.trim();
+  const jsonStart = jsonText.indexOf('{');
+  const jsonEnd = jsonText.lastIndexOf('}');
+  if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+    jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+  }
+  return JSON.parse(jsonText);
 }
 // Admin Authorization Middleware (Verifying Google JWT token)
 const requireAdmin = async (req: express.Request, res: express.Response, next: express.NextFunction) => {
@@ -239,9 +198,9 @@ app.delete("/api/articles/:id", requireAdmin, (req, res) => {
 app.post("/api/check-article", requireAdmin, async (req, res) => {
   try {
     const article = req.body as Article;
-    const hfToken = getHfToken();
-    if (!hfToken) {
-      return res.status(500).json({ error: "HF_TOKEN / HF_API_KEY environment variable is not configured." });
+    const colabUrl = getColabUrl();
+    if (!colabUrl) {
+      return res.status(500).json({ error: "COLAB_API_URL environment variable is not configured." });
     }
 
     const systemInstruction = `You are an expert bilingual Japanese-English proofreader.
@@ -249,7 +208,7 @@ Analyze the Japanese contents (vocabulary, kana, romaji, example sentences, pron
 You must correct any errors you find.
 Return ONLY a valid JSON object matching the exact provided structure of the Article. Do not warp the structure, remove any fields or append Markdown outside the JSON.`;
 
-    const parsedData = await callLLM(JSON.stringify(article), systemInstruction, hfToken);
+    const parsedData = await callLLM(JSON.stringify(article), systemInstruction, colabUrl);
     parsedData.isVerified = true;
     res.json(parsedData);
   } catch (err: any) {
@@ -324,14 +283,14 @@ JSON Structure Schema Required:
 }
 `;
 
-    const hfToken = getHfToken();
-    if (!hfToken) {
-      return res.status(500).json({ error: "HF_TOKEN / HF_API_KEY environment variable is not configured." });
+    const colabUrl = getColabUrl();
+    if (!colabUrl) {
+      return res.status(500).json({ error: "COLAB_API_URL environment variable is not configured." });
     }
 
     const systemInstruction = "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON.";
 
-    const parsedArticle = await callLLM(prompt, systemInstruction, hfToken);
+    const parsedArticle = await callLLM(prompt, systemInstruction, colabUrl);
 
     if (!parsedArticle.id || !parsedArticle.title) {
       throw new Error("AI returned an invalid article structure.");
@@ -342,28 +301,29 @@ JSON Structure Schema Required:
     const promptFull = `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving`;
     let base64Image = "";
 
-    // 1. Try Hugging Face FLUX.1-schnell
+    // 1. Try Colab API Stable Diffusion
     try {
-      console.log("Calling Hugging Face image generation model for prompt:", imagePrompt);
-      const hfRes = await fetch("https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell", {
+      console.log("Calling Colab Stable Diffusion for prompt:", imagePrompt);
+      const colabRes = await fetch(`${colabUrl}/generate/image`, {
         method: "POST",
         headers: {
-          "Authorization": `Bearer ${hfToken}`,
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ inputs: promptFull }),
+        body: JSON.stringify({ prompt: promptFull, width: 512, height: 512 }),
       });
 
-      if (hfRes.ok) {
-        const buffer = await hfRes.arrayBuffer();
-        const base64Str = Buffer.from(buffer).toString("base64");
-        base64Image = `data:image/jpeg;base64,${base64Str}`;
-        console.log("Hugging face image generated successfully.");
+      if (colabRes.ok) {
+        const resJson: any = await colabRes.json();
+        const base64Str = resJson.image_base64;
+        if (base64Str) {
+          base64Image = `data:image/jpeg;base64,${base64Str}`;
+          console.log("Colab image generated successfully.");
+        }
       } else {
-        console.warn("Hugging Face API returned non-200:", hfRes.status, hfRes.statusText);
+        console.warn("Colab Image API returned non-200:", colabRes.status, colabRes.statusText);
       }
     } catch (err) {
-      console.error("Hugging Face API execution failed, will fall back:", err);
+      console.error("Colab Image API execution failed, will fall back:", err);
     }
 
     // 2. Try Pollinations AI as second option

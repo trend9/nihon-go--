@@ -45,74 +45,41 @@ const LLM_MODELS = [
 const FLUX_MODEL = "black-forest-labs/FLUX.1-schnell";
 const HF_IMAGE_URL = (model: string) => `https://router.huggingface.co/hf-inference/models/${model}`;
 
-async function callLLM(prompt: string, hfToken: string): Promise<any> {
+async function callLLM(prompt: string, colabUrl: string): Promise<any> {
   const systemInstruction = "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON.";
 
-  for (const model of LLM_MODELS) {
-    console.log(`🤖 Using LLM model: ${model}...`);
-    
-    // We try the direct model-specific endpoints (both api-inference and router as fallback)
-    const urls = [
-      `https://api-inference.huggingface.co/models/${model}/v1/chat/completions`,
-      `https://router.huggingface.co/hf-inference/models/${model}/v1/chat/completions`
-    ];
+  console.log(`🤖 Using Colab LLM...`);
+  
+  const response = await fetch(`${colabUrl}/generate/text`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      system_prompt: systemInstruction,
+      user_prompt: prompt
+    })
+  });
 
-    for (const url of urls) {
-      try {
-        console.log(`   Trying endpoint: ${url}`);
-        const response = await fetch(url, {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${hfToken}`,
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            model: model,
-            messages: [
-              {
-                role: "system",
-                content: systemInstruction
-              },
-              {
-                role: "user",
-                content: prompt
-              }
-            ],
-            temperature: 0.7,
-            max_tokens: 3000
-          })
-        });
-
-        if (!response.ok) {
-          const errText = await response.text();
-          throw new Error(`HTTP ${response.status}: ${errText}`);
-        }
-
-        const data = await response.json();
-        const content = data.choices?.[0]?.message?.content;
-        if (!content) {
-          throw new Error("Empty content returned from model.");
-        }
-
-        // Robust JSON extraction
-        let jsonText = content.trim();
-        const jsonStart = jsonText.indexOf('{');
-        const jsonEnd = jsonText.lastIndexOf('}');
-        if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
-          jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
-        }
-        return JSON.parse(jsonText);
-      } catch (error: any) {
-        console.warn(`   ⚠️ Endpoint failed:`, error.message);
-        // If it's a connection/DNS issue, try the next URL immediately
-        if (error.message.includes("fetch failed") || error.message.includes("ENOTFOUND")) {
-          continue;
-        }
-        await new Promise(resolve => setTimeout(resolve, 2000));
-      }
-    }
+  if (!response.ok) {
+    const errText = await response.text();
+    throw new Error(`HTTP ${response.status}: ${errText}`);
   }
-  throw new Error("❌ All fallback LLM models failed on Hugging Face inference API.");
+
+  const data: any = await response.json();
+  const content = data.result;
+  if (!content) {
+    throw new Error("Empty content returned from model.");
+  }
+
+  // Robust JSON extraction
+  let jsonText = content.trim();
+  const jsonStart = jsonText.indexOf('{');
+  const jsonEnd = jsonText.lastIndexOf('}');
+  if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+    jsonText = jsonText.substring(jsonStart, jsonEnd + 1);
+  }
+  return JSON.parse(jsonText);
 }
 
 async function generate() {
@@ -174,9 +141,9 @@ async function generate() {
   ];
   const topicHint = topicsPool[Math.floor(Math.random() * topicsPool.length)];
 
-  const hfToken = process.env.HF_API_KEY || process.env.HF_TOKEN;
-  if (!hfToken) {
-    console.error("Error: HF_TOKEN or HF_API_KEY environment variable is not set.");
+  const colabUrl = process.env.COLAB_API_URL;
+  if (!colabUrl) {
+    console.error("Error: COLAB_API_URL environment variable is not set.");
     process.exit(1);
   }
 
@@ -230,10 +197,10 @@ JSON Structure Schema Required:
 }
 `;
 
-  console.log("Calling Hugging Face Inference API for text generation...");
+  console.log("Calling Colab API for text generation...");
   let parsedArticle: any;
   try {
-    parsedArticle = await callLLM(prompt, hfToken);
+    parsedArticle = await callLLM(prompt, colabUrl);
     if (!parsedArticle || !parsedArticle.id || !parsedArticle.title) {
       throw new Error("AI returned an invalid article structure.");
     }
@@ -276,30 +243,32 @@ JSON Structure Schema Required:
   const promptFull = `${imagePrompt}, vintage styled newspaper print illustration, monochrome charcoal engraving`;
   let imageSavedPath = "";
 
-  // 1. Try Hugging Face FLUX.1-schnell
+  // 1. Try Colab API Stable Diffusion
   try {
-    console.log(`Calling Hugging Face API (FLUX.1-schnell) for prompt: "${imagePrompt}"...`);
-    const hfRes = await fetch(HF_IMAGE_URL(FLUX_MODEL), {
+    console.log(`Calling Colab Stable Diffusion for prompt: "${imagePrompt}"...`);
+    const colabRes = await fetch(`${colabUrl}/generate/image`, {
       method: "POST",
       headers: {
-        "Authorization": `Bearer ${hfToken}`,
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ inputs: promptFull }),
+      body: JSON.stringify({ prompt: promptFull, width: 512, height: 512 }),
     });
 
-    if (hfRes.ok) {
-      const buffer = await hfRes.arrayBuffer();
-      const fileName = `${parsedArticle.id}.jpg`;
-      const localPath = path.join(IMAGES_DIR, fileName);
-      fs.writeFileSync(localPath, Buffer.from(buffer));
-      imageSavedPath = `/images/${fileName}`;
-      console.log(`Saved Hugging Face image to: ${localPath}`);
+    if (colabRes.ok) {
+      const resJson: any = await colabRes.json();
+      const base64Str = resJson.image_base64;
+      if (base64Str) {
+        const fileName = `${parsedArticle.id}.jpg`;
+        const localPath = path.join(IMAGES_DIR, fileName);
+        fs.writeFileSync(localPath, Buffer.from(base64Str, 'base64'));
+        imageSavedPath = `/images/${fileName}`;
+        console.log(`Saved Colab image to: ${localPath}`);
+      }
     } else {
-      console.warn("Hugging Face API returned non-200 status:", hfRes.status, hfRes.statusText);
+      console.warn("Colab Image API returned non-200 status:", colabRes.status, colabRes.statusText);
     }
   } catch (err) {
-    console.error("Hugging Face API execution failed:", err);
+    console.error("Colab Image API execution failed:", err);
   }
 
   // 2. Try Pollinations AI as second option
