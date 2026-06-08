@@ -47,6 +47,7 @@ const HF_IMAGE_URL = (model: string) => `https://router.huggingface.co/hf-infere
 
 async function callLLM(prompt: string, colabUrl: string): Promise<any> {
   const systemInstruction = "You are a professional educational publisher. Return ONLY a valid JSON object matching the requested schema. No markdown formatting, no code block backticks (do not wrap in ```json), just raw JSON.";
+  colabUrl = colabUrl.replace(/\/$/, '');
 
   console.log(`🤖 Using Colab LLM...`);
   
@@ -141,7 +142,7 @@ async function generate() {
   ];
   const topicHint = topicsPool[Math.floor(Math.random() * topicsPool.length)];
 
-  const colabUrl = process.env.COLAB_API_URL;
+  const colabUrl = process.env.COLAB_API_URL?.replace(/\/$/, '');
   if (!colabUrl) {
     console.error("Error: COLAB_API_URL environment variable is not set.");
     process.exit(1);

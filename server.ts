@@ -53,7 +53,7 @@ function saveArticles(articles: Article[]) {
 // Ensure database is populated at startup
 let inMemoryArticles = loadArticles();
 
-const getColabUrl = () => process.env.COLAB_API_URL;
+const getColabUrl = () => process.env.COLAB_API_URL?.replace(/\/$/, '');
 
 async function callLLM(prompt: string, systemInstruction: string, colabUrl: string): Promise<any> {
   console.log(`🤖 Using Colab LLM...`);
