@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-japanese-cafe-ordering-1780998441700",
+    "title": "First Steps to Ordering Coffee: A Beginner's Guide for Japan.",
+    "subtitle": "Unlocking the art of café culture with simple Japanese vocabulary and phrases.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This guide offers a beginner's introduction to ordering coffee in a Japanese café. Learn essential phrases, navigate basic menu options, and gain a deeper understanding of the social etiquette surrounding this daily ritual.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine strolling into a cozy cafe in Tokyo, the aroma of freshly brewed coffee wafting through the air. You're ready to soak in this cultural scene and take your first sip of Japanese café culture! Getting a cup of coffee in Japan doesn't just mean a quick caffeine fix – it often becomes part of a larger social experience. Today, we'll explore essential phrases for ordering your perfect cup, demystifying the world of Japanese cafes one order at a time.",
+    "grammarExplanation": "Japanese sentence structures are built upon subject-object-verb (SOV) order, similar to Korean and Mandarin. The verb usually comes last in the sentence. While this can feel different than English's Subject-Verb-Object (SVO) order, mastering it will help you understand Japanese communication more easily.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 今日のコーヒー",
+        "japanese": "今日のコーヒー",
+        "kana": "Kyō no kohi-o",
+        "romaji": "",
+        "english": "Today's coffee",
+        "explanation": "This is a simple phrase that can be used to request a regular coffee. The kanji for 'today' and 'coffee' are included in this post-it note.",
+        "exampleJp": "今日のおやつにコーヒーを買おうかな。",
+        "exampleEn": "Let me get some coffee today as a treat.",
+        "tip": "To order a regular cup of coffee, simply say '今日のコーヒー' (Kyō no kohi-o)."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: 砂糖のミルク",
+        "japanese": "砂糖のミルク",
+        "kana": "Sūta no miruku",
+        "romaji": "",
+        "english": "Sugar Milk",
+        "explanation": "This is a phrase to request sugar water, which is commonly served in Japanese cafes. The kanji for 'sugar' and 'milk' are included in this post-it note.",
+        "exampleJp": "砂糖のミルクをお願いします。",
+        "exampleEn": "I would like some sugar milk please.",
+        "tip": "When ordering Sugar Milk, specify that you want it with no additional sweetener."
+      }
+    ],
+    "culturalInsight": "A Brief Look at Café Culture in Japan\n",
+    "quiz": {
+      "question": "What is a common phrase used to order coffee in a Japanese café?\n\nA. Big Coffee! \nB. I want coffee, please. \nC.  Today's coffee.\nD. A hot cup of joe.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": "C",
+      "explanation": "Option 'C' is the correct answer! It's a simple way to express your desire for coffee.  Learning Japanese vocabulary and phrases helps you understand the nuances of this cultural aspect, which can enrich your experience in Japan."
+    },
+    "imagePrompt": "A warm, inviting scene showing people at a traditional Japanese café sipping coffee with friendly smiles, showcasing a modern design aesthetic.",
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\",\"@type\": \"HowTo\", \"name\": \"First Steps to Ordering Coffee: A Beginner's Guide for Japan.\",\"description\":\"This guide offers a beginner's introduction to ordering coffee in a Japanese café. Learn essential phrases, navigate basic menu options, and gain a deeper understanding of the social etiquette surrounding this daily ritual.  \",\"keywords\": [\".@context\"],\"image\": \"https://www.example.com/image.jpg\", \"text:\"\",\"url\":\"https://www.example.com/article.html\"}",
+    "thumbnailUrl": "/images/level1-japanese-cafe-ordering-1780998441700.jpg",
+    "thumbnailAlt": "A warm, inviting scene showing people at a traditional Japanese café sipping coffee with friendly smiles, showcasing a modern design aesthetic.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1780975649146",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
