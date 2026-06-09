@@ -1,5 +1,58 @@
 [
   {
+    "id": "level1-japanese-dining-etiquette-1781035920964",
+    "title": "Navigating Japanese Dining Etiquette for Beginners: Mastering the Art of Seasonal Ordering",
+    "subtitle": "Unlock the Secrets to Enjoying Authentic Sushi and Beyond",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article will guide you through the fundamental dining etiquette of Japan, ensuring a smooth and enjoyable experience when exploring Japanese cuisine. It covers essential concepts like ordering seasonal dishes, table manners, and basic conversation skills.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to Japan! From bustling Tokyo streets to peaceful countryside towns, the country's rich culinary culture awaits you. But navigating Japanese dining etiquette can feel daunting for new visitors. This guide walks you through essential principles that will enhance your enjoyment of every meal. Just remember: in Japan, respect and harmony are key ingredients, ensuring a memorable culinary experience.",
+    "grammarExplanation": "Japanese sentence structure is often characterized by subject-object-verb (SOV) order, with particles used to connect words or express grammatical relationships. For instance, ‘私 は 食べる.’ translates to 'I eat.' The particle ‘は’ denotes possession and indicates the subject's action. While Japanese grammar may appear complex, consistent practice will quickly develop fluency.",
+    "postIts": [
+      {
+        "id": "p-japanese-food-01",
+        "color": "pink",
+        "title": "Vocabulary: 食事 (Shokuji)",
+        "japanese": "食事 (shokuji)",
+        "kana": "Shokuji",
+        "romaji": "Shokuji",
+        "english": "Meal / Dinner",
+        "explanation": "This is a key term meaning 'dinner.' It can be used in various contexts - ordering food at a restaurant, preparing for family mealtime, or enjoying a snack.",
+        "exampleJp": "今日は夕食を摂ります。 (Kyō wa yūchū o seibimasu.)",
+        "exampleEn": "I'm going to have dinner tonight. ",
+        "tip": "Remember to use the word ‘shokuji’ when asking for a meal, especially in Japanese restaurants."
+      },
+      {
+        "id": "p-seasonal-dish-01",
+        "color": "green",
+        "title": "Vocabulary: mev (Seasonal Dishes)",
+        "japanese": " mev (seasonal dishes)",
+        "kana": "mev",
+        "romaji": "mev",
+        "english": "Seasonal dish",
+        "explanation": "This is a phrase used to describe dishes that are prepared depending on the season. Many Japanese dishes, like sushi and ramen, change in flavor based on seasonal ingredients.",
+        "exampleJp": "春 (haru) の mev は、桜の枝を飾る。 (Haru no mev wa sakura no eda wo sakaru.)",
+        "exampleEn": "Spring's seasonal dish includes decorated cherry blossom branches. ",
+        "tip": "Ask the server about seasonal dishes to experience true Japanese cuisine."
+      }
+    ],
+    "culturalInsight": "Beyond Ordering, a Deeper Connection: The Essence of Harmony and Respect\n\nIn Japan, dining is not merely about consuming food; it's an intricate dance of etiquette, respect, and harmony. Every movement, every word, and even the choice of tableware speaks volumes about how we interact in Japanese society. Here are some key insights:\n\n**1.** **Respect for the Host:**  Always address a host as 'sensei' (先生) or 'san'. This is a sign of respect, especially when dining with someone older than you.\n**2.** **Table Manners Matter:** Use chopsticks appropriately and avoid using your phone at the table. It shows consideration for those around you.\n**3.** **Sharing is Caring:**  In Japan, sharing is not just encouraged but considered a gesture of hospitality. Sharing is an integral part of Japanese social etiquette.",
+    "quiz": {
+      "question": "What does the word 'shokuji' mean in English?",
+      "answer": "Meal / Dinner",
+      "answerIndex": 0,
+      "explanation": "Choose the correct answer: ‘Shokuji’ is a Japanese word that translates to 'meal'. It can be used when asking for food at a restaurant or planning your evening meal."
+    },
+    "imagePrompt": "A photo of chopsticks arranged on a table in front of a traditional Japanese tea room, with cherry blossom flowers and calligraphy scrolls in the background.",
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\",\"@type\": \"Article\", \"headline\": \"Navigating Japanese Dining Etiquette for Beginners: Mastering the Art of Seasonal Ordering\", \"description\": \"This article will guide you through the fundamental dining etiquette of Japan, ensuring a smooth and enjoyable experience when exploring Japanese cuisine. It covers essential concepts like ordering seasonal dishes, table manners, and basic conversation skills.\", \"image\": \"https://example.com/images/new_article_picture.jpg\", \"datePublished\": \"2023-10-26T07:00:00+09:00\"}",
+    "thumbnailUrl": "/images/level1-japanese-dining-etiquette-1781035920964.jpg",
+    "thumbnailAlt": "A photo of chopsticks arranged on a table in front of a traditional Japanese tea room, with cherry blossom flowers and calligraphy scrolls in the background.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1781026181800",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
