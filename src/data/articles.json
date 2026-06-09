@@ -1,5 +1,57 @@
 [
   {
+    "id": "level2-unique-slug-1781043981648-1781044095411",
+    "title": "Toasting Success: Japanese Phrases for Colleagues",
+    "subtitle": "A guide to heartfelt congratulations and toast expressions in the workplace.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to offer genuine congratulations to colleagues in a professional and respectful manner. This guide provides essential Japanese phrases for different occasions, including basic wishes and toast expressions.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Making connections with colleagues is crucial in any workplace, and offering heartfelt congratulations can be an excellent way to foster positive relationships. Mastering the art of congratulatory language in Japanese can enhance your professional standing. This article delves into essential phrases and expressions commonly used to express appreciation for your colleagues' achievements or good work, helping you navigate the nuances of Japanese etiquette. By understanding these key elements, you'll be able to deliver genuine congratulations with a level of professionalism that resonates across cultural boundaries.",
+    "grammarExplanation": "In Japanese language, politeness is paramount in formal settings. The use of honorifics like '-san' for colleagues and titles like 'Sensei' for senior figures demonstrates respect. Learning the appropriate way to address someone helps you avoid unintentional faux pas while building professional rapport. Furthermore, understanding how to express gratitude using phrases such as 'Arigatou gozaimasu' (thank you very much) is key in conveying sincerity.",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日は〇〇おめでとう！",
+        "japanese": "今日は〇〇おめでとう！",
+        "kana": "kyou wa ____ o me wo",
+        "romaji": "kyō wa ___ o me wo",
+        "english": "Congratulations on today!",
+        "explanation": "A concise and general phrase for congratulating a colleague on their achievement.",
+        "exampleJp": "今日は新しいプロジェクトの成功おめでとう！",
+        "exampleEn": "Congratulations on the successful completion of your new project! ",
+        "tip": "Use '-san' or '-sama' to address your colleagues politely."
+      },
+      {
+        "id": "p-2",
+        "color": "pink",
+        "title": "Vocabulary: 〇〇に感謝します！",
+        "japanese": "〇〇に感謝します！",
+        "kana": "___ ni kan sa shi masu!",
+        "romaji": "___ ni kan sa shi ma desu!",
+        "english": "I'm thankful for your help with...",
+        "explanation": "Expressing gratitude in a more specific way, this phrase is useful when thanking colleagues for their assistance.",
+        "exampleJp": "〇〇に感謝します！いつも大変お世話になりました",
+        "exampleEn": "Thank you for all the help with ____. It's been very helpful to me!",
+        "tip": "Use 'kudasai' or 'onegai shimasu' after your expression of gratitude."
+      }
+    ],
+    "culturalInsight": "Japanese work culture emphasizes building strong relationships, and a sincere toast is a tangible way to express appreciation for colleagues. Offering congratulations in Japanese demonstrates respect and fosters positive interactions within the workplace. By incorporating these phrases into daily interaction, you can enhance your professionalism and build lasting bonds with colleagues.",
+    "quiz": {
+      "question": "Which of the following phrases is appropriate for congratulating a colleague on their professional achievement? \n A) 〇〇おめでとう！\n B) 〇〇に感謝します！\n C) 〇〇はすごい！\n D) 〇〇で頑張ってね！",
+      "correctAnswerIndex": 0,
+      "explanation": "A is the most appropriate and culturally relevant option as it utilizes a direct congratulations in a basic and respectful manner. While B expresses gratitude, it may be too informal for celebratory occasions. C and D are suitable but less common in formal settings."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An image of a business meeting with colleagues raising their glasses to toast together in Tokyo during Golden Hour light",
+    "thumbnailUrl": "/images/level2-unique-slug-1781043981648-1781044095411.jpg",
+    "thumbnailAlt": "An image of a business meeting with colleagues raising their glasses to toast together in Tokyo during Golden Hour light",
+    "isVerified": true
+  },
+  {
     "id": "level1-japanese-dining-etiquette-1781035920964",
     "title": "Navigating Japanese Dining Etiquette for Beginners: Mastering the Art of Seasonal Ordering",
     "subtitle": "Unlock the Secrets to Enjoying Authentic Sushi and Beyond",
