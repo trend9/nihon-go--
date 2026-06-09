@@ -12,6 +12,7 @@ import { CmsDashboard } from "./components/CmsDashboard";
 import { AboutModal } from "./components/AboutModal";
 import { PrivacyModal } from "./components/PrivacyModal";
 import { initialArticles } from "./data/initialArticles";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App() {
   // Navigation states
@@ -726,6 +727,9 @@ export default function App() {
       {/* AB. EEAT SYSTEM MODAL OVERLAYS */}
       <AboutModal isOpen={isAboutOpen} onClose={() => setIsAboutOpen(false)} />
       <PrivacyModal isOpen={isPrivacyOpen} onClose={() => setIsPrivacyOpen(false)} />
+
+      {/* Vercel Analytics */}
+      <Analytics />
 
     </div>
   );
