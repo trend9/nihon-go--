@@ -1,5 +1,75 @@
 [
   {
+    "id": "level1-directions-subway-station-1781123695927",
+    "title": "Navigating the Subway: A Beginner's Guide to Asking for Directions",
+    "subtitle": "Step by step, find your way on Tokyo's underground.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Getting around Tokyo can feel daunting for newcomers. This guide provides essential steps and vocabulary to confidently ask for directions on the subway.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to Tokyo! Navigating its bustling train system might seem overwhelming at first, but with a few key phrases in your pocket, you'll be whizzing around like a local in no time. This beginner’s guide will equip you with the language skills needed to ask for directions at even the most confusing subway stations. ",
+    "grammarExplanation": "In Japanese sentences, particles play an important role in conveying meaning and grammatical structure. Learn to recognize these particles as they form essential components of your journey toward fluency.",
+    "postIts": [
+      {
+        "id": "p-directions",
+        "color": "yellow",
+        "title": "Vocabulary: どこへ",
+        "japanese": "どこへ?",
+        "kana": "dō he?",
+        "romaji": "do-he?",
+        "english": "Where to?",
+        "explanation": "This is the most basic question for direction. It means 'Where to?' and is used when you need directions in general.",
+        "exampleJp": "どこへ行くの？",
+        "exampleEn": "Where are you going?",
+        "tip": "You can start with this phrase as it is polite and straightforward, a good starting point. Remember to replace ‘where' with the actual destination or area you want directions for."
+      },
+      {
+        "id": "p-station",
+        "color": "pink",
+        "title": "Vocabulary: 駅",
+        "japanese": "駅",
+        "kana": "eki",
+        "romaji": "ekii",
+        "english": "Station",
+        "explanation": "An 'station' is a specific stop on the subway lines.  Learn to use this word as you encounter it in different contexts.",
+        "exampleJp": "駅はどこ?",
+        "exampleEn": "Where is the station?",
+        "tip": "Remember that this will be used when asking for directions or information about specific stations."
+      }
+    ],
+    "culturalInsight": "**A cultural note on Japanese transit etiquette.**\nIn Japan, punctuality and efficiency are highly valued. The lines can move quickly, so it's good to know the basic etiquette.  While it may seem rude at first, politely stepping aside when someone is about to enter the train car can help avoid potential conflicts.\nFurthermore, using the designated escalators for travel between platforms helps maintain order and efficiency in these crowded spaces.",
+    "quiz": {
+      "type": "multipleChoice",
+      "options": [
+        {
+          "value": "1.  Where to go?",
+          "label": "Question 1: Where to go?"
+        },
+        {
+          "value": "2.  What is the station called?",
+          "label": "Question 2: What's the station name?"
+        },
+        {
+          "value": "3.  How can I ask for directions?",
+          "label": "Question 3: How do you politely ask for directions?"
+        },
+        {
+          "value": "4.  What word means 'station' in Japanese?",
+          "label": "Question 4: Which word means 'station' in Japanese?"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "This is a simple multiple choice quiz to test your comprehension of the article. The correct answer is 'How can I ask for directions?'"
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level1-directions-subway-station-1781123695927.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1781105829474-1781105942111",
     "title": "Tasting the Seasons: Navigating Japanese Dining Etiquette and Ordering Seasonal Dishes",
     "subtitle": "A culinary journey through Japan's seasonal delights",
