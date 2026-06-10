@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1781105829474-1781105942111",
+    "title": "Tasting the Seasons: Navigating Japanese Dining Etiquette and Ordering Seasonal Dishes",
+    "subtitle": "A culinary journey through Japan's seasonal delights",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "This article explores the nuanced world of Japanese dining etiquette and seasonal cuisine, delving into the cultural significance of these aspects. Discover how to navigate a typical Japanese dinner setting, understand the subtle nuances of ordering dishes, and truly savor Japan's rich culinary experiences.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Beyond simply enjoying a meal in Japan, dining is an art form steeped in tradition and unspoken etiquette. From the precise movements of chopsticks to understanding the significance of seasonal ingredients, each element contributes to a deeper, more meaningful experience. Like a haiku capturing fleeting moments of beauty, Japanese dining offers a unique blend of simplicity and profound expression.",
+    "grammarExplanation": "This article uses a formal, academic tone, employing complex sentence structures and sophisticated vocabulary to engage readers on a nuanced level. The use of literary devices like metaphors and analogies further enhances the reading experience and emphasizes the cultural complexity of the subject matter.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 旬 (Shun)",
+        "japanese": "旬 (Shun)",
+        "kana": " shun ",
+        "romaji": "",
+        "english": "Seasonal",
+        "explanation": "This refers to the current season's offerings in Japanese cuisine. It encompasses a wide array of seasonal ingredients used throughout different dishes.",
+        "exampleJp": "旬の野菜は、新鮮で美味しいですね。(Shun no yasai wa, shinkou de taiyō desu ne.)",
+        "exampleEn": "Seasonal vegetables are fresh and delicious, aren't they?",
+        "tip": "When ordering, look for the seasonal menu and try to experience dishes that utilize local ingredients."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: 敬語 (Keigo)",
+        "japanese": "敬語 (Keigo)",
+        "kana": "keigo",
+        "romaji": "",
+        "english": "Formal Language",
+        "explanation": "Japanese culture values respect and formality, even in everyday interactions. The level of politeness used while dining differs depending on the context. For instance, you might use keigo to address a waiter or other customer.",
+        "exampleJp": "先生、この料理は何ですか？(Sensei, kono ryōri wa nan desu ka?)",
+        "exampleEn": "Excuse me, sir/madam, what is this dish?",
+        "tip": "When speaking with servers and other staff, use formal language to show respect."
+      }
+    ],
+    "culturalInsight": "From the art of wagamama cooking to the intricate rules of omakase, Japanese dining reveals a unique cultural tapestry. Mastering the nuances of social etiquette not only allows you to navigate through complex situations but also fosters deeper appreciation for Japanese culture. It is a reflection of respect and gratitude for both the food and the host. Just as a geisha gracefully presents a performance, a traditional Japanese dinner offers a nuanced artistic expression.",
+    "quiz": {
+      "question": "What is the meaning of '旬' in relation to dining?",
+      "options": [
+        "A specific type of rice",
+        "The seasonality of dishes",
+        "An art form for serving meals",
+        "The type of chopsticks used"
+      ],
+      "correctAnswerIndex": 1,
+      "answerExplanation": "The term '旬' in Japanese cuisine refers to the current season's offerings, incorporating fresh and seasonal ingredients. It encompasses a wide array of seasonal ingredients used throughout different dishes."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A stunning photograph featuring a group of people enjoying a traditional Japanese dinner in a contemporary restaurant setting, with an emphasis on the vibrant colors and unique presentation. The image should showcase the beauty and cultural richness of this dining experience.",
+    "thumbnailUrl": "/images/level5-unique-slug-1781105829474-1781105942111.jpg",
+    "thumbnailAlt": "A stunning photograph featuring a group of people enjoying a traditional Japanese dinner in a contemporary restaurant setting, with an emphasis on the vibrant colors and unique presentation. The image should showcase the beauty and cultural richness of this dining experience.",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1781085761679",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
