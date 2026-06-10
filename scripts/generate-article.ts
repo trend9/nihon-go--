@@ -142,9 +142,16 @@ async function generate() {
   ];
   const topicHint = topicsPool[Math.floor(Math.random() * topicsPool.length)];
 
-  const colabUrl = process.env.COLAB_API_URL?.replace(/\/$/, '');
+  let colabUrl = process.argv[2] && (process.argv[2].startsWith("http://") || process.argv[2].startsWith("https://"))
+    ? process.argv[2]
+    : process.env.COLAB_API_URL;
+
+  if (colabUrl) {
+    colabUrl = colabUrl.replace(/\/$/, '');
+  }
+
   if (!colabUrl) {
-    console.error("Error: COLAB_API_URL environment variable is not set.");
+    console.error("Error: COLAB_API_URL is not provided via command line argument or environment variable.");
     process.exit(1);
   }
 
