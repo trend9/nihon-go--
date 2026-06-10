@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1781132225090-1781132333486",
+    "title": "Ready for Adventure? Mastering Japanese Travel Talk.",
+    "subtitle": "Your guide to planning trips and talking about vacation dreams.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to talk about your travel plans and vacation dreams with confidence using simple Japanese phrases. This article is perfect for English speakers who are just starting their journey into the world of learning Japanese!",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Have you ever dreamt of exploring Japan's bustling cities or serene countryside? Whether you're planning a solo backpacking trip through Kyoto's temples or a family vacation to Okinawa's beaches, mastering basic travel language can make your journey smoother and more enjoyable. This guide will equip you with essential phrases to talk about travel schedules, express vacation wishes, and navigate the world of Japanese tourism,  helping you unlock the joys of exploring Japan like a true local.",
+    "grammarExplanation": "Japanese grammar is highly structured, based on honorifics and verb conjugations, but don't worry! This article focuses on essential phrases for travel planning. Mastering these basic structures will give you confidence to communicate your travel dreams in a more natural way.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 旅行",
+        "japanese": "旅行 (ryokou)",
+        "kana": "ryokyū",
+        "romaji": "ryōkō",
+        "english": "travel / trip",
+        "explanation": "Travelling is a common topic in everyday conversation. Knowing how to say 'travel' and its different forms will be helpful when talking about your plans.",
+        "exampleJp": "私は来週、旅行に行く予定だ。",
+        "exampleEn": "I plan to travel next week.",
+        "tip": "The word '旅行' can be used as both the noun meaning 'travel' and also as a verb, indicating an action of traveling. You can say '旅行する', which means 'to travel'. "
+      },
+      {
+        "id": "p2",
+        "color": "yellow",
+        "title": "Vocabulary: 週末",
+        "japanese": "週末 (shūmen)",
+        "kana": "shūmen",
+        "romaji": "shūmen",
+        "english": "weekend",
+        "explanation": "This word is used to express the time of week for travel planning. It's a key phrase in conversations about vacation plans.",
+        "exampleJp": "週末は旅行に行きます。",
+        "exampleEn": "I plan to go on a trip this weekend.",
+        "tip": "In Japanese, '週末' is often used as a unit of time for planning."
+      }
+    ],
+    "culturalInsight": "Japan is renowned for its meticulous approach to travel. Whether you're taking the bullet train to Tokyo or staying at a traditional Ryokan in Kyoto, the cultural emphasis on punctuality and courtesy will add an enriching layer to your experience. Remember to respect these customs as you plan your itinerary.",
+    "quiz": {
+      "question": "What does the word '旅行' mean?",
+      "options": [
+        "Travel",
+        "Weekend",
+        "Japanese Food",
+        "Bullet Train"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'Travel'. In this article, we explained how the word '旅行' can be used to express different forms of travel."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up photo of a traveler packing their suitcase with traditional Japanese clothing like a kimono or yukata in a modern minimalist setting, against a backdrop of a bustling Tokyo street market with colorful lanterns hanging on the buildings.",
+    "thumbnailUrl": "/images/level2-unique-slug-1781132225090-1781132333486.jpg",
+    "thumbnailAlt": "A close-up photo of a traveler packing their suitcase with traditional Japanese clothing like a kimono or yukata in a modern minimalist setting, against a backdrop of a bustling Tokyo street market with colorful lanterns hanging on the buildings.",
+    "isVerified": true
+  },
+  {
     "id": "level1-directions-subway-station-1781123695927",
     "title": "Navigating the Subway: A Beginner's Guide to Asking for Directions",
     "subtitle": "Step by step, find your way on Tokyo's underground.",
