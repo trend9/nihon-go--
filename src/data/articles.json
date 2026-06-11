@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1781150270694-1781150370144",
+    "title": "Inside the Flow: Describing Daily Life in Japan's Homes",
+    "subtitle": "A journey through Japanese home routines and a peek into everyday life.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover how to describe the daily routines of Japanese individuals. Learn about their homes and typical tasks.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Evenings can bring a quiet contentment in Japan. The hum of activity often slows down as twilight descends. Lights flicker on in kitchens, signaling the start of family meals. But before you indulge in a steaming bowl of ramen, delve into understanding the rhythm of everyday Japanese life through a series of familiar household routines. From laundry to cooking, from cleaning to preparing for work, these activities form a daily cycle that is as rhythmic and predictable as it is captivating.",
+    "grammarExplanation": "This article utilizes a range of sentence structures, including simple sentences, compound sentences, and complex sentences. Understanding verb conjugation, particle usage, and the importance of context will help readers comprehend the nuanced language used in this piece. ",
+    "postIts": [
+      {
+        "id": "p_1",
+        "color": "yellow",
+        "title": "Vocabulary: お風呂",
+        "japanese": "お風呂",
+        "kana": "o-bu-ro",
+        "romaji": "O-buro",
+        "english": "Bath",
+        "explanation": "This is a word for bath in Japanese. We can use this to talk about daily routine.",
+        "exampleJp": "毎晩、お風呂に入ります。 (Mai ban, o-bu-ro ni iimasu.)",
+        "exampleEn": "I take a bath every night.",
+        "tip": "The 'お' before the word means respect in Japanese. The sound of the verb can be more fun than just its meaning."
+      },
+      {
+        "id": "p_2",
+        "color": "pink",
+        "title": "Vocabulary: 洗濯機",
+        "japanese": "洗濯機",
+        "kana": "senta-ki",
+        "romaji": "Senta-ki",
+        "english": "Washing Machine",
+        "explanation": "This is a word for washing machine in Japanese. The machine performs repetitive actions to clean laundry.",
+        "exampleJp": "洗濯機で服を洗います。 (Senta-ki de fu wo aseimasu.)",
+        "exampleEn": "I wash my clothes with the washing machine.",
+        "tip": "The verb '洗う' can be used for more than just washing clothes. It can also mean cleaning, as in washing the dishes."
+      }
+    ],
+    "culturalInsight": "Life revolves around a daily rhythm. The afternoon often signifies a slowdown and a shift from work to personal time.",
+    "quiz": {
+      "question": "What is the Japanese word for 'bath'?",
+      "options": [
+        "洗濯機",
+        "お風呂",
+        "トイレ",
+        "冷蔵庫"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is  'お風呂' (O-buro). This word refers to a bath in Japanese. The other options are incorrect."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A person cooking on an electric stove in a modern Japanese kitchen with minimal lighting and natural wood tones. A bowl of ramen sits on the table nearby.",
+    "thumbnailUrl": "/images/level3-unique-slug-1781150270694-1781150370144.jpg",
+    "thumbnailAlt": "A person cooking on an electric stove in a modern Japanese kitchen with minimal lighting and natural wood tones. A bowl of ramen sits on the table nearby.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1781132225090-1781132333486",
     "title": "Ready for Adventure? Mastering Japanese Travel Talk.",
     "subtitle": "Your guide to planning trips and talking about vacation dreams.",
