@@ -1,5 +1,62 @@
 [
   {
+    "id": "level1-unique-slug-1781209529211-1781209653997",
+    "title": "Navigating the Subway: Asking for Directions in Japan",
+    "subtitle": "A beginner's guide to getting around Tokyo's underground network.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article provides a simple yet comprehensive guide to navigating Japan's bustling subway system. We cover the basics of ordering tickets, understanding station layouts, and asking for directions in Japanese - perfect for beginners.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Getting lost is an inherent part of travel, especially when navigating unfamiliar cities like Tokyo. While the city's vibrant energy can be overwhelming at first, mastering the subway system will provide you with a sense of ease and independence. This beginner-friendly guide provides basic steps to navigate Tokyo's underground network effortlessly.",
+    "grammarExplanation": "Japanese grammar, while complex, often follows Western systems. Subject-verb-object is a fundamental structure. Learn how this order works in simple sentences before moving on to more complex ones.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "",
+        "english": "Today",
+        "explanation": "This word means 'today' and is essential in many contexts.",
+        "exampleJp": "今日はいい天気ですね。\n(Kyō wa ii tenki desu ne.) - Today the weather is nice.",
+        "exampleEn": "It's a nice day today.",
+        "tip": "This term is often followed by '〇〇', such as '今日は〇〇です' which means 'it's (something) today.'."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 何ですか？",
+        "japanese": "何ですか？",
+        "kana": "nani desu ka?",
+        "romaji": "",
+        "english": "What is this?",
+        "explanation": "This phrase is used to ask for clarification. It’s a polite way of seeking information.",
+        "exampleJp": "駅はどこですか？\n(Eki wa doko desu ka?) - Where is the station?",
+        "exampleEn": "Where's the station?",
+        "tip": "Use 'なんですか？' to ask for clarification or explanation in a polite manner."
+      }
+    ],
+    "culturalInsight": "Subway stations in Japan are not just transportation hubs but also bustling social spaces. Expect to witness fascinating interactions between locals and tourists alike, often showcasing the country’s unique culture and etiquette.",
+    "quiz": {
+      "question": "Which phrase would be suitable for asking for directions within a subway station? ",
+      "options": [
+        "どこですか？",
+        "何ですか？",
+        "はい",
+        "いいえ"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is '何ですか？' - used to politely request clarification or information."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\", \"@type\": \"Article\"}",
+    "thumbnailUrl": "/images/level1-unique-slug-1781209529211-1781209653997.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of asking for directions in a subway station",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1781193927343",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
