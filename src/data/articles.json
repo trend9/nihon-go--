@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1781259328406-1781259457463",
+    "title": "Kyoto Souvenirs: Navigating the Art of Shopping in the Evening Glow",
+    "subtitle": "An exploration of cultural etiquette and shopping strategies for souvenirs in Kyoto.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "This article provides a comprehensive guide to navigating the art of souvenir shopping in Kyoto, particularly during the evening hours. Learn about local etiquette, essential phrases to use, and practical strategies for making successful purchases.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into the vibrant streets of Kyoto after sunset is an experience in itself. The air vibrates with the energy of thousands preparing for their evening festivities, while lanterns cast a warm glow over historical temples and tranquil gardens. As you navigate the bustling market stalls, your eyes are drawn to the dazzling array of handcrafted souvenirs: from exquisite tea ceremony sets to intricate wooden carvings. But navigating this world requires more than just a keen eye - it demands an understanding of local customs and smart shopping strategies. This article provides a helpful roadmap for those seeking to understand the intricacies of souvenir shopping in Kyoto, specifically during the evening hours.",
+    "grammarExplanation": "This piece will delve into the use of formal vocabulary, such as 'souvenir' and 'historical', to create a sense of elegance and sophistication. Additionally, it incorporates idiomatic phrases like 'evening glow' and 'cultural etiquette' to convey a deeper understanding of the cultural context. This article uses complex sentence structures that are typical of academic writing, but will be easily understood by English-speaking readers. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 伝統品",
+        "japanese": "伝統品",
+        "kana": " tradyō-hi",
+        "romaji": "traditional items",
+        "english": "Traditional Items",
+        "explanation": "This phrase means 'traditional goods' or 'artisan crafts'. It emphasizes the cultural significance of souvenirs.",
+        "exampleJp": "伝統品は、日本の文化の象徴である",
+        "exampleEn": "Traditional products are symbols of Japanese culture.",
+        "tip": "Note: For more formal settings, use '伝統品' or '伝統的なもの', for everyday conversation, you can use  '伝統製品' or '伝統工芸品'. "
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お礼",
+        "japanese": "お礼",
+        "kana": "o-rei",
+        "romaji": "O-Rei",
+        "english": "Acknowledgement",
+        "explanation": "This word means 'thank you' and is crucial for expressing appreciation when purchasing souvenirs. It demonstrates respect for the artisans.",
+        "exampleJp": "ありがとうございます",
+        "exampleEn": "Thank you",
+        "tip": "It's important to use a formal tone, such as 'お礼を申し上げます' or '御礼に申し上げる'. Use a more casual tone like 'ありがとうございます' when speaking with friends and family."
+      }
+    ],
+    "culturalInsight": "Kyoto is a city rich in history and tradition, where artisans have honed their crafts for centuries. Shopping for souvenirs here goes beyond just acquiring trinkets; it's about immersing yourself in the culture and appreciating the artistry involved. When choosing your souvenirs, remember to approach with respect. A simple 'thank you' or an expression of gratitude can deepen your appreciation for these cultural treasures.  ",
+    "quiz": {
+      "question": "What is a common practice when purchasing souvenirs in Kyoto?",
+      "options": [
+        "Bargaining aggressively.",
+        "Paying with cash only.",
+        "Expressing gratitude and thanking the artisan.",
+        "Negotiating on price with the merchant."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "In Kyoto, shopping for souvenirs is a cultural experience where expressing gratitude to artisans is considered essential.  It fosters respect and appreciation for their craftsmanship, resulting in a deeper connection with the local culture."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An illustration of a traditional craft shop in Kyoto's Gion district at dusk. The shop should showcase handcrafted items such as wood carvings or ceramics. A serene atmosphere with warm tones and soft lighting, showcasing the rich cultural heritage of Japan.",
+    "thumbnailUrl": "/images/level4-unique-slug-1781259328406-1781259457463.jpg",
+    "thumbnailAlt": "An illustration of a traditional craft shop in Kyoto's Gion district at dusk. The shop should showcase handcrafted items such as wood carvings or ceramics. A serene atmosphere with warm tones and soft lighting, showcasing the rich cultural heritage of Japan.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1781236817958",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
