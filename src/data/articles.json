@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1781359224931-1781359329278",
+    "title": "Inside Your Home: A Beginner's Guide to Japanese Daily Life",
+    "subtitle": "Navigating everyday routines and finding your place in the world of Japanese households.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article dives into the everyday routines and objects commonly found in Japanese households. It helps you learn basic words related to daily life, providing a stepping stone toward understanding the culture.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Knowing how to navigate a new culture can feel daunting, but understanding the basics of everyday life is key to feeling more comfortable and connecting with people. Let's take a peek inside typical Japanese homes, where even simple tasks are infused with unique rituals and practices. From preparing breakfast in the morning to enjoying evening tea, we'll explore how everyday routines shape the rhythm of Japanese life.\n\n\"*This house is like a warm bath.* \" -  Junko Kawashima, Tokyo resident\n\nLet's start our journey by exploring common household items and daily activities.",
+    "grammarExplanation": "In this Level 2 article on Japanese language learning, we focus on everyday vocabulary and short phrases. We use simple sentence structures to help you grasp basic interactions.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "pink",
+        "title": "Vocabulary: Kitchen & Dining",
+        "japanese": "キッチン",
+        "kana": "Kichīnin",
+        "romaji": "Kitchen",
+        "english": "Kitchen",
+        "explanation": "This post-it notes provides essential Japanese vocabulary for understanding kitchen and dining experiences.  ",
+        "exampleJp": "キッチンで食事をする\n(Kitchen de seibi wo suru)\nEating at the kitchen",
+        "exampleEn": "I eat at the kitchen.",
+        "tip": "Kitchen is also referred to as 'kitchenette' in some places."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary: Bathroom & Sleep",
+        "japanese": "浴室",
+        "kana": "Yushoku",
+        "romaji": "Yūshōku",
+        "english": "Bathroom",
+        "explanation": "This post-it notes covers essential Japanese vocabulary for understanding bathroom and sleep experiences. ",
+        "exampleJp": "この浴室はきれいです\n(Kono yushoku wa keite i desu)\nThe bathroom is clean.",
+        "exampleEn": "This bathroom is so neat.",
+        "tip": "Bathroom in Japanese often refers to 'bathroom' as a place for hygiene. "
+      }
+    ],
+    "culturalInsight": "A culture of respect, mindfulness, and shared spaces permeates everyday life in Japan. The concept of 'Omotenashi' emphasizes hospitality and providing an immersive experience.  From the preparation of meals to hosting guests, Japanese homes are hubs of activity and communication.",
+    "quiz": {
+      "question": "What is a common term for the kitchen in Japanese?",
+      "options": [
+        "キッチン",
+        "リビング",
+        "寝室",
+        "お風呂"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is \"キッチン\".  'Kitchen' or \"Kitchen\" are frequently used words to describe the area in Japanese."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a traditional Japanese tatami room with an open-style kitchen, displaying local pottery and flowers on display.",
+    "thumbnailUrl": "/images/level2-unique-slug-1781359224931-1781359329278.jpg",
+    "thumbnailAlt": "A photo of a traditional Japanese tatami room with an open-style kitchen, displaying local pottery and flowers on display.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1781349889983",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
