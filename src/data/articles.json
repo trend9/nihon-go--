@@ -1,5 +1,76 @@
 [
   {
+    "id": "level3-unique-slug-1781367381765-1781367505442",
+    "title": "Kyoto Souvenirs: Shopping Like a Pro in the Afternoon Sun",
+    "subtitle": "A cultural guide for finding souvenirs and asking prices.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Uncover the secrets of souvenir shopping in Kyoto during the afternoons. This guide helps you navigate prices and find the perfect souvenirs while immersing yourself in the city's vibrant culture.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Kyoto's charm lies not just in its ancient temples and serene gardens, but also in its plethora of fascinating souvenirs. From traditional crafts to quirky finds, there’s something for everyone seeking a piece of this enchanting city. Whether you’re a seasoned traveler or just beginning your journey through Japan, this guide will help you navigate the bustling streets of Kyoto during the afternoon, where sunlight casts long shadows and prices are often more transparent than in the quiet mornings. As one local artisan explains, 'The afternoons are a time for reflection, for gathering inspiration and ideas'.  *",
+    "grammarExplanation": "This article incorporates typical sentence structure for Level 3 learners. The use of present tense and simple past tenses is prominent, with some focus on future-oriented language. For example, the phrase ‘as one local artisan explains…’ signals a shift towards describing the experience of someone’s perspective in Kyoto.",
+    "postIts": [
+      {
+        "id": "p1_Kyoto",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This is a common expression used to indicate the present day. It can be used in a variety of contexts, but it’s most often used when talking about time.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a nice day today, isn't it?",
+        "tip": "Say this to emphasize the present moment. Use in conversations to show that you are currently focused on the topic at hand."
+      },
+      {
+        "id": "p2_Souvenir",
+        "color": "green",
+        "title": "Vocabulary:  お土産 (omae-tour)",
+        "japanese": "お土産",
+        "kana": "omotai",
+        "romaji": "o-ma-tei",
+        "english": "Souvenirs",
+        "explanation": "This is a common word used to describe something you bring home as a reminder of your trip. When talking about souvenirs, it’s important to use specific terms such as 'souvenir' or 'omae-tour', which are the most appropriate.",
+        "exampleJp": "おみやげは、お土産で買うのが一番良いでしょう。",
+        "exampleEn": "Souvenirs can be bought at shops and markets, for example. It’s best to purchase them at a shop or market if you're interested in souvenirs.",
+        "tip": "Think of it as something special that you bring back from your travels."
+      }
+    ],
+    "culturalInsight": "From traditional crafts like lacquered wooden bowls and intricately woven silk fans to local delicacies like matcha sweets and unique stationery, Kyoto offers a treasure trove of souvenirs for every taste. Don’t be surprised if the shop owners offer to share their knowledge about the history and craftsmanship behind these objects, adding another layer to your shopping experience.  It is important to note that, in this cultural context, asking questions about prices isn't always seen as rude; it can even show a respect for the art and craftsmanship involved.",
+    "quiz": {
+      "type": "multipleChoice",
+      "question": "What time of day is this article best suited for reading?",
+      "options": [
+        {
+          "text": "Morning",
+          "value": 0
+        },
+        {
+          "text": "Late Morning",
+          "value": 1
+        },
+        {
+          "text": "Afternoon",
+          "value": 2
+        },
+        {
+          "text": "Evening",
+          "value": 3
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "This article focuses on the afternoon shopping experience in Kyoto.  The cultural context is important to understand when exploring this area of the city."
+    },
+    "imagePrompt": "A bustling street market in Kyoto with colorful lanterns and stalls selling traditional crafts (artistic image prompt example) ",
+    "schemaMarkup": "{\"@context\":\"http://schema.org/\",\"@type\":\"Article\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1781367381765-1781367505442.jpg",
+    "thumbnailAlt": "A bustling street market in Kyoto with colorful lanterns and stalls selling traditional crafts (artistic image prompt example) ",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1781359224931-1781359329278",
     "title": "Inside Your Home: A Beginner's Guide to Japanese Daily Life",
     "subtitle": "Navigating everyday routines and finding your place in the world of Japanese households.",
