@@ -1,5 +1,61 @@
 [
   {
+    "id": "level1-greeting-the-sun-1781349889983",
+    "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
+    "subtitle": "How a simple morning phrase connects people in Japan",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learn the essentials of morning greetings in Japan. Understand the difference between polite and casual forms of Ohayou.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "In Japan, a day begins not just with the rising sun, but with a chorus of greetings. Walking through a quiet residential neighborhood or entering a bustling Tokyo office, the phrase you will hear most frequently is 'Ohayou gozaimasu' (おはようございます). More than just a translation of 'Good morning,' it sets the tone for social harmony and mutual respect throughout the day. For beginners, mastering this simple yet profound greeting is the first step toward genuine connection with locals.",
+    "grammarExplanation": "The greeting comes in two main forms: the polite form and the casual form. 'Ohayou gozaimasu' (おはようございます) is the polite version. You should use it with teachers, bosses, strangers, or anyone older than you. The shorter version, 'Ohayou' (おはよう), is casual. It is reserved for close friends, family members, and classmates of similar age. Leaving off the 'gozaimasu' makes the phrase informal, so be careful not to use it with your superiors at work!",
+    "postIts": [
+      {
+        "id": "p-morning-1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "きょう",
+        "romaji": "kyou",
+        "english": "today",
+        "explanation": "A fundamental time word. Used to describe events happening on the current day.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It is nice weather today, isn't it?"
+      },
+      {
+        "id": "p-morning-2",
+        "color": "blue",
+        "title": "Vocabulary: 朝",
+        "japanese": "朝",
+        "kana": "あさ",
+        "romaji": "asa",
+        "english": "morning",
+        "explanation": "Refers to the early part of the day. Often paired with other words like 'asa-gohan' (breakfast).",
+        "exampleJp": "朝、早く起きました。",
+        "exampleEn": "I got up early in the morning."
+      }
+    ],
+    "culturalInsight": "In Japanese business culture, saying 'Ohayou gozaimasu' is mandatory when you first see your colleagues, even if it is already afternoon or evening! In this context, it functions as a acknowledgment of 'This is the start of our shift together' rather than a literal reference to the morning sun.",
+    "quiz": {
+      "question": "Which of the following people should you greet with 'Ohayou gozaimasu' rather than just 'Ohayou'?",
+      "options": [
+        "Your younger sister",
+        "Your boss at a new company",
+        "Your best friend from high school",
+        "Your pet cat"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Ohayou gozaimasu' is the polite form, making it the appropriate choice for a boss or supervisor. The other options are casual relationships where 'Ohayou' is perfectly fine."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org\",\"@type\":\"ScholarlyArticle\",\"headline\":\"Greeting the Sun: The Art of Ohayou Gozaimasu\",\"author\":{\"@type\":\"Person\",\"name\":\"Kenji Sato\"},\"description\":\"Learn the essentials of morning greetings in Japan.\",\"articleSection\":\"Japanese Language Learning\"}",
+    "imagePrompt": "A serene Tokyo residential street at sunrise, warm morning light hitting the houses, minimalist watercolor style",
+    "thumbnailUrl": "/images/level1-greeting-the-sun-1781349889983.jpg",
+    "thumbnailAlt": "A serene Tokyo residential street at sunrise, warm morning light hitting the houses, minimalist watercolor style",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1781341314420",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
