@@ -1,5 +1,57 @@
 [
   {
+    "id": "level5-unique-slug-1781465300287-1781465415659",
+    "title": "Decoding Japanese Dining Etiquette: A Journey to Seasonal Delights",
+    "subtitle": "Savoring the Art of Ordering in Harmony with Nature's Cycles",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Unlock the secrets of Japanese dining etiquette and immerse yourself in a world where culinary experiences are interwoven with nature's rhythms. This guide delves into the intricacies of seasonal menus, table manners, and cultural nuances that define the art of enjoying a meal in Japan.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Imagine this: you step into a serene Japanese restaurant, bathed in warm lighting and filled with the gentle clinking of chopsticks. The air hums with anticipation as you order your first dish. It's not just about what you eat; it's about the entire experience, a delicate dance between etiquette and culinary artistry. Tonight, we embark on a journey to decode the unspoken rules of Japanese dining, embracing a culture that finds harmony in seasons and reverence for local flavors.",
+    "grammarExplanation": "This article employs formal language suitable for its level, with clear subject-verb agreement, appropriate tenses, and nuanced vocabulary. The introduction uses a narrative approach, evoking a visual image of the dining experience. It incorporates cultural references and historical context to elevate the language's tone. The text utilizes both literal and figurative imagery to further engage the reader and convey depth.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary:  お食事の儀 (Oshigoto no Igi)",
+        "japanese": "お食事の儀",
+        "kana": "o shigoto no igi",
+        "romaji": "oshishoto no igi",
+        "english": "Dining Etiquette",
+        "explanation": "This phrase encompasses the intricate rituals and customs observed in Japanese dining. Understanding these traditions can enrich your experience.",
+        "exampleJp": "お食事の儀は、伝統と礼節に基づいています。",
+        "exampleEn": "Japanese dining etiquette is based on tradition and protocol.",
+        "tip": "Observe for nuances like bowing, hand gestures, and use of chopsticks in Japanese dining."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  旬 (Shun)",
+        "japanese": "旬",
+        "kana": "shun",
+        "romaji": "shun",
+        "english": "Seasonality",
+        "explanation": "This refers to the peak of a particular type of food, harvested in a specific season and most fresh. Understanding this principle enhances appreciation for seasonal dishes.",
+        "exampleJp": "夏には、旬の野菜が豊富に手に入ります。",
+        "exampleEn": "During summer, you can find many fresh seasonal vegetables at the market.",
+        "tip": "Seasonal menus reflect regional culinary traditions and feature ingredients harvested at their prime."
+      }
+    ],
+    "culturalInsight": "As a visitor in Japan, you'll quickly realize that food is deeply connected to both tradition and respect. Japanese dining etiquette isn't just about politeness; it's about acknowledging the effort and artistry behind each ingredient. A meal isn't simply a way of fueling your body; it's an experience steeped in history and social harmony. ",
+    "quiz": {
+      "question": "Which of these is considered the most important etiquette rule in Japanese dining? \n a) Ordering the menu first \n b) Using chopsticks correctly \n c) Respecting the host and their seating arrangement \n d) Asking for a second serving\n",
+      "correctAnswerIndex": 0,
+      "explanation": "The answer is (c). Respecting the host and their seating arrangements are considered the most crucial aspect of Japanese dining etiquette.  It involves being mindful of space, bowing, and allowing for a more relaxed flow to the meal."
+    },
+    "imagePrompt": "A serene Japanese restaurant with tatami mats and traditional decor, a table set with chopsticks and sake cups in the center.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level5-unique-slug-1781465300287-1781465415659.jpg",
+    "thumbnailAlt": "A serene Japanese restaurant with tatami mats and traditional decor, a table set with chopsticks and sake cups in the center.",
+    "isVerified": true
+  },
+  {
     "id": "level4-unique-slug-1781454207874-1781454331900",
     "title": "Finding Zen: The Beauty of Imperfection in Japanese Philosophy",
     "subtitle": "Exploring the concepts of wabi-sabi, mono no aware, and yugen.",
