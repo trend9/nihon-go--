@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1781454207874-1781454331900",
+    "title": "Finding Zen: The Beauty of Imperfection in Japanese Philosophy",
+    "subtitle": "Exploring the concepts of wabi-sabi, mono no aware, and yugen.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Delve into the world of Japanese philosophy and discover its secrets to finding beauty in imperfection. Learn about wabi-sabi, mono no aware, and yugen as we explore how these concepts shape cultural aesthetics and individual perspectives.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "There's a certain magic to the Japanese concept of 'wabi-sabi,' an acceptance of imperfection. Imagine finding beauty in weathered wood, a chipped teacup, or moss growing on a stone wall – it's a feeling that transcends mere aesthetics and speaks to the heart of human existence. This philosophy, deeply intertwined with other concepts like ‘mono no aware’ (a poignant awareness of fleeting life) and ‘yugen’ (the ineffable beauty of aging), provides a unique perspective on embracing impermanence and finding peace within the ever-changing world around us. It is through this lens that we gain deeper insight into what truly matters in life, challenging us to find joy in the ordinary, the unexpected, and the beautiful in its imperfection.",
+    "grammarExplanation": "This article will explore the use of complex grammar structures in Japanese, focusing on particles, verb conjugations, and sentence structures. We'll delve into how these grammatical nuances contribute to creating nuanced and evocative texts in English that capture the essence of Japanese philosophy. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This word represents the present moment. It's a reminder to live fully in this very second.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's nice weather today.",
+        "tip": "In English, 'today' can be used to specify a day of the week. For example: 'What are you doing today?'"
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: 侘び寂",
+        "japanese": "侘び寂",
+        "kana": "waabi-sabi",
+        "romaji": "wabi-sabi",
+        "english": "Wabi-sabi",
+        "explanation": "This refers to a subtle beauty found in imperfection, asymmetry, and naturalness.",
+        "exampleJp": "古びた家具は、侘び寂を感じる魅力があります。",
+        "exampleEn": "The antique furniture has a beauty of melancholy with its age and flaws. ",
+        "tip": "Think about the imperfections in your favorite object – what gives it character? This is what wabi-sabi embodies."
+      }
+    ],
+    "culturalInsight": "Japanese philosophy often finds itself intertwined with art, literature, and daily life. The appreciation for 'wabi-sabi' goes beyond aesthetics; it serves as a philosophical framework that informs one’s approach to living and facing the world around them.",
+    "quiz": {
+      "question": "What does the Japanese philosophy of wabi-sabi embrace?",
+      "options": [
+        "A. The pursuit of wealth and prosperity",
+        "B. The acceptance of imperfection in all things",
+        "C. The glorification of technology",
+        "D. The belief that everything must be perfectly organized"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The philosophy of wabi-sabi emphasizes finding beauty in imperfection. This philosophy encourages us to embrace the natural world's imperfections and find peace within them."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A high-resolution image with a watercolor painting style showing a serene landscape with old stone walls, moss-covered trees, and subtle mist. The scene should evoke a feeling of tranquility and contemplation. \n*Technical note: Use a 4K resolution to ensure high clarity when generating an image.*",
+    "thumbnailUrl": "/images/level4-unique-slug-1781454207874-1781454331900.jpg",
+    "thumbnailAlt": "A high-resolution image with a watercolor painting style showing a serene landscape with old stone walls, moss-covered trees, and subtle mist. The scene should evoke a feeling of tranquility and contemplation. \n*Technical note: Use a 4K resolution to ensure high clarity when generating an image.*",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1781446045131",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
