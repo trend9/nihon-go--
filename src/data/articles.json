@@ -1,5 +1,76 @@
 [
   {
+    "id": "level2-unique-slug-1781496970022-1781497083477",
+    "title": "Seasonal Greetings and Weather Updates: Mastering the Art of Letter Writing",
+    "subtitle": "Unlocking Japanese language nuances for seamless communication.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to express seasonal changes and weather in Japanese letters with this beginner-friendly guide. From greetings to descriptions, we'll empower you to communicate effectively in Japanese!",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Letters hold a special place in the cultural fabric of Japan. Not only are they a classic way to express yourself, but they also offer a unique perspective on how weather impacts daily life. Whether you're writing a thank-you note or a travel journal entry, mastering this art can enhance your Japanese communication skills. This guide will equip you with essential vocabulary and basic grammar to confidently navigate these cultural nuances.",
+    "grammarExplanation": "Japanese sentence structure is simple yet nuanced, often following subject-object-verb (SOV) order. For example, a simple statement like ‘今日は天気は良い’ translates directly to ‘Today the weather is good’, but understanding the subtle implications of each word can significantly enhance your communication.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "Indicates the present day.",
+        "exampleJp": "今日は素晴らしい天気ですね！\n(Kyou wa sugoi-shiteki tenki desu ne!) - Today's weather is fantastic!",
+        "exampleEn": "Today's weather is great!",
+        "tip": "The 'kyou' portion has a slight emphasis on the present moment, almost like a casual ‘Hey, It’s today!’."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "pink",
+        "title": "Vocabulary: 雨",
+        "japanese": "雨",
+        "kana": "ame",
+        "romaji": "ama",
+        "english": "Rain",
+        "explanation": "Indicates the presence of rain.",
+        "exampleJp": "今日は雨が降ります。\n(Kyou wa ame ga furu-imasu.) - It's going to rain today.",
+        "exampleEn": "It is raining today.",
+        "tip": "When speaking, pronounce 'ama' more like ‘ah-mah’ than a standard 'a-mah'."
+      }
+    ],
+    "culturalInsight": "A Brief cultural Insight on Letter Writing in Japan:\n\nJapanese culture holds letter writing as an integral part of communication. It goes beyond simply sending messages; it embodies the art of crafting personal expression through written words. This can be seen in traditional letters, often featuring elegant calligraphy and a focus on formality.  Imagine writing a postcard to your family back home!  The act of putting pen to paper holds a special significance that speaks volumes about the culture’s appreciation for depth and connection.",
+    "quiz": {
+      "type": "single_choice",
+      "question": "What is the meaning of ‘今日は良い天気ですね！’?",
+      "options": [
+        {
+          "text": "It's a great day to go outside.",
+          "value": 1
+        },
+        {
+          "text": "It will rain today.",
+          "value": 2
+        },
+        {
+          "text": "It is going to be beautiful weather.",
+          "value": 3
+        },
+        {
+          "text": "The weather is good",
+          "value": 4
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "This sentence translates to ‘Today the weather is good.’  Notice how Japanese uses 'kyou' and 'sugoi-shiteki tenki' for the weather, highlighting a more nuanced approach than simply saying 'good'. This emphasizes the current moment of the day."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic illustration of someone writing in a traditional Japanese style.  The image should include elements such as bamboo paper, ink, calligraphy brush strokes and possibly a modern phone screen in the background. The color palette is to be based on earthy tones.",
+    "thumbnailUrl": "/images/level2-unique-slug-1781496970022-1781497083477.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of someone writing in a traditional Japanese style.  The image should include elements such as bamboo paper, ink, calligraphy brush strokes and possibly a modern phone screen in the background. The color palette is to be based on earthy tones.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1781475217280",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
