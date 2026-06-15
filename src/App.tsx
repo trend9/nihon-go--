@@ -69,12 +69,20 @@ export default function App() {
       if (res.ok) {
         const data = (await res.json()) as Article[];
         if (data && data.length > 0) {
-          setArticles(data);
-          // If previous selected ID is no longer in the list, default to first item
-          const stillExists = data.some((a) => a.id === selectedArticleId);
-          if (!stillExists) {
-            setSelectedArticleId(data[0].id);
-          }
+          // Check if there is a new latest article compared to current state
+          setArticles((prevArticles) => {
+            if (prevArticles.length > 0 && data[0] && data[0].id !== prevArticles[0].id) {
+              setSelectedArticleId(data[0].id);
+              triggerToast(`New Edition Published: ${data[0].title}!`);
+            } else {
+              // Otherwise keep selection if valid, or default to data[0]
+              const stillExists = data.some((a) => a.id === selectedArticleId);
+              if (!stillExists) {
+                setSelectedArticleId(data[0].id);
+              }
+            }
+            return data;
+          });
         }
       }
     } catch (err) {
@@ -362,8 +370,11 @@ export default function App() {
                         : "opacity-60 hover:opacity-100"
                     }`}
                   >
-                    <span className="font-sans font-bold text-[10px] sm:text-xs block">
-                      {t.title.split(" ")[0]} • LVL {t.level} {hasCompleted && "✓"}
+                    <span className="font-sans font-bold text-[10px] sm:text-xs flex items-center gap-1">
+                      <span>{t.title.split(" ")[0]} • LVL {t.level} {hasCompleted && "✓"}</span>
+                      {matchArt && articles[0] && matchArt.id === articles[0].id && (
+                        <span className="px-1 py-0.2 bg-red-700 text-white text-[8px] font-sans font-bold uppercase rounded-xs animate-pulse">LATEST</span>
+                      )}
                     </span>
                     <span className={`italic text-xs block leading-tight ${isSelected ? 'underline' : ''}`}>
                       {matchArt ? matchArt.title : `Awaiting Level ${t.level} print...`}
@@ -400,8 +411,11 @@ export default function App() {
                       }`}
                     >
                       <div className="flex justify-between items-baseline gap-1">
-                        <span className={`font-mono font-semibold text-[8px] uppercase ${isCurrent ? 'text-gray-300' : 'text-gray-500'}`}>
-                          LVL {art.level} UPDATE
+                        <span className={`font-mono font-semibold text-[8px] uppercase ${isCurrent ? 'text-gray-300' : 'text-gray-500'} flex items-center gap-1.5`}>
+                          <span>LVL {art.level} UPDATE</span>
+                          {articles[0] && art.id === articles[0].id && (
+                            <span className="px-1 py-0.2 bg-red-700 text-white text-[8px] font-sans font-bold uppercase rounded-xs animate-pulse">LATEST</span>
+                          )}
                         </span>
                         <span className="font-mono text-[8.5px] opacity-60 font-semibold uppercase">
                           {art.timeOfDay}
