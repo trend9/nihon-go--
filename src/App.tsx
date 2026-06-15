@@ -610,7 +610,9 @@ export default function App() {
                           <span className={`font-mono text-[10px] uppercase font-bold px-1.5 py-0.5 ${isSelected ? 'bg-white/10' : 'bg-black/5'} rounded-none`}>
                             {String.fromCharCode(65 + oIdx)}
                           </span>
-                          <span className="truncate">{opt}</span>
+                          <span className="truncate">
+                            {typeof opt === "object" && opt !== null ? (opt as any).text : opt}
+                          </span>
                         </button>
                       );
                     })}
