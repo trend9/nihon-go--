@@ -1,5 +1,68 @@
 [
   {
+    "id": "level4-unique-slug-1781643195118-1781643333129",
+    "title": "Navigating Japanese Dining: Seasonal Dishes and Etiquette for Business Meals",
+    "subtitle": "An Evening Guide to Mastering the Art of Ordering in Japan",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learn how to navigate the sophisticated world of Japanese dining etiquette and order seasonal dishes for business meetings. From understanding the nuances of table manners to grasping key vocabulary, this guide will empower you to confidently handle any situation.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the vibrant tapestry of Japanese culture, dining is more than just a meal; it's an art form. From meticulous tea ceremony rituals to the subtle expressions woven into every gesture, each aspect contributes to a holistic experience. Mastering the nuances of etiquette and embracing seasonal delicacies is key to achieving smooth business interactions. This guide dives into the complexities of Japanese dining etiquette, offering insights into how to navigate the social landscape for optimal success. Whether you're navigating formal business dinners or simply seeking to understand more about the local culture.",
+    "grammarExplanation": "The article uses a mix of formal and informal English, reflecting typical journalistic style and aiming for clarity for an English audience. It includes simple sentence structures with occasional complex sentences for depth, such as the introduction. For grammar explanation, focus on vocabulary like 'etiquette' (礼節) and 'delicacies' (料理) which require a nuanced understanding of meaning.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: Today's Menu",
+        "japanese": "今日のメニュー",
+        "kana": "Kyō no menu",
+        "romaji": "Kyou no menu",
+        "english": "Today's Menu",
+        "explanation": "This is a quick reference for commonly used Japanese vocabulary, especially in dining.  It can be used to quickly find specific terms like today's menu.",
+        "exampleJp": "今日の料理は？(Kyō no ryoi wa?)",
+        "exampleEn": "What are the dishes of the day?",
+        "tip": "To ask for dishes, you would normally just say 'メニュー (menu)' or '料理 (ryōi)'. For instance: 'メニューを教えてください (Menu o oshie kudasai)'. This is a polite way to ask for the menu."
+      },
+      {
+        "id": "p2",
+        "color": "yellow",
+        "title": "Vocabulary:  Thank you, Sir.",
+        "japanese": "ありがとうございます (Arigatō gozaimasu)",
+        "kana": "Arigatoo gozaimasu",
+        "romaji": "Arigato gozaimasu",
+        "english": "Thank You",
+        "explanation": "In Japanese, when expressing gratitude for a meal or service, it's customary to say 'ありがとうございます (Arigatō gozaimasu)', which translates into 'Thank you'. This word is often used at the end of a business meeting.",
+        "exampleJp": "(Arigato gozaimasu)  ",
+        "exampleEn": "Thank you.",
+        "tip": "Use this expression with your boss, clients, and colleagues to show respect."
+      }
+    ],
+    "culturalInsight": "**Navigating the World of Japanese Business Etiquette: A Culinary Journey**\n\nJapanese business culture is rooted in a strong emphasis on social harmony. From the traditional tea ceremony to the way food is shared, every aspect plays a role in building relationships and expressing respect. Understanding these nuances can significantly enhance your interactions with colleagues and build stronger connections in the workplace.\n\nFor example: \n\n**Honoring Guests:** In Japanese business, it's customary to offer guests sake (日本酒) after a formal meeting, signifying respect and appreciation. Similarly, using chopsticks instead of spoons demonstrates consideration for the environment and fosters an image of harmony during meals.",
+    "quiz": {
+      "question": "What is the most respectful way to say 'thank you' in Japanese?",
+      "answerIndex": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answers": [
+        "Arigatō gozaimasu",
+        "Gomen nasai",
+        "Iie",
+        "Konnichiwa"
+      ],
+      "explanation": "The most respectful way to say 'thank you' in Japanese is 'Arigato gozaimasu'. This word carries deep meaning and shows sincerity. Understanding this gesture will elevate your interactions with colleagues. For those unsure of the formal response, it’s a good practice to use ‘Arigatō gozaimasu’ even for informal settings."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up shot of a sushi chef preparing hand-rolled sushi with fresh ingredients in Tokyo, Japan. The background is blurred to enhance the focus on the food and chef's hands. Focus on details like the rice grain pattern and textures for emphasis.",
+    "thumbnailUrl": "/images/level4-unique-slug-1781643195118-1781643333129.jpg",
+    "thumbnailAlt": "A close-up shot of a sushi chef preparing hand-rolled sushi with fresh ingredients in Tokyo, Japan. The background is blurred to enhance the focus on the food and chef's hands. Focus on details like the rice grain pattern and textures for emphasis.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1781629111699",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
