@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1781608335136-1781608450807",
+    "title": "Navigating the Underground: A Guide to Asking for Directions in Japanese Subways",
+    "subtitle": "Unlocking Tokyo's hidden transit routes.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to navigate Japan's bustling subway system like a pro! This guide will equip you with essential phrases and etiquette for asking directions.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Navigating the intricate labyrinth of Japanese subways can feel daunting for even seasoned travelers. While it might seem like a chaotic jumble of platform announcements and hurried commuters, mastering basic vocabulary and conversational phrases will make your journey smoother. Don't worry; we're here to guide you through this exciting exploration! From asking 'How do I get to...' to understanding crucial station indicators, this article equips you with the tools for smooth navigation even in a foreign land.",
+    "grammarExplanation": "The Japanese language uses a system of particles (助詞), word endings (活用), and sentence structure that differs from English. Understanding these nuances is crucial for successful communication. This guide emphasizes learning essential phrases and building basic communication skills, focusing on simple structures like 'How do I get to...?' or 'Where is the station for...?'.",
+    "postIts": [
+      {
+        "id": "p-12345",
+        "color": "blue",
+        "title": "Vocabulary: Today's Journey",
+        "japanese": "今日はどこへ?",
+        "kana": "Kyō wa dōko e?",
+        "romaji": "Kyou wa doko e?",
+        "english": "Where am I going today?",
+        "explanation": "This phrase allows you to express your intended destination for the day.",
+        "exampleJp": "今日は会社へ行くの",
+        "exampleEn": "I'm going to work today.",
+        "tip": "Use 'Today's Journey' when talking about getting to a specific location during your daily activities."
+      },
+      {
+        "id": "p-12346",
+        "color": "pink",
+        "title": "Vocabulary: The Subway Station",
+        "japanese": "駅はどこ?",
+        "kana": "Eki wa doko?",
+        "romaji": "Eki wa doko?",
+        "english": "Where is the station?",
+        "explanation": "Use this phrase to ask for directions.",
+        "exampleJp": "駅はどこですか？",
+        "exampleEn": "Where is the station? ",
+        "tip": "Start with a simple question like 'Where's the station?' before asking about your destination."
+      }
+    ],
+    "culturalInsight": "Navigating Tokyo's subway system can feel overwhelming at first, but mastering the art of Japanese etiquette will elevate your experience. Remember to hold doors open for others, bow in greetings, and be mindful of personal space. This subtle cultural awareness adds a deeper layer to your journey through this fascinating city.",
+    "quiz": {
+      "question": "Which phrase is most appropriate when asking for directions to the train station?",
+      "options": [
+        "どこに行く?",
+        "駅はどこですか？",
+        "今日はどこへ?",
+        "どこでご飯食べようか？"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is '駅はどこですか？' which translates to 'Where is the station?' in English. This phrase directly seeks directional guidance."
+    },
+    "schemaMarkup": "{\"@context\":\"http://schema.org/\",\"@type\":\"Article\"}",
+    "imagePrompt": "A vibrant and dynamic illustration depicting a Tokyo subway platform with commuters using smartphones to navigate, overlaid by a map showcasing the station layout in Japanese. Use a high-contrast color palette for optimal visual appeal.",
+    "thumbnailUrl": "/images/level2-unique-slug-1781608335136-1781608450807.jpg",
+    "thumbnailAlt": "A vibrant and dynamic illustration depicting a Tokyo subway platform with commuters using smartphones to navigate, overlaid by a map showcasing the station layout in Japanese. Use a high-contrast color palette for optimal visual appeal.",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1781582712925-1781582818415",
     "title": "Brewing Connections: Navigating Izakaya Conversations for Beginners",
     "subtitle": "A guide to casual encounters with your friends at a Japanese izakaya.",
