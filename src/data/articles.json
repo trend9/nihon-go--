@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1781582712925-1781582818415",
+    "title": "Brewing Connections: Navigating Izakaya Conversations for Beginners",
+    "subtitle": "A guide to casual encounters with your friends at a Japanese izakaya.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learning a new language can feel overwhelming! Dive into Japanese conversations with ease and confidence. This article offers essential pointers for navigating casual izakaya experiences, providing a welcoming introduction to the world of Japanese cultural immersion.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Imagine this: you're meeting friends at a cozy izakaya, the air filled with laughter and the aroma of freshly grilled seafood. The familiar sounds of clinking glasses mingle with lively conversations in Japanese, leaving you with a warm feeling and an eagerness to dive deeper. Mastering casual conversation is key to enjoying these moments. This guide will help you navigate your first steps into this exciting world of Japanese culture through everyday interactions. From basic greetings to questions about the menu, we'll equip you with essential vocabulary and communication skills, ensuring you can comfortably engage with your friends and feel a sense of belonging.",
+    "grammarExplanation": "This article focuses on essential vocabulary and basic grammatical structures relevant for casual conversation in Japanese izakaya settings. We will utilize a beginner-friendly approach to simplify the language barrier and encourage engaging interaction.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Today",
+        "japanese": "今日は",
+        "kana": "Kyō wa",
+        "romaji": "Kyo wa",
+        "english": "Today",
+        "explanation": "This is the most common way to start a sentence or ask 'What day is it?' in Japanese.",
+        "exampleJp": "今日はいい天気ですね！",
+        "exampleEn": "It's nice weather today, isn't it!",
+        "tip": "To clarify your question, add ‘は?’ (wa?) at the end of the sentence."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Like/Want to",
+        "japanese": "好き/欲しい",
+        "kana": "suki/hoshit",
+        "romaji": "suki/hoshit",
+        "english": "Like/want to",
+        "explanation": "You can use these words in various situations. For example, you might say ‘お寿司が好き’ (o sushi ga suki) - I like sushi. ",
+        "exampleJp": "コーヒーを飲むのが好きだ。",
+        "exampleEn": "I like drinking coffee.",
+        "tip": "These words are often used with verbs in Japanese."
+      }
+    ],
+    "culturalInsight": "The Izakaya: More Than Just Drinks",
+    "quiz": {
+      "question": "What is the most common greeting in a Japanese izakaya?",
+      "options": [
+        "こんにちは (Konnichiwa)",
+        "ありがとう (Arigatou)",
+        "お元気ですか (Ogenki desu ka?)",
+        "すみません (Sumimasen)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "While the polite 'konnichiwa' (hello) is a welcome greeting,  the casual 'こんにちは (Konnichiwa)' is often used in izakaya settings to emphasize friendly interaction. This article will help you navigate your first steps into this exciting world of Japanese cultural immersion."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of two friends laughing at a table inside an authentic Japanese Izakaya, with colorful lanterns hanging overhead and sake bottles on the tables. The scene is full of energy and warmth, with a mix of traditional and modern elements.",
+    "thumbnailUrl": "/images/level1-unique-slug-1781582712925-1781582818415.jpg",
+    "thumbnailAlt": "A photo of two friends laughing at a table inside an authentic Japanese Izakaya, with colorful lanterns hanging overhead and sake bottles on the tables. The scene is full of energy and warmth, with a mix of traditional and modern elements.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1781564847659",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
