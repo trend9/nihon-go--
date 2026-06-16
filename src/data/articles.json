@@ -1,5 +1,61 @@
 [
   {
+    "id": "level3-navigating-kyoto-1781629111699",
+    "title": "Navigating Kyoto: Expressing Where You Want to Go",
+    "subtitle": "Using '~tai' to smoothly share your travel wishes",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to express your desires and travel goals in Japanese using the ~tai verb ending form.",
+    "byline": "By Kenji Sato, Kyoto Correspondent",
+    "introduction": "Kyoto in the afternoon is a wonderland of historical temples, bamboo forests, and traditional wooden machiya houses. When traveling around this ancient capital, you will often need to express your desires — whether telling a taxi driver where you want to go or telling a friend what you want to eat. In Japanese, expressing personal desires is done elegantly using the helper verb '~tai' (たい).",
+    "grammarExplanation": "To express that you want to do an action, you take a verb in its polite 'masu' form, drop the 'masu', and add 'tai' (たい). For example, the verb 'iku' (to go) has the masu form 'ikimasu'. Drop 'masu' to get 'iki-', and add 'tai' to get 'ikitai' (want to go). To make it polite, simply add 'desu' at the end: 'Ikitai desu' (I want to go).",
+    "postIts": [
+      {
+        "id": "p-kyoto-1",
+        "color": "blue",
+        "title": "Vocabulary: 行く",
+        "japanese": "行く",
+        "kana": "いく",
+        "romaji": "iku",
+        "english": "to go",
+        "explanation": "A core motion verb. In polite speech, it conjugates to 'ikimasu'.",
+        "exampleJp": "京都に行きたいです。",
+        "exampleEn": "I want to go to Kyoto."
+      },
+      {
+        "id": "p-kyoto-2",
+        "color": "yellow",
+        "title": "Vocabulary: 寺",
+        "japanese": "寺 / お寺",
+        "kana": "てら / おてら",
+        "romaji": "tera / otera",
+        "english": "temple",
+        "explanation": "Buddhist temple. The prefix 'o-' is added to make the word sound polite and refined.",
+        "exampleJp": "古いお寺を見たいです。",
+        "exampleEn": "I want to see old temples."
+      }
+    ],
+    "culturalInsight": "In Japanese culture, stating your desires directly can sometimes sound a bit too assertive. When speaking to superiors, instead of saying 'ikitai desu' (I want to go), it is often more polite to say 'ikou to omou' (I am thinking of going) or request permission: 'itemo ii desu ka' (may I go?). However, for everyday conversations and tourist interactions, '~tai desu' is perfectly polite and helpful.",
+    "quiz": {
+      "question": "If 'tabemasu' means 'to eat', how do you say 'I want to eat sushi' in polite Japanese?",
+      "options": [
+        "Sushi o tabetai desu",
+        "Sushi o tabemasu desu",
+        "Sushi o tabetai nai",
+        "Sushi o taberu kudasai"
+      ],
+      "answerIndex": 0,
+      "explanation": "Drop 'masu' from 'tabemasu' to get 'tabe-', and add 'tai desu' to form 'tabetai desu' (I want to eat)."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org\",\"@type\":\"ScholarlyArticle\",\"headline\":\"Navigating Kyoto: Expressing Where You Want to Go\",\"author\":{\"@type\":\"Person\",\"name\":\"Kenji Sato\"},\"description\":\"How to conjugate Japanese verbs to express desire using the tai form.\",\"articleSection\":\"Grammar\"}",
+    "imagePrompt": "A historic street in Kyoto with wooden buildings, red temple gates visible in the distance, soft afternoon light, digital painting style",
+    "thumbnailUrl": "/images/level3-navigating-kyoto-1781629111699.jpg",
+    "thumbnailAlt": "A historic street in Kyoto with wooden buildings, red temple gates visible in the distance, soft afternoon light, digital painting style",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1781608335136-1781608450807",
     "title": "Navigating the Underground: A Guide to Asking for Directions in Japanese Subways",
     "subtitle": "Unlocking Tokyo's hidden transit routes.",
