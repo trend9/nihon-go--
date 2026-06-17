@@ -1,5 +1,62 @@
 [
   {
+    "id": "level1-unique-slug-1781669237117-1781669356383",
+    "title": "Mastering Polite Business Requests: A Level 1 Guide for Corporate Meetings",
+    "subtitle": "Japanese business etiquette essentials for beginners.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Start your journey towards fluency in Japanese business language with this essential guide for absolute beginners. Learn about the proper etiquette, phrases, and words for making polite requests during corporate meetings.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating the complex world of business interactions can be daunting, especially when you're learning a new language like Japanese. This guide will introduce you to key etiquette and phrases that are essential for making polite requests during your first corporate meeting. From using appropriate greetings to structuring your communication effectively, we'll empower you to confidently engage with colleagues, even if you only know the basics.",
+    "grammarExplanation": "Japanese grammar is a unique blend of structure and formality, reflecting its cultural nuances. Mastering these elements will significantly enhance your understanding of Japanese business interactions. It’s all about context! From using honorific titles like 'san' or 'sama,' to mastering polite phrases like 'gomen nasai,' this guide provides the foundation to communicate smoothly in your business meetings.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Business Greetings",
+        "japanese": "おはようございます",
+        "kana": "ohayou gozaimasu",
+        "romaji": "ohayou gozaimasu",
+        "english": "Good morning",
+        "explanation": "A general greeting to use in the morning. ",
+        "exampleJp": "おはようございます。\n(Ohayōgozaimasu.)",
+        "exampleEn": "Good morning.",
+        "tip": "Say this after meeting someone for the first time in a business setting."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Making a Request",
+        "japanese": "お伺いします。",
+        "kana": "ossai shimasu",
+        "romaji": "os-sai shimasu",
+        "english": "I would like to request...",
+        "explanation": "A polite way to make your request in the Japanese language.",
+        "exampleJp": "お伺いします。\n(Ossai shimasu.)",
+        "exampleEn": "I would like to request...",
+        "tip": "This phrase is a great start for any business meeting."
+      }
+    ],
+    "culturalInsight": "Japanese Business Culture: A Matter of Respect.",
+    "quiz": {
+      "question": "In Japanese, which honorific title is used when addressing someone older than you in a business setting?",
+      "options": [
+        "くん",
+        "さん",
+        "様",
+        "先生"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In Japanese, '様' (sama) is the most formal honorific title reserved for those in a higher position. It signifies respect and seniority, often used to address superiors or clients.  You can also use the more casual ‘san’ after someone you know well, making business interactions smoother."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"headline\":\"Mastering Polite Business Requests: A Level 1 Guide for Corporate Meetings\",\"description\":\"Start your journey towards fluency in Japanese business language with this essential guide for absolute beginners. Learn about the proper etiquette, phrases, and words for making polite requests during corporate meetings.\",\"keywords\":[\"Japanese,\"Business\", \"etiquette\"],\"imagePrompt\":\"A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')\"}",
+    "thumbnailUrl": "/images/level1-unique-slug-1781669237117-1781669356383.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of making polite business requests at a corporate meeting",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1781650785693",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
