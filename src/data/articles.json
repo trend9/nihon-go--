@@ -1,5 +1,61 @@
 [
   {
+    "id": "level5-embracing-imperfection-1781736588503",
+    "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
+    "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Explore the deep philosophy of Wabi-Sabi. Learn advanced vocabulary associated with transience, nature, and Japanese traditional aesthetics.",
+    "byline": "By Kenji Sato, Cultural Columnist",
+    "introduction": "As the night deepens, the clamor of Japan's metropolitan cities fades, leaving behind quiet temples and dimly lit gardens. This serene darkness invites reflection on one of the most famous, yet elusive, Japanese philosophies: Wabi-Sabi (わびさび). Centered on the acceptance of transience and imperfection, it teaches us to appreciate the subtle beauty of weathered wood, cracked tea bowls, and fallen leaves.",
+    "grammarExplanation": "Discussing complex philosophical concepts in Japanese requires advanced modifiers and nominalizers. Words like 'utsukushisa' (beauty - created by changing the adjective 'utsukushii' to a noun with '-sa') and 'hakanasa' (transience - from 'hakanai') are frequently used to express abstract qualities. Phrases are linked using advanced particles like 'tomo ni' (together with) and 'ni oite' (in/at), elevating the language to a literary level.",
+    "postIts": [
+      {
+        "id": "p-wabi-1",
+        "color": "yellow",
+        "title": "Vocabulary: 美しい",
+        "japanese": "美しい",
+        "kana": "うつくしい",
+        "romaji": "utsukushii",
+        "english": "beautiful",
+        "explanation": "An i-adjective indicating visual or spiritual beauty. Can be nominalized into 'utsukushisa' (beauty).",
+        "exampleJp": "不完全なものの中に美しい心を見いだす。",
+        "exampleEn": "Finding a beautiful heart within imperfect things."
+      },
+      {
+        "id": "p-wabi-2",
+        "color": "blue",
+        "title": "Vocabulary: 儚い",
+        "japanese": "儚い",
+        "kana": "はかない",
+        "romaji": "hakanai",
+        "english": "fleeting / transient / ephemeral",
+        "explanation": "A deeply poetic adjective describing things that fade quickly, like cherry blossoms or autumn evenings.",
+        "exampleJp": "桜の花は儚いからこそ美しいのです。",
+        "exampleEn": "Cherry blossoms are beautiful precisely because they are fleeting."
+      }
+    ],
+    "culturalInsight": "Wabi-Sabi is heavily rooted in Zen Buddhism. Historically, the tea master Sen no Rikyu revolutionized the tea ceremony by using simple, rustic, locally crafted clay utensils instead of the expensive, flawless Chinese porcelain popular at the time. This shift celebrated simplicity ('wabi') and the patina of time ('sabi').",
+    "quiz": {
+      "question": "Which concept best describes the aesthetic focus of Wabi-Sabi?",
+      "options": [
+        "Flawless and symmetrical golden structures",
+        "The beauty found in aged, natural, and imperfect things",
+        "High-tech futuristic visual representations",
+        "Loud and colorful theatrical performances"
+      ],
+      "answerIndex": 1,
+      "explanation": "Wabi-Sabi emphasizes finding beauty in transience, nature, simplicity, and imperfection, such as old pottery repaired with gold lacquer (Kintsugi)."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org\",\"@type\":\"ScholarlyArticle\",\"headline\":\"Embracing Imperfection: Understanding Wabi-Sabi at Night\",\"author\":{\"@type\":\"Person\",\"name\":\"Kenji Sato\"},\"description\":\"Deep dive into the philosophy and vocabulary of Wabi-Sabi.\",\"articleSection\":\"Philosophy\"}",
+    "imagePrompt": "A single rustic ceramic tea bowl repaired with gold lines (Kintsugi), resting on dark moss under moonlight, shadows, wabi-sabi style",
+    "thumbnailUrl": "/images/level5-embracing-imperfection-1781736588503.jpg",
+    "thumbnailAlt": "A single rustic ceramic tea bowl repaired with gold lines (Kintsugi), resting on dark moss under moonlight, shadows, wabi-sabi style",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1781727401037",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
