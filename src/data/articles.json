@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1781898663008-1781898807002",
+    "title": "Navigating Japanese Dining Etiquette: Savor Seasonal Flavors",
+    "subtitle": "Unlocking the nuances of ordering and enjoying local cuisine",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Discover the nuances of Japanese dining etiquette and learn how to order seasonal dishes like a pro. This article explores the social nuances of ordering, sharing, and appreciating local delicacies.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From bustling ramen shops to serene omakase experiences, Japan's culinary scene is a sensory adventure. While navigating this world requires understanding local etiquette, embracing these norms enhances the dining experience. Just imagine sipping green tea while savoring perfectly-prepared seasonal dishes – it’s a symphony of taste and social grace. But how exactly does one navigate the Japanese dining landscape? This article dives into the nuances of ordering, sharing, and appreciating traditional meals for an unforgettable journey through Japanese cuisine. ",
+    "grammarExplanation": "This guide delves into the intricacies of Japanese grammar, exploring sentence structure, verb conjugations, and cultural references that impact communication in a Japanese restaurant setting. It emphasizes clarity and conciseness to ensure smooth comprehension.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyō wa",
+        "english": "Today",
+        "explanation": "This translates to 'today' and is used in a conversation when someone asks, ‘Today what would you like to eat?’ or 'What do you want to eat today’",
+        "exampleJp": "今日は、お寿司を食べたいです。",
+        "exampleEn": "I would like to eat sushi today.",
+        "tip": "When using this word in a conversation, it’s important to be clear about what kind of food you are ordering. For example, say ‘Today I want to eat ramen.’"
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary: いただきます",
+        "japanese": "いただきます",
+        "kana": "itadakimasu",
+        "romaji": "itadakimasu",
+        "english": "Thank you for the meal",
+        "explanation": "This is a common phrase that expresses gratitude and respect before eating. Use this phrase at the beginning of every meal to show respect. It is commonly used in formal settings.",
+        "exampleJp": "いただきます、ありがとうございます。",
+        "exampleEn": "Thank you for the meal.",
+        "tip": "Use this phrase sincerely when receiving a meal, showing respect to your host or fellow diners."
+      }
+    ],
+    "culturalInsight": "Dining etiquette in Japan extends beyond just food. From table manners to ordering procedures, it's about respecting the culture and enjoying the moment. A common practice is sharing meals with others - this isn't simply a way to make a feast bigger; rather, it represents a spirit of community and shared enjoyment.",
+    "quiz": {
+      "question": "Which of these is NOT an essential part of Japanese dining etiquette? ",
+      "options": [
+        "Saying 'thank you' (いただきます) before every meal",
+        "Sharing food with everyone at the table",
+        "Sipping your tea from a spoon like in Western countries",
+        "Using chopsticks properly."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "While sipping tea from a spoon is common in many cultures, it's crucial to remember the etiquette surrounding chopsticks usage and table manners are important in Japanese dining. "
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level4-unique-slug-1781898663008-1781898807002.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1781882357159",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
