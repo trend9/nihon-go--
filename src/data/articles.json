@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1781926798741-1781926899019",
+    "title": "Unlocking the World of Japanese Seasons: A Beginner's Guide to Greetings and Weather",
+    "subtitle": "Learn how to express changes in weather and seasons in Japanese.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article introduces you to basic expressions of seasonal changes and weather in Japanese. We'll explore greetings based on the time of day, as well as learn about how these words might differ depending on what you’re talking about.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From gentle breezes to chilly winds, Japan’s weather can be as diverse as its culture. Learn to express your observations about the seasonal shifts and let’s explore how this language flows smoothly in everyday conversation. We'll start with some basics on greetings related to the time of day. ",
+    "grammarExplanation": "Greetings in Japanese often focus on formality, just like in English, but there are different levels of courtesy and politeness. This guide explores basic greetings, including the formal 'O-tsuki ni shite kudasai' or how a person might say it in informal situations. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: Weather",
+        "japanese": "天気",
+        "kana": "tenki",
+        "romaji": "tenki",
+        "english": "Weather",
+        "explanation": "The most common word for 'weather'. It's used to describe the current state of atmospheric conditions.",
+        "exampleJp": "今日は天気良いですね！",
+        "exampleEn": "It's a nice day today! ",
+        "tip": "This simple, concise term can be used in any situation. Try it out!"
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: Season",
+        "japanese": "季節",
+        "kana": "kisetsu",
+        "romaji": "kisetsu",
+        "english": "Season",
+        "explanation": "This word defines a specific time period of the year, such as Spring, Summer, Autumn or Winter. ",
+        "exampleJp": "春は桜が咲きますね！",
+        "exampleEn": "Cherry blossoms bloom in spring! ",
+        "tip": "Think about it in terms of your own experience! How does the weather change during each season?"
+      }
+    ],
+    "culturalInsight": "From ancient festivals to modern trends, Japan's appreciation for seasonal changes is deeply ingrained in its cultural identity. Many traditional customs and practices revolve around these periods. For example, 'Obon' (盆), a significant Buddhist festival, celebrates the return of spirits during the summer months. ",
+    "quiz": {
+      "question": "Which phrase means 'It's sunny today' in Japanese?",
+      "options": [
+        "今日は天気良いですね！",
+        "今日は寒いですね！",
+        "今日は雨ですね！",
+        "今日は冷え込んでいるね！"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '今日は天気良いですね！', which directly translates to 'It's nice weather today!'."
+    },
+    "imagePrompt": "A detailed artistic illustration of a person holding an umbrella on their way home. The background features a view of the Tokyo skyline.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level1-unique-slug-1781926798741-1781926899019.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of a person holding an umbrella on their way home. The background features a view of the Tokyo skyline.",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1781906734582-1781906876444",
     "title": "Chasing the Cherry Blossoms: Crafting a Vacation Wish List in Japan",
     "subtitle": "Exploring the nuances of travel planning and personal dreams",
