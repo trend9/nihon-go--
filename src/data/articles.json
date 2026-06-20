@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1781964249775-1781964385128",
+    "title": "Navigating the Subway: Mastering Your Inner Tourist in Tokyo's Underground Maze",
+    "subtitle": "A guide to asking for directions at the station.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "This article provides a helpful overview of Japanese subway navigation for English speakers. Learn how to ask directions in Tokyo's bustling underground, ensuring you don't get lost and navigate the city like a true local.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating Tokyo’s subway system can feel overwhelming at first – but fear not! Mastering this intricate network will open doors to new adventures. This guide offers clear instructions on asking for directions in the stations and provides you with essential vocabulary and phrases. Just follow these simple steps, and you'll be confidently navigating the urban labyrinth of Japan’s capital city.",
+    "grammarExplanation": "This article uses a mix of formal and informal speech to reflect real-life conversations, focusing on the use of particles like 'desu', 'ga' and 'no' in questions. It also features some examples of how to use polite language in Japanese when asking for directions. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: Directions",
+        "japanese": "行き方を教えてください",
+        "kana": "Ikiru-kata o shite kudasai",
+        "romaji": "Ikiru-kata o shita kudasai",
+        "english": "Tell me the directions",
+        "explanation": "This is a direct request for directions.  Knowing where to go can be crucial in the confusing subway system.",
+        "exampleJp": "駅まで行けますか？",
+        "exampleEn": "Can you tell me how to get to the station?",
+        "tip": "In Japanese, it’s polite to use 'kudasai' at the end of a request."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: Station Name",
+        "japanese": "駅名は何ですか？",
+        "kana": "Eki-mei wa nan desu ka?",
+        "romaji": "Eki-mei wa nan desuka?",
+        "english": "What station are you referring to?",
+        "explanation": "Asking for the name of a specific station clarifies your destination.",
+        "exampleJp": "東京駅",
+        "exampleEn": "Tokyo Station",
+        "tip": "It’s best to mention the train line if possible, such as 'JR' or 'Subway'."
+      }
+    ],
+    "culturalInsight": "Navigating the subway in Tokyo is more than just a mode of transportation; it's an experience. Observe how locals use their phones to get directions, listen for the distinct announcements in Japanese and even be aware of unspoken social cues like bowing or using polite language.",
+    "quiz": {
+      "question": "What is a good way to ask someone for directions in Japanese?",
+      "options": [
+        "A.  Where do you go?",
+        "B.  Can I get directions?",
+        "C.  Directions please?",
+        "D.  Tell me where to go."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is B: 'Can I get directions?' This phrase clearly indicates the speaker's desire for directions."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A Japanese subway station with a crowd of commuters and announcements in bold, colorful letters. The scene should be bathed in evening lights and bustling activity, capturing the energy of Tokyo's underground.",
+    "thumbnailUrl": "/images/level4-unique-slug-1781964249775-1781964385128.jpg",
+    "thumbnailAlt": "A Japanese subway station with a crowd of commuters and announcements in bold, colorful letters. The scene should be bathed in evening lights and bustling activity, capturing the energy of Tokyo's underground.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1781954636446",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
