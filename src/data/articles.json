@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1782060451902-1782060553265",
+    "title": "Lost & Found: Getting Directions on the Subway",
+    "subtitle": "A Beginner's Guide to Navigating Tokyo's Underground",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article offers a simple guide for English speakers venturing into the bustling world of Tokyo's subway system. We will focus on asking directions and navigating your way through the station. ",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Welcome to Tokyo! You may have landed in a whirlwind of excitement - delicious food, fascinating history, and an exciting culture. Getting around this dynamic city can feel overwhelming at times. Don't fret! Navigating the subway system doesn't need to be intimidating. This article will guide you through the basics of asking for directions on the subway station, giving you confidence as you explore Tokyo’s underground marvels.",
+    "grammarExplanation": "This beginner-friendly guide focuses on a practical application of Japanese language learning. Simple sentence structures and verb conjugations are introduced using direct questions. The article aims to enhance basic conversational skills in Japanese by highlighting relevant vocabulary and grammatical concepts.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Today",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kōya wa",
+        "english": "Today",
+        "explanation": "This is a simple greeting, 'konnichiwa' (こんにちは) to signal the start of conversation.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's nice weather today. ",
+        "tip": "Remember to use this word when you want to mention something about the current day, like ‘today’s weather.’."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Where",
+        "japanese": "どこ",
+        "kana": "doko",
+        "romaji": "doko",
+        "english": "Where",
+        "explanation": "This word allows you to ask 'where is' or 'where do I go'. It will help you navigate your way through the subway station.",
+        "exampleJp": "どこから行くんだ？",
+        "exampleEn": "Where are you going from?",
+        "tip": "You can use this word in any situation where you need to ask about a place or location. For example, ‘Where is the bathroom?’."
+      }
+    ],
+    "culturalInsight": "Navigating public transportation is a fundamental skill in Japan. The subway system is an efficient and reliable form of public transit. This familiarity allows for deeper cultural immersion. When you step on the train, observe Japanese commuters – their polite behavior towards each other is endearing. Remember to be respectful and mindful of others while using the subway.",
+    "quiz": {
+      "question": "What does the following phrase mean? 'どこから行くんだ？'",
+      "options": [
+        "How much money do I need?",
+        "Where should I go?",
+        "Is there a bathroom?",
+        "When does the train leave?"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This question is about understanding basic Japanese sentence structure. The phrase 'どこから行くんだ？' translates to 'where are you going from?' in English."
+    },
+    "schemaMarkup": "```json\n{ ... }```",
+    "imagePrompt": "A photo of a busy Tokyo subway station entrance with commuters waiting for the train, conveying a feeling of excitement and energy. A diverse group of people should be visible, including a child's hand holding onto their parent's.",
+    "thumbnailUrl": "/images/level1-unique-slug-1782060451902-1782060553265.jpg",
+    "thumbnailAlt": "A photo of a busy Tokyo subway station entrance with commuters waiting for the train, conveying a feeling of excitement and energy. A diverse group of people should be visible, including a child's hand holding onto their parent's.",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1782051083502-1782051213376",
     "title": "Kyoto's Treasures: Shopping for Souvenirs at Night",
     "subtitle": "Uncovering the Essence of Japanese Culture through the Lens of Nighttime Shopping in Kyoto",
