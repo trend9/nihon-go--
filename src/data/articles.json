@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1782035463626-1782035579197",
+    "title": "Vacation Dreams: Planning Your Travel Schedule in Japanese",
+    "subtitle": "Navigating Japan's diverse travel options for the business traveler.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Embark on your journey to Japan with this comprehensive guide. Learn how to plan your travels, navigate schedules, and craft unforgettable vacation experiences.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Planning a business trip to Japan? Or simply dreaming of a Japanese adventure? Knowing the right way to schedule your time is key to maximizing efficiency. While exploring this beautiful country requires embracing its local culture and customs, it also demands an understanding of the travel system. Whether you're navigating bullet trains or venturing into rural villages, mastering these Japanese skills will make your trip smoother and more rewarding.  \n\"旅行は、自分の興味や目的によって異なるものです。\" - Kenji Sato, Tokyo Bureau.\nThis article dives deep into the intricacies of travel schedules in Japan, offering practical tips and insights for both business travelers and vacation seekers alike. From understanding time zones and transport systems to mastering common phrases and etiquette, we'll equip you with the knowledge to truly experience Japan's magic.",
+    "grammarExplanation": "This article will explore grammatical structures commonly used in travel-related contexts, including verb tenses and sentence constructions that showcase a deeper level of Japanese proficiency. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の旅程",
+        "japanese": "今日の旅程",
+        "kana": "kyō no ryokō",
+        "romaji": "kyo no ryoku",
+        "english": "My travel itinerary for today",
+        "explanation": "This phrase describes the daily travel plans. It can also be used when discussing a trip schedule or a personal travel plan.",
+        "exampleJp": "今日は旅行に行く予定があります。",
+        "exampleEn": "I have planned to go on a trip today.",
+        "tip": "For expressing the time of your journey, use \"今\" (Ima) to mean 'now' and \"出発\" (Shutsu) or \"到着\" (Toka) for \"departure\" or \"arrival\" respectively."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 週末",
+        "japanese": "週末",
+        "kana": "shūmatsu",
+        "romaji": "shūmatsu",
+        "english": "Weekend",
+        "explanation": "This word refers to a time period of the week when people have more free time. It can be used for both casual and formal settings.",
+        "exampleJp": "週末に旅行に行こうと考えています。",
+        "exampleEn": "I'm thinking about going on a trip this weekend.",
+        "tip": "Weekend plans are often booked or planned for by companies or individuals. It is important to respect these deadlines and time commitments."
+      }
+    ],
+    "culturalInsight": "Japan's travel culture revolves around efficiency and punctuality, where the emphasis lies on traveling according to pre-determined schedules. The country's robust rail system ensures smooth connections across distances, minimizing wasted time. This cultural nuance is essential for navigating Japan's intricate transportation network and experiencing its hidden gems without getting lost in a maze of confusion.",
+    "quiz": {
+      "question": "What is the Japanese word for 'weekend'?",
+      "options": [
+        "旅行",
+        "週末",
+        "出張",
+        "休暇"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The answer is '週末', which literally means 'weekend' in Japanese. It refers to the time period of a day or week when people generally have free time."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"headline\":\"Vacation Dreams: Planning Your Travel Schedule in Japanese\"}",
+    "imagePrompt": "A photograph of a traditional Japanese teahouse with cherry blossoms blooming around it, set against the backdrop of a serene, misty mountain landscape. Use colors like deep reds and purples, accented by soft greens. The focus should be on capturing the tranquil ambiance of a Japanese tea ceremony in full bloom. \" ",
+    "thumbnailUrl": "/images/level4-unique-slug-1782035463626-1782035579197.jpg",
+    "thumbnailAlt": "A photograph of a traditional Japanese teahouse with cherry blossoms blooming around it, set against the backdrop of a serene, misty mountain landscape. Use colors like deep reds and purples, accented by soft greens. The focus should be on capturing the tranquil ambiance of a Japanese tea ceremony in full bloom. \" ",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1782015208909",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
