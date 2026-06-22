@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1782147443262-1782147501860",
+    "title": "Lost in the Subway? Learn How to Ask for Directions!",
+    "subtitle": "A beginner's guide to navigating Tokyo's underground.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learning Japanese is a big step towards unlocking new cultures and experiences! This beginner's guide to asking for directions in the subway helps you navigate Tokyo's underground with ease.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Getting lost in a crowded train station can be daunting even for native speakers. For Japanese learners, especially those navigating their first subway journey, asking for directions can feel like speaking another language! But fear not, this guide will give you the confidence to navigate Tokyo's subway system with ease. Even if your journey starts as simple as 'Where is the station?', we'll take you through essential phrases and help you find your way with confidence.  ",
+    "grammarExplanation": "Japanese grammar can be complex but don't worry! We've kept this guide focused on basic vocabulary. Learn how to use particles, question words like 'wa', and basic sentence structures, all while asking for directions in a friendly manner. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日は",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This is a basic way to ask what day it is.",
+        "exampleJp": "今日は何曜日ですか？",
+        "exampleEn": "What day of the week is it?",
+        "tip": "Use this phrase when asking for today's date!"
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "pink",
+        "title": "Vocabulary: 駅はどこですか？",
+        "japanese": "駅はどこですか？",
+        "kana": "eki wa doko desu ka?",
+        "romaji": "eki wa dokō desu ka?",
+        "english": "Where is the station?",
+        "explanation": "This is a basic phrase for asking about your station location. ",
+        "exampleJp": "駅はどこですか？",
+        "exampleEn": "Where is the station?",
+        "tip": "You can use 'eki' to mean 'station' in English."
+      }
+    ],
+    "culturalInsight": "Navigating Tokyo’s public transport can be an adventure. The train stations are a microcosm of Japanese culture: bustling crowds, intricate station maps, and the constant hum of life. Mastering how to ask for directions will not only save you time but also help you appreciate the nuances of Japanese communication. ",
+    "quiz": {
+      "question": "What is the best way to ask for directions in a train station?",
+      "options": [
+        "A: 'Where is the bus stop?'",
+        "B: 'Excuse me, where can I find the Tokyo Station?',",
+        "C: 'I need help finding the subway.'",
+        "D: 'Is there a map here?'"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The best way to ask for directions in a train station is using 'Excuse me, where can I find the Tokyo Station?'. It’s polite and specific, allowing you to easily get your bearings."
+    },
+    "schemaMarkup": "{\"type\": \"Article\"}",
+    "imagePrompt": "A close-up shot of a person looking confused at their phone surrounded by maps in a busy Japanese train station with a blurred background of other commuters. Focus on the person's expression and use warm, natural lighting.",
+    "thumbnailUrl": "/images/level1-unique-slug-1782147443262-1782147501860.jpg",
+    "thumbnailAlt": "A close-up shot of a person looking confused at their phone surrounded by maps in a busy Japanese train station with a blurred background of other commuters. Focus on the person's expression and use warm, natural lighting.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1782129450796",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
