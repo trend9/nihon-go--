@@ -1,5 +1,75 @@
 [
   {
+    "id": "level3-unique-slug-1782168703229-1782168830699",
+    "title": "Checking In: Navigating Ryokan Inn Etiquette and Dining Rules",
+    "subtitle": "A guide for English speakers",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover the charm and etiquette of traditional Japanese ryokans, with this detailed guide for navigating the dining and check-in experience. This article will cover essential etiquette tips for enjoying your stay.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a ryokan inn is akin to stepping back in time. The hushed atmosphere, tatami mats, and serene gardens offer an immersive cultural experience unlike any other. While the serenity of this traditional Japanese inn awaits you, navigating its intricacies can be a bit daunting for those unfamiliar with the customs. This guide aims to demystify the ryokan experience and equip you with the necessary knowledge before your visit. From basic check-in procedures to the art of formal dining etiquette, we will delve into the unspoken rules that govern ryokans.",
+    "grammarExplanation": "This article uses a variety of sentence structures and grammatical elements characteristic of the level 3 writing style, incorporating complex sentences and varied clause types. It features more elaborate vocabulary and idiomatic expressions commonly used in intermediate-level English communication.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 宿泊",
+        "japanese": "宿泊 (shūkaku)",
+        "kana": "すくは(shū)か(kaku)",
+        "romaji": "Shūka",
+        "english": "Accommodation",
+        "explanation": "Booking a stay at a ryokan is called 'shūka' in Japanese.",
+        "exampleJp": "旅館に宿泊します (ryokō ni shūkai shimasu)",
+        "exampleEn": "I will check into the ryokan.",
+        "tip": "Shūka can also mean staying at a hotel. To differentiate between the two, consider using 'Ryokan' for traditional inns and 'Hotel' for western-style lodging."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 夕食",
+        "japanese": "夕食 (yuuki)",
+        "kana": "ユキ(yuki) ",
+        "romaji": "Yuuki",
+        "english": "Dinner",
+        "explanation": "Ryokans are known for their delicious dinners, and 'yuuki' refers to the evening meal.",
+        "exampleJp": "夕食は旅館でいただきます (yoru-yo itadakimasu)",
+        "exampleEn": "I will have dinner at the ryokan.",
+        "tip": "In Japan, it is considered polite to be seated after the host before beginning a meal, but in an informal setting, you can start eating as soon as you’re ready."
+      }
+    ],
+    "culturalInsight": "A Ryokan's Art of Hospitality",
+    "quiz": {
+      "question": "What is the most common way to express gratitude for a meal at a ryokan? \n\nA. ありがとうございます (Arigatou gozaimasu)\nB. お願いします (Onegai shimasu)\nC. さあ (Sa!) \nD.  いただきます (Itadakimasu)",
+      "correctAnswerIndex": 1,
+      "answerExplanation": "The most commonly used phrase is \"Arigatou gozaimasu\", meaning 'Thank you' in Japanese, demonstrating respect and humility during meals at a ryokan.",
+      "options": [
+        {
+          "text": "A. ありがとうございます (Arigatou gozaimasu)",
+          "index": 0
+        },
+        {
+          "text": "B. お願いします (Onegai shimasu)",
+          "index": 1
+        },
+        {
+          "text": "C. さあ (Sa!)",
+          "index": 2
+        },
+        {
+          "text": "D.  いただきます (Itadakimasu)",
+          "index": 3
+        }
+      ]
+    },
+    "imagePrompt": "A beautiful, traditional Japanese ryokan inn with a garden and tatami floors, bathed in the golden light of sunset.",
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\", \"@type\": \"HowTo\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1782168703229-1782168830699.jpg",
+    "thumbnailAlt": "A beautiful, traditional Japanese ryokan inn with a garden and tatami floors, bathed in the golden light of sunset.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1782161491171",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
