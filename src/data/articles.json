@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1782101554744-1782101685728",
+    "title": "Unlocking the Secrets of Evening Cafe Ordering",
+    "subtitle": "Navigating the intricacies of Japanese coffee culture after sunset.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learning to order your favorite coffee or even customize it at a Japanese cafe after sunset can be challenging. This article helps you navigate the nuances of evening ordering for a truly authentic experience.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Evenings in Japan are for lingering over good company and steaming cups of coffee. From bustling street cafes to hidden teahouses, evenings offer a unique opportunity to delve deeper into the culture that defines these spaces. This article delves into the nuances of ordering at a Japanese cafe after sunset, helping you unlock the secrets of evening cafe culture.\n\"コーヒーは、仕事の終わりを象徴する飲み物だ。べたつとめずそ,ぞに\" \n— Kenji Sato, Tokyo Bureau.\n",
+    "grammarExplanation": "This article focuses on grammar structures common to Japanese cafes and the use of indirect requests. It explores how to create polite and efficient orders using respectful language, including appropriate word order for a successful cafe experience. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: コーヒー",
+        "japanese": "コーヒー",
+        "kana": "Kōhī",
+        "romaji": "Coffee",
+        "english": "Coffee",
+        "explanation": "This is the Japanese word for coffee.  Use this to order your coffee.",
+        "exampleJp": "コーヒー、お願いします。",
+        "exampleEn": "Please give me a coffee, thank you.",
+        "tip": "For a more casual setting: Coffee, please!"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お願いします",
+        "japanese": "お願いします",
+        "kana": "O-negai shimasu",
+        "romaji": "Onegai shimasu",
+        "english": "Pleased/Excuse me/I ask you/Would you mind.",
+        "explanation": "This is a polite way to say 'please'. It's commonly used when ordering in Japanese. ",
+        "exampleJp": "コーヒー、お願いします。",
+        "exampleEn": "Coffee, please. / Could you give me coffee, please?",
+        "tip": "It's always best to use this word with a level of respect for the person you are speaking to."
+      }
+    ],
+    "culturalInsight": "Japanese cafes are more than just places to grab a caffeine fix; they're social hubs and havens of creativity. After sunset, the atmosphere transforms into something even more intriguing - conversations flow freely, the air is filled with a relaxed sense of community, and the gentle scent of roasted coffee beans drifts from every corner.\n\nThe art of ordering coffee in Japan goes beyond simply getting your caffeine fix. It's about connecting with the space, experiencing the subtle nuances of Japanese culture, and building connections. Mastering these simple skills can unlock a deeper understanding of the Japanese cafe experience.",
+    "quiz": {
+      "question": "What is the polite way to say 'please' in Japanese when ordering coffee at a cafe?",
+      "options": [
+        "コーヒー",
+        "おかし",
+        "どうぞ",
+        "お願いします"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The correct answer is 'お願いします'.  This polite phrase means 'please' and is commonly used in Japanese."
+    },
+    "schemaMarkup": "```json\n{ \n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"Article\",\n  \"headline\": \"Unlocking the Secrets of Evening Cafe Ordering\", \n  \"description\": \"Learning to order your favorite coffee or even customize it at a Japanese cafe after sunset can be challenging. This article helps you navigate the nuances of evening ordering for a truly authentic experience.\"\n  \"image\": \"https://example.com/image.jpg\",\n  \"keywords\": [\n      \"cafe\", \"coffee\", \"Japan\", \"culture\", \"evening\", \"ordering\"\n    ]\n}\n```",
+    "imagePrompt": "A young woman with short hair and a stylish outfit sits at a cozy cafe table in Tokyo, enjoying her cappuccino. The atmosphere is warm and inviting, with soft light streaming in from the outside world.\n",
+    "thumbnailUrl": "/images/level4-unique-slug-1782101554744-1782101685728.jpg",
+    "thumbnailAlt": "A young woman with short hair and a stylish outfit sits at a cozy cafe table in Tokyo, enjoying her cappuccino. The atmosphere is warm and inviting, with soft light streaming in from the outside world.\n",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1782080346821",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
