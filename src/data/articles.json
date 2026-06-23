@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1782185646540-1782185773473",
+    "title": "Navigating Izakayas: Mastering Casual Conversations with Friends",
+    "subtitle": "Level 4 - A taste of everyday Japanese life.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Dive into the vibrant world of izakayas with this guide to casual conversations, perfect for connecting with friends in Japanese social settings. Explore cultural nuances and learn how to navigate everyday interactions like a true native.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Picture this: you've just finished work and the day calls for some relaxing time with your buddies at an izakaya – a popular Japanese pub. The air is thick with chatter as everyone orders their drinks and shares stories over bowls of ramen or yakitori.  You feel that familiar sense of camaraderie, like an unspoken understanding flows through each conversation. How do you navigate the casual banter, make insightful observations, and show genuine interest in what your friends are saying? This article dives into the art of casual conversations at izakayas - a world where laughter is just as important as knowing the right 'oishii' to say.  Let's explore the nuances of language and build our confidence for those impromptu chats.",
+    "grammarExplanation": "This guide leverages informal Japanese expressions commonly used in everyday conversations, such as ‘友達と’ (with friends), ‘飲み屋で’ (at a bar/izakaya). These terms help readers understand the context and feel more at ease with their own conversational efforts. The article incorporates 'casual', 'informal', 'natural' and 'everyday' to capture the spirit of these settings. It is crucial to note that while this guide offers insights, mastering true casual conversation takes practice and time.",
+    "postIts": [
+      {
+        "id": "p-vocab1",
+        "color": "pink",
+        "title": "Vocabulary: Izakaya",
+        "japanese": "居酒屋 (Izakaya)",
+        "kana": "I-zak-ai",
+        "romaji": "Izakaya",
+        "english": "Izakaya",
+        "explanation": "A traditional Japanese pub, often frequented by friends or colleagues for casual gatherings.",
+        "exampleJp": "友達と居酒屋で飲みます (Tomodachi to izakayā de nomimasu) -  We'll have drinks at the izakaya with our friends.",
+        "exampleEn": "We will go to a bar with our friends and enjoy a casual evening out.",
+        "tip": "Izakayas often feature a variety of small plates and snacks, so be prepared for a shared meal experience!"
+      },
+      {
+        "id": "p-vocab2",
+        "color": "blue",
+        "title": "Vocabulary:  Oishii (Delicious)",
+        "japanese": "おいしー (Oishii)",
+        "kana": "Oishii",
+        "romaji": "Oishii",
+        "english": "Delicious",
+        "explanation": "This is a common expression to emphasize the enjoyment of food.",
+        "exampleJp": "この料理はおいしいです (Kono ryouri wa oishi desu) - This dish is delicious!",
+        "exampleEn": "This dish is very tasty!",
+        "tip": "Using 'oishii' with enthusiasm shows you appreciate the effort your friends put into cooking."
+      }
+    ],
+    "culturalInsight": "Beyond the simple act of drinking and eating, izakayas are a microcosm of Japanese culture. They offer a safe haven for socializing, building bonds between colleagues or friends. The atmosphere is electric with conversations ranging from sports to politics, all fueled by sake and good company. To truly appreciate this unique environment, immersing oneself in the cultural nuances of the setting is key.",
+    "quiz": {
+      "question": "What does 'Izakaya' mean?",
+      "options": [
+        "A traditional Japanese pub",
+        "A modern restaurant for Western cuisine",
+        "An arcade filled with video games",
+        "A teahouse offering traditional ceremonies"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": "‘Izakaya’ refers to a traditional Japanese bar or pub. It's the place to gather friends and enjoy casual meals and drinks while catching up."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An image of a friendly group of friends laughing over a bowl of rice at an izakaya, with traditional Japanese snacks in the background.",
+    "thumbnailUrl": "/images/level4-unique-slug-1782185646540-1782185773473.jpg",
+    "thumbnailAlt": "An image of a friendly group of friends laughing over a bowl of rice at an izakaya, with traditional Japanese snacks in the background.",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1782168703229-1782168830699",
     "title": "Checking In: Navigating Ryokan Inn Etiquette and Dining Rules",
     "subtitle": "A guide for English speakers",
