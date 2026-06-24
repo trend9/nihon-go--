@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1782293462736-1782293573610",
+    "title": "Lost in the Subway? Asking for Directions in Japanese!",
+    "subtitle": "A beginner's guide to navigating Tokyo's subway system.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article provides a step-by-step guide to asking for directions in Japanese. It covers essential vocabulary and phrases, allowing you to navigate the subway confidently as a beginner.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Getting lost in a new city can be an adventure, especially when it's your first time exploring Tokyo! Navigating the bustling subway system is no easy feat for beginners. But fear not, this article will equip you with the essential Japanese phrases to ask for directions and make your journey a smooth one.  Don't worry about sounding like a native speaker, just focus on these simple words and learn as you go. ",
+    "grammarExplanation": "This guide focuses on basic sentence structure in Japanese, including subject-verb-object (SVO). While it’s essential to understand basic grammar rules, we will prioritize clear direction-seeking phrases that are easy to pronounce. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: Directions",
+        "japanese": " directions (どこへ？) ?",
+        "kana": "dō he?",
+        "romaji": "Do-he?",
+        "english": "Where to?",
+        "explanation": "This is the most direct way to ask for directions. You can then follow it up with an area or specific station.",
+        "exampleJp": "どこへいりますか？",
+        "exampleEn": "Where do you want to go?",
+        "tip": "For clarity, add 'to' in front of the destination."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: Station",
+        "japanese": "駅 (eki) ?",
+        "kana": "e-ki",
+        "romaji": "Eki",
+        "english": "Station",
+        "explanation": "Asking for the name of a station is crucial to navigate accurately. This phrase helps pinpoint your exact location.",
+        "exampleJp": "駅はどこですか？",
+        "exampleEn": "Where is the station?",
+        "tip": "Use 'station' as a general term, and you can use 'line' to indicate train lines."
+      }
+    ],
+    "culturalInsight": "Beyond asking for directions in Japanese, immerse yourself in the unique character of the Tokyo subway system! From its sleek and efficient design to the vibrant atmosphere that unfolds within the underground tunnels, it truly embodies the city’s essence. Try exploring local guides for authentic insights or even taking a guided tour to gain deeper understanding. ",
+    "quiz": {
+      "question": "What does 'どこへ' mean?",
+      "options": [
+        "Where is the station?",
+        "What are you doing?",
+        "Are you lost?",
+        "Can I help you?"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The phrase 'どこへ' means 'where to?' in English. It’s a direct way of asking for directions."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo collage depicting busy Tokyo subway stations and commuters using their smartphones, with a subtle Japanese aesthetic.",
+    "thumbnailUrl": "/images/level1-unique-slug-1782293462736-1782293573610.jpg",
+    "thumbnailAlt": "A photo collage depicting busy Tokyo subway stations and commuters using their smartphones, with a subtle Japanese aesthetic.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1782272204029",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
