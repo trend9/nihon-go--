@@ -1,5 +1,64 @@
 [
   {
+    "id": "level3-unique-slug-1782320777412-1782320902974",
+    "title": "Navigating Corporate Meetings with Polite Requests: A Level 3 Guide to Mastering Japanese Business Etiquette",
+    "subtitle": "From subtle greetings to formal requests, learn the essentials for effective communication at your next meeting.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This article provides comprehensive guidance on navigating business meetings in Japanese. Learn how to make polite requests and build professional relationships with colleagues, all while mastering key aspects of Japanese etiquette.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a corporate meeting in Japan can feel like entering a world of subtle nuances and unspoken rules. While the language may seem complex, mastering essential polite expressions and business etiquette is key to ensuring smooth interaction and fostering strong professional relationships. This guide will delve into navigating this unique environment, offering insights on making those critical requests that drive progress at your next meeting.",
+    "grammarExplanation": "Japanese grammar can be quite intricate when compared to English. For example, the use of honorifics (such as '-san', '-sama' etc.) is crucial and plays a key role in creating respectful communication in business settings. Mastering these nuances will help you make polite requests with accuracy and build rapport. A deeper understanding of particles such as 'ga' and 'ni' can also improve your ability to express yourself clearly and fluently.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 挨拶 (Aisetsume)",
+        "japanese": "挨拶 (Aisetsume)",
+        "kana": "Aisetsume",
+        "romaji": "Aisatsume",
+        "english": "Greeting",
+        "explanation": "This is a must-learn for any business meeting.  It's the initial courtesy of introducing yourself and expressing respect to others. Learn how to use different greetings like 'Konnichiwa' (Hello) and 'Ohayou gozaimasu' (Good morning). ",
+        "exampleJp": "こんにちは、〇〇さん。",
+        "exampleEn": " Hello, Mr./Ms. XXXX.",
+        "tip": "Try to use a polite greeting whenever you first meet someone at work. This shows respect and builds rapport."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: お願い (Onegai)",
+        "japanese": "お願いします (O-negai)",
+        "kana": "Onegai",
+        "romaji": "Onegai",
+        "english": "Please",
+        "explanation": "This is another essential word. Learn how to use 'onegai' for requesting something from someone, or asking for their help.",
+        "exampleJp": "お時間いただけますでしょうか？ (O-taika iku shimasu ka?)",
+        "exampleEn": "Could you please spare some time?",
+        "tip": "Avoid using this word too often. You can combine it with other polite expressions like 'kashigoto' to be more specific about your needs."
+      }
+    ],
+    "culturalInsight": "The Japanese business culture emphasizes group harmony and mutual respect. This translates to the importance of maintaining formal etiquette, even in casual settings. Always show respect to superiors by using honorific titles and avoid direct confrontation when disagreeing. Be mindful that Japanese people value face-saving above all else. If you ever find yourself at a crossroad, it's better to err on the side of caution.",
+    "quiz": {
+      "questions": [
+        {
+          "question": "What does the honorific '-sama' indicate?",
+          "answer": [
+            "The speaker is referring to the person's age"
+          ],
+          "correctIndex": 0,
+          "explanation": " '-sama' in Japanese indicates respect. It signifies a higher position than the one being addressed."
+        }
+      ]
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'An office worker wearing a business suit is having a meeting with colleagues in a conference room, Tokyo'.)",
+    "thumbnailUrl": "/images/level3-unique-slug-1782320777412-1782320902974.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'An office worker wearing a business suit is having a meeting with colleagues in a conference room, Tokyo'.)",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1782311569836",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
