@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1782330430293-1782330534779",
+    "title": "Lost in the Subway? Mastering Directions for Evening Commutes",
+    "subtitle": "A guide to navigating Tokyo's intricate underground network.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Navigating the Tokyo subway can feel like a labyrinth, especially at rush hour. This article offers step-by-step directions and insider tips to help you confidently maneuver through even the busiest stations.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Even seasoned Tokyo residents might find themselves lost in the bustling subway system during peak hours. With countless lines crisscrossing the city, it's easy to feel overwhelmed by the sheer volume of people and announcements. This guide delves into the essential Japanese phrases for navigating the stations on a daily basis. From asking for directions to understanding station maps, we'll provide you with the tools to become an urban master.",
+    "grammarExplanation": "This article explores complex grammar points like conditional statements, making the translation of these instructions more challenging for English learners. However, mastering this level requires strong comprehension and the ability to confidently formulate phrases in a variety of contexts. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "pink",
+        "title": "Vocabulary: 今日の",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyō wa",
+        "english": "Today's",
+        "explanation": "This is a useful expression to ask for information about the present day. It can be used with any time of year to indicate today in conversation.",
+        "exampleJp": "今日は何曜日ですか？",
+        "exampleEn": "What day of the week is it today?",
+        "tip": "This phrase can help you avoid repeating the days of the week. Use this phrase if you are uncertain about a specific day."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "green",
+        "title": "Vocabulary: 駅まで",
+        "japanese": "駅まで",
+        "kana": "eki made",
+        "romaji": "eki made",
+        "english": "To the station",
+        "explanation": "This phrase can be used to ask for directions from one point to another. It is frequently used in public transit.",
+        "exampleJp": "駅まで行けますか？",
+        "exampleEn": "Can you take me to the station?",
+        "tip": "Use this phrase with a clear indication of your destination at the start."
+      }
+    ],
+    "culturalInsight": "Navigating the Tokyo subway can feel like an adventure, especially during peak hours. As in other major cities, the stations are often bustling and crowded. However, there's also a unique sense of community that connects travelers from all walks of life. Learning to navigate these spaces will provide you with a deeper understanding of Japanese culture and daily life.",
+    "quiz": {
+      "question": "What is the best way to ask for directions in Japanese?",
+      "answerIndex": 2,
+      "options": [
+        "すみません、駅はどこですか？",
+        "どうすればいいですか？",
+        "駅はどこですか？",
+        "今日は何曜日ですか？"
+      ],
+      "explanation": "The best way to ask for directions is with a clear and concise phrase. The question should be direct, yet respectful of the other person's time. This quiz tests your ability to understand how to navigate basic questions in Japanese."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\",\"@type\": \"Article\", \"headline\": \"Lost in the Subway? Mastering Directions for Evening Commutes\"}",
+    "imagePrompt": "A photograph of Tokyo subway platform with people rushing through during rush hour, blurred focus on a person looking towards directions.",
+    "thumbnailUrl": "/images/level4-unique-slug-1782330430293-1782330534779.jpg",
+    "thumbnailAlt": "A photograph of Tokyo subway platform with people rushing through during rush hour, blurred focus on a person looking towards directions.",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1782320777412-1782320902974",
     "title": "Navigating Corporate Meetings with Polite Requests: A Level 3 Guide to Mastering Japanese Business Etiquette",
     "subtitle": "From subtle greetings to formal requests, learn the essentials for effective communication at your next meeting.",
