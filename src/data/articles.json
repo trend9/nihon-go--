@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1782398110180-1782398221523",
+    "title": "Catching the Autumn Breeze: Weather Greetings and Seasonal Changes in Japanese Letters",
+    "subtitle": "An insight into letter writing customs during Japan's vibrant fall season.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This article provides an in-depth look at Japanese letter writing customs during the autumn season. We delve into specific weather greetings and seasonal changes, offering a glimpse into the richness of Japanese culture through the lens of everyday language.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The crisp air and colorful leaves of autumn in Japan signal more than just the start of festivities - they also bring about a distinct shift in how we communicate. Whether writing formal business letters or heartfelt messages to loved ones, Japanese letter writers often use their words to express not only the current weather but also subtle feelings about the passing season.",
+    "grammarExplanation": "Japanese sentence structure is primarily subject-verb-object (SVO), though it can have verb-subject-object (VSO) variations depending on context. It's important to note the use of particles like が (ga) and に (ni), which indicate the relationship between subjects and objects,  to ensure clear communication.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 秋",
+        "japanese": "秋 (Aki)",
+        "kana": "Aki",
+        "romaji": "Aki",
+        "english": "Autumn",
+        "explanation": "This is the word for autumn in Japanese. It refers to the season's changing weather and foliage.",
+        "exampleJp": "秋風が吹いている。(Aki ga fuki i-te-i.)  The wind is brisk with fall.",
+        "exampleEn": "Autumn winds are blowing. ",
+        "tip": "Autumn in Japan is often associated with the vibrant colors of red, orange, and yellow leaves."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 寒",
+        "japanese": "寒 (Kanna)",
+        "kana": "kanna",
+        "romaji": "Hana",
+        "english": "Cold",
+        "explanation": "This word describes the feeling of coldness in winter, as well as a general shift in temperature.",
+        "exampleJp": "今日は寒いです。(Kyou wa hanai desu.) It's cold today.",
+        "exampleEn": "It's chilly today.",
+        "tip": "Japanese words for 'cold' can be used to describe weather, mood, and even objects."
+      }
+    ],
+    "culturalInsight": "Letters during the autumn season often reflect a deeper appreciation of nature. It is not just about the physical change in weather but also the emotional journey that comes with it. In traditional Japanese culture, Autumn offers a chance to reflect on the past year and look forward to new beginnings. This sentiment translates beautifully into writing letters, using phrases like \"秋風に乗って,\" which conveys an appreciation for the season's gentle breeze.",
+    "quiz": {
+      "question": "Which of these phrases best expresses the feeling of 'cold' in Japanese?\n A) 春風吹\n B) 秋風が吹\n C) 寒くなってくる\n D) 明るい日差し",
+      "options": [
+        "A) 春風吹",
+        "B) 秋風が吹",
+        "C) 寒くなってくる",
+        "D) 明るい日差し"
+      ],
+      "correctAnswerIndex": "B",
+      "explanation": "The correct answer is B because '秋風が吹' literally translates to 'Autumn wind blowing', and carries a sense of coolness or 'coldness'."
+    },
+    "imagePrompt": "A vintage monochrome illustration of a young woman writing calligraphy with an autumn leaf behind her in front of a cherry blossom branch, Kyoto, Japan.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1782398110180-1782398221523.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a young woman writing calligraphy with an autumn leaf behind her in front of a cherry blossom branch, Kyoto, Japan.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1782379718471",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
