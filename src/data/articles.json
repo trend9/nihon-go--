@@ -1,5 +1,61 @@
 [
   {
+    "id": "level5-unique-slug-1782493369553-1782493494677",
+    "title": "Savor the Season: A Nightly Dive into Japanese Dining Etiquette and Seasonal Delights",
+    "subtitle": "Embracing Tradition, Finding Harmony in a Modern World",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Uncover the elegance of Japanese dining etiquette as you navigate the nuances of seasonal cuisine. This article delves into the intricate tapestry woven by tradition, hospitality, and culinary artistry.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine this: twilight descends, casting long shadows across a meticulously crafted wooden table. A hush falls over the room as guests gather, anticipation simmering in the air. The host raises a delicate glass of sake, welcoming everyone to partake in the symphony of flavors that follows. This is not just a meal; it's an experience, a ritual steeped in Japanese tradition and rooted in a deep appreciation for the season’s bounty.",
+    "grammarExplanation": "This article utilizes complex sentence structures with a focus on clarity and precision. The use of formal language and cultural references highlights the sophisticated nature of the theme. There is a deliberate balance between providing detailed descriptions and allowing space for reflection, mirroring the nuanced experience of dining in Japan.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の料理",
+        "japanese": "本日の料理",
+        "kana": "Konnichiwa no ryōri",
+        "romaji": "konnichiwa no ryouri",
+        "english": "Today's dishes",
+        "explanation": "A simple phrase indicating the current meal.",
+        "exampleJp": "今日の料理は、鮭の煮魚です。\n(Konnichiwa no ryōri wa, sake no niyō desu.)",
+        "exampleEn": "Today's dishes are salmon baked in a sauce.\n",
+        "tip": "The words 'today' and 'dish' can be combined with adjectives like 'favorite', 'traditional', and 'seasonal' to add further nuance."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 敬語",
+        "japanese": "敬語",
+        "kana": "Keigo",
+        "romaji": "keigo",
+        "english": "Polite language",
+        "explanation": "Learn the subtle intricacies of Japanese politeness and etiquette through this article.",
+        "exampleJp": "お先にどうぞ。(O-sashimo dōzo.)",
+        "exampleEn": "Please take your seat first.",
+        "tip": "To show respect, avoid using a loud voice in front of others. Use honorifics like 'sama' or 'san' when speaking to people older than you."
+      }
+    ],
+    "culturalInsight": "## Dining as an Art: Where Tradition Meets Innovation",
+    "quiz": {
+      "question": "Which of the following is NOT a typical element of Japanese dining etiquette? \n\n(A) Respectful silence in anticipation of the host's welcome, (B) Asking for extra rice even though you are full, (C) Using chopsticks as your primary utensils for eating, and (D) Maintaining eye contact with guests during conversation.",
+      "options": [
+        "B",
+        "C"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "While enjoying the abundance of food in Japan is a core aspect of dining experience, it's about more than just quantity. It's about appreciating the art of Japanese tradition."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A beautiful scene depicting Japanese tea ceremony with guests, highlighting traditional aesthetics and respectful communication styles.",
+    "thumbnailUrl": "/images/level5-unique-slug-1782493369553-1782493494677.jpg",
+    "thumbnailAlt": "A beautiful scene depicting Japanese tea ceremony with guests, highlighting traditional aesthetics and respectful communication styles.",
+    "isVerified": true
+  },
+  {
     "id": "level4-unique-slug-1782483985989-1782484108323",
     "title": "Checking In: The Art of Ryokan Stays & Dining Etiquette",
     "subtitle": "A guide to navigating the traditional Japanese hospitality experience",
