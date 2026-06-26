@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1782483985989-1782484108323",
+    "title": "Checking In: The Art of Ryokan Stays & Dining Etiquette",
+    "subtitle": "A guide to navigating the traditional Japanese hospitality experience",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Embark on a journey to discover the charm of traditional Japanese ryokan inns and master the etiquette of dining in this classic setting. This article provides insights into the nuances of these experiences, ensuring you navigate with confidence and grace.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine stepping off a crowded plane into a serene courtyard bathed in the soft glow of lanterns. The crisp air carries the scent of cherry blossoms, while a gentle melody echoes from traditional instruments. This is the world of Japanese ryokan inns, where centuries-old traditions and modern comfort intertwine. As you check in to your tatami room, prepare to be immersed in an experience that goes beyond mere lodging; it's about tradition, tranquility, and genuine hospitality. From meticulously crafted meals to respectful social customs, this article will equip you with the knowledge needed to navigate this unique world. Let’s dive into the intricacies of ryokan stays and discover the nuances of Japanese dining etiquette.",
+    "grammarExplanation": "The use of formal language (e.g., 'ryokan inns') in a journalistic context can contribute to a sense of formality and authority. The inclusion of examples like ‘crisp air carries the scent of cherry blossoms’ adds detail and cultural insight. This article employs a sophisticated vocabulary, suitable for English speakers seeking an in-depth understanding of Japanese cultural norms.",
+    "postIts": [
+      {
+        "id": "p_vocabulary_today",
+        "color": "blue",
+        "title": "Vocabulary: 今日の",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "This means 'today' and is a common way to ask about the day.",
+        "exampleJp": "今日の天気は晴れていますか？ (Kyō no tenki wa hare desu ka?)",
+        "exampleEn": "Is the weather today good?",
+        "tip": "You can use this when talking about time, like: 今日は何時ですか。(Kyou wa nanji desu ka?) which means 'What time is it today?'"
+      },
+      {
+        "id": "p_vocabulary_dinner",
+        "color": "green",
+        "title": "Vocabulary: 夕食 (Yūsuki)",
+        "japanese": "夕食 (Yūsuhoku)",
+        "kana": "Yūsuki-souka",
+        "romaji": "Yūsuho",
+        "english": "Dinner",
+        "explanation": "The term for 'dinner' in Japanese.",
+        "exampleJp": "今日の夕食は、お寿司を食べる。 (Kyo no yūshuku wa, o sushi wo taberu.)",
+        "exampleEn": "For dinner tonight, we're having sushi.",
+        "tip": "You can use this when talking about food. For example: 今日は夕食は何ですか？ (Kyou wa yūshuki wa nan desu ka?) which means 'What will you eat for dinner today?'"
+      }
+    ],
+    "culturalInsight": "Ryokans are more than just overnight stays; they represent a rich tapestry of Japanese culture. Stepping into a traditional ryokan is like stepping back in time, immersing yourself in the warmth and hospitality of centuries-old customs. From the precise placement of sliding doors to the subtle nuances of tea ceremony etiquette, every element serves as a reminder of Japan's deep connection to tradition.  For instance, guests typically remove their shoes before entering a ryokan room to show respect for the space, demonstrating a profound cultural understanding of clean lines and personal space.",
+    "quiz": {
+      "question": "What is the traditional Japanese word for dinner?",
+      "options": [
+        "Umeshu",
+        "Shokudo",
+        "Yūsuki",
+        "Onsen"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is 'Yūsuki', which translates to 'dinner' in Japanese. While the other options might be associated with specific elements of Japanese culture like the drink Umeshu or the onsen hot springs, they don’t directly refer to dinner."
+    },
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "schemaMarkup": "{\"type\": \"Article\"}",
+    "thumbnailUrl": "/images/level4-unique-slug-1782483985989-1782484108323.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1782466180468",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
