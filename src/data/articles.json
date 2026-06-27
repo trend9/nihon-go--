@@ -1,5 +1,62 @@
 [
   {
+    "id": "level4-unique-slug-1782597851110-1782598007194",
+    "title": "Kyoto Souvenir Shopping: From Temple Treasures to Geisha Vibes",
+    "subtitle": "Navigating the Prices in Kyoto's Evening Market",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Kyoto evenings are magical. As the city lights twinkle around you, so does the promise of unique souvenirs. With a little help from this guide, you'll find yourself navigating the crowds and uncovering authentic treasures, all while understanding the prices like a local.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Kyoto is a city where history whispers through every corner, and its charm lingers long after your visit. But when it comes to souvenirs, you need to navigate more than just ancient temples and serene gardens. Tonight, we'll guide you from bustling evening markets to hidden-gem shops, all while mastering the art of asking for prices in Japanese. After all, knowing how to haggle and understanding price expectations can be key to getting the best deals on those iconic handcrafted souvenirs.",
+    "grammarExplanation": "This article is structured around a conversational narrative style that mirrors real-world situations and uses simple present tense vocabulary for an approachable tone. We will focus on specific tenses like 'be' (to exist), 'have' (possession), and 'can' (ability) to illustrate how Japanese grammar relates to the daily life of English speakers.",
+    "postIts": [
+      {
+        "id": "p106358478",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This is a common expression that can be used to ask about the date or time. Example: 今日は何曜日ですか？ (Kyou wa nan youbi desu ka?) -  What day of the week is it today?",
+        "exampleJp": "今日は\n天気はいい\n",
+        "exampleEn": "It's a nice day today.",
+        "tip": "The word '今日' is used to talk about present time. Don't forget to use this in your conversations!"
+      },
+      {
+        "id": "p253809217",
+        "color": "pink",
+        "title": "Vocabulary: お願いします",
+        "japanese": "おねがいします",
+        "kana": "onegaishimasu",
+        "romaji": "onegai shimasu",
+        "english": "Please",
+        "explanation": "This is a polite way to ask for something or request assistance. For example: おねがいします (Onegaishimasu) = Please, could you help me?",
+        "exampleJp": "おねがいします、\n\n",
+        "exampleEn": "I would like you to please help me.",
+        "tip": "In a business context this can also be used with 'お願いします' (Onegai-shimasu) for a more formal request."
+      }
+    ],
+    "culturalInsight": "Kyoto’s charm isn’t just in the temples. As evening descends, traditional shops open their doors, offering everything from intricately crafted ceramics to beautiful silk fabrics. This is where you discover the true essence of Japanese culture: not only what's displayed, but how it’s presented. Take a moment to observe the intricate details of these souvenirs – the craftsmanship speaks for itself, and allows you to appreciate a unique piece of history.",
+    "quiz": {
+      "question": "What is the most common way to ask 'what day is today' in Japanese? ",
+      "options": [
+        "どの曜日ですか？ (Dono yōbi desu ka?)",
+        "今日は何曜日ですか？ (Kyou wa nan youbi desu ka?)",
+        "いつの日？ (Itsu no hi?)",
+        "どこですか？ (Doke desuka?)"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The most common way to ask about the day in Japanese is using '今日は何曜日ですか？' which translates to 'What day of the week is today?'. This phrase breaks down into: 'Kyou wa' meaning 'Today', 'nan' meaning 'what', and 'yōbi desu ka?' meaning 'day is it?'"
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\", \"@type\": \"Article\", \"name\": \"Kyoto Souvenir Shopping: From Temple Treasures to Geisha Vibes\", \"description\": \"Kyoto evenings are magical. As the city lights twinkle around you, so does the promise of unique souvenirs. With a little help from this guide, you'll find yourself navigating the crowds and uncovering authentic treasures, all while understanding the prices like a local. After all, knowing how to haggle and understanding price expectations can be key to getting the best deals on those iconic handcrafted souvenirs.\", \"datePublished\": \"2023-10-26T19:00:00+00:00\", \"keywords\": [\"\"], \"articleBody\": \"Kyoto is a city where history whispers through every corner, and its charm lingers long after your visit. But when it comes to souvenirs, you need to navigate more than just ancient temples and serene gardens. Tonight, we'll guide you from bustling evening markets to hidden-gem shops, all while mastering the art of asking for prices in Japanese. After all, knowing how to haggle and understanding price expectations can be key to getting the best deals on those iconic handcrafted souvenirs.\"}",
+    "thumbnailUrl": "/images/level4-unique-slug-1782597851110-1782598007194.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of shopping for souvenirs and asking for prices in Kyoto",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1782588268202",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
