@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1782549482888-1782549587951",
+    "title": "Mastering Polite Business Requests at Corporate Meetings: A Level 4 Guide",
+    "subtitle": "Navigating Japanese workplace etiquette for success.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "This article offers a detailed guide on navigating polite business requests at corporate meetings in Japanese, tailored for native English speakers aiming to elevate their communication skills. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the bustling world of Japanese business, where formality reigns supreme, mastering the art of polite request can make all the difference in achieving your desired outcome. Whether you're navigating a complex project proposal or seeking clarification on an important topic, understanding the nuances of Japanese business etiquette is vital for success. This level 4 guide dives into the intricacies of making respectful and effective requests at corporate meetings, drawing from authentic examples to illustrate the key points.",
+    "grammarExplanation": "This article utilizes a combination of formal and informal language structures, reflecting the dynamic nature of Japanese communication. It highlights the importance of using polite verbs and honorifics in professional settings. The article emphasizes the use of directness, but also acknowledges the need for sensitivity and respect during interactions. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: 依頼 (Afuri)",
+        "japanese": "依頼 (Afuri)",
+        "kana": "あしらい",
+        "romaji": "",
+        "english": "Request",
+        "explanation": "This is a fundamental Japanese term for making a request. It can be used in various contexts, such as asking someone to do something or requesting information.",
+        "exampleJp": "私に依頼してください (Watashi ni afuri shite kudasai)",
+        "exampleEn": "Please ask me for help.",
+        "tip": "This word is often paired with a verb and a noun in the request. For example, '私に依頼してください' would be translated to 'Request to me' which means asking me to do something."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary:  お伺い (O-isaki)",
+        "japanese": "お伺い (O-isaki)",
+        "kana": "おしかえ",
+        "romaji": "",
+        "english": "To inquire about something.",
+        "explanation": "This word can be used to express your desire to understand a situation or get clarification on an issue. ",
+        "exampleJp": "お伺いして, 状況について聞いてください (O-isaki shite, jōki ni tsukutte kudasai)",
+        "exampleEn": "Could you please tell me more about the situation?",
+        "tip": "Always use polite language and a respectful tone when using 'O-isaki' to ensure your request is understood."
+      }
+    ],
+    "culturalInsight": "Beyond mastering formal request, Japanese business culture places high value on building relationships and showing respect. Punctuality and adherence to social norms are crucial elements of professional etiquette. Being mindful of these cultural nuances will not only enhance your business interactions, but also foster deeper connections within your professional network.",
+    "quiz": {
+      "question": "What is the Japanese word for 'request'?",
+      "options": [
+        "依頼 (Afuri)",
+        "質問 (Shinshiki)",
+        "提案 (Tetsugen)",
+        "依頼する (Iru-suru)"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": "The correct answer is '依頼 (Afuri)'."
+    },
+    "imagePrompt": "A close-up shot of two business professionals in a conference room, engaged in a conversation. The background should feature subtle traditional Japanese decor like cherry blossoms or tatami mats.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level4-unique-slug-1782549482888-1782549587951.jpg",
+    "thumbnailAlt": "A close-up shot of two business professionals in a conference room, engaged in a conversation. The background should feature subtle traditional Japanese decor like cherry blossoms or tatami mats.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1782530891617",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
