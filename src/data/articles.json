@@ -1,5 +1,61 @@
 [
   {
+    "id": "level2-ordering-coffee-1782645101317",
+    "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
+    "subtitle": "Mastering simple requests for your late-morning coffee run",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Discover how to order drinks and items politely using 'kudasai' in Japanese. Perfect for travelers wanting to visit Japanese cafes.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "It is 11:30 AM, and you find yourself in a beautiful, minimalist cafe in Shibuya, Tokyo. The aroma of freshly roasted beans fills the air, and a polite barista awaits your order. While pointing and gesturing can get you through, speaking a few basic Japanese words makes the interaction incredibly rewarding. The most powerful phrase in your traveler's toolkit is 'Kore o kudasai' (これをください) — a polite way to say 'This one, please.'",
+    "grammarExplanation": "The grammar pattern '[Noun] + を (o) + ください (kudasai)' is the standard way to ask for things politely. The particle 'o' marks the object you want, and 'kudasai' is a polite request. You can replace 'kore' (this) with actual nouns. For example, 'Koohii o kudasai' means 'Coffee, please.' It is simple, direct, and universally understood across Japan.",
+    "postIts": [
+      {
+        "id": "p-coffee-1",
+        "color": "pink",
+        "title": "Vocabulary: コーヒー",
+        "japanese": "コーヒー",
+        "kana": "こーひー",
+        "romaji": "koohii",
+        "english": "coffee",
+        "explanation": "Loan word written in Katakana. Standard coffee, usually drip or espresso-based.",
+        "exampleJp": "ホットコーヒーをください。",
+        "exampleEn": "Hot coffee, please."
+      },
+      {
+        "id": "p-coffee-2",
+        "color": "green",
+        "title": "Vocabulary: これ",
+        "japanese": "これ",
+        "kana": "これ",
+        "romaji": "kore",
+        "english": "this / this one",
+        "explanation": "A demonstrative pronoun used for items close to the speaker. Essential for pointing at menus.",
+        "exampleJp": "これをお願いします。",
+        "exampleEn": "This one, please. (using polite 'onegaishimasu')"
+      }
+    ],
+    "culturalInsight": "When ordering in Japan, baristas will often ask you if you want it hot ('hotto') or iced ('aisu'). Japan loves iced coffee, and it is readily available year-round. Also, look out for the small tray on the counter; in Japan, you should place your cash or card on this tray rather than handing it directly to the cashier.",
+    "quiz": {
+      "question": "What is the correct way to order 'water' (mizu) politely in Japanese?",
+      "options": [
+        "Mizu o kudasai",
+        "Mizu wa doko",
+        "Mizu desu ka",
+        "Mizu o tabetai"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Mizu o kudasai' follows the '[Noun] + o + kudasai' pattern, which is the correct way to request water politely."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Order Coffee in Japan\",\"description\":\"Step by step guide to using the kudasai phrase in cafes.\",\"step\":[{\"@type\":\"HowToStep\",\"text\":\"Point to the item on the menu and say Kore o kudasai.\"}]}",
+    "imagePrompt": "A cozy modern Japanese cafe counter, a barista pouring drip coffee, warm wood tones, cozy atmosphere, anime aesthetic illustration",
+    "thumbnailUrl": "/images/level2-ordering-coffee-1782645101317.jpg",
+    "thumbnailAlt": "A cozy modern Japanese cafe counter, a barista pouring drip coffee, warm wood tones, cozy atmosphere, anime aesthetic illustration",
+    "isVerified": true
+  },
+  {
     "id": "level1-japanese-izakaya-conversation-1782636893822",
     "title": "Cracking the Izakaya Code: Conversations with Friends in the Morning Sun",
     "subtitle": "Your Beginner's Guide to Casual Japanese Language Learning at an Izakaya",
