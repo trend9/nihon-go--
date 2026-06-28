@@ -1,5 +1,75 @@
 [
   {
+    "id": "level1-japanese-izakaya-conversation-1782636893822",
+    "title": "Cracking the Izakaya Code: Conversations with Friends in the Morning Sun",
+    "subtitle": "Your Beginner's Guide to Casual Japanese Language Learning at an Izakaya",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Welcome to the world of Japanese casual conversations! This guide will help you navigate your first steps into a lively izakaya, a quintessential Japanese restaurant. It'll take you from basic greetings to engaging with friends in this heartwarming cultural setting. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine the aroma of freshly grilled yakitori mingling with laughter and lively chatter, as the morning sun washes over the izakaya tables. This is a scene that unfolds every day across Japan, inviting you to experience something truly unique: authentic Japanese culture through casual conversation. From basic greetings to sharing stories around a steaming bowl of ramen, mastering this language will unlock a world of possibilities in your journey. ",
+    "grammarExplanation": "This article introduces basic grammar concepts relevant to everyday conversations within an izakaya setting. It provides examples and explanations for common phrases used by friends, making learning fun and accessible.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の天気?",
+        "japanese": "今日は天気どうですか？",
+        "kana": "Kyō wa tenki dō desu ka?",
+        "romaji": "Kyō wa tenki dō desu ka?",
+        "english": "What's the weather like today?",
+        "explanation": "This phrase is used to ask about the weather, which can be relevant for casual conversations about daily life.",
+        "exampleJp": "今日の天気は晴れそうです。",
+        "exampleEn": "The weather looks like it will be sunny today.",
+        "tip": "Start with a question and then listen carefully. Use polite language."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お酒はどれが好き?",
+        "japanese": "お酒は何が好きですか？",
+        "kana": "O sake wa dō ga suki desu ka?",
+        "romaji": "O sake wa dō ga suki desu ka?",
+        "english": "What kind of drinks do you like to drink?",
+        "explanation": "This phrase is used to ask about a person's preferred beverage. This is an important part of casual conversation in Japanese culture, even when meeting new people for the first time.",
+        "exampleJp": "私はビールが好きです。",
+        "exampleEn": "I like beer.",
+        "tip": "Japanese cultures value politeness and formality, so be sure to use the polite form of asking the question."
+      }
+    ],
+    "culturalInsight": "The izakaya is much more than just a place for dining. It's about connecting with friends and family over a shared moment of casual conversation and relaxed enjoyment. These spaces often play host to lively discussions about everything from work-life balance to upcoming trips, and are an integral part of Japanese cultural life.",
+    "quiz": {
+      "question": "What is the most important phrase when joining a group conversation in a Japanese izakaya? \n\n A) ありがとうございます。\n B) おはようございます。\nC) お酒はどれが好き？\n D) 今日の天気はどうですか？",
+      "options": [
+        {
+          "id": "A",
+          "answer": "ありがとうございます。"
+        },
+        {
+          "id": "B",
+          "answer": "おはようございます。"
+        },
+        {
+          "id": "C",
+          "answer": "お酒はどれが好き？"
+        },
+        {
+          "id": "D",
+          "answer": "今日の天気はどうですか？"
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "This quiz question tests if you have learned the phrase that is most important when joining a group conversation in a Japanese izakaya. It's about starting a casual conversation with friends and creating a warm atmosphere."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of smiling people in an Izakaya enjoying their drinks, with a few plates of Japanese food on the table. There should be a traditional lantern hanging from above and warm lighting to emphasize the atmosphere.",
+    "thumbnailUrl": "/images/level1-japanese-izakaya-conversation-1782636893822.jpg",
+    "thumbnailAlt": "A photo of smiling people in an Izakaya enjoying their drinks, with a few plates of Japanese food on the table. There should be a traditional lantern hanging from above and warm lighting to emphasize the atmosphere.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1782618536558",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
