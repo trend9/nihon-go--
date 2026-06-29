@@ -1,5 +1,62 @@
 [
   {
+    "id": "level2-unique-slug-1782705226079-1782705367248",
+    "title": "Planning Your Perfect Trip: Vacations & Schedules",
+    "subtitle": "Learn to talk about travel plans in Japanese.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Get ready to explore the world! This article teaches you essential Japanese vocabulary for planning travel, booking trips, and expressing your vacation wishes. Learn the basics of communicating your travel dreams in a fun and easy way.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Whether you're dreaming about exploring ancient temples in Kyoto or relaxing on pristine beaches in Okinawa, learning how to talk about your travel plans is essential. This article will equip you with the vocabulary to confidently communicate your vacation wishes and navigate any travel-related discussions. From talking about flight times to expressing your travel goals, we'll guide you through the basics of Japanese for travelers.",
+    "grammarExplanation": "Japanese grammar focuses on politeness levels, sentence structure, and particle use. Mastering these elements will enhance your conversational fluency in Japanese.  This article provides a basic overview of how these factors are applied in conversations regarding travel plans.",
+    "postIts": [
+      {
+        "id": "p-vocabulary:flight",
+        "color": "pink",
+        "title": "Vocabulary:フライト (Flights)",
+        "japanese": "フライト",
+        "kana": "Futoryō",
+        "romaji": "Furīto",
+        "english": "Flight",
+        "explanation": "This word refers to an airplane journey, typically used when talking about travel. ",
+        "exampleJp": "飛行機に乗ります (Hi-kkyō ni norimasu)",
+        "exampleEn": "I'm taking a plane.",
+        "tip": "Flight in Japanese is pronounced with a soft 'y' sound."
+      },
+      {
+        "id": "p-vocabulary:hotel",
+        "color": "blue",
+        "title": "Vocabulary:ホテル (Hotel)",
+        "japanese": "ホテル",
+        "kana": "Hoteiru",
+        "romaji": "Hōtei",
+        "english": "Hotel",
+        "explanation": "This word refers to a place where you can stay while traveling. ",
+        "exampleJp": "宿泊します (Shuku-kashisimasu)",
+        "exampleEn": "I'm staying at a hotel.",
+        "tip": "Remember to pronounce the 'o' sound as a short 'oh'."
+      }
+    ],
+    "culturalInsight": " **Traveling Through Japan: A Cultural Perspective** \n  Japanese culture places great importance on planning and preparation for travel. Travelers often research destinations, explore different transportation options, and meticulously plan their itineraries to ensure a smooth and enjoyable experience. The idea of 'kaiten' (meaning ‘journey’ in Japanese) is deeply ingrained in the nation’s social fabric. This mindset reflects Japan’s appreciation for mindful and deliberate travel. \n   However, Japanese hospitality extends beyond just planning your trip. It also involves respect for local customs and traditions. For example, bowing as a greeting is standard practice, demonstrating courtesy and respect. Travelers are expected to observe these norms during their journey, further enriching the cultural experience.  \n",
+    "quiz": {
+      "question": "What do you use to book flights in Japanese?",
+      "options": [
+        "予約 (Yōryoku)",
+        "飛行機 (Hikikoku)",
+        "ホテル (Hotel)",
+        "駅 (Eki)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '予約 (Yōryoku)'.  '予約' means ‘booking’ and is the most common word used to book a flight in Japanese."
+    },
+    "schemaMarkup": "{\"type\":\"Article\", \"headline\":\"Planning Your Perfect Trip: Vacations & Schedules\", \"description\": \"Learn to talk about travel plans in Japanese, from booking flights to expressing your vacation wishes. This article provides essential vocabulary for travelers and an insight into the cultural significance of travel in Japan.\",\"imagePrompt\": \"A vintage monochrome illustration of a sushi chef in Tokyo\"}",
+    "thumbnailUrl": "/images/level2-unique-slug-1782705226079-1782705367248.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of discussing travel schedules and vacation wishes",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1782684401906",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
