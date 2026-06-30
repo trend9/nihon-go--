@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1782857849028-1782857962277",
+    "title": "Toasting Colleagues: A Beginner's Guide to Japanese Congratulations",
+    "subtitle": "Find the perfect phrases for a workplace celebration.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Mastering the art of congratulations in Japanese is a key step for your professional journey. This guide will equip you with phrases to toast colleagues, express appreciation and celebrate successes. Whether it's a new project or a hard-earned promotion, learn how to be fluent in the language of business! ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Congratulations are not just for special occasions; they're woven into the fabric of daily work life.  In Japan, workplace camaraderie is deeply valued. A genuine congratulatory word can strengthen bonds and boost morale.  So, whether you’re celebrating a promotion or simply acknowledging a job well done, mastering the right phrases will help you leave a lasting impression on your colleagues. This guide offers essential vocabulary and useful tips for expressing congratulations in Japanese.",
+    "grammarExplanation": "Japanese grammar is known for its intricate rules, but this doesn't need to overwhelm you! The key lies in understanding how to form sentences. Japanese uses subject-object-verb structure (like English), and often employs particles to connect words. For example, 'おめでとう' is a general congratulations; however,  adding more specific information will make it more personalized. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary:  Congratulations",
+        "japanese": "おめでとう (O-to-mo-e)",
+        "kana": "o-to-mo-e",
+        "romaji": "Otemo",
+        "english": "Congratulations",
+        "explanation": "This is a versatile and common greeting. ",
+        "exampleJp": "おめでとうございます！ (Ote-ma-ko-ro-ne-ni, Kirei-ka-na-e!)",
+        "exampleEn": "Congratulations!  Let's celebrate!",
+        "tip": "Simple and polite!"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  Appreciation",
+        "japanese": "どうもありがとう (Doumo arigatou)",
+        "kana": "dō-mu a-riga-to-u",
+        "romaji": "Dōmu Arigatou",
+        "english": "Thank you so much/ Much thanks!",
+        "explanation": "This is a formal and polite way to express gratitude for someone's help.",
+        "exampleJp": "この仕事は大変だったけど、大変感謝します (Kono shigoto wa tai-to-ta-da, tai-to-ka-na-ko) ",
+        "exampleEn": "I was really grateful for your help with this task - I couldn't have done it without you.",
+        "tip": "Use this when acknowledging someone’s efforts and contribution."
+      }
+    ],
+    "culturalInsight": "A toast is a staple in Japanese culture, and a well-timed expression of congratulations will make your colleagues feel valued and appreciated. A toast with sake is often the mark of respect, a traditional way to celebrate achievements. This simple gesture signifies goodwill and builds a stronger work environment.",
+    "quiz": {
+      "question": "Which phrase means 'Congratulations!' in Japanese?",
+      "options": [
+        "ありがとう (Arigatou)",
+        "おめでとう (Otemo)",
+        "ありがとうございます (Arigatou gozaimasu)",
+        "さようなら (Sayounara)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'おめでとう (Otemo)'.  While there are other polite ways to express congratulations in Japanese, this phrase is the most common and general."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An image of a group of colleagues raising glasses together while celebrating over a sake toast in a modern office setting with natural light. The picture should convey warmth and joy. ",
+    "thumbnailUrl": "/images/level2-unique-slug-1782857849028-1782857962277.jpg",
+    "thumbnailAlt": "An image of a group of colleagues raising glasses together while celebrating over a sake toast in a modern office setting with natural light. The picture should convey warmth and joy. ",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1782849826609",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
