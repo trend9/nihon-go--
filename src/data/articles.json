@@ -1,5 +1,60 @@
 [
   {
+    "id": "level5-unique-slug-1782839428107-1782839542710",
+    "title": "Lost in the Labyrinth: Mastering Subway Navigation for Evening Hours",
+    "subtitle": "Finding your way through Tokyo's intricate subway system at night.",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Navigating Tokyo's bustling subway system after dark can feel like entering a labyrinth. With the help of this guide, you’ll learn to master the intricate network and find your way with ease, even in unfamiliar surroundings.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The Tokyo Metro is an iconic symbol of the city's dynamism. As evening descends, the station transforms into a symphony of neon lights, commuters rushing by, and the constant hum of electric trains. While the daytime is bustling with tourists, navigating these labyrinthine tunnels becomes a thrilling experience after dark. This guide aims to equip you with the tools needed for this cultural ballet, helping you not only reach your destination but also understand the deeper meaning of this urban tapestry.",
+    "grammarExplanation": "The Japanese language utilizes complex grammatical structures that can be challenging for English speakers. Understanding basic concepts like sentence structure and particle usage are crucial for reading authentic texts. This piece uses a blend of direct translation and paraphrasing to provide clarity without over-complicating the narrative flow. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 今日の道 (Kyō no Michi)",
+        "japanese": "今日は何処に行くか？ (Kyou wa nani de iku ka?)",
+        "kana": "Kyō wa nani de iku ka?",
+        "romaji": "Kyō wa Nani de Iku Ka?",
+        "english": "Where am I headed tonight?",
+        "explanation": "Asking for directions in Japanese can involve acknowledging your current location first.  Understanding the nuance of this phrase will help you navigate a more fluid conversation.",
+        "exampleJp": "地下鉄の駅で、どこに行く？ (Chikatetsu no eki de, doko ni ikimasu?)",
+        "exampleEn": "Where am I going in the subway?",
+        "tip": "The word 'ka' emphasizes the importance of choosing a specific destination.  Use this sentence as a launching point for asking directions."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 地下鉄 (Chikatetsu)",
+        "japanese": "地下鉄(ちかてつ)",
+        "kana": "Chikatetsu",
+        "romaji": "Chikatetsu",
+        "english": "Subway",
+        "explanation": "Knowing the technical term for 'subway' will help you understand different train lines, platforms and directions.",
+        "exampleJp": "東京の地下駅 (Tokyo no Chikatetsu)",
+        "exampleEn": "The Tokyo Subway System",
+        "tip": "This word refers to the underground transportation system.  Its use in everyday conversations is essential."
+      }
+    ],
+    "culturalInsight": "Navigating the Tokyo Metro after dark offers a glimpse into the city's hidden heart, revealing its pulsating rhythm that thrives on a collective effort of commuters. Each station becomes a microcosm of Tokyo’s vibrant spirit, with bustling crowds and stories waiting to be discovered. The experience transcends mere transportation; it is an immersion in the essence of Tokyo.",
+    "quiz": {
+      "question": "Where would you go for a night-time metro ride in Tokyo?",
+      "options": [
+        "A: Shibuya Station | B: Shinjuku Station | C: Asakusa Station | D: Ueno Station"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shibuya, known for its iconic scramble crossing, is a popular night-time destination on the Tokyo Metro.  The station's energy and vibrant atmosphere are sure to impress."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo at night, surrounded by bustling crowds in the Metro station') ",
+    "thumbnailUrl": "/images/level5-unique-slug-1782839428107-1782839542710.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo at night, surrounded by bustling crowds in the Metro station') ",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1782829343530",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
