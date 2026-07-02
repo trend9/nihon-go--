@@ -1,5 +1,75 @@
 [
   {
+    "id": "level1-unique-slug-1782992161470-1782992274021",
+    "title": "Getting Your Shinkansen Ticket: A Beginner's Guide to Japan's Speedy Trains",
+    "subtitle": "Ready for adventure in the Land of the Rising Sun? We'll show you how to buy your shinkansen ticket.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learning the basics of buying a Shinkansen (新幹線) ticket is essential for traveling across Japan. Whether it's your first trip to Tokyo or a wider exploration of the country, this article will guide you through the process with ease.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to Japan! You're about to embark on an exciting adventure in a land that blends ancient tradition with modern marvels. One crucial step for navigating this fascinating country is buying your Shinkansen (新幹線) ticket – the super-fast bullet train connecting major cities. This guide will demystify the process, ensuring you can board your journey smoothly and confidently. From station platforms to ticket windows, we'll take you through it all. Let's jump right in!",
+    "grammarExplanation": "This article focuses on basic Japanese grammatical structures commonly used in everyday communication, such as verbs, nouns, particles, and sentence structure. For example, the use of 'ます' (masu) to indicate politeness or obligation will be discussed.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 必要なものを",
+        "japanese": "必要なものを",
+        "kana": "ni-yō-na wo",
+        "romaji": "ni yō na wo",
+        "english": "The Things We Need",
+        "explanation": "This is a simple Japanese phrase indicating the things that are necessary. It can be used in different situations, like needing to buy groceries or prepare for an event.",
+        "exampleJp": "これは必要なものだ。 (Kore wa yō ni mo da.)",
+        "exampleEn": "This is the thing we need.",
+        "tip": "Use this phrase when you need to obtain something important."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 値段",
+        "japanese": "値段",
+        "kana": "dēna",
+        "romaji": "dena",
+        "english": "Price",
+        "explanation": "This is a common word in daily life, and it helps you understand the cost of something. You can use this to ask about prices at shops or online.",
+        "exampleJp": "このケーキはいくらですか？(Kono keki wa ikura desu ka?)",
+        "exampleEn": "How much does this cake cost?",
+        "tip": "To check the price, you can say '値段' (dēna) in front of any item you want to know the price of."
+      }
+    ],
+    "culturalInsight": "Shinkansen journeys offer a unique glimpse into Japanese life. From the punctuality and efficiency of train travel to the serene atmosphere of the car, the experience reflects Japan's dedication to order and progress. One must be prepared to embrace this cultural aspect by being respectful of etiquette rules on board. Consider learning about basic table manners before you journey to Japan for a truly enriching experience.",
+    "quiz": {
+      "question": "What is the recommended time to buy Shinkansen tickets in Japan?",
+      "options": [
+        {
+          "text": "Morning",
+          "value": "Morning"
+        },
+        {
+          "text": "Afternoon",
+          "value": "Afternoon"
+        },
+        {
+          "text": "Evening",
+          "value": "Evening"
+        },
+        {
+          "text": "Anytime",
+          "value": "Anytime"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Shinkansen tickets are often cheaper in the morning and less crowded than during peak hours. Purchasing your tickets in the morning can save you money and avoid potential queues."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An image of a cityscape with Shinkansen bullet trains speeding by at sunset, Tokyo skyline as background.",
+    "thumbnailUrl": "/images/level1-unique-slug-1782992161470-1782992274021.jpg",
+    "thumbnailAlt": "An image of a cityscape with Shinkansen bullet trains speeding by at sunset, Tokyo skyline as background.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1782982920842",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
