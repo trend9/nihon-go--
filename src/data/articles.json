@@ -1,5 +1,57 @@
 [
   {
+    "id": "level2-unique-slug-1783000860409-1783000957738",
+    "title": "Emergencies: Urgent Requests in Japanese",
+    "subtitle": "Understanding basic phrases for help during unexpected situations.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to express urgency or ask for assistance in Japanese, even when you're caught off guard. This article covers essential phrases and vocabulary for navigating unexpected situations.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Unexpected events can happen anywhere, anytime! Whether it's a medical emergency, a natural disaster, or just getting lost in a unfamiliar place, knowing how to ask for help is crucial. This article will equip you with essential Japanese phrases and vocabulary, helping you confidently communicate your needs even when facing challenging circumstances. ",
+    "grammarExplanation": "This article will explain common grammatical structures used in urgent communication, including using particles (助詞) for emphasis and politeness.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 助けを求める",
+        "japanese": "助けを必要としている",
+        "kana": "takau o yohitsu suru",
+        "romaji": "ta-ka-ru o yohitsu su-ru",
+        "english": "Requesting Assistance",
+        "explanation": "This phrase means 'I need help'. It can be used in many different situations. For example, you could say it if you are lost, injured, or experiencing a breakdown.",
+        "exampleJp": "急なトラブルに遭ってしまったので、助けを please.",
+        "exampleEn": "I ran into an emergency situation, so I need help.",
+        "tip": "For more formal situations, you can use '困っている'  (ko-to-te-ru)"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 緊急事態",
+        "japanese": "緊急事態",
+        "kana": "kyokuryō kisha-tai",
+        "romaji": "kyokuryo kisha-tai",
+        "english": "Emergency Situation",
+        "explanation": "This phrase signifies a sudden, urgent problem that requires immediate attention.",
+        "exampleJp": "緊急事態のため、すぐに助けが必要だ",
+        "exampleEn": "I need help immediately because of an emergency situation.",
+        "tip": "Use the phrase '緊急事態' when you want to draw attention to something serious that needs to be addressed right away."
+      }
+    ],
+    "culturalInsight": "While Japanese culture emphasizes politeness and respect, the urgency of a situation may call for a more direct approach. It is important to communicate your needs clearly, but also with a respectful tone, as in most situations you can still express your need for assistance while being polite. ",
+    "quiz": {
+      "question": "What does the phrase ‘助けを必要としている’ translate to in English? (a) I am asking for help (b) I have a problem (c) Help me (d) I'm lost",
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is (a) I am asking for help.  It means 'I need help'."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a confused person standing in the middle of a busy street with a concerned expression.",
+    "thumbnailUrl": "/images/level2-unique-slug-1783000860409-1783000957738.jpg",
+    "thumbnailAlt": "A photo of a confused person standing in the middle of a busy street with a concerned expression.",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1782992161470-1782992274021",
     "title": "Getting Your Shinkansen Ticket: A Beginner's Guide to Japan's Speedy Trains",
     "subtitle": "Ready for adventure in the Land of the Rising Sun? We'll show you how to buy your shinkansen ticket.",
