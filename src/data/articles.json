@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1783011093610-1783011222489",
+    "title": "Inside the Japanese Home: A Look at Daily Life & Household Items",
+    "subtitle": "From morning routines to afternoon relaxation, discover how Japan navigates daily life.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This article offers a glimpse into the inner workings of Japanese homes. From the daily schedules that shape household routines to common objects found in each space, this journey provides insights into the rhythm of Japanese life.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In bustling Tokyo or quiet Kyoto, there's a harmony within everyday life. The rhythmic ebb and flow of work and relaxation defines many aspects of daily routine in Japan. A key element to this is the domestic space, which goes beyond just shelter; it’s a stage for family life, social gatherings, and even contemplation. So, take a closer look at the common objects found in your Japanese neighbour's home! It can provide unexpected insights into their lives.",
+    "grammarExplanation": "This article incorporates grammatical elements commonly used by native speakers of English in Japan. For example, it features a consistent use of present tense to describe everyday activities and employs passive voice in some instances for a natural flow of text.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の家",
+        "japanese": "今日は家にいる",
+        "kana": "kyou wa ie ni iru",
+        "romaji": "Kyō wa ie ni iru",
+        "english": "I am at home today.",
+        "explanation": "This is a way of expressing the current context. It’s used for setting the scene in sentences about daily routines like this.",
+        "exampleJp": "今日は家では、コーヒーを淹れてます。",
+        "exampleEn": "Today, at home, I'm making coffee.",
+        "tip": "It can be said with a sense of anticipation; ‘I’ll be at home today!’"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 朝ごはん",
+        "japanese": "朝ご飯",
+        "kana": "Asa gohan",
+        "romaji": "Asagohan",
+        "english": "Breakfast",
+        "explanation": "This is about the daily routine of breakfast in Japan. It's a part of the morning routine and represents both a basic necessity and a cultural tradition.",
+        "exampleJp": "朝ごはんを食べるのが好き。",
+        "exampleEn": "I enjoy having breakfast.",
+        "tip": "To express this preference, use phrases like 'I love to have breakfast' or 'It’s my pleasure to start the day with breakfast.'"
+      }
+    ],
+    "culturalInsight": "Beyond the familiar kitchen and living room, Japanese homes often feature unique elements that reflect their cultural values. For instance, a traditional tatami mat adds warmth and provides a sense of serenity, while paper screens create a visual barrier for privacy and allow natural light to flow into the rooms.",
+    "quiz": {
+      "question": "What is the Japanese word for breakfast?",
+      "options": [
+        "ごはん",
+        "お茶",
+        "コーヒー",
+        "夕食"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'ごはん' which means 'breakfast'. It represents a crucial part of the daily routine and cultural significance in Japan."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photorealistic image of a minimalist Japanese living room with tatami mats, sliding paper screen, and sunlight streaming through. Focus on natural lighting and texture to evoke the serene nature of traditional Japanese homes.",
+    "thumbnailUrl": "/images/level3-unique-slug-1783011093610-1783011222489.jpg",
+    "thumbnailAlt": "A photorealistic image of a minimalist Japanese living room with tatami mats, sliding paper screen, and sunlight streaming through. Focus on natural lighting and texture to evoke the serene nature of traditional Japanese homes.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1783000860409-1783000957738",
     "title": "Emergencies: Urgent Requests in Japanese",
     "subtitle": "Understanding basic phrases for help during unexpected situations.",
