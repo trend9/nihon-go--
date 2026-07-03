@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1783087505633-1783087623724",
+    "title": "Mastering the Art of Ordering Coffee: A Guide for Evening Conversations",
+    "subtitle": "Navigating Japan's coffee culture in the late hours.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learn to order coffee like a pro in the evening. From mastering basic phrases to navigating complex orders, this guide will empower you to confidently navigate Japan's late-night coffee scene.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Late nights in Tokyo, with the city lights reflecting off the glass of your favorite cafe, are a haven for meaningful conversations. But navigating the world of Japanese cafes can be daunting. Whether you're craving a comforting cuppa after work or seeking the perfect ambiance for a late-night catchup with friends, mastering the art of ordering coffee is an essential step. This guide will empower you to communicate your desires clearly and confidently in any café setting.",
+    "grammarExplanation": "In Japanese, grammatical structures can be quite complex. We'll explore how verb conjugations and sentence structure change depending on context and tone, allowing you to better understand the subtle nuances of communication in Japanese. The level of formality can also dictate language choices. From polite 'san' to informal ‘kun’, mastering these elements allows for greater ease and fluency.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: コーヒー (Kopi)",
+        "japanese": "コーヒー",
+        "kana": "Kōhī",
+        "romaji": "Coffee",
+        "english": "Coffee",
+        "explanation": "This basic word is the foundation of your Japanese coffee journey. Remember to try different cafes and discover their own unique flavours.",
+        "exampleJp": "コーヒーを飲みたい",
+        "exampleEn": "I want to drink coffee.",
+        "tip": "In casual conversation, you can simply say 'コーヒー' (coffee)."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary: おい (Oi)",
+        "japanese": "おい",
+        "kana": "Oii",
+        "romaji": " Oi",
+        "english": "Oh!",
+        "explanation": "This word is the Japanese equivalent of ‘Wow!’ or 'That's Interesting!’ It can be used to express surprise, excitement, or admiration.",
+        "exampleJp": "おい、おいしいよね！",
+        "exampleEn": "Oh wow, it's delicious, isn't it?",
+        "tip": "When you’re enjoying a good coffee drink, 'おい' is the perfect way to express your delight."
+      }
+    ],
+    "culturalInsight": "While most cafes in Japan are known for their high-quality coffee, they also offer other drinks and snacks. A traditional café would likely offer tea, or even sake. These beverages can be enjoyed alongside a good conversation, highlighting the cultural exchange of language and culture. When ordering, remember to politely use terms like 'お願いします' (onegaishimasu) when asking for recommendations or assistance.",
+    "quiz": {
+      "question": "What is the Japanese word for coffee?",
+      "options": [
+        "コーヒー (Kopi)",
+        "お茶 (Ocha)",
+        "紅茶 (Houjicha)",
+        "ジュース (Jusshe]"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'コーヒー (Kopi)' as it directly translates to coffee in Japanese. This word signifies the primary drink being discussed."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\", \"@type\": \"Article\", \"headline\": \"Mastering the Art of Ordering Coffee: A Guide for Evening Conversations\", \"description\": \"Learn to order coffee like a pro in the evening. From mastering basic phrases to navigating complex orders, this guide will empower you to confidently navigate Japan's late-night coffee scene.\", \"mainEntityOfPage\": {\"@type\": \"Page\"}, \"keywords\": [\"\"], \"image\": {\"url\": \"https://www.example.com/coffee_cafe.jpg\"}}",
+    "imagePrompt": "A close-up shot of a vintage coffee mug held in the hand of someone with a relaxed, friendly expression in front of the backdrop of Tokyo's vibrant night cityscape.",
+    "thumbnailUrl": "/images/level4-unique-slug-1783087505633-1783087623724.jpg",
+    "thumbnailAlt": "A close-up shot of a vintage coffee mug held in the hand of someone with a relaxed, friendly expression in front of the backdrop of Tokyo's vibrant night cityscape.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1783078650988",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
