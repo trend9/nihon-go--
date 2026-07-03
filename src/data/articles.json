@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1783060471048-1783060611518",
+    "title": "Words for the Seasons: Greeting Weather with Japanese Letters",
+    "subtitle": "A guide to expressing seasonal changes and weather greetings in Japanese letters.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Master the art of communicating weather and seasonal nuances in Japanese through greetings. This article provides a concise guide to express your sentiments using everyday vocabulary.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "From the crispness of autumn leaves to the warmth of summer sunshine, each season brings unique charm to Japan.  Learn how to effortlessly express the weather and seasons with these basic greetings. Discover the beauty of simple Japanese language nuances, bridging the gap between cultural understanding and daily communication.",
+    "grammarExplanation": "This guide focuses on learning and using simple vocabulary for expressing seasonal changes and weather in Japanese. We'll explore the key elements of Japanese grammar relevant to this theme: particle usage (助詞) and basic sentence structure. This will empower you to communicate your weather preferences with greater ease and confidence.",
+    "postIts": [
+      {
+        "id": "p-vocabulary:today",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyō wa",
+        "english": "Today",
+        "explanation": "How are you doing?  This phrase conveys 'What's the weather like today?' or simply a greeting. It is often used in casual conversation. \n\nExample: (When meeting a friend)  kyou wa 〇〇-nichi desu ka? (Today, how's the weather?)",
+        "exampleJp": "今日は良い天気ですね。",
+        "exampleEn": "The weather is good today.",
+        "tip": "This is used to say 'It's a nice day today!'"
+      },
+      {
+        "id": "p-vocabulary:today-afternoon",
+        "color": "pink",
+        "title": "Vocabulary: 今",
+        "japanese": "今",
+        "kana": "ima",
+        "romaji": "ima",
+        "english": "Now",
+        "explanation": "This is a versatile word that can be used in different contexts. For example, you might say 'Now' when asking about the weather or your schedule.",
+        "exampleJp": "今、天気はどうですか？",
+        "exampleEn": "How's the weather like now?",
+        "tip": "This is a useful way to ask questions like 'What’s the current time?' or 'Now that we’re meeting, what do you think about the weather?'"
+      }
+    ],
+    "culturalInsight": "Beyond simple greetings, Japanese letters are interwoven into everyday life. From postal addresses using specific kanji to expressing seasonal changes in calligraphy, understanding this visual language enriches your cultural experience. Keep an eye on the subtle nuances of wordplay and aesthetics – they’ll reveal a fascinating world of hidden meanings.",
+    "quiz": {
+      "question": "Which phrase is used to ask 'What's the weather like today?' in Japanese?",
+      "options": [
+        "a.  今日はいい天気ですね。",
+        "b.  今、天気はどうですか？",
+        "c.  明日は晴れるでしょう",
+        "d.  今日の夜は寒いです"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": "Option 'a' is the most common way to ask for weather information in Japanese. It translates to 'The weather is nice today.' The phrase means that you are looking for good news about the weather."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vintage monochrome illustration of a woman with short hair holding a paper fan in a traditional Japanese courtyard garden during a light spring rain, a cherry blossom tree stands behind her. ",
+    "thumbnailUrl": "/images/level2-unique-slug-1783060471048-1783060611518.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a woman with short hair holding a paper fan in a traditional Japanese courtyard garden during a light spring rain, a cherry blossom tree stands behind her. ",
+    "isVerified": true
+  },
+  {
     "id": "level1-japanese-weather-greetings-1783047465385",
     "title": "Embracing the Seasons: Greetings for Different Weather in Japanese Letters",
     "subtitle": "A Beginner's Guide to Expressing the Transition of Weather and Seasonal Changes",
