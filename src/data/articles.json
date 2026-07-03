@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-japanese-weather-greetings-1783047465385",
+    "title": "Embracing the Seasons: Greetings for Different Weather in Japanese Letters",
+    "subtitle": "A Beginner's Guide to Expressing the Transition of Weather and Seasonal Changes",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learn how to greet someone about the weather in Japanese! This guide will help you understand basic greetings for various seasons and day time. Whether you're learning the language or just curious, this article provides essential phrases and cultural insights.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Hello everyone! Today, we delve into a fascinating aspect of Japanese communication: weather greetings in letters. From the crisp cool of autumn to the vibrant energy of summer, knowing how to express these seasonal shifts is a testament to your growing language skills.",
+    "grammarExplanation": "This guide will explore basic sentence structure, subject-verb-object order and common politeness levels when greeting someone about the weather, which will provide you with a solid foundation. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日は",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "This is a very common phrase used to say today. It can be used in casual and formal settings.",
+        "exampleJp": "今日は\nいい天気ですね。\n(Kyō wa ii tenki desu ne.)\n—It's a nice day, isn't it?",
+        "exampleEn": "The weather is nice today.",
+        "tip": "This can be used in any context to ask about the weather. To make a more specific request, you may need to use other words."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 明日",
+        "japanese": "明日",
+        "kana": "ashita",
+        "romaji": "asumi",
+        "english": "Tomorrow",
+        "explanation": "It's used to talk about the day that comes after today. It is very common in Japanese.",
+        "exampleJp": "明日\n雨が降るかもしれません。\n(Asumi\nAme ga furutemo shite imasu.)\n—There might be rain tomorrow. ",
+        "exampleEn": "It's possible it will rain tomorrow.",
+        "tip": "Remember to use this phrase in a general context, rather than making specific predictions."
+      }
+    ],
+    "culturalInsight": "A cultural note: Greetings for weather are more than just words. In Japan, the weather holds a significant position as part of daily life. The Japanese appreciate fine-grained precision with language. They believe that expressing such details adds depth to their interactions.",
+    "quiz": {
+      "question": "What is a common way to say 'Today' in Japanese?",
+      "options": [
+        "今日は",
+        "明日",
+        "Tomorrow",
+        "Later"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '今日は'.  It means 'Today'."
+    },
+    "schemaMarkup": "<script type=\"application/ld+json\"> { \"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\":\"Embracing the Seasons: Greetings for Different Weather in Japanese Letters\", \"description\":\"Learn how to greet someone about the weather in Japanese! This guide will help you understand basic greetings for various seasons and day time. Whether you're learning the language or just curious, this article provides essential phrases and cultural insights.\", \"keywords\": [\"Japanese\", \"weather\", \"greetings\", \"language\", \"seasons\", \"culture\", \"beginners\", \"study\", \"learn\"], \"articleBody\": \"...\" }</script>",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo with droplets of rain falling on his shoulders.",
+    "thumbnailUrl": "/images/level1-japanese-weather-greetings-1783047465385.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo with droplets of rain falling on his shoulders.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1783030246722",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
