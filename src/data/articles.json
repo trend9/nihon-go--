@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1783192419986-1783192527434",
+    "title": "Checking In to the Ryokan: Mastering Japanese Inn Etiquette",
+    "subtitle": "A guide for English-speakers exploring Japan's traditional accommodations.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn the art of Japanese Ryokan etiquette and dining customs. From proper check-in procedures to the nuances of tea ceremony, this comprehensive guide will help you experience a truly authentic Japanese inn stay.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional Japanese Ryokan is like entering another world.  The hushed silence of tatami mats under your feet, the scent of cedarwood and geisha-inspired floral incense, and the gentle warmth of futon await you. But beyond the visual charm lies an intricate tapestry of etiquette that can be daunting for first-time visitors.  This guide demystifies Ryokan culture, offering a glimpse into the delicate dance of Japanese hospitality.",
+    "grammarExplanation": "This article uses a variety of sentence structures typical of Level 3 Japanese. Simple present tense is used to describe actions and objects. The past tense occasionally highlights historical events or cultural practices. This ensures clarity and accessibility for English-speaking learners while maintaining authenticity. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kō",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This word is used to describe the present day, often in phrases like ‘今日、おいしいものを食べましょう’ (Today, let's eat delicious things).",
+        "exampleJp": "今日は良い天気ですね。",
+        "exampleEn": "The weather is nice today.",
+        "tip": "When asking a question about time or day."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: おめでとうございます",
+        "japanese": "おめでとうございます",
+        "kana": "omedetougozaimasu",
+        "romaji": "o-metou-dō-gō-za-i-masu",
+        "english": "Congratulations!",
+        "explanation": "Used as a standard greeting to congratulate someone on a special occasion, such as a wedding, graduation or even just a new job.",
+        "exampleJp": "おめでとうございます！",
+        "exampleEn": "Congratulations! ",
+        "tip": "This is often said after a formal introduction or when celebrating a good news event."
+      }
+    ],
+    "culturalInsight": "Beyond the traditional wood and tatami floors, a Ryokan represents the essence of Japanese hospitality. The practice of 'Ooto-mae' embodies this warmth; an art where each guest is treated as royalty from arrival to departure. This includes meticulous attention to detail during check-in, the tea ceremony before meals and the humble act of offering slippers to guests upon their entry.",
+    "quiz": {
+      "question": "What does 'Ooto-mae' signify in a Japanese Ryokan?",
+      "options": [
+        "A welcoming atmosphere",
+        "Traditional attire worn by staff",
+        "A ceremonial tea ceremony",
+        "Personalized meals for each guest"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ooto-mae is a Japanese tradition that encapsulates the spirit of hospitality in Ryokans. It goes beyond just offering clean rooms and delicious food, it encompasses the overall experience and a sense of respect towards the guests."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An artistic image depicting a traditional Japanese Ryokan with tatami mats, a wooden door, and a serene garden in the background. Focus on details like paper lanterns and wood carvings to convey the aesthetic of Ryokans.",
+    "thumbnailUrl": "/images/level3-unique-slug-1783192419986-1783192527434.jpg",
+    "thumbnailAlt": "An artistic image depicting a traditional Japanese Ryokan with tatami mats, a wooden door, and a serene garden in the background. Focus on details like paper lanterns and wood carvings to convey the aesthetic of Ryokans.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1783181169212",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
