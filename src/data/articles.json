@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1783258761627-1783258898715",
+    "title": "Navigating the Subway: Mastering Directions for Every Journey",
+    "subtitle": "An Afternoon Guide to Getting Around Tokyo's Underground",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This guide walks you through the essentials of asking for directions in a Tokyo subway station during the afternoon, using common phrases and examples. Learn to confidently navigate public transportation and explore the bustling city with ease.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating the Tokyo subway system can feel daunting even if you're fluent in Japanese. However, mastering basic directions ensures effortless travel within the vast network of underground stations. Today's guide tackles this challenge head-on, equipping you with essential phrases and vocabulary to confidently ask for directions in bustling stations. From understanding platform announcements to communicating specific destinations, we'll cover it all. Let's begin.",
+    "grammarExplanation": "This level requires an understanding of basic sentence structure including the subject, verb, and object, along with utilizing particles such as 'が' (ga), 'は' (wa), 'に' (ni) to create accurate grammatical sentences. Additionally, this level focuses on using verbs in conjunction with the past tense ('ました' (mashita)) for a realistic portrayal of Japanese sentence construction.",
+    "postIts": [
+      {
+        "id": "p1-4c6b8f52e0ff",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の",
+        "japanese": "今日の",
+        "kana": "Konno no",
+        "romaji": "Kono no",
+        "english": "Today's",
+        "explanation": "Used to ask about something that is relevant to the present, especially for asking about a schedule or time. ",
+        "exampleJp": "今日の電車はどこですか？ (Konno no densha wa doko desu ka?)",
+        "exampleEn": "Where is today's train? ",
+        "tip": "Use 'today' for immediate reference to the present time."
+      },
+      {
+        "id": "p1-9b7c4562e0ff",
+        "color": "pink",
+        "title": "Vocabulary: 地下駅",
+        "japanese": "地下鉄駅",
+        "kana": "Chikyu eki",
+        "romaji": "Chūkyō eki",
+        "english": "Subway Station",
+        "explanation": "Subway stations are often used as platforms for transit, including buses. They are also commonly referred to as underground stations in English-speaking countries.",
+        "exampleJp": "地下鉄駅はどこですか？ (Chikyu eki wa doko desu ka?)",
+        "exampleEn": "Where is the subway station?",
+        "tip": "Use this phrase when you're not sure where the station might be."
+      }
+    ],
+    "culturalInsight": "Subway Etiquette in Tokyo. As a visitor, understanding basic Japanese customs will help navigate the bustling stations and ensure an enjoyable experience.",
+    "quiz": {
+      "question": "Which of these phrases is most appropriate to ask for directions on the subway?",
+      "options": [
+        "どこですか？ (Doke desu ka?)",
+        "今日は何曜日ですか？ (Kyou wa nan youbi desu ka?)",
+        "この駅はどこですか？(Kono eki wa doko desu ka?)",
+        "どこで何をする？ (Doko de nan o suru?)"
+      ],
+      "correctAnswerIndex": 2,
+      "answerExplanation": "The best phrase for asking for directions on the subway in Japanese is ‘この駅はどこですか？(Kono eki wa doko desu ka?)’ – literally translated to 'Where is this station?' . This phrase specifically focuses on a specific station and clarifies your intent."
+    },
+    "imagePrompt": "A photorealistic image of a crowded Tokyo train station with diverse crowds, including young and old, people with luggage and smartphones, and Japanese signage.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1783258761627-1783258898715.jpg",
+    "thumbnailAlt": "A photorealistic image of a crowded Tokyo train station with diverse crowds, including young and old, people with luggage and smartphones, and Japanese signage.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1783249571620-1783249721548",
     "title": "Navigating the Underground: How to Ask for Directions at a Subway Station",
     "subtitle": "A guide to navigating Tokyo's public transport with ease.",
