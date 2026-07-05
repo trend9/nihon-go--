@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1783249571620-1783249721548",
+    "title": "Navigating the Underground: How to Ask for Directions at a Subway Station",
+    "subtitle": "A guide to navigating Tokyo's public transport with ease.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This guide offers straightforward advice for asking directions in a Tokyo subway station. Learn the basic phrases to navigate the underground with confidence.",
+    "byline": "By Sarah Lee, Tokyo Bureau",
+    "introduction": "Getting lost on Tokyo's vast subway system is easy enough, but even navigating its stations can feel like an adventure! Mastering simple directions in Japanese will make your journey smoother and more enjoyable. Whether you’re a first-time visitor or a seasoned traveler, this guide provides the basic vocabulary for asking for directions at a subway station in Tokyo. Remember, a little effort can go a long way to building confidence while exploring Japan's vibrant metro system.",
+    "grammarExplanation": "Japanese sentence structures follow a Subject-Verb-Object (SVO) pattern, and rely heavily on particle usage. Particles are small words that indicate grammatical relationships between different parts of a sentence. Mastering these will unlock deeper understanding of the language’s subtle complexities.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "Kyō wa",
+        "english": "Today",
+        "explanation": "This phrase is used to ask about the day or current date. ",
+        "exampleJp": "今日はいい天気ですね。\n(Kyou wa ii tenki desu ne.)\nTranslation: It's a beautiful day today, isn’t it?",
+        "exampleEn": "It’s nice today.",
+        "tip": "Learn to pronounce this phrase out loud. 'Kyō wa...' sounds like 'ky-oh-wa'."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 駅 (eki)",
+        "japanese": "駅",
+        "kana": "Eki",
+        "romaji": " eki",
+        "english": "Station",
+        "explanation": "Station is a key term used to find specific locations in Japan. ",
+        "exampleJp": "電車が駅で止まります。(Densha ga eki de toimasu.)\nTranslation: The train stops at the station. ",
+        "exampleEn": "The train will stop at the station.",
+        "tip": "Practice pronunciation by saying 'eki' out loud, and see if you can find similar words in English like 'stop' or 'halt'."
+      }
+    ],
+    "culturalInsight": "Navigating Tokyo’s underground is a rite of passage for any visitor. The city's efficient network of subway lines allows travelers to reach almost every corner. However, the experience of finding your way around can be more than just catching the right train – it often involves navigating through crowds, deciphering signage, and learning to read Japanese street signs and announcements. Mastering these skills will not only help you navigate Tokyo’s vast public transport system but also provide a window into the city's unique culture.",
+    "quiz": {
+      "question": "What is the basic phrase for asking about today's date in Japanese? ",
+      "options": [
+        "今日",
+        "明日",
+        "いつも",
+        "どこ?"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is  '今日は'. This phrase signifies 'Today', and it's essential for asking about the current day in Japanese. All other options are not grammatically appropriate to ask about today’s date."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt: A bustling Tokyo station platform with commuters rushing past, screens showing information like departure times in Japanese characters.  ",
+    "thumbnailUrl": "/images/level2-unique-slug-1783249571620-1783249721548.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt: A bustling Tokyo station platform with commuters rushing past, screens showing information like departure times in Japanese characters.  ",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1783241724610",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
