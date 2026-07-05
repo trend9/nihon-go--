@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1783267823158-1783267931106",
+    "title": "Planning Your Perfect Vacation: Timing is Everything",
+    "subtitle": "Mastering travel schedules for maximum enjoyment.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "This article will guide you through the art of crafting the perfect travel schedule for your vacation. From understanding peak season times to mastering the nuances of timing your arrival and departure, we'll cover everything you need to know about maximizing your enjoyment while traveling.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Whether you're dreaming of soaking up the sun on a tropical beach or exploring historical landmarks in a bustling city, a well-planned itinerary can make all the difference. After all, time is precious when it comes to travel, and making the most of your vacation depends heavily on timing.",
+    "grammarExplanation": "The article focuses on using descriptive language like \"making the most of\" and \"maximizing enjoyment\", which aligns with an upper-intermediate level's understanding of nuance and more complex sentence structures. The introduction also utilizes phrases that are common in business settings, such as \"crafting the perfect itinerary.\" This reinforces the idea that this journey will involve strategic planning for a successful trip.\n",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: 今日の旅",
+        "japanese": "今日の旅行",
+        "kana": "Kyō no ryokou",
+        "romaji": "Kyo no ryōkō",
+        "english": "Today's Trip",
+        "explanation": "Travel on today, the day you read this!",
+        "exampleJp": "今日はどこに行く？(Kyō wa doko ni iku?)",
+        "exampleEn": "Where are we going today?",
+        "tip": "The meaning is literal in terms of travel; however, it can also be used figuratively to represent a journey of any kind."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: 訪れる",
+        "japanese": "訪れる",
+        "kana": "Fūru",
+        "romaji": "Fururu",
+        "english": "Visit/Come to",
+        "explanation": "It can mean coming to a place or experiencing something.",
+        "exampleJp": "旅行に行くのが好きだ。(Ryokō ni iku no ga suki da.)",
+        "exampleEn": "I like to travel!",
+        "tip": "To express the concept of 'visiting' in the context of a trip, use this word."
+      }
+    ],
+    "culturalInsight": "The Japanese appreciate planning their vacations with precise timing. A well-prepared itinerary often allows travelers to experience each destination to its fullest extent without feeling rushed or overwhelmed by too many stops. This is especially true for long-distance trips, which require careful scheduling of various activities and the management of travel time effectively. ",
+    "quiz": {
+      "question": "What Japanese phrase means 'traveling today?'",
+      "options": [
+        "旅をする (Tabi wo suru)",
+        "旅行に行く (Ryokō ni iku)",
+        "訪れる (Fūru)",
+        "どこに行こうか (Doko ni ikō ka?)"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is '旅をする (Tabi wo suru)'. This phrase directly translates to \"going on a journey\" and implies the act of traveling. The other options are less direct."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic illustration of someone planning their vacation using a calendar, with Tokyo as a background, in a travel-themed style.",
+    "thumbnailUrl": "/images/level4-unique-slug-1783267823158-1783267931106.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of someone planning their vacation using a calendar, with Tokyo as a background, in a travel-themed style.",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1783258761627-1783258898715",
     "title": "Navigating the Subway: Mastering Directions for Every Journey",
     "subtitle": "An Afternoon Guide to Getting Around Tokyo's Underground",
