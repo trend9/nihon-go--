@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1783333287330-1783333420371",
+    "title": "Crafting Your Perfect Travel Itinerary: A Guide to Vacation Wishes and Schedules",
+    "subtitle": "Mastering the art of travel planning for a seamless vacation experience.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover how to craft your perfect travel itinerary with this comprehensive guide. Navigate the world of travel scheduling and vacation wishes, mastering the art of creating a seamless vacation experience.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Planning a trip can be exhilarating! From dreaming about exotic destinations to meticulously charting out your days, the journey starts with understanding how you want to spend your precious vacation time. Whether it's exploring historical sites or relaxing on pristine beaches, crafting your perfect itinerary will elevate your travel experience from ordinary to extraordinary. This guide offers practical advice and actionable tips to help you navigate the complexities of planning a memorable trip. Let’s begin! \\n\n\\\"旅行は、心を開くことの喜びを表現するものであり、その喜びは、私たちの世界に広がる無限の可能性を秘めている。\" - Kenji Sato, Tokyo Bureau",
+    "grammarExplanation": "Japanese sentence structures vary significantly, often relying on subject-object-verb (SOV) or even more complex grammatical constructions. This guide will focus on common grammatical elements and provide examples to understand the structure of Japanese sentences for an optimal learning experience.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kō",
+        "english": "Today",
+        "explanation": "This simple word signifies the present day. It indicates time and context in a sentence.",
+        "exampleJp": "今日は天気は良いです。",
+        "exampleEn": "The weather is good today.",
+        "tip": "Always remember to use '今日' (kyou) when talking about the present moment in a Japanese conversation."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "blue",
+        "title": "Vocabulary: 旅行",
+        "japanese": "旅行",
+        "kana": "ryōkō",
+        "romaji": "ryokō",
+        "english": "Travel",
+        "explanation": "This word refers to any journey, whether it's a short visit or a long-distance trip. It encompasses both the act of traveling and the destination.",
+        "exampleJp": "今日は旅行に行きます。",
+        "exampleEn": "I am going on a trip today.",
+        "tip": "Use '旅行' (ryokō) in general conversation, but use a more specific word like  '観光' (kankō) when talking about sightseeing or visiting places of interest."
+      }
+    ],
+    "culturalInsight": "Traveling is a deeply ingrained aspect of Japanese culture. From the Shinto shrines to the breathtaking landscapes of Japan, the country boasts a rich heritage that seamlessly blends tradition and modernity. The concept of '旅行' (ryokō) goes beyond mere transportation; it signifies a journey of self-discovery and cultural immersion. Travelers often seek to connect with local communities, explore historical sites, and experience Japanese traditions firsthand.",
+    "quiz": {
+      "question": "Which English word means '旅行' (ryokō)?",
+      "options": [
+        "Journey",
+        "Leisure",
+        "Travel",
+        "Voyage"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is **'travel'** .  '旅行' (ryokō) directly translates to 'travel' in English."
+    },
+    "schemaMarkup": "{\"type\":\"Article\", \"title\":\"Crafting Your Perfect Travel Itinerary: A Guide to Vacation Wishes and Schedules\"}",
+    "imagePrompt": "A vintage monochrome illustration of a Japanese traveler enjoying the scenery on a scenic train journey through Mount Fuji.",
+    "thumbnailUrl": "/images/level3-unique-slug-1783333287330-1783333420371.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a Japanese traveler enjoying the scenery on a scenic train journey through Mount Fuji.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1783308727867",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
