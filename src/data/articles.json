@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1783367852597-1783367962682",
+    "title": "Beyond the Standard: Coffee, Custom Orders, and Japanese Nightscape",
+    "subtitle": "Navigating the Art of Ordering in a Tokyo Cafe",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Dive into the soul of Japanese night cafes with this nuanced exploration. This article transcends basic coffee orders, delving into the deeper art of requesting a beverage tailored to your specific desires in the heart of a quiet Tokyo alleyway.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Nighttime in Tokyo is an experience unto itself. Unlike its bustling morning and afternoon counterparts, the city becomes introspective, draped in a soft twilight glow. Yet, even as the world slows down, cafes remain active hubs of creativity and connection. These havens of caffeine offer more than just your standard latte or black coffee. At their heart lie intricate rituals of ordering, expressions of personal taste, and conversations that blossom over steaming cups. This article invites you into this unique Japanese experience, exploring how to navigate the world of custom requests at a cafe.",
+    "grammarExplanation": "Japanese grammar is complex, with multiple sentence structures depending on the subject matter. For example, when discussing a specific preference or request in a cafe, you may use polite phrases like 'One-piece, please.' (ワンピース、お願いします) to specify your order. This emphasizes respect for others and allows for smoother communication.",
+    "postIts": [
+      {
+        "id": "p102",
+        "color": "pink",
+        "title": "Vocabulary: 今日の",
+        "japanese": "今日の",
+        "kana": "Kyō no",
+        "romaji": "Kyo no",
+        "english": "Today's",
+        "explanation": "This is a common expression used to indicate the current day or to suggest something that happens within the context of today.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's nice weather today, isn't it?",
+        "tip": "Use this phrase to emphasize your request is for a specific date. For example, 'Today, please make me an Americano.'"
+      },
+      {
+        "id": "p103",
+        "color": "blue",
+        "title": "Vocabulary: 砂糖",
+        "japanese": "砂糖",
+        "kana": "Sōtsu",
+        "romaji": "Sato",
+        "english": "Sugar",
+        "explanation": "Often a Japanese cafe owner will offer a variety of sugar options. You can ask for 'Sugar, please' to specify the amount and type.",
+        "exampleJp": "砂糖、少々。",
+        "exampleEn": "A bit of sugar, please.",
+        "tip": "Ask for the amount you need by specifying how much (e.g., '1 teaspoon', '2 teaspoons') or use the size chart."
+      }
+    ],
+    "culturalInsight": "Beyond the standard coffee order, a true journey into Japanese night cafes lies in deciphering the unspoken rules and nuances of conversation. These cafes become stages for both sharing stories and forging connections. For instance, a simple 'One cup of green tea, please' can be interpreted as an invitation to engage in a deeper conversation about your day, or even life's meaning. It is this subtle art of communication that elevates the café experience from a mere coffee break to an intimate exchange of human connection.",
+    "quiz": {
+      "question": "What Japanese word translates to 'sugar' and can be used to indicate a specific preference for the sugar in your drink?",
+      "options": [
+        "砂糖",
+        "ミルク",
+        "コーヒー",
+        "砂糖なし"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '砂糖' because it translates to 'sugar'. It can be used when requesting specific amounts of sugar or sugar types. For example:  '砂糖、少し'."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level5-unique-slug-1783367852597-1783367962682.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1783352118921",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
