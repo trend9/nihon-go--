@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1783434940458-1783435081947",
+    "title": "Conquering the Coffee Counter: Mastering Ordering Requests at Evening Cafes",
+    "subtitle": "A guide to navigating Japanese cafe culture with confidence.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Unlock the secrets to ordering your perfect cuppa in Japanese cafes. This guide delves into the nuances of evening cafe culture, equipping you with the confidence and vocabulary to navigate any order.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the vibrant embrace of Tokyo's bustling cafes, a world of nuanced coffee ordering unfolds after the day's work. While cafes are generally welcoming spots for casual conversations or solo work, navigating specific requests can be tricky for English speakers accustomed to standard, straightforward orders. This guide provides a practical and insightful look at how to order your ideal coffee in a Japanese cafe.  From basic orders to creative requests, you'll discover how to navigate this cultural tapestry with confidence.",
+    "grammarExplanation": "Japanese grammar often employs politeness levels, where 'polite' means more formal. In casual situations, informal terms like ‘desu’ are used instead of ‘masu’, as in ‘This is a nice cuppa!’ This guide explores the nuances of how Japanese cafes cater to different customers and their requests.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日は飲みますか？",
+        "japanese": "今日は飲みますか？",
+        "kana": "kyou wa nomimasuka?",
+        "romaji": "kyō wa nomimasu ka?",
+        "english": "Shall I get a drink today?",
+        "explanation": "This expression means, ‘Will you have a drink today?’  It allows the customer to ask about their desired type of coffee, whether it's a simple latte or a more complex espresso. ",
+        "exampleJp": "飲みますか？",
+        "exampleEn": "Do you want a drink?",
+        "tip": "This translates directly to 'Would you like a drink?' in English."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  砂糖の量を調整しますか？",
+        "japanese": "砂糖の量を調整しますか？",
+        "kana": "sugu no ryou o ajiteru shite kudasai?",
+        "romaji": "sugaru no ryō o ajiteru shite kudasai?",
+        "english": "Would you like to adjust the sugar level?",
+        "explanation": "This phrase is used to request adjustments to the sugar quantity in your coffee. It can be applied if a customer wants less sugar or prefers more sweetness.",
+        "exampleJp": "砂糖の量を調整しますか？",
+        "exampleEn": "Would you like to adjust the amount of sugar?",
+        "tip": "This translates directly to 'Would you like to adjust the amount of sugar?' in English."
+      }
+    ],
+    "culturalInsight": " **The Art of Ordering: A Coffee Connoisseur's Guide**\nJapanese cafes, far from being simple coffee shops, offer a cultural immersion for those who dare to explore. It is not only about the order, but also a demonstration of respect and appreciation for the craft. Learning to navigate this culture can enrich your experience in Japan.",
+    "quiz": {
+      "question": "What polite term is used instead of 'masu' when ordering coffee?",
+      "options": [
+        "a. ご、ご用ですか？",
+        "b. お願いします。",
+        "c. ありがとうございます。",
+        "d. はい"
+      ],
+      "correctAnswerIndex": 1,
+      "answerExplanation": "While all options reflect politeness in their own way, 'b. お願いします。' is the most relevant to ordering coffee."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\",\"@type\": \"Article\"}",
+    "imagePrompt": "A photo of a Japanese barista making a latte art design in a bustling cafe with traditional teacups and bonsai trees, against a backdrop of Tokyo cityscape.",
+    "thumbnailUrl": "/images/level4-unique-slug-1783434940458-1783435081947.jpg",
+    "thumbnailAlt": "A photo of a Japanese barista making a latte art design in a bustling cafe with traditional teacups and bonsai trees, against a backdrop of Tokyo cityscape.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1783417456263",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
