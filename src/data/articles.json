@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1783394480282-1783394574570",
+    "title": "Planning Your Perfect Vacation: Travel Schedules and Wishes",
+    "subtitle": "A beginner's guide to navigating Japan's travel landscape.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Discover the art of planning your perfect vacation in Japan. Learn how to navigate its intricate travel schedules and express your travel wishes effectively.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Whether you're dreaming of a peaceful stroll through ancient temples or experiencing the vibrant energy of Tokyo, planning your trip requires understanding basic travel information. This article will help you navigate Japan’s unique system and confidently express your vacation wishes in Japanese! It includes explanations of key travel schedules, essential vocabulary, and cultural insights. Start crafting your perfect Japanese adventure today!",
+    "grammarExplanation": "This article provides a beginner's introduction to basic Japanese grammar relevant to travel planning.  It uses simple sentence structures and focuses on the present tense for actions and events.  The article emphasizes everyday speech scenarios like booking flights or confirming accommodation, giving readers a feel for natural conversation flow.",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "yellow",
+        "title": "Vocabulary: 旅行",
+        "japanese": "旅行 (ryokou)",
+        "kana": "Ryōkō",
+        "romaji": "Ryoukou",
+        "english": "Travel/Trip",
+        "explanation": "This is the basic Japanese word for travel. It encompasses both short trips and longer journeys.",
+        "exampleJp": "今日は旅行に行きます。 (Kyō wa ryokou ni ikimasu.)",
+        "exampleEn": "I'm going on a trip today!",
+        "tip": "The sound is similar to 'roy-koo'."
+      },
+      {
+        "id": "p-2",
+        "color": "pink",
+        "title": "Vocabulary: 飛行機",
+        "japanese": "飛行機 (hikōki)",
+        "kana": "Hikokki",
+        "romaji": "Hikokki",
+        "english": "Airplane",
+        "explanation": "A common mode of transportation used to travel long distances in Japan.",
+        "exampleJp": "飛行機に乗ります。 (Hiko-koki ni nomimasu.)",
+        "exampleEn": "I'm going on a plane journey.",
+        "tip": "Pronounce the 'k' sound like in 'crack'."
+      }
+    ],
+    "culturalInsight": "## Japan’s Timepiece: Understanding Travel Schedules",
+    "quiz": {
+      "question": "What is the most common mode of transportation used by travelers in Japan?",
+      "options": [
+        "Subway",
+        "Train",
+        "Bus",
+        "Airplane"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "While Japan boasts an extensive subway system and a robust train network, the primary mode of transportation for long-distance travel is airplanes.  Airplanes allow travelers to reach different regions efficiently."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'An illustration depicting a cityscape with iconic landmarks like the Tokyo Tower and Senso-ji Temple')",
+    "thumbnailUrl": "/images/level2-unique-slug-1783394480282-1783394574570.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'An illustration depicting a cityscape with iconic landmarks like the Tokyo Tower and Senso-ji Temple')",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1783376259010",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
