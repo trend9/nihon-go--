@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1783499355678-1783499513026",
+    "title": "Kyoto Souvenirs: The Art of Negotiation Under the Sakura Blossom Moon",
+    "subtitle": "Finding value in the heart of Japan's ancient capital.",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Dive into the vibrant world of Kyoto souvenirs and discover the subtle art of negotiation under the enchanting glow of the moonlit streets. This level 5 journey explores the nuanced dance between cultural exchange, aesthetic appreciation, and the pursuit of value.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Beneath the whispering leaves of ancient Fudoson-shaped trees, under a sky studded with a million twinkling stars, Kyoto's night markets hum with life. The air hangs heavy with the scent of wood and paper - the aroma of traditional souvenirs woven into every corner of this ancient city. From intricately carved wooden figurines to delicate silk fans, the allure of these gifts is undeniable. But in this world of beauty and tradition, a language beyond simple greetings exists: the language of negotiation. With each request for price, we delve deeper into the soul of Kyoto, finding hidden depths of its cultural fabric.  As the night unfolds, a quiet wisdom settles over you - a shared understanding between buyer and seller; it's about more than just the monetary transaction. It's a silent dance of respect, patience, and appreciation for both sides of this beautiful exchange.",
+    "grammarExplanation": "This article utilizes complex sentence structures typical of Level 5 writing: multiple clauses, varied phrasing, and deliberate ambiguity to reflect the deeper philosophical undercurrent of the subject matter.\n\nNote the use of metaphor such as \"the scent of wood and paper\" and \"a language beyond simple greetings.\" This adds emotional depth and complexity to the piece.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: today",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyō wa",
+        "english": "Today",
+        "explanation": "This is a simple phrase that can be used to ask about the current day.  Learn how to use it to request prices at specific times of the day. ",
+        "exampleJp": "今日は、お値引きがありますか？",
+        "exampleEn": "Do you have any discounts today?",
+        "tip": "Say this with a calm, respectful tone."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: ありがとうございます",
+        "japanese": "ありがとうございます",
+        "kana": "Arigatō gozaimasu",
+        "romaji": "arigato gozaimasu",
+        "english": "Thank you",
+        "explanation": " A simple phrase to express gratitude after receiving information or making a purchase. ",
+        "exampleJp": "御礼申し上げます",
+        "exampleEn": "Thank you for the information.",
+        "tip": "Say this sincerely with genuine appreciation."
+      }
+    ],
+    "culturalInsight": "Kyoto's night markets are not merely places of commerce; they represent a cultural fusion where tradition and modernity dance in perfect harmony. Each stall, each piece of pottery, embodies a story waiting to be heard. Remember that negotiating for prices is not just about getting the best deal, but about experiencing the spirit of respect that runs through the heart of Japanese culture. When you ask for a price, consider it an act of invitation. You are stepping into their world, and learning from its beauty and intricacies.",
+    "quiz": {
+      "question": "Which of these is NOT a reason to negotiate prices in Kyoto's market:",
+      "answerOptions": [
+        "To understand the cultural nuances of Japanese business practices",
+        "To find hidden discounts for souvenirs",
+        "To simply ask for the price before purchasing something",
+        "To experience the spirit of respect and hospitality found within Japanese culture."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Negotiating prices in Kyoto is not just about getting a good deal. It's about understanding the heart of their customs and experiencing a deeper connection with the city.  It embodies the spirit of respect, hospitality, and cultural exchange."
+    },
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo.",
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\",\"@type\": \"Article\", \"author\":\"Emma Sterling\",\"description\": \"Dive into the vibrant world of Kyoto souvenirs and discover the subtle art of negotiation under the enchanting glow of the moonlit streets. This level 5 journey explores the nuanced dance between cultural exchange, aesthetic appreciation, and the pursuit of value.\",\"headline\":\"Kyoto Souvenirs: The Art of Negotiation Under the Sakura Blossom Moon\",\"keywords\": \"Kyoto, souvenirs, negotiation, Japanese culture\", \"image\": \"https://example.com/images.png\",\"language\":\"en-US\"}",
+    "thumbnailUrl": "/images/level5-unique-slug-1783499355678-1783499513026.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo.",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1783490178821",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
