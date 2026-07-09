@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1783598382677-1783598497854",
+    "title": "Chatting with Friends at Izakaya: Leveling Up Your Casual Japanese Conversations",
+    "subtitle": "Unlocking the nuances of informal language with a touch of authentic spirit",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Dive into the casual world of Japanese izakayas and learn how to effortlessly navigate conversations with friends. This article bridges the gap between basic phrases and more sophisticated expressions, all while keeping a relaxed, fun atmosphere at the forefront.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The afternoon sun casts long shadows over the bustling streets of Tokyo as you enter your favorite izakaya. Laughter rings out as your friends gather around the communal table, sharing plates of steaming yakitori and cold sake. But beyond the familiar warmth of camaraderie, a deeper level of communication awaits - one that requires navigating more nuanced language than simply 'delicious!' or 'good beer'. This article explores how to step up your casual Japanese conversation game, bridging the gap between basic phrases and those more intimate expressions that truly capture the essence of friendship.\n",
+    "grammarExplanation": "The content utilizes a blend of polite and casual speech, often mirroring real-life interactions with friends. A frequent use of '～ desu' for emphasis is observed alongside informal language like '〜な' (informal), which reflects the casual atmosphere. This level of conversational flow highlights how Japanese grammar offers various nuanced tools to express everyday experiences.",
+    "postIts": [
+      {
+        "id": "p-japanizeculturalinsight",
+        "color": "green",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "This phrase serves as a common start to casual conversations. It indicates today's date and acts as the foundation for exploring everyday topics.",
+        "exampleJp": "今日はいい天気ですね！",
+        "exampleEn": "It's a beautiful day today, isn't it?",
+        "tip": "The 'kyou wa' is a simple yet versatile phrase that allows for smooth conversational flow. Remember to practice how you would say this to your friends and gradually integrate it into your everyday speech."
+      },
+      {
+        "id": "p-casualconversation",
+        "color": "pink",
+        "title": "Vocabulary: 友達",
+        "japanese": "友達",
+        "kana": "Tomodachi",
+        "romaji": "Tomodachi",
+        "english": "Friends",
+        "explanation": "It's a common expression used to express affection and fondness for one another. It often reflects the close-knit nature of friendships in Japan.",
+        "exampleJp": "友達はいつも楽しいよ！",
+        "exampleEn": "My friends always make me happy!",
+        "tip": "Remember that 'friends' is a broad term, encompassing all kinds of relationships. Consider how it would translate to your specific context and conversation style."
+      }
+    ],
+    "culturalInsight": "The izakaya, with its convivial atmosphere and focus on casual gatherings, offers a unique glimpse into Japanese social culture. It exemplifies the importance of sharing meals and drinks with friends, fostering closer bonds through shared experiences. The relaxed nature of these settings plays a vital role in conveying informal communication, allowing for more natural expressions of camaraderie.",
+    "quiz": {
+      "question": "What is the correct way to express 'I am going to go out' in Japanese?",
+      "options": [
+        "行くよ",
+        "行く",
+        "行こう",
+        "行く予定です"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "While all the options convey a sense of movement or going,  '行くよ' is the most suitable expression in casual conversation. It implies a decision to leave, leaving room for follow-up interactions."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photorealistic illustration capturing the lively atmosphere of an izakaya, with friends laughing and enjoying their drinks. Include elements such as traditional Japanese cuisine on the table, warm lighting, and a sense of community.",
+    "thumbnailUrl": "/images/level3-unique-slug-1783598382677-1783598497854.jpg",
+    "thumbnailAlt": "A photorealistic illustration capturing the lively atmosphere of an izakaya, with friends laughing and enjoying their drinks. Include elements such as traditional Japanese cuisine on the table, warm lighting, and a sense of community.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1783579724965",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
