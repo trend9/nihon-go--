@@ -1,5 +1,65 @@
 [
   {
+    "id": "level1-unique-slug-1783565871239-1783565969415",
+    "title": "Navigating the Subway: A Beginner's Guide to Asking for Directions",
+    "subtitle": "Unlocking Tokyo's public transport maze with simple Japanese.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This guide delves into navigating Tokyo's subway system as a beginner. Learn basic phrases and practice asking for directions to unlock your journey in the bustling metropolis.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Tokyo’s underground network is a marvel of efficiency and intricacy, but navigating it can be daunting for newcomers. Fear not! This beginner-friendly guide will equip you with the essential vocabulary to confidently ask for directions and travel like a local. Remember: even a single phrase can open doors to deeper cultural experiences in Tokyo.",
+    "grammarExplanation": "Japanese grammar uses particles and verb conjugation extensively, but this article focuses on the core phrases needed for asking directions. You'll learn about particles like 'ga' (to) or 'wo' (for), which play an important role in conveying meaning. Pay attention to how verbs change depending on the context of the sentence.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: Subway",
+        "japanese": "駅\n(eki)",
+        "kana": "Eki",
+        "romaji": "",
+        "english": "Station",
+        "explanation": "This is a very common Japanese word for the station where you can board or disembark from the subway. You will see 'station' on the sign outside of the entrance to the subway.",
+        "exampleJp": "駅はどこですか？\n(Eki wa doko desu ka?)",
+        "exampleEn": "Where is the station?",
+        "tip": ""
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: Directions",
+        "japanese": "行き\n(ikimasu)",
+        "kana": "Ikimasu",
+        "romaji": "",
+        "english": "Direction",
+        "explanation": "This is a very common Japanese word for the direction. It can be translated into English as 'direction' or 'directions'.",
+        "exampleJp": "どこへ行く？\n(Doko e iku?)",
+        "exampleEn": "Where do you want to go?",
+        "tip": ""
+      }
+    ],
+    "culturalInsight": "Subway etiquette is a fascinating aspect of Japanese culture. It's important to always wait until the doors open before entering the subway, and to keep your belongings tidy to ensure a smooth journey for everyone.",
+    "quiz": {
+      "question": "What is the most common word in Japanese for 'station'?",
+      "answerIndex": [
+        0
+      ],
+      "options": [
+        "駅\n(eki)",
+        "場所\n(bacho)",
+        "道\n(dō)",
+        "道徳\n(dokode)"
+      ],
+      "explanation": "The correct answer is 1) 駅(eki). The word 'eki' directly translates to 'station' in English. This common term is used throughout Japan for all train stations and subway stops."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic illustration of a busy Tokyo station with people using the escalator, a map nearby, and a sign in Japanese.",
+    "thumbnailUrl": "/images/level1-unique-slug-1783565871239-1783565969415.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of a busy Tokyo station with people using the escalator, a map nearby, and a sign in Japanese.",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1783548472502-1783548600534",
     "title": "Unveiling the Nightly Ritual: A Glimpse into Japanese Domestic Life",
     "subtitle": "Exploring the subtle nuances of daily routines in modern Japan",
