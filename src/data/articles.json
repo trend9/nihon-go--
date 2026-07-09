@@ -1,5 +1,64 @@
 [
   {
+    "id": "level4-unique-slug-1783610353493-1783610468357",
+    "title": "Finding Serenity in Imperfection: Exploring Japanese Concepts of Wabi-sabi and Mono No Aware",
+    "subtitle": "Insights for a mindful evening",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Discover the beauty in imperfection. This article explores Japanese philosophies like wabi-sabi and mono no aware, offering insights for a more contemplative evening.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "As evening approaches, we find ourselves drawn to moments of quiet reflection. A cup of calming green tea, the sound of falling rain, or perhaps even an insightful conversation. These seemingly simple pleasures offer solace and help us connect with our inner selves. In Japan, this practice goes beyond casual observation and deepens into a philosophical understanding of life's natural flow.  Concepts like 'wabi-sabi' and 'mono no aware' form the foundation for experiencing beauty in imperfection. This article dives into these philosophies to reveal how embracing the transient nature of life can lead to greater contentment.",
+    "grammarExplanation": "This article delves deeper into the structure of Japanese grammar, exploring the use of particles and verb conjugations commonly used in sentences. It also introduces various grammatical concepts specific to the level: conditionals such as 'If' (～ならば), conditional clauses such as 'if...then', and subjunctive moods.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This is a simple Japanese word for 'today'.  It's used in various contexts such as time, dates and events.",
+        "exampleJp": "今日、雨が降っている",
+        "exampleEn": "The rain is pouring today.",
+        "tip": "Pronounce with a light, soft 'kyō' sound."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: 自然",
+        "japanese": "自然",
+        "kana": "shinjitsu",
+        "romaji": "shin-jitsu",
+        "english": "Nature",
+        "explanation": "This word can be used for both the natural world and the inherent qualities of life itself. It's about accepting the flow of things without resistance.",
+        "exampleJp": "自然な風景が美しい",
+        "exampleEn": "The beautiful scenery is a testament to nature.",
+        "tip": "The 'shin' sound in 'shinjitsu' resembles a soft, gentle rustling."
+      }
+    ],
+    "culturalInsight": " **Finding Serenity in Imperfection**\n",
+    "culturalInsightText": "In Japanese culture, the concept of 'wabi-sabi' holds immense significance. It emphasizes beauty found in the imperfect and transitory aspects of life. Wabi-sabi encourages us to appreciate simple things: weathered wood furniture, faded teacups, or a cracked pottery pot. These imperfections become symbols of history, resilience, and subtle yet profound beauty. This philosophy invites introspection and acceptance of life's inevitable changes, leading to inner peace and contentment.\n",
+    "quiz": {
+      "question": "What is the Japanese term for 'wabi-sabi'?",
+      "options": [
+        "美しさ",
+        "自然",
+        "侘び寂",
+        "Tranquility"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The correct answer is '侘び寂'. Wabi-sabi captures the essence of beauty found in imperfection."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\",\"@type\": \"Article\"}",
+    "imagePrompt": "A single, black teacup with a delicate glaze held against a backdrop of cherry blossom trees. A gentle breeze blows, and the light shines through a bamboo forest.\n",
+    "thumbnailUrl": "/images/level4-unique-slug-1783610353493-1783610468357.jpg",
+    "thumbnailAlt": "A single, black teacup with a delicate glaze held against a backdrop of cherry blossom trees. A gentle breeze blows, and the light shines through a bamboo forest.\n",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1783598382677-1783598497854",
     "title": "Chatting with Friends at Izakaya: Leveling Up Your Casual Japanese Conversations",
     "subtitle": "Unlocking the nuances of informal language with a touch of authentic spirit",
