@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1783666339723-1783666497505",
+    "title": "Navigating Japanese Dining: Seasonal Delights & Etiquette",
+    "subtitle": "A guide for intermediate learners to understand the nuances of ordering in Japan.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Unlock the world of Japanese dining with this guide tailored for intermediate learners. We'll dive into seasonal dishes, etiquette norms, and the nuances of ordering, allowing you to navigate the culinary scene with confidence.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "A quintessential part of experiencing Japanese culture is savoring their rich cuisine. From steaming bowls of ramen to elegant sushi preparations, the country offers a delectable journey through the seasons. However, navigating the subtle rules and customs can be a bit challenging for those just beginning their culinary adventure. Today, we'll explore the finer points of ordering at restaurants in Japan, focusing on seasonal dishes and etiquette.  Let's dive into understanding Japanese dining norms and unlock the true essence of enjoying traditional meals.",
+    "grammarExplanation": "This article employs a mix of simple sentence structure and slightly more complex phrasing common to level 3 learners: Subject-verb-object construction, present tense use for daily activity/actions. The focus is on connecting cultural concepts with practical application, using concrete examples. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Seasonal Dishes",
+        "japanese": "季節の料理",
+        "kana": "Kisetsu no ryori",
+        "romaji": "Seasonal Ryori",
+        "english": "Seasonal Dishes",
+        "explanation": "This card introduces the idea of seasonal dishes and how they connect to Japanese culture. ",
+        "exampleJp": "旬の食材を使った料理は、季節の変化を感じることができます。",
+        "exampleEn": "Dishes made with seasonal ingredients allow you to feel the change in seasons.",
+        "tip": "Seasonal dishes are a must-try when visiting Japan, as they highlight the country's unique culinary traditions."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Table Etiquette",
+        "japanese": "テーブルマナー",
+        "kana": "Te-buramee Man’",
+        "romaji": "Table Manners",
+        "english": "Table Etiquette",
+        "explanation": "Learn about basic table etiquette to make a good impression when dining in Japan.",
+        "exampleJp": "食事をする際には、相手への配慮が大切です。",
+        "exampleEn": "When eating, it's important to be considerate of your fellow diners.",
+        "tip": "Think of this as a polite and respectful way to engage with the Japanese dining culture."
+      }
+    ],
+    "culturalInsight": "**Navigating the world of Japanese cuisine is not just about knowing what to eat but also understanding its deeper cultural significance.**   For example, the timing of meals plays a role. Lunch is usually enjoyed during the mid-day hours when energy levels are at their peak.  The emphasis on sharing and community is evident in traditional dining where guests often share dishes and stories. The meticulous attention to table etiquette is a sign of respect for tradition. It's more than just following rules, it's about appreciating the deeper cultural nuances that shape Japanese dining culture.",
+    "quiz": {
+      "question": "Which of these is considered polite when dining in Japan?\n  a)  Leaving your dishes untouched\n  b)  Using chopsticks only for the last morsel\n  c)  Requesting extra rice, even if you're full\n  d)  Asking the server to refill water more than once",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswerIndex": "c",
+      "explanation": "The correct answer is 'c') Requesting extra rice, even if you're full.' It shows respect for the food and generosity. While options a and b may have cultural nuances in different contexts, requesting extra rice showcases your appreciation of the hospitality offered."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo surrounded by steaming bowls of ramen') ",
+    "thumbnailUrl": "/images/level3-unique-slug-1783666339723-1783666497505.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo surrounded by steaming bowls of ramen') ",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1783652516392",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
