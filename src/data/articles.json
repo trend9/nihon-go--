@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1783764988273-1783765096771",
+    "title": "Navigating Izakaya Chats: Level Up Your Japanese Casual Talk",
+    "subtitle": "Learning the Lingo for Great Connections",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Unlock the secrets of casual Japanese conversation at izakayas! This article guides you through essential phrases and vocabulary for a smooth, friendly hangout. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Evening in Japan means a warm welcome and delicious food - but navigating the casual talk at izakaya can be tricky for those just starting with Japanese. This article introduces you to everyday conversations, giving you confidence to join your friends and enjoy yourself! From ordering drinks to simply chatting about life, understanding some basic phrases will enrich your cultural experience. Let’s dive in.",
+    "grammarExplanation": "This guide focuses on sentence structure and simple verb conjugation commonly used in casual Japanese conversation. Remember to pay attention to the natural flow of speech, with emphasis placed on friendly greetings and conversational turns. Practice using these phrases in real-life situations for maximum improvement. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: 今日は？",
+        "japanese": "きょうは ?",
+        "kana": "kyō wa ?",
+        "romaji": "kyou wa?",
+        "english": "What's up today? ",
+        "explanation": "Simple question to start conversation.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "The weather is nice today, isn't it?",
+        "tip": "Use with a friendly smile and wait for response.  This helps to build rapport before diving into the main topic."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 飲みますか？",
+        "japanese": "飲みますか?",
+        "kana": "nomimasuka?",
+        "romaji": "nomimasu ka?",
+        "english": "Do you want to drink?",
+        "explanation": "This phrase can be used for a casual invitation or simply check with someone's preference. ",
+        "exampleJp": "飲みますか？",
+        "exampleEn": "Shall we have a drink? ",
+        "tip": "Use a confident tone of voice and maintain eye contact to show interest."
+      }
+    ],
+    "culturalInsight": "Izakayas are the heart of Japanese social life. These casual bars offer an intimate setting for friends to gather, enjoy delicious food, and converse freely.  Often, these spaces provide a comfortable haven for deeper conversations as you watch the sun set behind the city skyline.",
+    "quiz": {
+      "question": "What is a common phrase used to ask if someone wants to drink at an izakaya? ",
+      "options": [
+        "お元気ですか？",
+        "飲みますか？",
+        "今日はいい天気ですね。",
+        "何か食べたいですか？"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is ‘飲みますか？’. This translates to 'Do you want to drink?' in English and is a common way to suggest having a drink at an izakaya."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up photograph of two friends laughing and enjoying sake while sitting at a table in a bustling Japanese Izakaya. The background should be filled with traditional Japanese aesthetic elements like tatami mats, shoji screens, and lanterns.",
+    "thumbnailUrl": "/images/level2-unique-slug-1783764988273-1783765096771.jpg",
+    "thumbnailAlt": "A close-up photograph of two friends laughing and enjoying sake while sitting at a table in a bustling Japanese Izakaya. The background should be filled with traditional Japanese aesthetic elements like tatami mats, shoji screens, and lanterns.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1783756712968",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
