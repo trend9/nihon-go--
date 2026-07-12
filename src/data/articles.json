@@ -1,5 +1,64 @@
 [
   {
+    "id": "level1-unique-slug-1783862390666-1783862507472",
+    "title": "Stepping into Tradition: Checking into a Ryokan Inn and Dining Etiquette",
+    "subtitle": "For first-time visitors to Japan, understanding ryokan culture is key to a seamless experience.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This beginner's guide breaks down the basics of checking into a traditional ryokan inn and navigating the essential dining customs for your Japanese journey. From understanding how to behave in these unique accommodations to deciphering the rules of table manners, let's embark on this cultural adventure together.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Imagine stepping into a traditional wooden house with tatami floors and sliding paper doors. The warm smell of plum blossom and wood fire hangs in the air as you are greeted by the welcoming staff at your ryokan. This is not just a place to stay - it's an experience steeped in Japanese culture, where tranquility meets hospitality. Today, we will navigate the ins and outs of checking into this unique inn and learn about the etiquette expected during meals.  From understanding the proper greetings to learning how to address staff members respectfully, this guide will help you feel confident and embrace the beauty of ryokan life.",
+    "grammarExplanation": "This article utilizes simplified grammatical structures common in introductory Japanese texts, such as subject-verb-object order. Short phrases with polite verbs like 'お願いします' (onegai shimasu), meaning 'Please', are used often to express politeness.  We will also explore the use of honorific words when addressing people, reflecting the respectful nature of Japanese culture.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: 挨拶 (Greetings)",
+        "japanese": "こんにちは",
+        "kana": "Konnichiwa",
+        "romaji": "konnichiwa",
+        "english": "Hello/Good Morning",
+        "explanation": "This greeting is the standard way to greet someone in Japanese. You can use it with both men and women.",
+        "exampleJp": "こんにちは、お元気ですか？ (Konnichiwa, o-genki desu ka?)",
+        "exampleEn": "Hello, how are you?",
+        "tip": "Say 'konnichiwa' in a friendly tone and a slight bow when greeting someone."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 食事 (Meals)",
+        "japanese": "食事をする (Shokuji o suru)",
+        "kana": "Shokuji o suru",
+        "romaji": "shokuji o suru",
+        "english": "Eat/ Meals",
+        "explanation": " 'Shokuji o suru' is a polite way to say you are going to eat. It's a common phrase to use when entering a meal setting.",
+        "exampleJp": "食事をいただきます (Shokuji wo itadakedo)",
+        "exampleEn": "I will have dinner",
+        "tip": "Use 'Oishii!' for thank you after your meal. It's a common way to say 'Delicious!'"
+      }
+    ],
+    "culturalInsight": "Beyond the beauty of the traditional architecture and amenities, ryokan offer an authentic taste of Japan. Immerse yourself in the cultural experience by trying local delicacies such as Wagyu beef, seasonal vegetables, and unique Japanese sweets. Remember to be patient with unfamiliar dining customs; these moments are what truly enrich your journey.",
+    "quiz": {
+      "type": "multiple-choice",
+      "question": "What is a traditional way to greet someone in Japan?",
+      "options": [
+        "Bonjour",
+        "Ciao",
+        "Konnichiwa",
+        "Guten Tag"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The most common greeting in Japan is 'konnichiwa' (こんにちは), which means 'Hello' or 'Good day'. It is polite and suitable for both men and women."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detail of a traditional tatami mat in a Japanese ryokan with soft natural lighting, showcasing the elegance of the space. A cup of matcha tea on a table can be included as a subtle visual reference to Japanese culture.",
+    "thumbnailUrl": "/images/level1-unique-slug-1783862390666-1783862507472.jpg",
+    "thumbnailAlt": "A detail of a traditional tatami mat in a Japanese ryokan with soft natural lighting, showcasing the elegance of the space. A cup of matcha tea on a table can be included as a subtle visual reference to Japanese culture.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1783852329708",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
