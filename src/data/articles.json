@@ -1,5 +1,60 @@
 [
   {
+    "id": "level4-unique-slug-1783893128423-1783893262860",
+    "title": "Weather Greetings & Seasonal Shifts: Mastering Japanese Correspondence",
+    "subtitle": "For those navigating the nuanced world of business and conditional logic in Japan",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learn the art of expressing seasonal shifts and weather greetings in your Japanese correspondence. This article explores language nuance and etiquette for successful business interactions.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Evenings in Japan are often marked by subtle shifts in weather and the changing seasons. Much like a skilled calligrapher adjusts their stroke to convey a specific meaning, mastering how you write about this dynamic changes your image of business communication. This article offers insights into expressing these seasonal changes and using appropriate greetings for different occasions.",
+    "grammarExplanation": "This article delves into the intricacies of Japanese sentence structure and word usage, specifically focusing on its use in formal and informal settings. We will analyze how verbs, nouns, adjectives, and particles contribute to a complete thought and how context is vital for accurate language use. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "Kyo",
+        "romaji": "Kyō",
+        "english": "Today",
+        "explanation": "This is a simple word used in greetings, asking someone how they are or about their well-being.  It can be used for any occasion.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's nice weather today!",
+        "tip": "Pronounce it like 'Kyo,' and don't forget the small 'y' sound at the end."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary:  明日",
+        "japanese": "明日",
+        "kana": "Ashita",
+        "romaji": "Asita",
+        "english": "Tomorrow",
+        "explanation": "The word 'Asita' is used for tomorrow. Remember, in Japanese, the word order of verbs and subjects usually follows a specific pattern",
+        "exampleJp": "明日が楽しみです。",
+        "exampleEn": "I look forward to tomorrow.",
+        "tip": "Say it as 'Ashita,' and keep your voice clear and confident."
+      }
+    ],
+    "culturalInsight": "Japanese culture emphasizes the importance of respect for elders, colleagues, and social hierarchies. These cultural elements permeate the way we express ourselves in written communication. Consider what might be considered rude or inappropriate in Japanese culture before you write any letter. ",
+    "quiz": {
+      "question": "Which of these phrases is NOT an appropriate greeting for a formal letter? \n\nA) 〇〇様\nB) 〇〇さん\nC) 〇〇先生\nD) 〇〇ちゃん",
+      "options": [
+        "A, B, C, D"
+      ],
+      "correctAnswerIndex": "C",
+      "explanation": "While '〇〇様' (formal address) and '〇〇さん' (polite), are suitable for formal letters in Japan, you would not use '〇〇先生' (teacher) or '〇〇ちゃん' (informal/nickname) when writing to a business contact."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\", \"@type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo serving food for a group of businesspeople')",
+    "thumbnailUrl": "/images/level4-unique-slug-1783893128423-1783893262860.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo serving food for a group of businesspeople')",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1783883395404",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
