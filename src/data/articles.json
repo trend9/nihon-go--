@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-emergency-post-it-1783923735739",
+    "title": "Urgent! When Things Go Wrong in Japan: A Quick Guide for Beginners",
+    "subtitle": "Learn the phrases to call for help and stay calm in unexpected situations.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article is designed to help you understand basic emergency phrases in Japanese. Learn how to request help and stay calm during unexpected situations. ",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Being in a new country can be exciting but sometimes unexpected situations arise. Maybe your train has been delayed or a restaurant is closing early. Learning essential phrases in Japanese can make you feel more confident and prepared during these moments. This article offers a crash course on what to say when things go wrong. ",
+    "grammarExplanation": "Japanese grammar can seem daunting at first, but the key here is to remember basic sentence structure.",
+    "postIts": [
+      {
+        "id": "p-today",
+        "color": "green",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This means \"today\" and is an essential phrase to include in any situation that requires a reference point for time.",
+        "exampleJp": "今日は良い天気ですね。\n(Kyō wa yoi tenki desu ne.) \nToday the weather is good, isn't it?",
+        "exampleEn": "It's a nice day today.",
+        "tip": "Say 'kyou wa' to emphasize your point and make your conversation more direct."
+      },
+      {
+        "id": "p-Emergency",
+        "color": "blue",
+        "title": "Vocabulary: 緊急 (Kigen)",
+        "japanese": "緊急",
+        "kana": "keikin",
+        "romaji": "kigen",
+        "english": "Urgent",
+        "explanation": "This word means \"urgent\" and is a common way to describe situations requiring immediate attention. ",
+        "exampleJp": "緊急事態に備えて、携帯電話を持参しましょう。\n(Kyōjin-jitsu ni ketai, keitai denwa o hochin-shōme-mashou.) \nIt's important to carry a mobile phone in case of emergency.",
+        "exampleEn": "Remember to have a phone handy if you need to contact someone urgently. ",
+        "tip": "Use 'kigen' when it is necessary, especially when talking about dangerous or life-threatening situations."
+      }
+    ],
+    "culturalInsight": " **How to Speak Up and Get Help**\n \n Asking for assistance in Japan can seem intimidating at first.  The key is to be direct and polite! Here's how:\n\n * **Use your voice:** Don't be afraid to speak up and try speaking in English, if you feel comfortable. You will likely see smiles and help from locals. Just don't expect them to understand everything right away. \n * **Use gestures:** While language barriers can be challenging, sometimes it's easier to communicate through body language. Using your hands to show that you need something or want directions can be helpful for non-verbal communication.\n\nRemember: Even if you don't speak the language fluently, being respectful and polite will go a long way in connecting with others.",
+    "quiz": {
+      "question": "What is the Japanese word for 'urgent'?",
+      "options": [
+        "緊急 (Kigen)",
+        "重要 (Jūyō)",
+        "楽しい (Tanoshī)",
+        "難しい (Dōshii)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '緊急 (kigen)' which means \"urgent\"."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A man holding a smartphone, surrounded by Japanese characters and city lights. It is an image that represents modern technology and Japanese culture.\n",
+    "thumbnailUrl": "/images/level1-emergency-post-it-1783923735739.jpg",
+    "thumbnailAlt": "A man holding a smartphone, surrounded by Japanese characters and city lights. It is an image that represents modern technology and Japanese culture.\n",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1783910808723",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
