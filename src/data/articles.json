@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-japanese-toast-480539276535-1784154020950",
+    "title": "Saying Cheers: Congratulations & Toast Expressions",
+    "subtitle": "Master the art of congratulatory toasts for work colleagues!",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article will introduce you to the basic concepts of congratulations and toast expressions in Japanese. It covers common phrases and a little cultural context to help your interactions with colleagues run smoothly! Good luck!",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Konnichiwa! As you navigate the exciting journey of learning Japanese, mastering the art of expressing congratulations will be crucial. In this article, we'll delve into common phrases and expressions for toasting your colleagues in a professional setting. From simple greetings to celebratory toast, understanding how to express gratitude and appreciation is key to building strong working relationships in Japan.",
+    "grammarExplanation": "Japanese grammar can be quite different from English.  We will break down the basics of basic sentence structure, word order, and particles.",
+    "postIts": [
+      {
+        "id": "p-congratulations",
+        "color": "blue",
+        "title": "Vocabulary: 挨拶 (Gassho)",
+        "japanese": "おめでとう (O-temo-ko)",
+        "kana": "O-te mo-ko",
+        "romaji": "Ot-emo-ko",
+        "english": "Congratulations",
+        "explanation": "You can use 'O-te mo-ko' to say congratulations. This is a very common and polite way to express happiness when someone achieves something great.",
+        "exampleJp": "おめでとう！\n\n(Ottemo!)\n\nThank you for your hard work!",
+        "exampleEn": "Congratulations!",
+        "tip": "This greeting can be used in a formal setting, and the tone is polite."
+      },
+      {
+        "id": "p-toast",
+        "color": "yellow",
+        "title": "Vocabulary:  乾杯 (Kansai)",
+        "japanese": "乾杯 (Kansai)",
+        "kana": "Ka-nai-bai",
+        "romaji": "Kansu-bai",
+        "english": "Cheers!",
+        "explanation": "The toast is used to express gratitude and appreciation. It's a customary practice for colleagues to raise their glasses in celebration, especially after achieving something significant.",
+        "exampleJp": "乾杯！\n\n(Kansai!)  \nThank you!",
+        "exampleEn": "Cheers!",
+        "tip": "Remember to do this with the same glass of the other person."
+      }
+    ],
+    "culturalInsight": "The Japanese concept of 'O-te mo-ko' emphasizes a sense of respect and formality in expressing congratulations. Even if you don’t know the language well, understanding these subtle nuances will help you make positive impressions on your colleagues.",
+    "quiz": {
+      "question": "What is the proper way to say 'Cheers!' in Japanese?",
+      "options": [
+        "A. ありがとうございます",
+        "B. 乾杯",
+        "C. おめでとうございます",
+        "D. またね"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is B:  乾杯 (Kansai) - Cheers! This phrase is used for toasting in Japanese culture."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\", \"@type\": \"Article\", \"headline\": \"Saying Cheers: Congratulations & Toast Expressions\", \"description\": \"This article will introduce you to the basic concepts of congratulations and toast expressions for work colleagues. It covers common phrases and a little cultural context to help your interactions with colleagues run smoothly! Good luck!\", \"mainEntityOfPage\": { \"@type\": \"Place\", \"name\": \"Japan\" }, \"author\": { \"@type\": \"Person\", \"name\": \"Emma Sterling\" } , \"publisher\": { \"@type\": \"Organization\", \"name\": \"The English Language Learning Desk\" }, \"articleBody\": \"This article will introduce you to the basic concepts of congratulations and toast expressions for work colleagues. It covers common phrases and a little cultural context to help your interactions with colleagues run smoothly! Good luck!\"}",
+    "imagePrompt": "An illustration of two colleagues raising glasses in a professional setting in Tokyo, Japan.",
+    "thumbnailUrl": "/images/level1-japanese-toast-480539276535-1784154020950.jpg",
+    "thumbnailAlt": "An illustration of two colleagues raising glasses in a professional setting in Tokyo, Japan.",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1784142731307-1784142893310",
     "title": "Savoring the Seasons: Mastering Japanese Dining Etiquette at Night",
     "subtitle": "An exploration of how to navigate the nuances of local dining customs in Japan.",
