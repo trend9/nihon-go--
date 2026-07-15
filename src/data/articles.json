@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1784123101445-1784123212015",
+    "title": "Decoding Japanese Dining Etiquette: Mastering the Art of Seasonal Fare",
+    "subtitle": "A Guide to Afternoon Ordering and Local Delights",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Dive into the vibrant world of Japanese dining etiquette and learn how to navigate seasonal menus like a true local. This guide provides essential insights on ordering, table manners, and cultural nuances for seamless enjoyment in any Japanese setting.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The scent of fresh wasabi, the delicate art of tea ceremony, and the rhythmic clicking of chopsticks - a true taste of Japan. Understanding the subtle intricacies of dining etiquette can elevate your experience beyond mere meals. This guide delves into the world of afternoon ordering, guiding you through seasonal dishes and local customs that make the Japanese dining experience truly unique. From understanding polite phrases to interpreting unspoken cues, this journey will equip you with the cultural knowledge to appreciate the artistry of everyday life in Japan.",
+    "grammarExplanation": "This article uses a mix of formal and informal language appropriate for English-speaking audiences. It avoids complex sentence structures and employs clear, concise explanations with direct examples. This makes it accessible for learners at an intermediate level, focusing on building on previously learned skills while introducing new vocabulary related to food, culture, and dining etiquette.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: お Table Manners",
+        "japanese": "席について",
+        "kana": "eki o tte",
+        "romaji": "eki o tte",
+        "english": "At the table",
+        "explanation": "The Japanese concept of 'table manners' is deeply rooted in respect and consideration. It's about maintaining a serene atmosphere during meals.",
+        "exampleJp": "席はきちんと整えましょう。",
+        "exampleEn": "Ensure the table is neatly set up.",
+        "tip": "Learn to use a teacup or coaster while waiting for the main course."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: Seasonal Dishes",
+        "japanese": "季節の料理",
+        "kana": "kisetsu no ryori",
+        "romaji": "kisetsu no ryori",
+        "english": "Seasonal dishes",
+        "explanation": "Traditional Japanese cuisine revolves around seasonal ingredients, creating vibrant and delicate dishes that change with the seasons.",
+        "exampleJp": "春には桜が咲き誇る季節料理が人気です。",
+        "exampleEn": "Spring is a popular time for cherry blossom-themed dishes.",
+        "tip": "Asking about seasonal ingredients is considered polite. Use phrases like 'この季節の料理は美味しいですか?' (How delicious are these seasonal dishes?)."
+      }
+    ],
+    "culturalInsight": "Beyond the realm of food, Japanese dining etiquette transcends mere formalities; it's a reflection of respect for elders and cherished traditions. A simple bowl of rice signifies a heartfelt acknowledgment of shared space, while carefully arranging chopsticks creates an intimate connection between guests.",
+    "quiz": {
+      "question": "What is considered polite when requesting a dish or drink at a Japanese restaurant?",
+      "options": [
+        "Please provide your order immediately.",
+        "Could you please bring me the menu?",
+        "May I have [dish name] and [drink name]?",
+        "Thank you for your service."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "When ordering in Japan, politely expressing your desire is essential. For instance, instead of simply saying 'Bring me the menu,' you might say 'May I have [dish name] and [drink name]?' This shows respect for the wait staff."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"url\":\"https://example.com/article-details\"}",
+    "imagePrompt": "A vibrant photograph of a group of friends sharing plates of seasonal sushi, surrounded by traditional Japanese décor in a cozy restaurant setting with soft lighting and warm colours.",
+    "thumbnailUrl": "/images/level3-unique-slug-1784123101445-1784123212015.jpg",
+    "thumbnailAlt": "A vibrant photograph of a group of friends sharing plates of seasonal sushi, surrounded by traditional Japanese décor in a cozy restaurant setting with soft lighting and warm colours.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1784112877818",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
