@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1784103076553-1784103194548",
+    "title": "Getting to Know Your House: A Beginner's Guide to Japanese Homes and Daily Routines",
+    "subtitle": "Understanding Japanese morning rituals for a smooth start.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article will help you start learning about Japanese everyday life, focusing on household items and common morning routines. Learn key words in Japanese for basic conversation and cultural understanding.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to the world of Japanese homes! Learning about daily routines is a great step towards understanding Japanese culture. This article will introduce you to essential items found in typical Japanese households and guide you through common morning practices. Whether you're fascinated by Japanese minimalism or eager to learn more about the culture, this guide will help you get started.",
+    "grammarExplanation": "This article focuses on simple vocabulary and sentence structure commonly used in everyday English, using a combination of active and passive voice to explain daily routines. We will use direct object pronouns like 'me' (私) and 'you' (あなた), and utilize basic grammatical concepts such as subject-verb agreement.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Kitchen Essentials",
+        "japanese": "キッチン用品",
+        "kana": "kitchin-youbi",
+        "romaji": "Kitchin-youbi",
+        "english": "Kitchen Essentials",
+        "explanation": "This is a list of items commonly found in a kitchen.",
+        "exampleJp": "私はコーヒーを淹れる。(Watashi wa kōhī o yameru.)",
+        "exampleEn": "I make coffee. ",
+        "tip": "Start with simple words, then build complexity."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Morning Routine",
+        "japanese": "朝のルーティン",
+        "kana": "aso no Rutiin",
+        "romaji": "Asa no Rutiin",
+        "english": "Morning Routine",
+        "explanation": "This lists common routines and activities people do in the morning.",
+        "exampleJp": "朝ごはんを食べます。(Asa-gohan o tabemasu.)",
+        "exampleEn": "I eat breakfast in the morning.",
+        "tip": "Use phrases like 'morning routine' to create a natural flow of conversation."
+      }
+    ],
+    "culturalInsight": "Understanding how people begin their day can give you insights into their lifestyles. The Japanese approach to mornings emphasizes order, efficiency and self-care. Many people start with a quiet moment for themselves before facing the day, which often involves activities like reading or meditating.",
+    "quiz": {
+      "question": "What does '朝食' mean in Japanese? ",
+      "options": [
+        "Breakfast",
+        "Lunchtime",
+        "Dinner",
+        "Tea time"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The answer is 'Breakfast'.  This is a good starting point for vocabulary learning."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\";\n\"@type\": \"Article\";\n\"headline\": \"Getting to Know Your House: A Beginner's Guide to Japanese Homes and Daily Routines\";\n\"datePublished\":\"2023-10-27T07:00:00Z\";\n\"articleBody\": \" ...  ... ... \";\n\"publisher\": { \"@type\": \"Organization\"; ... };\n}",
+    "imagePrompt": "A photograph of a Japanese breakfast table with bowls and chopsticks, surrounded by a traditional tatami mat.",
+    "thumbnailUrl": "/images/level1-unique-slug-1784103076553-1784103194548.jpg",
+    "thumbnailAlt": "A photograph of a Japanese breakfast table with bowls and chopsticks, surrounded by a traditional tatami mat.",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1784093602030-1784093780545",
     "title": "An Unexpected Crisis: The Call for Assistance in the Twilight Hours",
     "subtitle": "Mastering urgent phrases in Japanese.",
