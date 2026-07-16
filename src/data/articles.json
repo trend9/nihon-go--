@@ -1,5 +1,89 @@
 [
   {
+    "id": "level1-unique-slug-1784209820591-1784209985634",
+    "title": "Hello, Japan: Mastering Seasonal Greetings and Weather Talk Through Letters",
+    "subtitle": "Unlocking the beauty of written language for beginner learners",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article guides beginner learners through expressing seasonal changes and weather greetings in Japanese letters. Discover how to incorporate these phrases into everyday communication and enrich your language learning journey.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Hello, friends! Welcome to the world of Japanese letter writing. As a level 1 learner, you’re about to begin experiencing the elegance and sophistication of this beautiful language. Today, we'll explore how to express seasonal changes and weather greetings through letters.  You might be thinking, ‘What does a beginner need to know?’, well, don’t worry, today we will learn some basic phrases that form the foundation for expressing your feelings about the changing seasons.  Let’s embark on this journey together! ",
+    "grammarExplanation": "Japanese grammar is simple and beautiful, built around a few core principles.  You will notice a difference between formal and informal language - as you progress in your study of Japanese, you'll learn to navigate these levels with ease. Today, we're focusing on the basic grammatical concepts needed for expressing weather-related topics like this: how much do you know about weather?  Have you ever wondered how it might be said differently in Japan? ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 春",
+        "japanese": "春 (haru)",
+        "kana": "HARU",
+        "romaji": "haru",
+        "english": "Spring",
+        "explanation": "This is the word for 'spring' in Japanese.  You will use this term when talking about the start of spring, or the beginning of a season.",
+        "exampleJp": "春の始まりは、素晴らしいですね\n (haru no hajime wa, subete desu ne)",
+        "exampleEn": "The beginning of spring is wonderful,\n",
+        "tip": "Spring in Japan means new beginnings and fresh starts.  For example, you might say 'This year marks a great start for me.' to express your optimism."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 夏",
+        "japanese": "夏 (natsu)",
+        "kana": "NATSU",
+        "romaji": "natsu",
+        "english": "Summer",
+        "explanation": "This is the word for 'summer' in Japanese.  You will use this term when talking about the start of summer, or the beginning of a season.",
+        "exampleJp": "夏の始まりは、本当に素晴らしいですね\n(natsu no hajime wa, hontou ni subete desu ne)",
+        "exampleEn": "The start of summer is truly wonderful,\n",
+        "tip": "Summer in Japan often brings hot weather and plenty of outdoor activities."
+      },
+      {
+        "id": "p3",
+        "color": "blue",
+        "title": "Vocabulary: 秋",
+        "japanese": "秋 (Aki)",
+        "kana": "AKI",
+        "romaji": "aki",
+        "english": "Autumn",
+        "explanation": "This is the word for 'autumn' in Japanese.  You will use this term when talking about the start of autumn, or the beginning of a season.",
+        "exampleJp": "秋が訪れた！\n(Aki ga fuguret!)",
+        "exampleEn": "Autumn has arrived!",
+        "tip": "This is a good time for festivals and celebrating the harvest."
+      },
+      {
+        "id": "p4",
+        "color": "green",
+        "title": "Vocabulary: 冬",
+        "japanese": "冬 (fuyu)",
+        "kana": "FUYU",
+        "romaji": "fuyu",
+        "english": "Winter",
+        "explanation": "This is the word for 'winter' in Japanese.  You will use this term when talking about the start of winter, or the beginning of a season.",
+        "exampleJp": "冬が来た！\n(Fuyu ga kita!)",
+        "exampleEn": "Winter has arrived!",
+        "tip": "Enjoy the warmth and comfort of cozy evenings."
+      }
+    ],
+    "culturalInsight": "In Japan, weather is a significant aspect of daily life. Whether talking about seasonal changes or simply expressing your feelings about the weather, knowing how to describe it can significantly enhance your communication skills.",
+    "quiz": {
+      "question": "What does '春' (haru) mean in Japanese?",
+      "options": [
+        "Summer",
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Correct answer is Spring.  This is because '春' (haru) is the word for spring in Japanese."
+    },
+    "imagePrompt": "An illustration depicting a cherry blossom tree with a light rain falling on it.  There should be a person standing under this tree, looking at their phone.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level1-unique-slug-1784209820591-1784209985634.jpg",
+    "thumbnailAlt": "An illustration depicting a cherry blossom tree with a light rain falling on it.  There should be a person standing under this tree, looking at their phone.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1784199834454",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
