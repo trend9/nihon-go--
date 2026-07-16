@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1784229076315-1784229203398",
+    "title": "Navigating the Labyrinth: Asking for Directions on Tokyo's Subways",
+    "subtitle": "A Level 3 guide for English speakers seeking to master the art of subway travel in Japan.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This article provides a detailed guide to navigating the bustling Tokyo subway system for English speakers. From basic greetings and etiquette to asking for directions, we'll equip you with the essential tools to confidently traverse Tokyo's underground arteries.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating Tokyo’s intricate subway system can feel like walking through a maze of flashing screens and bustling crowds. Don't worry! With a bit of preparation and a few key phrases in your arsenal, you can conquer the underground with ease. This guide will take you step-by-step through essential Japanese phrases, etiquette pointers, and real-world examples to ensure you’re confidently navigating Tokyo’s underbelly – even if you've never encountered the polite 'Konnichiwa'.",
+    "grammarExplanation": "This article delves into the intricacies of Japanese sentence structure in a relatable context for English speakers. We'll examine key grammatical concepts such as verb conjugation and particle usage, focusing on how these impact your ability to express simple wishes or make requests on the train. The focus is not just on learning the right grammar but also understanding its practical application in real-life situations.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Subway",
+        "japanese": "地下鉄 (chotto kōte)",
+        "kana": "Chotto Kōtei",
+        "romaji": "Chottokōtei",
+        "english": "Subway",
+        "explanation": "This card explains the basic Japanese word for subway, crucial for starting any train conversation.",
+        "exampleJp": "地下鉄は、どこへ行く？ (Chikatetsu wa, doko e iku?)",
+        "exampleEn": "Which station are you going to?",
+        "tip": "When asking for a direction, use 'chotto kōte' or just 'Subway' with the question 'Do-you know where?'"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Where is the station?",
+        "japanese": "駅はどこ？ (eki wa doko?)",
+        "kana": "Eki wa dokoko?",
+        "romaji": "Eki wa dokoko?",
+        "english": "Where's the station?",
+        "explanation": "Learning basic station vocabulary can be crucial for any level of travel in Japan, this card focuses on a key phrase. ",
+        "exampleJp": "駅はどこ？ (eki wa doko?)",
+        "exampleEn": "Where is the train station?",
+        "tip": "A simple question like 'Eki wa dokoko?' can start your conversation."
+      }
+    ],
+    "culturalInsight": "The Japanese concept of time and punctuality plays a vital role in their public transit system. Always be prepared for delays, as unexpected changes or cancellations are common occurrences.  When encountering delays, it's customary to remain calm and respectful until the situation is rectified.",
+    "quiz": {
+      "question": "How do you ask for directions in Japanese?",
+      "options": [
+        "Where's the station?",
+        "Do you know how to get there?",
+        "Can you help me find the train?",
+        "Excuse me, could you give me directions?"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'Where's the station?', a direct way of asking for information about the subway."
+    },
+    "imagePrompt": "An illustration of a Tokyo subway station with commuters rushing through doors. A map with Japanese and English language labels",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1784229076315-1784229203398.jpg",
+    "thumbnailAlt": "An illustration of a Tokyo subway station with commuters rushing through doors. A map with Japanese and English language labels",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1784218780808",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
