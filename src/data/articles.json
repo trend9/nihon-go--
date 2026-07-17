@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1784305085262-1784305228638",
+    "title": "Toast to Success: The Art of Congratulatory Expressions in Japanese Business Culture",
+    "subtitle": "Navigating the nuanced world of workplace congratulations.",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Celebrate colleagues' achievements with grace and precision in the intricate landscape of Japanese business culture. This article guides you through the art of congratulatory expressions, drawing inspiration from Japanese proverbs and etiquette for a truly sophisticated toast.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The hum of office chatter fades as evening descends, replaced by a subtle shift in the energy of a successful team. A celebratory gathering begins, filled with anticipation and the promise of well-deserved recognition.  Evenings hold an air of solemn celebration, where heartfelt congratulations and toasts are not mere formalities; they are threads woven into the fabric of Japanese business culture. 'Gōkō desu' - the joy of sharing success, a phrase often uttered before a shared toast, reflects the genuine sentiment behind these expressions.  But what truly lies beyond this simple toast? Understanding this cultural nuance is key to navigating the intricate world of workplace relationships in Japan.",
+    "grammarExplanation": "Japanese grammar operates within a framework of formality and politeness. While English emphasizes clarity, Japanese prioritizes indirect expression, often using soft language and subtle hints for deeper meaning. This creates an atmosphere of respect and understanding, crucial in building lasting professional connections. For instance, instead of direct statements like 'You did a good job,' a more suitable approach is to express admiration indirectly through phrases such as 'Your efforts have been greatly appreciated.' These subtle nuances often reveal the true depth of respect between colleagues.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: 栄光",
+        "japanese": "栄光",
+        "kana": "Eikō",
+        "romaji": "Eiko",
+        "english": "Glory",
+        "explanation": "This term signifies a sense of honor and achievement.  A common expression used to convey congratulations or praise for success.",
+        "exampleJp": "素晴らしい成果をあげた、おめでとうございます！\n(Superb results achieved, congratulations!)",
+        "exampleEn": "You've done an excellent job! Congratulations!",
+        "tip": "While the word '栄光' signifies a broader sense of accomplishment, it can also refer to the glory of a team achieving a shared goal.  This understanding allows you to celebrate success in its entirety."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary: 頑張ったね",
+        "japanese": "頑張ってね",
+        "kana": "Gābōte ne",
+        "romaji": "Gabanote",
+        "english": "You worked hard, didn't you?",
+        "explanation": "This expression signifies empathy and appreciation for the effort invested by the recipient. It acknowledges their dedication and determination.",
+        "exampleJp": "このプロジェクトを成功させるために、あなたには本当に感謝します。\n(For this project to succeed, I really thank you.)",
+        "exampleEn": "I appreciate all your hard work on this project! You’ve done a great job.",
+        "tip": "Use this phrase to acknowledge and express gratitude for their efforts.   It is always best to be sincere in your intentions."
+      }
+    ],
+    "culturalInsight": "A Toast of Tradition: The Japanese Art of Congratulatory Celebrations\nThe Japanese art of congratulation goes beyond mere words; it encompasses a sophisticated blend of rituals, etiquette, and cultural nuance. A traditional toast is often accompanied by a single piece of fruit or a small gift to represent the shared success. These gestures are not merely about celebration but serve as subtle reminders of respect and appreciation in the professional world. The Japanese emphasize genuine feelings and humility, showcasing their unique perspective on success through actions rather than words. To truly master this art, one must understand these nuances. \n\nBeyond the act of celebration, it is crucial to remember that Japanese culture values teamwork and mutual support. A congratulatory toast should be an expression of collective pride, acknowledging the role each individual played in achieving success. This understanding allows you to navigate workplace relationships in Japan with grace and authenticity.",
+    "quiz": {
+      "question": "Which of these is a common word used to express congratulations in Japanese business culture?",
+      "options": [
+        "おめでとう",
+        "頑張ってね",
+        "ありがとう",
+        "お疲れ様"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is '頑張ってね' (Gābōte ne). This phrase embodies a sense of appreciation for the recipient's hard work and dedication. Other options, while commonly used in everyday life, lack the nuance of congratulatory expressions within Japanese business culture."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A beautifully composed image of sake cups held by two colleagues surrounded by a soft, elegant backdrop representing a traditional Japanese tea ceremony hall. The images should be in black and white with subtle color accents to reflect the cultural depth of the topic. ",
+    "thumbnailUrl": "/images/level5-unique-slug-1784305085262-1784305228638.jpg",
+    "thumbnailAlt": "A beautifully composed image of sake cups held by two colleagues surrounded by a soft, elegant backdrop representing a traditional Japanese tea ceremony hall. The images should be in black and white with subtle color accents to reflect the cultural depth of the topic. ",
+    "isVerified": true
+  },
+  {
     "id": "level4-unique-slug-1784294892833-1784295006571",
     "title": "Navigating Japanese Homes and Routines: An Evening Look",
     "subtitle": "Unlocking the secrets of daily life in Japan",
