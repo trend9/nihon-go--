@@ -1,5 +1,62 @@
 [
   {
+    "id": "level4-unique-slug-1784294892833-1784295006571",
+    "title": "Navigating Japanese Homes and Routines: An Evening Look",
+    "subtitle": "Unlocking the secrets of daily life in Japan",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learn how to navigate the routines and daily lives of Japanese households through a level four journey in language acquisition. Dive deeper into the intricacies of everyday life with this comprehensive guide.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine your evenings are filled with the gentle hum of the TV playing local dramas as you cook dinner for your family. The aroma of steamed vegetables mingles with sizzling meat and a comforting broth; it's a familiar scene that plays out in countless Japanese homes. But what about understanding the finer details of this everyday life? Today, we delve deeper into the fascinating world of household items and daily routines to reveal the subtle complexities of modern Japanese culture. ",
+    "grammarExplanation": "This article utilizes various sentence structures typical of advanced learners: conditional logic, object clauses, and direct speech. By paying attention to word order, tense shifts, and modal verbs, you can better understand how to communicate more fluidly in Japanese.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 家電",
+        "japanese": "家電 (dekā)",
+        "kana": "家電",
+        "romaji": "Kaedēn",
+        "english": "Electrical Appliances",
+        "explanation": "This post-it note introduces you to essential terms like '家電' which describes the electronic devices used in a Japanese household. The note gives basic definitions in both English and Japanese, offering valuable context for language learners.",
+        "exampleJp": "冷蔵庫は、食品を保存するために使われます。 (Riōkaku wa, shokuin wo sōyū ni tsukeru yo.)",
+        "exampleEn": "The refrigerator is used to store food. ",
+        "tip": "Note that '家電' can encompass anything from ovens and washing machines to refrigerators and televisions."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 洗濯物",
+        "japanese": "洗濯物 (sentaku-mono)",
+        "kana": "Senteku-mono",
+        "romaji": "Sentan-mono",
+        "english": "Laundry",
+        "explanation": "This note introduces the Japanese term for laundry, which is often a common household chore. By learning the basic words in the context of daily life and routine cleaning, you can build your vocabulary further.",
+        "exampleJp": "洗濯物をまとめて、洗濯機で洗います。 (Senteku-mono o mōte, shākuji de sekai.)",
+        "exampleEn": "I wash all my clothes together in the washing machine.",
+        "tip": "Learning the Japanese verb '洗う' or to 'wash' will help you understand everyday actions like laundry."
+      }
+    ],
+    "culturalInsight": "The Japanese approach to home life is one of meticulous organization and efficiency. From choosing a colour palette for your house, to knowing which cupboard to use based on the type of product (like rice or cooking oil), there's a level of detail that takes some getting used to! But once you experience it yourself, the beauty and ingenuity shine through. ",
+    "quiz": {
+      "question": "What is the most common Japanese word for ‘household’?",
+      "options": [
+        "家 (ka)",
+        "建物 (tonte)",
+        "生活 (seikatsu)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The most common word for 'household' in Japanese is **家 (ka)**. It literally means 'house', but it encompasses the whole concept of home."
+    },
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "schemaMarkup": "{\"type\":\"Article\",\"headline\":\"Navigating Japanese Homes and Routines: An Evening Look\"}",
+    "thumbnailUrl": "/images/level4-unique-slug-1784294892833-1784295006571.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1784285328040-1784285432380",
     "title": "Living Like a Local: Decoding Japan's Everyday Rhythms",
     "subtitle": "An insider's guide to Japanese routines and home life.",
