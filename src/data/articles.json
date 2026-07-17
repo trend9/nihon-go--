@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1784285328040-1784285432380",
+    "title": "Living Like a Local: Decoding Japan's Everyday Rhythms",
+    "subtitle": "An insider's guide to Japanese routines and home life.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This article dives deep into the everyday routines and home life of Japanese people. From cooking to cleaning, we explore common activities and daily rituals that reveal a unique glimpse into their culture.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The afternoon sun casts long shadows as you sip your green tea in the comforting quiet of your tatami-matted room. Sounds like a scene straight out of a Japanese film, right? But beyond the idyllic image lies a world of fascinating routines and daily habits that shape the lives of millions.",
+    "grammarExplanation": "This article employs intermediate level grammatical structures such as complex sentence constructions with dependent clauses and diverse question formations. It also incorporates descriptive vocabulary related to home life and daily routine in Japan, allowing for an engaging exploration of language nuances through real-world examples. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyō",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This word literally means 'today', but it often implies a specific time of day or the current moment. ",
+        "exampleJp": "今日は何ですか？ (Kyō wa nan desu ka?)",
+        "exampleEn": "What's happening today?",
+        "tip": "Say 'Today' in Japanese."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 食べる",
+        "japanese": "食べる",
+        "kana": "taberu",
+        "romaji": "taberu",
+        "english": "To eat, Eat",
+        "explanation": "This is a verb meaning 'to eat' in everyday life. ",
+        "exampleJp": "私は毎日ご飯を食べます (Watashi wa mainichi gohan o tabemasu)",
+        "exampleEn": "I eat rice every day.",
+        "tip": "You can use this verb with different meanings like eating or drinking."
+      }
+    ],
+    "culturalInsight": "A unique aspect of Japanese life is the concept of 'omotenashi', which emphasizes providing thoughtful service and care for guests. Whether it's preparing a simple meal, offering tea, or tidying up your home, these small acts of kindness reflect the deep connection to hospitality.",
+    "quiz": {
+      "question": "What time do most Japanese people typically have dinner?",
+      "options": [
+        "10:00 AM",
+        "7:00 PM",
+        "2:00 PM",
+        "9:00 PM"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "While there is no strict rule for dinner time in Japan, most people tend to have their main meal at around 7 pm due to the social customs and work schedules. However, it can be flexible depending on regional habits and individual preferences."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a traditional Japanese home with a modern touch: A person in an everyday kimono sitting on a floor cushion surrounded by beautiful, minimalist furnishings. There should be light streaming through a paper screen window, and the color palette is calming - warm tones with hints of earth colors and fresh greens.",
+    "thumbnailUrl": "/images/level3-unique-slug-1784285328040-1784285432380.jpg",
+    "thumbnailAlt": "A photo of a traditional Japanese home with a modern touch: A person in an everyday kimono sitting on a floor cushion surrounded by beautiful, minimalist furnishings. There should be light streaming through a paper screen window, and the color palette is calming - warm tones with hints of earth colors and fresh greens.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1784275908280",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
