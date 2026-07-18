@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1784380520214-1784380657252",
+    "title": "Unlocking Everyday Life: Japanese Home Essentials and Routines",
+    "subtitle": "A guide for English speakers navigating daily life in Japan.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article introduces essential Japanese household items and daily routines for English speakers. With everyday vocabulary, simple instructions, and cultural insights, you'll find yourself navigating Japanese life with ease.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From the iconic 'kaki' (a Japanese wooden stool) to the humble 'oshiruko' (sweet red bean paste soup), mastering everyday Japanese vocabulary opens a world of communication and cultural appreciation. This article will guide you through essential household items commonly found in Japanese homes, providing insights into daily routines for an enriching and immersive experience in Japan.  \n\n\"毎日を楽しく過ごそう\" (Mainichi wo tanoshii suru sou) – Let’s enjoy every day! \"",
+    "grammarExplanation": "This article utilizes simple sentence structure and common Japanese grammar, focusing on present tense verbs and basic subject-verb-object order. Familiarization with basic particles such as 'wa' (topic marker), 'ga' (subject marker), and 'o' (object marker) will contribute to understanding the nuances of daily dialogues in Japan.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 洗う",
+        "japanese": "洗い",
+        "kana": "Saji",
+        "romaji": "Wash",
+        "english": "To Wash",
+        "explanation": "Used for cleaning both objects and oneself. Example:  I wash my hands before meals.",
+        "exampleJp": "トイレで水を掛けて、手を洗いました。 (Tōi ni do-nui o kakete, te no o-ashimashita.) - I washed my hands after going to the toilet.",
+        "exampleEn": "I've taken a shower and washed my face before going out for dinner.",
+        "tip": "The verb '洗い' is used to express cleaning. It's like washing dishes or clothes, but it can also mean washing your body. Remember to use the correct verbs based on the situation."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: 炊く",
+        "japanese": "炊く",
+        "kana": "Shuki",
+        "romaji": "Cook",
+        "english": "To Cook",
+        "explanation": "The verb '炊く' means to cook something on the stove. It's an important skill for any home cook.",
+        "exampleJp": "ご飯を炊きます。 (Goi o shuki kimasu.) - I'll cook rice today.",
+        "exampleEn": "I will get started with making rice.",
+        "tip": "When you say '炊く', think of something that needs heat to become edible.  Like a soup or a bread."
+      }
+    ],
+    "culturalInsight": "Daily Life: From the humble kitchen to the serene living room, understanding how people live in Japan opens up a world of cultural insights. For example, Japanese families often cook together, creating strong family bonds and fostering a sense of community.",
+    "quiz": {
+      "question": "What is the common Japanese word for 'to wash'?",
+      "options": [
+        "洗い",
+        "炊く",
+        "掃除",
+        "食べる"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '洗い'.  It’s used for cleaning both objects and oneself. For example: I wash my hands before meals."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A beautiful illustration of a Japanese kitchen with traditional white walls, a wooden table, a rice cooker and a bowl of ramen on the table, with a sun-shining window in the background. The image should be painted with soft colors like orange and pink.",
+    "thumbnailUrl": "/images/level2-unique-slug-1784380520214-1784380657252.jpg",
+    "thumbnailAlt": "A beautiful illustration of a Japanese kitchen with traditional white walls, a wooden table, a rice cooker and a bowl of ramen on the table, with a sun-shining window in the background. The image should be painted with soft colors like orange and pink.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1784370158888",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
