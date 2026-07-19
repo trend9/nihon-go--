@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-japanese-dining-etiquette-1784476925414",
+    "title": "Navigating the World of Japanese Dining: Etiquette and Seasonal Delights",
+    "subtitle": "A guide for English speakers eager to delve into authentic Japanese dining experiences.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article provides a gentle introduction to Japanese dining etiquette and seasonal dishes. By understanding the basics, you can confidently navigate your way through the world of Japanese cuisine.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome!  Learning about Japanese dining etiquette is like entering an entirely new cultural adventure.  From the graceful bowing to the art of food presentation, it’s a unique experience that goes beyond just enjoying delicious food. This guide will help you navigate this world of fascinating traditions and seasonal flavors.",
+    "grammarExplanation": "Japanese grammar, though complex, builds upon simple building blocks like subject-object-verb (SOV) sentence structure. Learning to read and understand basic phrases is key to understanding the culture and etiquette. Utilize online resources for practice, such as HelloTalk or Duolingo, where you can connect with native speakers for immersive language learning.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyō wa",
+        "english": "Today",
+        "explanation": "This is how we say 'today' in Japanese. It helps to build your vocabulary of everyday language, which will be key for interacting with people and understanding daily life.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a nice day today, isn't it?",
+        "tip": "Pronounce 'kyō wa' like 'k-yo-wa'"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お願い",
+        "japanese": "お願いします",
+        "kana": "onegai shimasu",
+        "romaji": "one-gai shimasu",
+        "english": "Please",
+        "explanation": "This is a polite way to ask someone for something.  Knowing how to use 'Onegai shimasu' can help you build more confident interactions with Japanese people in everyday settings.",
+        "exampleJp": "お味噌汁、お願いします。",
+        "exampleEn": "Could I have some miso soup, please?",
+        "tip": "Use it often for a smooth and respectful experience."
+      }
+    ],
+    "culturalInsight": "Dining etiquette is deeply ingrained in Japanese culture. It goes beyond simply enjoying meals; it's about respecting traditions and fostering positive interactions. For example, bowing before meals and using polite phrases like 'oishii desu' (delicious) show appreciation for the food and the host's effort.  Learn these customs to truly immerse yourself in the world of Japanese dining.",
+    "quiz": {
+      "question": "What is the correct way to start a conversation with someone at the beginning of a meal in Japan?",
+      "options": [
+        "Hello!",
+        "Thank you for inviting me.",
+        "May I have some water, please?",
+        "I like this food."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "English speakers typically start a meal with 'Hello!', which is the most respectful way to introduce oneself. This shows courtesy before even starting to eat, while also creating an opening for interaction during the meal."
+    },
+    "schemaMarkup": "<meta name=\"description\" content=\"This article provides a gentle introduction to Japanese dining etiquette and seasonal dishes. By understanding the basics, you can confidently navigate your way through the world of Japanese cuisine.\">",
+    "imagePrompt": "A photograph of a traditional Japanese restaurant with a full table setting adorned with vibrant red and white paper lanterns.",
+    "thumbnailUrl": "/images/level1-japanese-dining-etiquette-1784476925414.jpg",
+    "thumbnailAlt": "A photograph of a traditional Japanese restaurant with a full table setting adorned with vibrant red and white paper lanterns.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1784467220209",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
