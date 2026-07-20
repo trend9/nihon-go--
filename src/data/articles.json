@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1784584910234-1784585016195",
+    "title": "Crafting Your Perfect Getaway: Japanese Travel Planning for Business Travelers",
+    "subtitle": "A guide to navigating the world of Japanese travel schedules and vacation wishes",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Master the art of planning a seamless vacation in Japan. Learn how to navigate the intricacies of Japanese travel schedules, from booking your flights and accommodation to making essential cultural connections. This comprehensive guide caters to business travelers seeking to optimize their journey for work and pleasure.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The allure of Japan is undeniable, with its rich culture, serene landscapes, and innovative cities beckoning international travelers. However, navigating the unique aspects of Japanese travel can sometimes be a challenge, especially for business travelers. Whether you're attending an important conference or exploring cultural wonders, planning your trip effectively will ensure a smooth and enjoyable experience. Today's guide offers valuable insights into the world of Japanese travel scheduling and vacation wishes, empowering you to craft your perfect getaway.",
+    "grammarExplanation": "This article utilizes typical English grammatical structures, including past tense verb conjugation, simple present tense for actions, and complex sentences with subordinate clauses, reflecting a common level of formality in business communication. ",
+    "postIts": [
+      {
+        "id": "p-japanesetravel",
+        "color": "yellow",
+        "title": "Vocabulary: 旅行 (Ryōkū)",
+        "japanese": "旅行は楽しいものです。",
+        "kana": "りょこうはたんぼうです.",
+        "romaji": "Ryoukou wa tanpou desu.",
+        "english": "Travel is fun.",
+        "explanation": "This phrase means 'travel is enjoyable' in Japanese, a very common way to talk about travel. ",
+        "exampleJp": "旅行は楽しいものです。",
+        "exampleEn": "Traveling is fun.",
+        "tip": "It sounds like you’re going somewhere!"
+      },
+      {
+        "id": "p-travelschedule",
+        "color": "pink",
+        "title": "Vocabulary: 旅程 (Reshyo)",
+        "japanese": "旅程は重要です。",
+        "kana": "Reshyo wa jōi desu.",
+        "romaji": "Ryoushyo wa jōi desu.",
+        "english": "Your journey is important.",
+        "explanation": "Planning your trip and organizing the order of things is crucial. This phrase emphasizes how crucial it is to plan a trip in Japanese.",
+        "exampleJp": "旅程は重要です。",
+        "exampleEn": "Planning your trip is important.",
+        "tip": "It's good to have an itinerary or schedule!"
+      }
+    ],
+    "culturalInsight": "Japan’s travel culture, steeped in tradition and respect for the environment, offers a unique experience. For instance, travelers are encouraged to leave small offerings of paper money at temples or shrines as a gesture of gratitude and respect. Additionally, public transportation is exceptionally well-organized, with efficient trains and buses ensuring smooth journeys throughout Japan's diverse landscapes.",
+    "quiz": {
+      "question": "What does '旅' mean in Japanese? ",
+      "options": [
+        "The meaning of this word depends on context",
+        "旅行 (Ryōkū) means ‘travel’",
+        "旅程 (Reshyo) is a synonym for 'journey'",
+        "交通手段 (Kōtsubē-Sansaku)  means transportation"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is **旅行 (Ryōkū) means ‘travel’**."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An elegant illustration of a Japanese traveler enjoying cherry blossom season in Ueno Park in Tokyo. Use soft, pastel colors with a focus on delicate detail and texture.",
+    "thumbnailUrl": "/images/level4-unique-slug-1784584910234-1784585016195.jpg",
+    "thumbnailAlt": "An elegant illustration of a Japanese traveler enjoying cherry blossom season in Ueno Park in Tokyo. Use soft, pastel colors with a focus on delicate detail and texture.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1784564810373",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
