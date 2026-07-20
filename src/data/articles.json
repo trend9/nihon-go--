@@ -1,5 +1,62 @@
 [
   {
+    "id": "level1-congratulations-and-toast-1784548142314",
+    "title": "Cheers to Success: How to Congratulate Colleagues in Japanese",
+    "subtitle": "A Beginner's Guide to Toast Expressions and Saying Happy Things in the Workplace.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Mastering Japanese workplace etiquette is essential for success. This article explores common congratulations in a professional setting, focusing on how to offer toast and express good wishes to colleagues.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Congratulations are a cornerstone of any workplace culture, especially as your career takes off! Mastering the art of offering well-meaning words of congratulations is a key part of building professional relationships. Whether it's for an achievement or just to show support in a good mood, knowing how to express your appreciation in Japanese can deepen your connections with colleagues and foster a more positive work environment.  This article guides you through essential expressions and provides insights into the unspoken nuances of congratulations in Japan.",
+    "grammarExplanation": "Japanese grammar is fascinatingly complex for English speakers, but don't worry! We'll explore basic sentence structures and how to use these in context.\n\n * **Subject-Object-Verb (SOV):** This is the fundamental order of Japanese sentences. We start with who or what does the action and then describe the action itself.",
+    "postIts": [
+      {
+        "id": "p21b50734e",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "本日はおめでとうございます。",
+        "kana": "bon-tai ni o-kocchi-mo-te-masu.",
+        "romaji": "Bontani ni okimatte-masu.",
+        "english": "Congratulations today!",
+        "explanation": "This phrase expresses congratulations for the day. Use this when congratulating someone on a recent achievement or just to show support in a good mood. It's common in casual settings, and the 'today' emphasizes the current occasion.",
+        "exampleJp": "おめでとうございます。",
+        "exampleEn": "Congratulations!",
+        "tip": "When saying congratulations in Japanese, it is polite to use a form of address like 'san' (先生) or 'kun' (君). It shows respect and formality."
+      },
+      {
+        "id": "p947b81c6d",
+        "color": "blue",
+        "title": "Vocabulary: 感謝",
+        "japanese": "ありがとうございます。",
+        "kana": "arigato-gozaimasu.",
+        "romaji": "Arigato gozaimasu.",
+        "english": "Thank you.",
+        "explanation": "This is the standard expression of gratitude. Use this when expressing thanks to someone for a favor or gesture, and it's appropriate in a professional setting.",
+        "exampleJp": "ありがとうございます",
+        "exampleEn": "Thanks!"
+      }
+    ],
+    "culturalInsight": "Toasting isn’t just about the drinks—it's about showing respect. In Japan, offering a toast is a way to express your gratitude for someone or something. It symbolizes well wishes and appreciation, but you can also use it as a casual way to celebrate with colleagues. It's important to be mindful of cultural nuances. Here are some points to remember:\n* **Formal settings:** Avoid using overly casual language like 'Cheers!' in formal meetings, instead stick to more appropriate expressions such as 'Congratulations!' or ‘Thank you!’\n* **Drinking culture:** The Japanese have a unique approach to drinking. It's not about getting drunk; it's about enjoying the company of others and expressing appreciation for shared experiences. While toast is common, be sure to know your audience and their level of comfort with these traditions.\n \n ",
+    "quiz": {
+      "question": "What is a commonly used expression to express congratulations in Japanese when congratulating colleagues on a recent achievement? ",
+      "options": [
+        "おやすみなさい",
+        "ありがとうございます",
+        "おめでとう",
+        "こんにちは"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The answer is 'おめでとう' (o-me-tto). It literally translates to ‘Congratulations,’ and it’s a widely used expression in Japanese culture."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a smiling group of coworkers raising glasses at a company event. The photo should feature people in business casual attire, including ties or blouses. Use natural lighting and focus on the celebratory aspect of the moment.",
+    "thumbnailUrl": "/images/level1-congratulations-and-toast-1784548142314.jpg",
+    "thumbnailAlt": "A photo of a smiling group of coworkers raising glasses at a company event. The photo should feature people in business casual attire, including ties or blouses. Use natural lighting and focus on the celebratory aspect of the moment.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1784528537304",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
