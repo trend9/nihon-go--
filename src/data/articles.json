@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1784613151805-1784613245407",
+    "title": "Kyoto Souvenirs & Shopping: A Morning Exploration for Beginners",
+    "subtitle": "Your guide to finding the perfect souvenirs in Japan's ancient capital.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Welcome to the vibrant city of Kyoto! As a beginner traveler, navigating the world of souvenirs can feel overwhelming. This article offers a simple guide to shopping for unique gifts while learning some essential Japanese phrases.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Kyoto is famed for its stunning temples, serene gardens, and vibrant culture. Whether you're searching for a delicate cherry blossom-themed bookmark or a traditional tea ceremony set, Kyoto offers a treasure trove of souvenirs to remember your trip. This article will equip you with the basics to navigate the shopping scene in this ancient capital. Let's begin!",
+    "grammarExplanation": "This lesson will focus on essential Japanese sentence structure, including basic subjects and verbs.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: これは",
+        "japanese": "これは",
+        "kana": "kore wa",
+        "romaji": "Kore wa",
+        "english": "This is",
+        "explanation": "This is a basic particle that can be used to express ownership or to introduce something. It's often used with nouns.",
+        "exampleJp": "これはりんごです。(Kore wa rinri desu.)",
+        "exampleEn": "This is an apple.",
+        "tip": "It's also commonly used as a question word, like 'Is this...?'"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お願いします",
+        "japanese": "お願いします",
+        "kana": "onegai shimasu",
+        "romaji": "Onegai shimasu",
+        "english": "Please",
+        "explanation": "Used to politely request something, this is a crucial phrase in any situation where you're asking for help or information.",
+        "exampleJp": "お店の人に教えてください。(O-shigoto ni ni o shita kudasai.)",
+        "exampleEn": "Could you tell me the store policies?",
+        "tip": "Using this will elevate your conversations to a more professional level."
+      }
+    ],
+    "culturalInsight": "Kyoto's Shopping Culture - More than just souvenirs.  One of the most beautiful aspects of Kyoto is its tradition of artisan workshops and traditional crafts. Remember that buying local products not only brings you unique souvenirs but also supports the local economy and fosters cultural appreciation.",
+    "quiz": {
+      "question": "What is a common greeting used in a shopping setting in Japan?",
+      "options": [
+        "こんにちは",
+        "お元気ですか？",
+        "いただきます",
+        "ありがとう"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "In Japanese culture, greetings are significant. It shows respect and politeness. 'こんにちは' means hello in a casual setting, and it can be used while shopping."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An old wooden stall filled with colorful handcrafted souvenirs like bamboo crafts, fans, and traditional Japanese sweets, with visitors browsing through the items. The background should have a traditional Japanese garden aesthetic for a classic Kyoto feel.",
+    "thumbnailUrl": "/images/level1-unique-slug-1784613151805-1784613245407.jpg",
+    "thumbnailAlt": "An old wooden stall filled with colorful handcrafted souvenirs like bamboo crafts, fans, and traditional Japanese sweets, with visitors browsing through the items. The background should have a traditional Japanese garden aesthetic for a classic Kyoto feel.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1784601575212",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
