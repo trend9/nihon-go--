@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1784632166675-1784632299774",
+    "title": "Beyond the Geisha: Mastering Ryokan Rituals and Dining Etiquette",
+    "subtitle": "A Guide to Traditional Japanese Hospitality in a Charming Ryokan Inn",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This guide delves into the etiquette and nuances of Ryokan dining, providing valuable insights to elevate your experience in traditional Japanese hospitality. From checking in to mastering the art of table manners and food etiquette, this article offers a comprehensive understanding of ryokans' unique culture and traditions.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional Ryokan inn feels like entering another world. The hushed tranquility, the meticulously crafted tatami mats, and the aroma of traditional Japanese cooking all contribute to an unforgettable experience. However, navigating the nuances of Ryokan life can feel daunting for even seasoned travelers. This article will guide you through the essential steps of checking into a Ryokan, understanding their unique dining etiquette, and exploring the art of  Japanese hospitality. From bowing to ordering sake, we'll help you master the unspoken rules that make Ryokans so special.",
+    "grammarExplanation": "The article employs a mix of simple and compound sentences in English. Basic tenses are used for present-and past-tense narration. For example, 'We will explore the art of Japanese hospitality' is presented with basic tenses like 'will'. It's important to use clear and concise language, avoiding overly long or convoluted sentences. The article also employs a descriptive tone, focusing on providing a detailed and engaging read.",
+    "postIts": [
+      {
+        "id": "p-1784632166675",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This is the standard phrase for 'today' in Japanese. The speaker uses this to express a reference to the present moment.",
+        "exampleJp": "今日はいい天気ですね！",
+        "exampleEn": "It's a beautiful day today, isn't it!",
+        "tip": "The pronoun 'kono' is used when referring to something happening in the present moment. For example, 'Konosato' means 'at present.' It's a way to indicate what's currently being discussed or observed."
+      },
+      {
+        "id": "p-1784632166676",
+        "color": "pink",
+        "title": "Vocabulary: おやすみなさい",
+        "japanese": "おやすみなさい",
+        "kana": "oyasuminasai",
+        "romaji": "Oyashina-sai",
+        "english": "Good night",
+        "explanation": "A simple phrase to express goodnight in Japanese. It conveys a sense of respect and politeness.",
+        "exampleJp": "おやすみなさい、",
+        "exampleEn": "Good night, ",
+        "tip": "This phrase is often used when bidding someone farewell before bedtime."
+      }
+    ],
+    "culturalInsight": "**Japanese Hospitality: A Time for Connection**\n\nRyokans are not just hotels; they offer a unique glimpse into Japanese culture and hospitality. The concept of 'omotenashi' – where guests are treated with genuine care and respect - permeates every aspect of the Ryokan experience. It goes beyond the basic amenities provided, encompassing the atmosphere, the rituals of dining, and the traditional way of life in Japan. While many aspects of a Ryokan remain unchanged over time, there is a certain evolution happening within this tradition as well. Technology and modernization have certainly changed how guests interact with their surroundings, but ultimately, Ryokans strive to provide an experience that connects individuals through deep cultural understanding and respect for traditions.",
+    "quiz": {
+      "question": "What is the traditional Japanese practice of bowing before entering a Ryokan room called?",
+      "options": [
+        "O-miyage",
+        "Shinkansen",
+        "Seiza",
+        "Shokuin"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is 'Seiza'. This traditional Japanese posture signifies respect and humility. It involves sitting on the floor with legs crossed or kneeled and feet tucked in."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic illustration of a traditional Ryokan inn, showcasing its serene atmosphere and elegant interiors. The image should include elements like tatami mats, futon bedding, cherry blossom trees outside the window, and a view of Mt. Fuji in the background.",
+    "thumbnailUrl": "/images/level3-unique-slug-1784632166675-1784632299774.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of a traditional Ryokan inn, showcasing its serene atmosphere and elegant interiors. The image should include elements like tatami mats, futon bedding, cherry blossom trees outside the window, and a view of Mt. Fuji in the background.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1784622702497",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
