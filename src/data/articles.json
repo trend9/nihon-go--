@@ -1,5 +1,61 @@
 [
   {
+    "id": "level4-business-harmony-1784748136501",
+    "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
+    "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Master the tara conditional form in business settings. Learn to suggest schedules and agreements without sounding demanding.",
+    "byline": "By Emma Sterling, Business Editor",
+    "introduction": "Conducting business in Tokyo requires a keen understanding of indirect communication and consensus-building. During evening dinner meetings or corporate catch-ups, decisions are rarely made bluntly. Instead, professionals use conditional expressions to gently suggest actions. The most versatile tool for this is the '~tara' (たら) conditional clause, which translates roughly to 'if' or 'once' an event occurs.",
+    "grammarExplanation": "The '~tara' form is constructed by taking the past tense of a verb (ta-form) and adding 'ra'. For example, 'owaru' (to end/finish) has the past tense 'owatta'. Add 'ra' to get 'owattara' (if/once it finishes). In business, this is commonly used to coordinate schedules, such as: 'Kaigi ga owattara, renraku shimasu' (Once the meeting finishes, I will contact you). It sets a polite, sequential flow of events.",
+    "postIts": [
+      {
+        "id": "p-biz-1",
+        "color": "green",
+        "title": "Vocabulary: 会議",
+        "japanese": "会議",
+        "kana": "かいぎ",
+        "romaji": "kaigi",
+        "english": "meeting / conference",
+        "explanation": "A formal business meeting. Crucial vocabulary for office workers in Japan.",
+        "exampleJp": "明日の会議は何時ですか。",
+        "exampleEn": "What time is tomorrow's meeting?"
+      },
+      {
+        "id": "p-biz-2",
+        "color": "pink",
+        "title": "Vocabulary: 連絡",
+        "japanese": "連絡する",
+        "kana": "れんらくする",
+        "romaji": "renrakusuru",
+        "english": "to contact / notify",
+        "explanation": "Used for sending updates, emails, or phone calls. Part of the critical business philosophy 'Hou-Ren-So' (Report, Contact, Consult).",
+        "exampleJp": "後ほどメールで連絡します。",
+        "exampleEn": "I will contact you later by email."
+      }
+    ],
+    "culturalInsight": "The Japanese business communication framework 'Hou-Ren-So' (報連相) stands for Houkoku (Report), Renraku (Contact), and Soudan (Consult). It emphasizes constant updates and collaboration. Using conditional '~tara' sentences is an essential linguistic skill when performing 'Renraku' and 'Soudan' with partners.",
+    "quiz": {
+      "question": "What does the sentence 'Kaigi ga owattara, oshiete kudasai' mean?",
+      "options": [
+        "Please tell me before the meeting starts.",
+        "Please let me know once the meeting finishes.",
+        "I will teach you during the meeting.",
+        "Please cancel the meeting."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Owattara' means 'once/if it finishes', and 'oshiete kudasai' means 'please let me know'. Therefore, the sentence translates to 'Please let me know once the meeting finishes.'"
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org\",\"@type\":\"ScholarlyArticle\",\"headline\":\"Business Harmony: Navigating Conditional Agreements in Tokyo\",\"author\":{\"@type\":\"Person\",\"name\":\"Emma Sterling\"},\"description\":\"A guide to using the tara conditional form in Japanese business context.\",\"articleSection\":\"Business Grammar\"}",
+    "imagePrompt": "A sleek Tokyo office meeting room overlooking a nighttime city skyline, neon lights reflecting on the windows, corporate boardroom style",
+    "thumbnailUrl": "/images/level4-business-harmony-1784748136501.jpg",
+    "thumbnailAlt": "A sleek Tokyo office meeting room overlooking a nighttime city skyline, neon lights reflecting on the windows, corporate boardroom style",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1784737515705",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
