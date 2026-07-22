@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1784699510582-1784699642236",
+    "title": "Celebrating Success: The Art of Toast Expressions in Japanese Business Culture",
+    "subtitle": "Unlock the secrets to conveying congratulations and building professional relationships.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Master the art of offering congratulations and toasting in Japanese business culture. This guide explores the intricacies of these gestures, providing insights on appropriate expressions for various occasions.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In Japan's dynamic business environment, a shared toast is more than just a gesture; it's a symbol of respect and appreciation. Mastering the art of congratulating colleagues through words and toasts can foster stronger professional relationships and solidify your place in the company. This article delves into the fascinating world of Japanese corporate culture, guiding you on how to navigate these nuances with finesse and grace.",
+    "grammarExplanation": "This level explores advanced grammatical concepts such as conditional logic, which influences sentence structure and word choice. Expect to see examples of complex subject-verb agreement and nuanced use of tenses for a more fluent understanding. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: Today's Success",
+        "japanese": "今日の成功 (Kyō no Kikkou)",
+        "kana": "Kyō no Kikkō",
+        "romaji": "Kyō no Kikkou",
+        "english": "Today's Success",
+        "explanation": "A simple phrase used to express congratulations on a recent achievement.",
+        "exampleJp": "おめでとうございます！ (Okimono! )",
+        "exampleEn": "Congratulations! ",
+        "tip": "The word 'kikkou' literally translates as ‘achievement’ or ‘success’, conveying both the joy and respect inherent in congratulating someone on their success."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary:  Toasting Etiquette",
+        "japanese": "乾杯 (Kainbei)",
+        "kana": "Kainbei",
+        "romaji": "Kaneibi",
+        "english": "Toasting",
+        "explanation": "Learn the etiquette and rituals surrounding toasts in Japanese business settings.",
+        "exampleJp": "乾杯します。 (Kaibai shimasu.)",
+        "exampleEn": "I'll raise a toast. ",
+        "tip": "Remember that toasting is always done with an open hand, ensuring a positive, formal gesture."
+      }
+    ],
+    "culturalInsight": "Beyond the practicalities of congratulations and toasts, understanding Japanese business culture provides valuable insights into how these rituals function. Consider that in many companies, sharing a meal after work events is more than just a social activity - it's an important component of team building and fostering relationships. It emphasizes the importance of establishing trust and rapport. This shared experience creates a sense of unity and camaraderie within the workplace.  As you navigate these cultural nuances, remember that a simple 'konnichiwa,' (hello) is often accompanied by a warm smile, acknowledging the other person's presence in a way that reinforces respect and understanding.",
+    "quiz": {
+      "question": "When offering congratulations in Japanese business culture, what gesture is considered appropriate for toasting?",
+      "options": [
+        "A simple nod of the head.",
+        "The traditional 'bow-and-shake' handshake.",
+        "Raising one's glass and clinking it with another person.",
+        "Offering a warm hug before speaking."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "A toast is an essential part of Japanese business culture. It symbolizes respect for colleagues and creates shared moments that foster stronger relationships. Raising one's glass and clinking it with another person, signifying good wishes and connection,  is a standard gesture in this setting."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A businessman dressed in traditional Japanese business attire raises his glass to toast with colleagues at a company dinner party. A beautiful background of neon lights in Tokyo can be seen, showcasing a modern and dynamic city environment.",
+    "thumbnailUrl": "/images/level4-unique-slug-1784699510582-1784699642236.jpg",
+    "thumbnailAlt": "A businessman dressed in traditional Japanese business attire raises his glass to toast with colleagues at a company dinner party. A beautiful background of neon lights in Tokyo can be seen, showcasing a modern and dynamic city environment.",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1784687784223-1784687927614",
     "title": "Finding Beauty in Imperfection: Exploring Japanese Concepts of Wabi-Sabi and Mono No Aware",
     "subtitle": "An article exploring the philosophy behind finding joy in the imperfect.",
