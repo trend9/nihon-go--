@@ -1,5 +1,64 @@
 [
   {
+    "id": "level1-unique-slug-1784930891462-1784931038574",
+    "title": "Welcome to Your Japanese Home: A Morning Guide for Beginners",
+    "subtitle": "Discovering everyday life in Japan with simple words.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This beginner's guide introduces basic Japanese vocabulary and everyday routines to help you understand how people live in Japan. Start your journey towards fluency and discover the charm of daily life in the Land of the Rising Sun.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Did you know that a typical morning routine can tell us so much about a person’s life? From preparing breakfast to commuting to work, the little things reveal so much about daily living in Japan. This article will help you begin understanding how Japanese people interact with their environment and each other.  You'll learn basic vocabulary for everyday objects and activities, helping you navigate this unique culture.\n\nAs they say in Japan: \"朝は新しいスタート\" (Ashita wa atarashii sōta) - ‘Morning is a new start.’  This journey into the Japanese home starts now. Welcome!",
+    "grammarExplanation": "Today’s guide focuses on simple grammar concepts. Pay attention to how we use particles and verb conjugation in these examples.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Breakfast",
+        "japanese": "朝食 (Chōshoku)",
+        "kana": "Choosho-ku",
+        "romaji": "Cho-sho-ku",
+        "english": "Breakfast",
+        "explanation": "This is a fundamental part of the Japanese morning routine.",
+        "exampleJp": "私は朝ごはんを食べます。(Watashi wa asagohan o tabemasu.) - 'I eat breakfast in the morning.',",
+        "exampleEn": "I eat breakfast in the morning.",
+        "tip": "This word is often shortened to just 'gohan' for simplicity. It's a simple but essential part of daily life in Japan."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Commute",
+        "japanese": " commute (こむい)",
+        "kana": "komuu",
+        "romaji": "Komui",
+        "english": "Commute",
+        "explanation": "Think of the journey from home to work or school. What do you call this activity? You’ll need to get familiar with common Japanese words for different modes of transportation.",
+        "exampleJp": "私は電車で commute (dekko-de komue) - 'I commute by train.'",
+        "exampleEn": "I commute by train.",
+        "tip": "Learn the names of some popular forms of transportation like ‘subway’ or ‘train’ to help you plan your journey."
+      }
+    ],
+    "culturalInsight": " **The Art of 'Wabi-Sabi'**\n\nA profound aspect of Japanese life is its appreciation for simplicity. This concept, called \"wabi-sabi\", embraces imperfection and the beauty found in everyday objects.\n\nIn your exploration of this new language, remember to appreciate the quiet beauty that can be found even in seemingly ordinary things. The charm lies not in perfection but in the embrace of impermanence and acceptance of nature’s imperfections. \n\nThink about how Japanese culture often finds beauty in simplicity – in a well-aged cup, a worn piece of cloth, or even just the changing seasons.",
+    "quiz": {
+      "type": "multiplechoice",
+      "question": "What is the Japanese word for 'breakfast'?",
+      "answers": [
+        "朝ごはん (Chōshoku)",
+        "夕食 (Yūshi-su)",
+        "コーヒー (Korī-ho)",
+        "昼食 (Shūhoku)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is \"朝ごはん (Chōshoku)\". This translates directly to ‘morning meal.’\n"
+    },
+    "imagePrompt": "An illustration of a Japanese kitchen with a bowl of rice and a teacup. Use a retro, minimalist aesthetic.",
+    "schemaMarkup": "{\"type\":\"Article\", \"title\":\"A Beautiful Guide to Everyday Life in Japan - Level 1: Morning Routine\", \"description\":\"A beginner's guide to Japanese language learning covering basic vocabulary for everyday routines like breakfast and the commute.\",\"imagePrompt\":\"An illustration of a Japanese kitchen with a bowl of rice and a teacup. Use a retro, minimalist aesthetic.\"}",
+    "thumbnailUrl": "/images/level1-unique-slug-1784930891462-1784931038574.jpg",
+    "thumbnailAlt": "An illustration of a Japanese kitchen with a bowl of rice and a teacup. Use a retro, minimalist aesthetic.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1784921423405",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
