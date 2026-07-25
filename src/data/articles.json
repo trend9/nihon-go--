@@ -1,5 +1,62 @@
 [
   {
+    "id": "level1-unique-slug-1784985981088-1784986109006",
+    "title": "Mastering Business Etiquette: Polite Requests in Corporate Meetings",
+    "subtitle": "Your guide to navigating the world of Japanese corporate culture.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Discover how to make polite business requests in Japanese corporate meetings with ease. This guide provides essential vocabulary and etiquette tips for beginner English speakers.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Japanese business culture is known for its formal and respectful approach. It's a world of 'konnichiwa' (good morning) and 'arigatou gozaimasu' (thank you). But navigating this cultural landscape can feel overwhelming for beginners. Luckily, with a little guidance, even the most novice Japanese business speaker can thrive in these meetings. This article will guide you through the essentials of making polite requests, from basic greetings to more complex scenarios.",
+    "grammarExplanation": "Japanese grammar is notoriously complex. The difference between particles (助詞), which are like tiny modifiers for words and phrases, can completely change the meaning of a sentence. To learn how to master the subtleties of Japanese communication, dive deeper into learning about these vital parts of the language!",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: Today's Meeting",
+        "japanese": "会議 (kaigi)",
+        "kana": "Kaigiii",
+        "romaji": "Kaa-gii",
+        "english": "Meeting",
+        "explanation": "A meeting is a gathering of people for a common purpose. This is important in Japanese business to understand the reason behind every interaction.",
+        "exampleJp": "会議に参ります (Kaigi ni samimasu)",
+        "exampleEn": "I am attending a meeting.",
+        "tip": "Meeting is used when referring to a group discussion with other people."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary:  Request",
+        "japanese": "要望 (yōei)",
+        "kana": "Yoei",
+        "romaji": "Yōi",
+        "english": "Request",
+        "explanation": "Requesting something, be it a favor or information, is a common practice in Japanese business meetings. This often involves formality and clear communication.",
+        "exampleJp": "先生、資料が欲しいです (Sensei, shiru-sho ga hitai desu)",
+        "exampleEn": "I would like some information, Mr/Ms. [Name]",
+        "tip": "Use polite language when making a request."
+      }
+    ],
+    "culturalInsight": "The Japanese business etiquette is deeply ingrained in their culture. Punctuality and respect for elders are highly valued. However, avoid being overly casual or using slang, even with colleagues. For example, you would never say 'bro' to a client. Business meetings are formal events, so remember to dress appropriately and be respectful of your colleagues.",
+    "quiz": {
+      "question": "What is the polite Japanese word for meeting?",
+      "options": [
+        "会議 (kaigi)",
+        "打ち合わせ (tachibaw)",
+        "会合 (gaikou)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '会議 (kaigi)' which means 'meeting'. This option is a common word in Japanese business contexts.  It can also mean ‘conferences' or ‘meetings’."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A high-resolution photograph of a business meeting, with participants seated at an official table, reflecting the traditional Japanese office setting, including modern touches like a sleek laptop on the desk. The image should depict respect and professionalism.",
+    "thumbnailUrl": "/images/level1-unique-slug-1784985981088-1784986109006.jpg",
+    "thumbnailAlt": "A high-resolution photograph of a business meeting, with participants seated at an official table, reflecting the traditional Japanese office setting, including modern touches like a sleek laptop on the desk. The image should depict respect and professionalism.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1784975432527",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
