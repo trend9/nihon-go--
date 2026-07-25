@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1784995606439-1784995735572",
+    "title": "Checking In to the Traditional Ryokan: Navigating Inn Etiquette for Your Japanese Getaway",
+    "subtitle": "A Guide for English Speakers Seeking Authentic Experiences in Japan.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Embark on a journey to discover the charm of traditional Japanese inns, or ryokans, with our comprehensive guide for English speakers. From checking in and dining etiquette to navigating cultural nuances, this article provides the essential knowledge for seamless immersion in authentic Japanese experiences.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a ryokan is like entering another world. With tatami mats underfoot, paper lanterns casting warm shadows, and the soothing sound of the wind rustling through bamboo screens – it feels as if you've stepped back in time to the elegance of traditional Japan. But navigating this world requires a bit of knowledge on etiquette and customs.  Even seasoned travelers can get tripped up with seemingly simple requests or unspoken rules. This guide will help you understand basic ryokan procedures, navigate dining situations, and ensure your stay is both comfortable and culturally enriching.  Let's delve into the world of the Japanese ryokan.",
+    "grammarExplanation": "The grammar in this article focuses on simple present tense and past tense for describing events and actions; using particles such as 'ga,' 'no,' 'ni', and verbs like 'to' for indicating action. The sentence structure generally follows a subject-verb-object format, typical of English prose.",
+    "postIts": [
+      {
+        "id": "p-basic-words",
+        "color": "green",
+        "title": "Vocabulary: Check-In",
+        "japanese": "チェックイン (Checkin)",
+        "kana": "chekkin",
+        "romaji": "check in",
+        "english": "Check-In",
+        "explanation": "This term refers to the initial process of entering a ryokan.  It's like signing into a hotel, but with more formality.",
+        "exampleJp": "この旅館にチェックインします (kono ryokans ni chekin shimasu)",
+        "exampleEn": "I will check in at this ryokan.",
+        "tip": "You can use the word 'check-in' as it is already understood by Japanese speakers."
+      },
+      {
+        "id": "p-dinner",
+        "color": "pink",
+        "title": "Vocabulary: Dinner Etiquette",
+        "japanese": "食事 (Shokuji)",
+        "kana": "shokuji",
+        "romaji": "sokuji",
+        "english": "Dinner",
+        "explanation": "Dining at a ryokan is about enjoying the experience. Learn how to behave and what not to do during meals, and enjoy authentic Japanese cuisine.",
+        "exampleJp": "夕食は旅館でいただきます (yuushoku wa ryokans de itadakimasu)",
+        "exampleEn": "I will have dinner at the ryokan tonight.",
+        "tip": "Don't talk during meals unless you need to ask a question about the food. Be polite and respectful."
+      }
+    ],
+    "culturalInsight": "Ryokans are more than just lodging; they represent an immersive cultural experience.  From traditional tea ceremonies to the elegant ambiance of the communal spaces, every detail is designed to enhance your connection with Japanese culture. It's about finding beauty and meaning in simplicity – a philosophy that resonates throughout Japan.",
+    "quiz": {
+      "question": "What is the polite way to say 'Thank you' when you are served food at a ryokan?",
+      "options": [
+        "Arigatou gozaimasu",
+        "Konnichiwa",
+        "Sumimasen",
+        "Ohayou gozaimasu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Arigatou gozaimasu is the most polite way to say thank you in Japanese. It literally translates as 'thank you very much' or 'thank you much.'"
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An image of a traditional Japanese ryokan with guests enjoying a meal at their tatami mats, featuring paper lanterns and sliding doors.",
+    "thumbnailUrl": "/images/level2-unique-slug-1784995606439-1784995735572.jpg",
+    "thumbnailAlt": "An image of a traditional Japanese ryokan with guests enjoying a meal at their tatami mats, featuring paper lanterns and sliding doors.",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1784985981088-1784986109006",
     "title": "Mastering Business Etiquette: Polite Requests in Corporate Meetings",
     "subtitle": "Your guide to navigating the world of Japanese corporate culture.",
