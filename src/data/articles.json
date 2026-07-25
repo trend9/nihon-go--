@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1785006484064-1785006593111",
+    "title": "Finding Wabi-sabi: The Art of Imperfect Beauty",
+    "subtitle": "A deep dive into Japanese aesthetics for a richer life.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn to embrace the beauty of imperfection and find a deeper connection with yourself and the world around you through the philosophies of wabi-sabi, mono no aware and yugen.",
+    "byline": "By Sarah Evans, Culture Desk",
+    "introduction": "Imagine this: a handcrafted teacup, chipped at one corner. A single falling leaf gracefully landing on a weathered wooden table. The lines of a simple kimono fade into the warmth of a setting sun. These moments, often overlooked in our pursuit of flawless aesthetics, reveal an intrinsic beauty found in imperfection – a concept known as wabi-sabi.  It's the art of finding joy in the imperfect, accepting the transient nature of things, and appreciating the subtle wisdom contained within everyday life. This journey through Japanese philosophy will help you unlock this world of authentic appreciation and find greater meaning in your daily experiences.",
+    "grammarExplanation": "Japanese sentence structure typically follows a Subject-Object-Verb (SOV) pattern, with the verb often appearing at the end of the sentence. This creates a flowing rhythm to the written word, similar to English poetic expression. Japanese also uses particles like 'ga' and 'no' to connect nouns and modify verbs. Understanding these grammatical elements can help you navigate the complexities of reading and writing in Japanese.",
+    "postIts": [
+      {
+        "id": "p-01",
+        "color": "pink",
+        "title": "Vocabulary: Today's Theme",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "",
+        "english": "Today",
+        "explanation": "This post-it is used to introduce today's theme. It should be placed somewhere on the page.",
+        "exampleJp": "今日は美しい日です。",
+        "exampleEn": "It's a beautiful day today.",
+        "tip": ""
+      },
+      {
+        "id": "p-02",
+        "color": "blue",
+        "title": "Vocabulary: The Essence of Imperfection",
+        "japanese": "不完全性",
+        "kana": "fukkanseki",
+        "romaji": "",
+        "english": "Imperfection",
+        "explanation": "A post-it used to define the theme. It is a Japanese term that means 'imperfection'. It helps readers understand what this article is about.",
+        "exampleJp": "人生には不完全性がある。",
+        "exampleEn": "Life has imperfection. ",
+        "tip": ""
+      }
+    ],
+    "culturalInsight": "The philosophy of wabi-sabi transcends aesthetics and resonates with the deeper meaning of life itself. It encourages us to let go of the desire for perfection, embrace vulnerability, and find solace in the everyday beauty that arises from imperfection. The traditional Japanese tea ceremony embodies this spirit, where a chipped teacup or slightly uneven tea bowl is seen as an embodiment of natural beauty rather than something needing correction.",
+    "quiz": {
+      "question": "What philosophical concept encourages us to embrace imperfection?",
+      "options": [
+        "Nihilism",
+        "Existentialism",
+        "Wabi-sabi",
+        "Buddhist Enlightenment"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The correct answer is Wabi-sabi. This philosophical concept emphasizes finding beauty in imperfection and accepting the transient nature of life."
+    },
+    "schemaMarkup": "```json\n<article>\n<title>A beautiful catchy newspaper title</title>\n<description> ... </description>\n</article>\n```",
+    "imagePrompt": "An image that captures the essence of wabi-sabi, such as a worn wooden tea table with scattered teacups or a weathered Japanese garden.",
+    "thumbnailUrl": "/images/level3-unique-slug-1785006484064-1785006593111.jpg",
+    "thumbnailAlt": "An image that captures the essence of wabi-sabi, such as a worn wooden tea table with scattered teacups or a weathered Japanese garden.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1784995606439-1784995735572",
     "title": "Checking In to the Traditional Ryokan: Navigating Inn Etiquette for Your Japanese Getaway",
     "subtitle": "A Guide for English Speakers Seeking Authentic Experiences in Japan.",
