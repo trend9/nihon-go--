@@ -1,5 +1,66 @@
 [
   {
+    "id": "level3-unique-slug-1785072132354-1785072255883",
+    "title": "Authentic Ryokan Experiences: Mastering the Art of Check-In and Dining Etiquette",
+    "subtitle": "A guide to navigating Japanese hospitality for English speakers",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Unlock the secret to a truly immersive Japanese Ryokan stay with this practical guide for English speakers. Discover the nuances of check-in procedures, traditional dining etiquette, and how to embrace the warmth and hospitality of Japan's famed ryokans.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Stepping into a traditional Japanese Ryokan inn is an experience unlike any other. It's more than just a place to sleep; it's a world where comfort blends seamlessly with tradition. As you prepare for your stay, navigating the intricacies of the check-in process and understanding the unique etiquette surrounding dining can seem daunting for first-time travelers. However, this guide provides an essential roadmap to help you effortlessly embrace this cherished Japanese culture.",
+    "grammarExplanation": "This article uses a combination of simple past tense (e.g., 'I visited...') and present tense (e.g., 'You will see...'), reflecting the natural flow of daily conversation in the context of ryokan experience. The emphasis is on clarity, using concise sentences to avoid unnecessary wordiness while maintaining a clear narrative.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: 宿泊",
+        "japanese": "宿泊 (shuku-roku)",
+        "kana": "しゅくろく",
+        "romaji": "shukuroku",
+        "english": "Accommodation/Stay",
+        "explanation": "This is the Japanese term for 'to stay' at a hotel or inn. It can also be translated as 'check in.' ",
+        "exampleJp": "ホテルに宿泊します (Hoteru ni shuku-roku shimasu) -  I am staying at a hotel.",
+        "exampleEn": "I am staying at a hotel.",
+        "tip": "This is commonly used for checking into a ryokan, hotel, or other lodging. "
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: 食事 (Shokuji)",
+        "japanese": "食事 (shokuji)",
+        "kana": "shokuji",
+        "romaji": "shujiku",
+        "english": "Meals/Dinner",
+        "explanation": "This term encompasses the act of eating and is a core part of experiencing Ryokan culture. Mastering this vocabulary will ensure you navigate dinner etiquette correctly.",
+        "exampleJp": "夕食を摂ります (Yū-shoku wo seki-masu) - I'm going to have dinner.",
+        "exampleEn": "I'll eat dinner.",
+        "tip": "Dinner is usually served at a specific time. Always show respect and participate in this sacred act of sustenance."
+      }
+    ],
+    "culturalInsight": "Ryokans are not just lodging, they are an embodiment of Japanese hospitality. The concept of 'omotenashi' (being attentive to guests) permeates every aspect of the experience, from the traditional tea ceremony welcoming you upon arrival to the meticulous arrangements of your futon and meticulously prepared meals. Mastering the nuances of Ryokan etiquette is not about following a rigid set of rules; it's about embracing this warmth and attentiveness as an integral part of cultural immersion. Take a moment to appreciate the simplicity of using 'Genki' (thank you) before meal service, a gesture that speaks volumes about your respect for the Ryokan staff and their dedication to offering an unforgettable stay.",
+    "quiz": {
+      "question": "What is a Ryokan?",
+      "answerIndex": [
+        0,
+        1,
+        2
+      ],
+      "options": [
+        "A traditional Japanese inn",
+        "A modern hotel in Tokyo",
+        "An Airbnb apartment"
+      ],
+      "explanation": "Ryokans are traditionally Japanese inns offering a unique and immersive experience. They often boast private onsen baths and offer a glimpse into authentic Japanese hospitality."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic illustration of a traditional Japanese Ryokan inn with tatami mats, guests in yukata attire, and an open-air garden area.\n**Note:** This image should include elements that evoke the tranquility and warmth associated with Ryokans. Ensure accuracy with details such as the use of paper screens and traditional furniture. Use a color palette inspired by nature's essence: warm wood tones and muted greens and blues.",
+    "thumbnailUrl": "/images/level3-unique-slug-1785072132354-1785072255883.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of a traditional Japanese Ryokan inn with tatami mats, guests in yukata attire, and an open-air garden area.\n**Note:** This image should include elements that evoke the tranquility and warmth associated with Ryokans. Ensure accuracy with details such as the use of paper screens and traditional furniture. Use a color palette inspired by nature's essence: warm wood tones and muted greens and blues.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1785062958741",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
