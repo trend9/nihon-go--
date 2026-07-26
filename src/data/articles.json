@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1785081764089-1785081873060",
+    "title": "Cheers to Success: Honoring Colleagues with Toast Phrases",
+    "subtitle": "Mastering Japanese expressions for professional gatherings.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Embracing the art of congratulatory toasts is a cornerstone of Japanese business culture. This article provides practical tips on how to master the nuances of professional greetings, from heartfelt expressions of congratulations to engaging in spirited toast rituals.",
+    "byline": "By Emily Lee, Culture Desk",
+    "introduction": "The scent of sake and the buzz of lively conversation are hallmarks of a successful business gathering in Japan. Whether celebrating a promotion or simply acknowledging a hard-earned milestone, colleagues often engage in toasts to cement strong bonds and foster mutual respect. But navigating the intricacies of Japanese etiquette can be daunting for those unfamiliar with the subtle art of Japanese social dynamics.",
+    "grammarExplanation": "In Japanese, the verb tense plays a significant role in expressing different aspects of time and action, including future events or completed actions. Understanding how this grammar element influences your speech will help you convey your thoughts more clearly when interacting with native speakers.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日はおめでとうございます！",
+        "kana": "Kyō wa o-kodesu!",
+        "romaji": "Kyou wa o-kodesu!",
+        "english": "Congratulations on today! (literally)",
+        "explanation": "This phrase is a common and formal way to congratulate someone on a particular day. It's versatile for celebrating any achievement.",
+        "exampleJp": "今日はおめでとうございます！",
+        "exampleEn": "Congratulations on today!",
+        "tip": "Say this with confidence and a genuine smile."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "blue",
+        "title": "Vocabulary: おめでとうございます！",
+        "japanese": "おめでとう",
+        "kana": "Otemo!",
+        "romaji": "Otemo!",
+        "english": "Congratulations",
+        "explanation": "A classic and simple way to express congratulations in Japanese, this phrase is suitable for any occasion.",
+        "exampleJp": "おめでとう",
+        "exampleEn": "Congratulations.",
+        "tip": "Use a respectful tone of voice to convey sincerity."
+      }
+    ],
+    "culturalInsight": "Beyond the formality of traditional business interactions, Japanese culture emphasizes creating strong social connections. In essence, a successful toast is more than just a celebratory gesture; it's an act of fostering deeper understanding and appreciation between individuals.",
+    "quiz": {
+      "question": "What phrase is commonly used to express congratulations in Japanese? ",
+      "options": [
+        "おめでとう",
+        "お祝い",
+        "ありがとうございます",
+        "お疲れさま"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'おめでとう' (Otemo), which means 'Congratulations.' This phrase is versatile for any occasion and expresses heartfelt congratulations."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"@context\": \"https://schema.org/\", \"headline\": \"Cheers to Success: Honoring Colleagues with Toast Phrases\"}",
+    "imagePrompt": "A Japanese businessman raises his glass in a toast, surrounded by colleagues at an evening business event in Tokyo.",
+    "thumbnailUrl": "/images/level4-unique-slug-1785081764089-1785081873060.jpg",
+    "thumbnailAlt": "A Japanese businessman raises his glass in a toast, surrounded by colleagues at an evening business event in Tokyo.",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1785072132354-1785072255883",
     "title": "Authentic Ryokan Experiences: Mastering the Art of Check-In and Dining Etiquette",
     "subtitle": "A guide to navigating Japanese hospitality for English speakers",
