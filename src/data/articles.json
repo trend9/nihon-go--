@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1785133920568-1785134024739",
+    "title": "Ryokan Check-In: Mastering the Art of Japanese Hospitality",
+    "subtitle": "A guide for English speakers to navigate traditional ryokan dining etiquette and cultural nuances.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Immerse yourself in the traditional charm of Japanese hospitality by learning how to navigate ryokan check-in and dining etiquette. This article provides a practical guide for English speakers, demystifying cultural nuances and offering insights into authentic ryokan experiences.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional Japanese ryokan inn is like stepping into another world. With the delicate scent of cedarwood and tatami mats beneath your feet, you're greeted by hushed voices and courteous smiles from attentive staff. From preparing for your stay to navigating the intricate dining rituals, understanding the unspoken rules of ryokans adds an extra layer of depth and refinement to your journey through Japanese culture. This article offers a practical guide for English speakers seeking to understand the art of ryokan life and experience its true essence.\n\nAs you prepare to embark on this journey into the world of traditional hospitality, let's delve into the intricacies of checking in at a ryokan, followed by an exploration of Japanese dining etiquette. It's time to immerse yourself in the magic of Ryokan!",
+    "grammarExplanation": "This article uses simple sentence structures and clear vocabulary appropriate for intermediate learners. It avoids complex grammar like passive voice and conditional sentences until later levels of learning. Focus on building a firm understanding of basic grammatical rules, including verb conjugation, tense, and subject-verb agreement. This will aid in reading comprehension and fluency.",
+    "postIts": [
+      {
+        "id": "p_vocabulary1",
+        "color": "yellow",
+        "title": "Vocabulary: 宿泊",
+        "japanese": "宿泊（しゅくほく）",
+        "kana": "shukōku",
+        "romaji": "shūkou",
+        "english": "Stay/Accommodation",
+        "explanation": "This is the key term used when checking in at a ryokan inn. It refers to taking up residence within the inn for your stay.",
+        "exampleJp": "宿に宿泊します。\n(Shakō ni shūkou shimasu.)",
+        "exampleEn": "I will check into the ryokan.",
+        "tip": "This word is often used in formal and casual contexts, but you should use it with caution for younger people or when there are many guests."
+      },
+      {
+        "id": "p_vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: 食事はどのように？",
+        "japanese": "食事はどうですか？\n(Shokuji wa dō desu ka?)",
+        "kana": "Shokuji wa dō desu ka?",
+        "romaji": "shokuji wa dō desu ka?",
+        "english": "What about the meals?",
+        "explanation": "This word is used to ask about a meal plan. Use it when you want to inquire about dining options or mealtimes.",
+        "exampleJp": "食事は何ですか？\n(Shokuji wa nan desu ka?)",
+        "exampleEn": "What do you have for dinner?",
+        "tip": "Use this phrase with respect and politeness. Don't hesitate to ask questions like 'How does the ryokan arrange meals?' or 'Is there a restaurant within the inn?'"
+      }
+    ],
+    "culturalInsight": "## The Essence of Ryokan Hospitality\nThe heart of a traditional Japanese ryokan lies not in its luxurious accommodations, but in the art of hospitality. This deeply ingrained cultural practice revolves around creating an immersive experience for guests. From the moment you step into the inn's peaceful embrace to the last farewell bow as you depart, every aspect is designed to foster a sense of tranquility and connection.\n\nRyokan etiquette places emphasis on respect, humility, and a genuine desire to serve. The staff's unwavering attentiveness reflects a profound appreciation for their guests' comfort and well-being. This inherent ethos permeates the very fabric of the ryokan experience. It is not merely about lodging; it is about an immersion in Japanese cultural values that transcends mere practicality.\n\nAs you navigate the intricacies of ryokan life, remember to embrace these values within your own interactions. Show respect by using respectful language and attire, acknowledging traditional customs such as bowing, and demonstrating mindful participation in shared spaces. This will help you truly appreciate the depth of this unique Japanese cultural heritage.",
+    "quiz": {
+      "question": "What is a common greeting used at a ryokan to show respect for guests? ",
+      "options": [
+        "こんにちは (Konnichiwa)",
+        "ありがとう (Arigatō)",
+        "さようなら (Sayonara)",
+        "お元気ですか？ (Okēgan desu ka?)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Correct answer:  こんにちは (Konnichiwa). It is the polite Japanese greeting meaning 'good day/hello'. This greeting, often used in formal settings like ryokans, shows respect and politeness to guests."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a traditional tatami-matted room, with the sunset casting long shadows over a Japanese garden or landscape.\n",
+    "thumbnailUrl": "/images/level3-unique-slug-1785133920568-1785134024739.jpg",
+    "thumbnailAlt": "A photo of a traditional tatami-matted room, with the sunset casting long shadows over a Japanese garden or landscape.\n",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1785120894220",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
