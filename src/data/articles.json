@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-shopping-in-kyoto-1785237640811",
+    "title": "Souvenirs and Shopping: Your Guide to Kyoto's Charm",
+    "subtitle": "Navigating the Markets of Japan's Ancient Capital for Beginner Learners",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Get ready to explore the vibrant city of Kyoto! This beginner's guide will help you navigate the bustling markets and discover the joys of souvenir shopping. Learn how to ask for prices in Japanese, spot authentic souvenirs, and get the most out of your trip.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into Kyoto's lively streets is like stepping back in time.  The ancient capital captivates visitors with its rich history, serene temples, and vibrant culture. But one can easily get lost among the narrow alleyways and bustling markets! This guide will help you navigate the world of souvenir shopping in Kyoto, helping you to pick out unique treasures to remember your trip. It even teaches you how to ask for prices in Japanese! From traditional crafts to quirky trinkets, let's discover what awaits you in this fascinating city.",
+    "grammarExplanation": "This article focuses on basic sentence structure and vocabulary related to shopping. We'll introduce key phrases like asking a question in Japanese ('聞きたい', 'kin-iki') or requesting information about a product's price (asking '値段はいくらですか', 'nemuri wa ikura desuka?') while also teaching you how to use simple adjectives such as '素敵', 'suteki', meaning beautiful. ",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "green",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "Kyō wa",
+        "romaji": "Kyou wa",
+        "english": "Today",
+        "explanation": "This is a common phrase used to express time or day. ",
+        "exampleJp": "今日は天気 bagus!",
+        "exampleEn": "It's a nice day today.",
+        "tip": "Remember this when talking about the present."
+      },
+      {
+        "id": "p-2",
+        "color": "yellow",
+        "title": "Vocabulary: お願い",
+        "japanese": "お願い",
+        "kana": "Oneki",
+        "romaji": "Omeneki",
+        "english": "Please",
+        "explanation": " This is used to ask for assistance or information. ",
+        "exampleJp": "おやすみなさい",
+        "exampleEn": "Goodnight.",
+        "tip": "Using 'oneki' before a question in Japanese shows you are polite and respectful."
+      }
+    ],
+    "culturalInsight": "The beauty of Kyoto lies not just in the treasures hidden within its temples, but also in the stories they whisper. For a beginner traveler, the opportunity to shop for souvenirs is more than simply buying trinkets; it's about discovering the traditions and stories that bind these items to their cultural significance. Remember that asking '値段はいくらですか' (nemuri wa ikura desuka?) for prices is polite, but never hesitate to bargain! The art of haggling in Japan adds a layer of authentic interaction. Whether you are seeking a traditional silk fan or a unique handcrafted teacup, remember the heart of your purchase lies not just in the object itself, but in its cultural connection.",
+    "quiz": {
+      "question": "How do you ask for the price of an item in Japanese?",
+      "options": [
+        "これはいくらですか？",
+        "おやすみなさい",
+        "すみません、教えてください",
+        "お願い"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'これはいくらですか？' (Kore wa ikura desu ka?). This phrase directly translates to 'What is the price of this?', and it shows respect. It's a polite way to ask for information."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A beautiful, high-quality image of a bustling market in Kyoto with traditional Japanese vendors selling souvenirs like handcrafted lacquerware and silk kimonos, showcasing the cultural diversity of the city.",
+    "thumbnailUrl": "/images/level1-shopping-in-kyoto-1785237640811.jpg",
+    "thumbnailAlt": "A beautiful, high-quality image of a bustling market in Kyoto with traditional Japanese vendors selling souvenirs like handcrafted lacquerware and silk kimonos, showcasing the cultural diversity of the city.",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1785227695121-1785227848635",
     "title": "The Rituals of Japanese Ryokan: A Nightly Immersion in Tradition",
     "subtitle": "Exploring the nuanced etiquette and cultural nuances of a traditional ryokan stay.",
