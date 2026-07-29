@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1785314514144-1785314638838",
+    "title": "Dining Etiquette: Savor the Flavors of Japan's Seasons",
+    "subtitle": "Unraveling local dining customs and ordering seasonal delicacies.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Embark on a culinary journey through the intricate world of Japanese dining etiquette. This guide will equip you with the knowledge to navigate the nuances of local customs and enhance your appreciation for seasonal dishes.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From the bustling sushi bars in Tokyo to the quiet tea ceremonies of Kyoto, Japan's dining culture is a vibrant tapestry woven with tradition and respect. Understanding these unspoken rules will elevate your experience from merely eating, to truly savoring each moment. Today, we delve into the world of seasonal flavors and unveil the secrets of local etiquette. Let us explore how understanding these customs can unlock a whole new level of appreciation for Japan’s rich culinary traditions.",
+    "grammarExplanation": "This article incorporates a variety of grammatical structures commonly used in English writing. The use of passive voice, relative clauses, and descriptive language demonstrates the intermediate level of sentence structure required by readers at this stage of learning. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This is a simple expression meaning 'today' and often used in the context of ordering seasonal dishes. ",
+        "exampleJp": "今日は桜が綺麗ですね。",
+        "exampleEn": "It's beautiful cherry blossom season today.",
+        "tip": "Sounds like 'kyou'."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary:  おtable",
+        "japanese": "お table",
+        "kana": "oto table",
+        "romaji": "o table",
+        "english": "Table for Two/Group/Person",
+        "explanation": "When ordering a meal or drinks, the Japanese often use 'table' to indicate the number of people at the table.  Use this word with your party size.",
+        "exampleJp": "おtable、お願いします。(O-table, onegaishimasu.)",
+        "exampleEn": "Could I please have a table for two?",
+        "tip": "This is often used in formal and informal settings."
+      }
+    ],
+    "culturalInsight": "Beyond the intricate dance of chopsticks and polite smiles, Japanese dining etiquette reveals a deeper cultural tapestry. The concept of 'O-sekai' (outside world) highlights the societal shift towards more casual food interactions.  While traditional tea ceremonies and formal meals remain cherished practices, contemporary dining experiences often embrace a mix of formality and spontaneity, reflecting a growing appreciation for individual preferences.",
+    "quiz": {
+      "question": "When would you typically use 'おtable'?",
+      "options": [
+        "To order a meal at a casual restaurant",
+        "During a formal business meeting",
+        "Before a wedding ceremony",
+        "At a traditional tea ceremony"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Using 'おtable' is appropriate for ordering a meal in a casual setting at a restaurant."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vibrant image of an array of seasonal fruits displayed on a table with a modern Japanese aesthetic, incorporating elements of traditional and contemporary design. Focus on the textures, colors, and patterns for a visually appealing representation.",
+    "thumbnailUrl": "/images/level3-unique-slug-1785314514144-1785314638838.jpg",
+    "thumbnailAlt": "A vibrant image of an array of seasonal fruits displayed on a table with a modern Japanese aesthetic, incorporating elements of traditional and contemporary design. Focus on the textures, colors, and patterns for a visually appealing representation.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1785304516485-1785304595736",
     "title": "Finding Beauty in Imperfection: The Philosophy of Wabi-Sabi",
     "subtitle": "A glimpse into the Japanese aesthetics of simplicity and acceptance.",
