@@ -1,5 +1,65 @@
 [
   {
+    "id": "level4-unique-slug-1785324472487-1785324585695",
+    "title": "Seeking Serenity: The Beauty of Wabi-Sabi and Mono No Aware",
+    "subtitle": "A look at the Japanese philosophies shaping modern life.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Discover the subtle elegance of Japanese aesthetics through the lens of wabi-sabi and mono no aware. This article explores these key philosophies, providing insightful perspectives on finding beauty in imperfection.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In a world obsessed with flawless perfection, the quiet acceptance of impermanence and imperfection finds solace in the Japanese concept of wabi-sabi. This philosophy embraces the beauty of everyday objects, even those that are worn or slightly flawed. It teaches us to appreciate the imperfect and find joy in simple things. As renowned author Yasuo Tanaka wrote: ‘To embrace these elements is not to abandon perfection, but rather to embrace the true essence of life.’  Similarly, the concept of mono no aware, often translated as 'the pathos of things,' recognizes the transient nature of all existence. This appreciation for impermanence leads us to find depth and meaning in life's inevitable change. It’s a reminder that even sadness can be beautiful, and that loss is an integral part of growth. The Japanese have long sought solace in these concepts, weaving them into their art, literature, and everyday lives. Now, these philosophies are finding new resonance in the modern world, offering us valuable lessons for navigating our own paths and accepting the beauty in imperfection.",
+    "grammarExplanation": "This article will explore various grammatical structures commonly used in Japanese literature and language, such as particles, verb conjugation, honorifics, and sentence structure. It is designed to provide readers with a deeper understanding of Japanese grammar and its impact on communication.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyo",
+        "english": "Today",
+        "explanation": "This is a common way to say 'today', often used in casual conversation. It means 'the present day'.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a beautiful day today.",
+        "tip": "You can say ‘今日’ when talking about the current time or a specific day."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "pink",
+        "title": "Vocabulary: 美",
+        "japanese": "美",
+        "kana": "mi",
+        "romaji": "bi",
+        "english": "Beautiful",
+        "explanation": "This word means ‘beauty’ and is used to describe something attractive, elegant, or pleasing. ",
+        "exampleJp": "この風景は美しいですね。",
+        "exampleEn": "The landscape is beautiful, isn't it?",
+        "tip": "When describing a person, object, or scene that looks nice, you can use '美' to convey beauty."
+      }
+    ],
+    "culturalInsight": "In the bustling world of modern commerce and consumerism, wabi-sabi offers a much-needed antidote. As author and artist Fumitake Koga writes: ‘Wabi-sabi is not about rejecting perfection, but rather embracing its imperfection.’ In an age where we are constantly bombarded with idealized images and messages, finding solace in the imperfect can be a profound journey toward inner peace.",
+    "quiz": {
+      "question": "What Japanese philosophy encourages finding beauty in imperfection?",
+      "answerIndex": [
+        1
+      ],
+      "options": [
+        "a. Wabi-sabi",
+        "b. Mono No Aware",
+        "c. Yūgen",
+        "d. Kintsugi"
+      ],
+      "explanation": "Wabi-sabi embraces the beauty of everyday objects, even those that are worn or slightly flawed."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo with a slight blurring effect on some parts to create a more artistic look.",
+    "thumbnailUrl": "/images/level4-unique-slug-1785324472487-1785324585695.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo with a slight blurring effect on some parts to create a more artistic look.",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1785314514144-1785314638838",
     "title": "Dining Etiquette: Savor the Flavors of Japan's Seasons",
     "subtitle": "Unraveling local dining customs and ordering seasonal delicacies.",
