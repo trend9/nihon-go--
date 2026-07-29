@@ -1,5 +1,57 @@
 [
   {
+    "id": "level1-unique-slug-1785292508896-1785292657089",
+    "title": "Welcome to Everyday Life: Introducing Japanese Homes & Routines",
+    "subtitle": "Your guide to understanding daily life in Japan for English speakers.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learn the basics of Japanese daily life with this beginner's guide to household items and routines. This article will help you understand simple aspects of everyday living in Japan.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to Japan! Whether you're planning a trip or simply want to immerse yourself in Japanese culture, understanding the basics can make all the difference. From your morning routine to your daily life at home, this guide will provide insights into everyday experiences in Japan. Let's explore some common household items and routines –  you'll be surprised how much you learn! ",
+    "grammarExplanation": "This article uses simple present tense for descriptions of general Japanese routines, as well as basic verb conjugation (such as -masu) to show politeness.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Kitchen Essentials",
+        "japanese": "キッチン用品",
+        "kana": "Kitchin-youbi",
+        "romaji": "Kitchen-yōbi",
+        "english": "Kitchen essentials",
+        "explanation": "This is a list of basic items you might find in a kitchen.",
+        "exampleJp": "冷蔵庫、食器棚、調理器具など",
+        "exampleEn": "Refrigerator, dish shelves, cooking utensils etc.",
+        "tip": "You can also learn the correct way to say each item's name."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Morning Routine",
+        "japanese": "朝 routines",
+        "kana": "Asa routine",
+        "romaji": "Asa routine",
+        "english": "Morning routines",
+        "explanation": "This post-it will help you understand the common order of morning activities.",
+        "exampleJp": "起きたら、まず朝食を食べる。",
+        "exampleEn": "When you wake up, first have breakfast.",
+        "tip": "Remember to practice each step for a smooth morning routine."
+      }
+    ],
+    "culturalInsight": " **Beyond the Basics: Finding Your Rhythm** \n\nEvery culture has its own rhythm. In Japan, mornings often start with a quiet reflection and a moment of self-care before engaging in daily routines. Learning how to appreciate this time is key to understanding Japanese lifestyle.\n\n  * **The Importance of Breakfast**:  A hearty breakfast is the cornerstone of many Japanese mornings. This could be as simple as rice and miso soup, or a more elaborate spread depending on your family's preferences.  \n* **Morning Ritual:** The quiet time before starting work often involves some form of personal reflection, whether it be reading, meditation, or simply enjoying a cup of tea. It emphasizes the importance of self-care and preparing for the day ahead.",
+    "quiz": {
+      "question": "Which of these is NOT a typical Japanese morning routine activity?\n\n(A) Drinking green tea\n(B) Waking up early\n(C) Going to work immediately\n(D) Taking a shower.\n",
+      "correctAnswerIndex": 3,
+      "explanation": "Japanese mornings often involve a relaxed start. People often take their time before starting work or other daily activities."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"title\":\"Welcome to Everyday Life: Introducing Japanese Homes & Routines\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo, with rice bowls and chopsticks nearby') ",
+    "thumbnailUrl": "/images/level1-unique-slug-1785292508896-1785292657089.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo, with rice bowls and chopsticks nearby') ",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1785276563549",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
