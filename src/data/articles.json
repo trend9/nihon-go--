@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1785304516485-1785304595736",
+    "title": "Finding Beauty in Imperfection: The Philosophy of Wabi-Sabi",
+    "subtitle": "A glimpse into the Japanese aesthetics of simplicity and acceptance.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Embrace the beauty in everyday life with this exploration of wabi-sabi. This article explores key concepts and how to apply them in your daily routine.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "We live in a world obsessed with perfection. But what if there's beauty to be found in imperfection? Japan offers us a compelling perspective on this idea through the concept of wabi-sabi. Often translated as ‘the beauty of things as they are,’ this philosophy encourages acceptance and appreciation for the natural flaws and imperfections of life, even in objects or spaces we typically strive for neatness and order.",
+    "grammarExplanation": "This article uses simple sentence structure, basic tenses, and clear vocabulary to guide English-speaking readers through these concepts. It avoids complex grammatical structures that might hinder understanding, making it accessible to beginners.",
+    "postIts": [
+      {
+        "id": "p-001",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "This basic greeting introduces the day's present. It can be used in both formal and informal situations. Remember to use it in conjunction with other greetings such as 'おはようございます'.",
+        "exampleJp": "今日はいい天気ですね！",
+        "exampleEn": "The weather is good today, isn't it!",
+        "tip": "Use '今日' after a greeting in everyday conversation."
+      },
+      {
+        "id": "p-002",
+        "color": "pink",
+        "title": "Vocabulary: 侘び寂",
+        "japanese": "侘び寂",
+        "kana": "wabi-sabi",
+        "romaji": "Wabi-sabi",
+        "english": "Wabi-Sabi",
+        "explanation": "This term encapsulates the essence of wabi-sabi - a quiet beauty found in imperfection and impermanence. It's about appreciating the flaws as part of the overall aesthetic.",
+        "exampleJp": "私の部屋には、古びた家具と自然な木が並んでいるのが好きだ",
+        "exampleEn": "I like that my room has a few vintage furniture pieces, with the natural wood design.",
+        "tip": "Wabi-sabi is not about hiding imperfections but rather using them to create a more natural and meaningful experience. It's about finding beauty in the unexpected."
+      }
+    ],
+    "culturalInsight": "Wabi-sabi is deeply ingrained in Japanese culture, influencing everything from architecture and art to everyday life. It encourages us to find meaning in simplicity, to appreciate the fleeting nature of things, and to accept imperfection as part of the beauty of existence.",
+    "quiz": {
+      "question": "Which concept emphasizes the beauty found in natural imperfections and transience?",
+      "options": [
+        "Shintoism",
+        "Zen Buddhism",
+        "Wabi-sabi",
+        "Ikigai"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wabi-sabi is a Japanese philosophy that celebrates the beauty in imperfect and unrefined things.  It encourages us to appreciate the transient nature of life."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An illustration of a traditional wooden tea ceremony set with a focus on rustic details, weathered wood grain, and delicate patterns.",
+    "thumbnailUrl": "/images/level2-unique-slug-1785304516485-1785304595736.jpg",
+    "thumbnailAlt": "An illustration of a traditional wooden tea ceremony set with a focus on rustic details, weathered wood grain, and delicate patterns.",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1785292508896-1785292657089",
     "title": "Welcome to Everyday Life: Introducing Japanese Homes & Routines",
     "subtitle": "Your guide to understanding daily life in Japan for English speakers.",
