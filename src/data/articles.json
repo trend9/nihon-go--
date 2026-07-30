@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1785420064133-1785420168740",
+    "title": "Unexpected Chaos: Calling for Assistance in Japan's Unexpected Moments",
+    "subtitle": "A Guide to Expressing Urgency During Unforeseen Circumstances",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover the nuances of requesting help during unexpected situations in Japan, from urgent needs to everyday surprises. Learn how to communicate your needs effectively while navigating Japanese social conventions.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Unexpected twists can happen anywhere, even in the land of rising sun. Whether it’s a sudden storm or an emergency medical situation, knowing how to ask for help is crucial. Understanding the nuances of language and social customs will empower you to navigate these challenges with grace and composure.",
+    "grammarExplanation": "Japanese grammar emphasizes formality and politeness. The use of honorifics (like -san) when addressing someone helps create a more respectful tone. When asking for assistance, it's essential to be direct but polite. Learn the art of using clear, concise sentences while acknowledging the importance of cultural nuances.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 緊急",
+        "japanese": "緊急 (kigen)",
+        "kana": "ken-gyū",
+        "romaji": "keigen",
+        "english": "Emergency",
+        "explanation": "This word expresses the urgency of a situation that needs immediate attention. Use it when something is unexpected and requires immediate action.",
+        "exampleJp": "この状況は緊急事態です。 (Koko jōshite wa kigen-jitsu desu.)",
+        "exampleEn": "This situation is an emergency. ",
+        "tip": "Emergency situations require immediate action. Use this word when urgency is clear, such as a sudden injury or natural disaster."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 困った (Komatta)",
+        "japanese": "困った (komatta)",
+        "kana": "ko-atta",
+        "romaji": "Kotta",
+        "english": "Stuck",
+        "explanation": "This term expresses frustration and helplessness when you are in a difficult situation. It can be used to indicate needing help or clarification.",
+        "exampleJp": "大変困った！ (Daiten komatta!)",
+        "exampleEn": "I'm really stuck! ",
+        "tip": "Use this word when facing challenges that leave you feeling frustrated, seeking support or assistance. Use it in a polite and respectful tone."
+      }
+    ],
+    "culturalInsight": "Navigating unexpected situations demands respect for Japanese social customs. Asking directly can sometimes be seen as rude, especially in formal settings. Instead, try starting with an indirect approach using phrases like 'もしよろしければ...' or '大変不安です...' (Moshi yorishiku... / Taihen un'nidesu...). This shows consideration and allows others to understand your situation.",
+    "quiz": {
+      "question": "When asking for help during an unexpected event, which of the following phrases is considered polite in Japanese?",
+      "options": [
+        "緊急で助けが必要だ (Kigen de tsukare ga yosai)",
+        "困った (Komatta)",
+        "お助けください (Osake kudasai)",
+        "もしよろしければ (Moshi yorishiku)"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Option 'Moshi yorishiku' is considered polite in Japanese. It shows respect for the other person and their time while seeking assistance. The phrase 'Komatta' emphasizes helplessness. When asking for help, remember to be respectful of local customs."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A bustling street scene in Tokyo with neon lights reflecting on a busy crowd, featuring people waiting in line at convenience stores or restaurants. The image should evoke the feeling of an unexpected event during rush hour in Japan.",
+    "thumbnailUrl": "/images/level3-unique-slug-1785420064133-1785420168740.jpg",
+    "thumbnailAlt": "A bustling street scene in Tokyo with neon lights reflecting on a busy crowd, featuring people waiting in line at convenience stores or restaurants. The image should evoke the feeling of an unexpected event during rush hour in Japan.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1785409858710-1785409959479",
     "title": "Congratulations and Toast Phrases for Colleagues",
     "subtitle": "Master the art of Japanese congratulations.",
