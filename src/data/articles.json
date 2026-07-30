@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1785409858710-1785409959479",
+    "title": "Congratulations and Toast Phrases for Colleagues",
+    "subtitle": "Master the art of Japanese congratulations.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to congratulate colleagues in a proper Japanese manner and impress them with your toast expressions! This guide offers practical phrases for various occasions. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the bustling world of work, it's important to express appreciation for your colleagues. Mastering the art of congratulations in Japanese can solidify those professional bonds and even lead to some fun social moments over a cup of coffee (or sake). This guide provides you with valuable phrases for expressing your congratulations, as well as some essential toast expressions that will surely impress. Whether it's for their hard work or simply a good day, these phrases will help you navigate the nuances of the Japanese workplace and cement those strong bonds.",
+    "grammarExplanation": "Japanese grammar is quite complex but can be learned with practice. This guide focuses on simple sentences and common greetings. Understanding how to use honorifics and levels of formality is also important for achieving a smooth conversational flow. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "pink",
+        "title": "Vocabulary:  congratulation",
+        "japanese": "おめでとう (Otemo)",
+        "kana": "Otemo",
+        "romaji": "Otēmo",
+        "english": "Congratulations",
+        "explanation": "A simple and formal way to express congratulations. This is a polite greeting.",
+        "exampleJp": "おめでとう！\n (Omote-yo!)",
+        "exampleEn": "Congratulations!",
+        "tip": "Use this for formal situations, especially when you want to acknowledge someone's achievement."
+      },
+      {
+        "id": "p-toast1",
+        "color": "green",
+        "title": "Toast Phrases",
+        "japanese": "乾杯 (Kansai) ",
+        "kana": "Kansai",
+        "romaji": "Kan-sai",
+        "english": "Cheers!",
+        "explanation": "A common toast phrase. It is a formal way to raise your glass and express appreciation for someone.",
+        "exampleJp": "乾杯！\n (Kansai!)",
+        "exampleEn": "Cheers!",
+        "tip": "Say this in a respectful tone."
+      }
+    ],
+    "culturalInsight": "In Japanese culture, the art of congratulations is highly significant. It's not just about words, but also an outward expression of respect and appreciation for one's colleagues. It reflects a deeper understanding of social dynamics and a commitment to professional relationships. A warm handshake or an intentional smile can often accompany these greetings. This subtle acknowledgement helps create a more harmonious and respectful work environment.",
+    "quiz": {
+      "question": "What is a formal way to express congratulations in Japanese?",
+      "options": [
+        "こんにちは (Konnichiwa)",
+        "おめでとう (Otemo)",
+        "ありがとう (Arigatou)",
+        "すみません (Sumimasen)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'おめでとう (Otemo)', which means 'Congratulations' in Japanese. The other options are common greetings or phrases to express apology."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a group of colleagues celebrating a work achievement in Japan, featuring traditional Japanese elements like tea ceremony and sake cups.",
+    "thumbnailUrl": "/images/level2-unique-slug-1785409858710-1785409959479.jpg",
+    "thumbnailAlt": "A photo of a group of colleagues celebrating a work achievement in Japan, featuring traditional Japanese elements like tea ceremony and sake cups.",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1785400036447-1785400162786",
     "title": "Unexpected Situations: SOS!",
     "subtitle": "Learn to ask for help when things don't go as planned.",
