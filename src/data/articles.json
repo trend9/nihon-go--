@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1785428880435-1785429001180",
+    "title": "Toasting Success: Celebrating Colleagues in Japanese Business Culture",
+    "subtitle": "A guide for understanding and navigating corporate congratulations.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Discover the art of professional toast in Japanese business culture. This article dives into etiquette and offers concrete examples for navigating corporate congratulations.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The clink of glasses at a work celebration, often accompanied by warm laughter and good cheer - this scene is common in many companies around the world. But Japanese workplaces offer a unique twist to these gatherings. The act of congratulating colleagues, offering toast, or simply sharing a small moment of connection holds immense cultural significance in Japanese business culture. While Western colleagues might raise a glass for 'work done well', in Japan, this can go far beyond mere professional gratitude.  It is about building stronger bonds, fostering trust and loyalty, and showing respect to one another within the team dynamics.",
+    "grammarExplanation": "Japanese grammar often focuses on formality and context.  The article will discuss how Japanese business culture values indirect communication and respectful language, but also utilizes a range of expressions to achieve the same outcome in an appropriate manner.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: おめでとうございます (O-tendee-go-masu)",
+        "japanese": "おめでとう (Omote-domo-o)",
+        "kana": "O-te-do-mo-o",
+        "romaji": "Otemodomo",
+        "english": "Congratulations",
+        "explanation": "This is a standard expression of congratulations, commonly used after receiving good news or completing a project. This word's usage emphasizes the excitement and joy of accomplishment.",
+        "exampleJp": "おめでとう！プロジェクトが成功したね！ (Otemodomo! Purojekto ga seikou shi ta ne!) - Congratulations! The project was successful!",
+        "exampleEn": "Congratulations on completing your project!",
+        "tip": "Adding a slight bow or gesture of respect with the 'O-tendee-go-masu' can add more depth to congratulations in Japanese business settings."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  おめでたい (On-ame-tai)",
+        "japanese": "おめでたい (O-me-dai)",
+        "kana": "O-me-dai",
+        "romaji": "Ome-dai",
+        "english": "Happy/Jubilant",
+        "explanation": "This is a term used to express happiness or joy on a more positive level, often during celebratory events. The word 'on-ame' in this context signifies a sense of festivity and excitement.",
+        "exampleJp": "おめでとうございます！新しいプロジェクトが始まりましたね！ (Otemodomo! Atarashii Purojekto ga hajimashita ne!) - Congratulations! A new project has started!",
+        "exampleEn": "Congratulations on your new project!",
+        "tip": "In a casual setting, this word can be used as a lighter alternative to 'O-tendee-go-masu' and conveys a sense of celebration in a more playful manner."
+      }
+    ],
+    "culturalInsight": "Japanese culture emphasizes the importance of building strong interpersonal relationships. Business events are often seen as opportunities to strengthen these bonds, beyond just transactional matters. This is reflected in their use of 'O-tendee-go-masu' and 'On-ame-tai' which show genuine appreciation and celebrate both individual achievements and team success.",
+    "quiz": {
+      "question": "What is a common way to express congratulations in Japanese business culture? ",
+      "options": [
+        "Thank you",
+        "I understand",
+        "Congratulations",
+        "Thanks for the help"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Japanese business culture values showing genuine appreciation and celebrating team successes. 'Congratulations' is often used to acknowledge both individual achievements and team accomplishments in a respectful manner."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A group of colleagues celebrating after work, with glasses raised in toast and smiling faces, against a backdrop of traditional Japanese office decorations like cherry blossoms or bamboo. ",
+    "thumbnailUrl": "/images/level4-unique-slug-1785428880435-1785429001180.jpg",
+    "thumbnailAlt": "A group of colleagues celebrating after work, with glasses raised in toast and smiling faces, against a backdrop of traditional Japanese office decorations like cherry blossoms or bamboo. ",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1785420064133-1785420168740",
     "title": "Unexpected Chaos: Calling for Assistance in Japan's Unexpected Moments",
     "subtitle": "A Guide to Expressing Urgency During Unforeseen Circumstances",
