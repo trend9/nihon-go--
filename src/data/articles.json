@@ -1,5 +1,76 @@
 [
   {
+    "id": "level1-unique-slug-1785400036447-1785400162786",
+    "title": "Unexpected Situations: SOS!",
+    "subtitle": "Learn to ask for help when things don't go as planned.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article covers basic Japanese phrases for asking for help in unexpected situations. Learn essential words and phrases that will help you navigate common challenges.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Life can throw us curveballs, whether it's a sudden medical emergency or a tricky travel situation. Being able to ask for help when needed is crucial in any language. Even a little bit of Japanese knowledge can go a long way! Today we'll learn some basic phrases and tips that will empower you to navigate unexpected situations and ask for assistance in Japan.",
+    "grammarExplanation": "We'll start by exploring the basics of sentence structure in Japanese, including subject-verb-object order. We'll then move on to understanding common grammatical particles and their roles. Finally, we'll learn how to form basic questions to seek help, ensuring clarity and efficiency when speaking with people.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Help!",
+        "japanese": "助けを求める (taka-to o yomu)",
+        "kana": "Taketsu o yomu",
+        "romaji": "Taku-to o Yomu",
+        "english": "Requesting assistance",
+        "explanation": "This phrase directly translates to requesting help. You can use it in any situation where you need someone's support.",
+        "exampleJp": "緊急事態で助けを求めます。 (Kinkyou-jitsu de taketsu o yomu).",
+        "exampleEn": "I am seeking assistance due to an emergency. ",
+        "tip": "Use this phrase when calling for help, emphasizing your need for assistance."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Where is?",
+        "japanese": "どこですか？ (Doko desu ka?)",
+        "kana": "Doko desu ka",
+        "romaji": "Doko desu ka",
+        "english": "Where are you?",
+        "explanation": "This phrase is often used when encountering someone or a problem and you need to know their location.",
+        "exampleJp": "どこですか？ (Doko desu ka?)",
+        "exampleEn": "Where are you?",
+        "tip": "Be polite by using 'dōko desu ka?'  to avoid seeming rude."
+      }
+    ],
+    "culturalInsight": "**Asking for help in Japan**\nIt's important to note that Japanese culture values respect and formality, so expressing need is often done subtly. Be mindful of your language and tone, showing patience and humility as you seek assistance.\n * **Don't shy away from asking:** While it might be tempting to wait for someone else to offer help, don't hesitate to clearly state your needs with clear pronunciation and a respectful tone.",
+    "quiz": {
+      "type": "multipleChoice",
+      "question": "When you need help in Japan, what phrase is best to use? \n(1) 'I'm lost.'\n(2) 'Is there anyone who speaks English?'\n(3) 'Excuse me. I need help.'\n(4) 'Help!'",
+      "options": [
+        {
+          "text": " (1) 'I'm lost.'",
+          "index": 0
+        },
+        {
+          "text": " (2) 'Is there anyone who speaks English?'",
+          "index": 1
+        },
+        {
+          "text": " (3) 'Excuse me. I need help.'",
+          "index": 2
+        },
+        {
+          "text": " (4) 'Help!'",
+          "index": 3
+        }
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The best phrase to use when needing assistance in Japan is 'Excuse me. I need help.' This phrase shows respect and clearly conveys your desire for help."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A young woman facing a problem, with blurred city background and traditional Japanese architecture as the visual context. ",
+    "thumbnailUrl": "/images/level1-unique-slug-1785400036447-1785400162786.jpg",
+    "thumbnailAlt": "A young woman facing a problem, with blurred city background and traditional Japanese architecture as the visual context. ",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1785390283684",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
