@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1785497467663-1785497584645",
+    "title": "Writing Seasonal Greetings and Weather Check in Japanese Letters",
+    "subtitle": "A guide to expressing the passing of seasons and weather conditions in your correspondence.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Master the nuances of writing seasonal and weather greetings in Japanese correspondence to elevate your letters beyond a simple 'hello.' This article provides practical insights on navigating the ever-changing seasons in Japanese culture. Learn how to convey your sentiments with precision, ensuring your messages are both timely and heartfelt.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "As autumn leaves paint the landscape in vibrant hues of crimson and amber, the air becomes crisp and carries a hint of rain. In Japanese culture, these subtle shifts in nature hold symbolic meaning and serve as reminders of the ephemeral beauty of time. It's not simply about the change in season, but also the emotions it evokes - a feeling that extends beyond individual experiences to encompass societal connections.",
+    "grammarExplanation": "Japanese sentence structure often reflects formality and politeness. Subject-Object-Verb (SOV) order is commonly used. Particles like 'は', 'が', and 'で' play crucial roles in clarifying relationships between subjects, objects, and actions. Mastering these components will help your writing achieve a polished and appropriate tone.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 季節",
+        "japanese": "季節 (kisei)",
+        "kana": "Kiseki",
+        "romaji": "Season",
+        "english": "Season",
+        "explanation": "Seasonal greetings often convey a feeling of warmth and respect.  Learn how to incorporate these into your language.",
+        "exampleJp": "秋は紅葉が綺麗ですね。\n(Aki wa momiji ga kirei desu ne.)",
+        "exampleEn": "Autumn is beautiful with the foliage changing colors.",
+        "tip": "For casual use, '季節' can be used to simply express that it's autumn. For a more formal setting, consider using '紅葉 season'.  Remember, '紅葉' refers specifically to autumn leaves."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 天候",
+        "japanese": "天候 (tenkō)",
+        "kana": "Ten Kō",
+        "romaji": "Weather",
+        "english": "Weather",
+        "explanation": "This is a simple but essential word to convey weather.  Knowing the basics of weather will help you express your personal thoughts and observations about the day, from rainy skies to sunny days.",
+        "exampleJp": "今日は雨が降っています。\n(Kyō wa ame ga fūte imasu.)",
+        "exampleEn": "It's raining today.",
+        "tip": "Consider using '晴れ' for sunny and '曇り' for cloudy.  Adding a little color to your letter will make it more expressive."
+      }
+    ],
+    "culturalInsight": " **The Ephemeral Beauty of Seasons**\n\nA strong correlation exists between the natural cycle of seasons and the flow of time in Japanese culture. The changing seasons serve as powerful reminders of impermanence, encouraging individuals to embrace life's fleeting moments with gratitude. This understanding permeates various aspects of daily life, from festivals celebrating harvests to tea ceremonies that highlight the transition between summer and autumn.",
+    "quiz": {
+      "question": "What is the Japanese word for 'season'?",
+      "options": [
+        "季節 (kisei)",
+        "天気 (tenki)",
+        "気温 (kogyo)",
+        "風 (kaze)"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": "The correct answer is '季節' (kisei), which literally translates to 'season.'  It signifies a period of time characterized by distinct weather conditions and observable changes in nature."
+    },
+    "schemaMarkup": "<html><body><h1>Level 4: Upper-Intermediate Business & Conditional logic</h1><p>This article is about Japanese language learning. The subject focuses on expressing seasonal changes and weather greetings.</p></body></html>",
+    "imagePrompt": "A vintage monochrome illustration of a calligrapher writing in a traditional garden, with autumn leaves and cherry blossoms.",
+    "thumbnailUrl": "/images/level4-unique-slug-1785497467663-1785497584645.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a calligrapher writing in a traditional garden, with autumn leaves and cherry blossoms.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1785478711606",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
