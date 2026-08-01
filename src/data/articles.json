@@ -1,5 +1,64 @@
 [
   {
+    "id": "level1-article-unique-slug-1785621611394",
+    "title": "Unexpected Events: Calling for Help!",
+    "subtitle": "Learn Basic Phrases to Ask for Assistance",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article guides you through the basics of expressing urgency or requesting assistance in Japanese when facing unexpected events. Learn essential phrases and vocabulary to navigate challenging situations.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine getting lost on a trip, encountering a sudden medical emergency, or finding yourself in an unfamiliar predicament. These are times when knowing how to ask for help is crucial. Learning basic Japanese phrases can empower you to communicate effectively and seek assistance when needed. This article provides essential vocabulary and explanations to support your understanding of everyday situations.",
+    "grammarExplanation": "Japanese grammar follows a Subject-Object-Verb (SOV) structure, similar to the structure of English sentences. It's important to pay attention to sentence order to convey your meaning accurately.  Learning basic grammatical structures like verbs and tenses will be crucial in your journey towards fluency. This article explains key concepts and terms. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary:  緊急  (Kōrin)",
+        "japanese": "緊急 (Kōrin)",
+        "kana": "緊急 (Kōrin)",
+        "romaji": "Kōrin",
+        "english": "Emergency",
+        "explanation": "An emergency is a sudden and unexpected situation requiring immediate attention. This word is used in various contexts like medical emergencies or natural disasters.",
+        "exampleJp": "緊急事態が発生しました (Gōryoku ni tsumu no-se-jō-shi-masu)",
+        "exampleEn": "An emergency has occurred.",
+        "tip": "For immediate help, use this word:  **緊急! (Kōrin!)**"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  助けを求める (Taku o motomeru)",
+        "japanese": "助けを求める (Taku o motomeru)",
+        "kana": "助けを求める (Taku o motomeru)",
+        "romaji": "Takau o motomeru",
+        "english": "Requesting assistance",
+        "explanation": "When in need of help, you can use this phrase to request assistance from others. It is an important part of everyday communication.",
+        "exampleJp": "困っている (Kon-te-i-ru)",
+        "exampleEn": "I'm having trouble with something.",
+        "tip": "For more formal situations, use: **お助けを頂きたいです (Otake o douki desu)***"
+      }
+    ],
+    "culturalInsight": "The Japanese concept of 'wa' emphasizes harmony and a sense of unity. This is reflected in their approach to asking for help - they prioritize showing respect and avoiding confrontation. Learning these subtle cultural nuances can enhance your interactions and build stronger relationships with locals.",
+    "quiz": {
+      "question": "What is a suitable phrase to express an unexpected situation requiring immediate attention? ",
+      "answerIndex": [
+        0,
+        1
+      ],
+      "options": [
+        "緊急事態 (Kōrin ni tsumu no-se-jō-shi)",
+        "助けを求める (Takau o motomeru)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"@context\": \"http://schema.org/\",\"description\":\"A guide to basic Japanese phrases for requesting assistance in unexpected situations.\",\"mainEntity\": { \"headline\": \"Unexpected Events: Calling for Help!\",\"description\": \"Learn basic phrases to ask for help when facing unexpected situations.\" },\"articleBody\": [  ],\"author\": \"Emma Sterling\", \"datePublished\": \"2023-10-27T09:00:00Z\", \"publisher\": \"[Your Publisher Name]\" }",
+    "imagePrompt": "A high-quality image of a Japanese person with a map, looking determined. They are holding a smartphone and talking to someone, with a worried expression on their face. ",
+    "thumbnailUrl": "/images/level1-article-unique-slug-1785621611394.jpg",
+    "thumbnailAlt": "A high-quality image of a Japanese person with a map, looking determined. They are holding a smartphone and talking to someone, with a worried expression on their face. ",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1785611524174",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
