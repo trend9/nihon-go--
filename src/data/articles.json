@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1785590411826-1785590524083",
+    "title": "Unlocking Japanese Dining Etiquette and Seasonal Delights",
+    "subtitle": "A Guide to Ordering the Perfect Meal for Every Season",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Dive into the world of Japanese dining etiquette and learn to savor the freshest seasonal dishes. This guide offers insights from local experts.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The art of dining in Japan transcends mere sustenance; it's an experience infused with cultural nuances and a reverence for seasonality. From the precise etiquette of ordering to the delicate balance between tradition and innovation, understanding these elements elevates your culinary journey from merely eating to truly experiencing Japanese culture.",
+    "grammarExplanation": "This article utilizes grammatical structures common in English-language articles focused on learning languages like Japanese. We'll explore topics such as present tense conjugation (to describe actions) and simple past tense (past events). Additionally, we'll discuss using a consistent style for direct quotes to create coherence.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: お茶",
+        "japanese": "お茶 (ocha)",
+        "kana": "O-cha",
+        "romaji": "ocha",
+        "english": "Tea",
+        "explanation": "This Japanese word refers to a variety of teas that are commonly enjoyed in Japan, from green tea to black tea.",
+        "exampleJp": "お茶を飲みましょう。(Ocha wo nomimashou.)",
+        "exampleEn": "Let's drink some tea.",
+        "tip": "Adding a hint of sugar or honey can enhance the taste."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 食べ物",
+        "japanese": "食べ物 (tabe-mono)",
+        "kana": "Tabemono",
+        "romaji": "Tabemono",
+        "english": "Food",
+        "explanation": "This refers to the various dishes served in Japanese cuisine.",
+        "exampleJp": "美味しい食べ物があります。(Oishii tabemome ga arimasu.)",
+        "exampleEn": "There are many delicious foods.",
+        "tip": "Try different types of sushi, ramen, and tempura."
+      }
+    ],
+    "culturalInsight": "The Japanese concept of 'shoku-ri' (food culture) is deeply embedded in their society. Every season offers unique culinary treasures that reflect the changing landscape and harvest bounty. This philosophy translates into dining etiquette where sharing meals with friends and family, enjoying fresh ingredients, and savoring each bite is paramount.",
+    "quiz": {
+      "question": "What is a common Japanese phrase for 'food'?",
+      "options": [
+        "a. いただきます",
+        "b. お茶",
+        "c. 食べ物",
+        "d. 食材"
+      ],
+      "correctAnswerIndex": "c",
+      "explanation": "Option 'c' (食べ物) translates to 'food' in Japanese. This word emphasizes the act of enjoying various culinary creations."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up shot of a beautifully crafted sushi plate with fresh ingredients, such as salmon and avocado. The presentation should be elegant and traditional, reflecting Japanese aesthetics.",
+    "thumbnailUrl": "/images/level3-unique-slug-1785590411826-1785590524083.jpg",
+    "thumbnailAlt": "A close-up shot of a beautifully crafted sushi plate with fresh ingredients, such as salmon and avocado. The presentation should be elegant and traditional, reflecting Japanese aesthetics.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1785581082137",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
