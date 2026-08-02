@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-shinkansen-tickets-20231026-1785650533103",
+    "title": "Unlocking the Speed: Buying Shinkansen Tickets for an Afternoon Adventure",
+    "subtitle": "A Beginner's Guide to Navigating Japan's High-Speed Rail Network",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to book your Shinkansen tickets for a smooth and efficient trip across Japan. This guide covers the key steps, including choosing your train, making reservations, and understanding different ticket types.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "The rumble of the Shinkansen.  A symphony of speed as you leave behind the bustle of daily life. It's a feeling that captures the heart of Japanese culture – efficiency, progress, and breathtaking beauty all in one ride. But for many English-speaking visitors to Japan, navigating the complicated world of shinkansen tickets can feel like crossing a linguistic hurdle. Fear not! This article will equip you with the knowledge to navigate the Shinkansen ticket system like a seasoned traveler. From understanding different types of tickets to mastering the online reservation process, we'll guide you through this exciting journey.",
+    "grammarExplanation": "This article delves into Japanese sentence structure and uses them in context for English readers. We use simple sentences with basic particles (助詞) such as が (ga), の (no), と (to) to convey actions, and then combine them to create more complex structures. The text will also incorporate the use of grammatical features commonly found in Japanese writing. This will help you understand how Japanese grammar works at a deeper level.",
+    "postIts": [
+      {
+        "id": "p-shinkansen-train",
+        "color": "blue",
+        "title": "Vocabulary: Shinkansen",
+        "japanese": "新幹線 (Shinkansen)",
+        "kana": "Shinkansen",
+        "romaji": "Shinkansen",
+        "english": "High Speed Rail Train",
+        "explanation": "A high-speed rail system that connects major Japanese cities.",
+        "exampleJp": "新幹線に乗ります (Shinkansen ni morimasu) - I'm getting on the Shinkansen.",
+        "exampleEn": "I am going to travel by the Shinkansen.",
+        "tip": "The term 'shinkansen' is often used in English and Japanese media when discussing this system."
+      },
+      {
+        "id": "p-reserved-seat",
+        "color": "pink",
+        "title": "Vocabulary:  予約席 (Reservation Seat)",
+        "japanese": "予約席 (Yūyōsei)",
+        "kana": "Yūyōsei",
+        "romaji": "Reserved Seat",
+        "english": "Reserved Seat",
+        "explanation": "A special type of seat that is reserved for passengers and ensures a comfortable journey.",
+        "exampleJp": "予約席に座ります (Reservation Seat ni nazimasu) - I'll be sitting in the reserved seat.",
+        "exampleEn": "I will sit at a reserved seat for comfort.",
+        "tip": "While some Shinkansen tickets are available to purchase on board, reserving seats in advance is highly recommended. This ensures a smoother journey and allows you to enjoy your travels with more peace of mind."
+      }
+    ],
+    "culturalInsight": "Traveling by Shinkansen isn't just about getting from point A to point B; it’s an experience that encapsulates the Japanese spirit of efficiency and punctuality. The hushed hum of the train is a symphony of calm, and the spacious seating offers a welcome respite after a long flight or journey.  While the focus on technology is ingrained within the system, don't shy away from the friendly service offered by train staff. Their dedication to providing excellent customer service adds another layer of charm to this iconic Japanese mode of transportation.",
+    "quiz": {
+      "question": "What does 'Shinkansen' mean in English?",
+      "options": [
+        "High-speed Rail Train",
+        "Bullet Train",
+        "Express Train",
+        "Passenger Liner"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The term 'Shinkansen' is a direct translation of the Japanese words for 'New High Speed Train'. This train system is renowned for its speed and efficiency."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An illustration of a Shinkansen bullet train slicing through a picturesque Japanese landscape, with Mount Fuji in the background. The image should capture the sleek lines of the train and the serenity of the journey. Consider adding elements like cherry blossoms or traditional buildings for extra visual appeal.",
+    "thumbnailUrl": "/images/level3-shinkansen-tickets-20231026-1785650533103.jpg",
+    "thumbnailAlt": "An illustration of a Shinkansen bullet train slicing through a picturesque Japanese landscape, with Mount Fuji in the background. The image should capture the sleek lines of the train and the serenity of the journey. Consider adding elements like cherry blossoms or traditional buildings for extra visual appeal.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1785638754923",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
