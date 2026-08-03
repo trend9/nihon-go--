@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1785725084332-1785725199165",
+    "title": "Lost in the Labyrinth: Mastering Subway Directions at Night",
+    "subtitle": "Navigating Tokyo's subway system becomes an art form, even when it's pitch black.",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Learn the art of navigating Tokyo's underground transit system even when it's pitch black. This article delves into the nuances of asking for directions in the subway station, a seemingly simple act that unveils deeper cultural intricacies and Japanese linguistic finesse.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The Tokyo metro system hums beneath our feet - a silent symphony of steel and concrete. But unlike the bustling streets above, navigating its depths can feel like entering another world. The familiar 'Excuse me' melts into a delicate dance of Japanese phrases as you seek directions through the maze of platforms and turnstiles. A simple request for assistance becomes a microcosm of Japan’s sophisticated aesthetic, where even asking a question is an art form in itself.",
+    "grammarExplanation": "Japanese grammar can be quite intricate, especially when it comes to formal politeness and indirect requests. For example, using honorifics like '-kun' or '-sama' adds layers of formality and respect to your interaction. This article explores how language reveals deeper cultural nuances of Japanese society.",
+    "postIts": [
+      {
+        "id": "p-vocabulary:directions",
+        "color": "blue",
+        "title": "Vocabulary: Directions",
+        "japanese": "行き先 (Ikiru-saki)",
+        "kana": "i k i r u s a k i",
+        "romaji": "ikiru-saki",
+        "english": "Directions",
+        "explanation": "Learn the essential phrases for asking for directions, from basic questions to more specific requests.",
+        "exampleJp": "すみません、〇〇駅はどこですか？ (Sumimasen,  〇〇-eki wa doko desu ka?)",
+        "exampleEn": "Excuse me, where is the station called X?",
+        "tip": "Use '-sama' for respectful interaction with a stranger or authority figure."
+      },
+      {
+        "id": "p-vocabulary:station",
+        "color": "pink",
+        "title": "Vocabulary: Station",
+        "japanese": "駅 (eki)",
+        "kana": "eki",
+        "romaji": "eki",
+        "english": "Station",
+        "explanation": "Learn the vocabulary associated with stations, from platform numbers to station names.",
+        "exampleJp": "〇〇駅に行く (〇〇-eki ni ni iru)",
+        "exampleEn": "Going to station X",
+        "tip": "Use '〇〇駅' for specific station reference."
+      }
+    ],
+    "culturalInsight": "Asking for directions in Japan is more than just obtaining a route; it’s an art form. The subtle cues of body language, a slight nod of gratitude, or a respectful silence all contribute to the cultural exchange. Even seemingly mundane acts are imbued with deep etiquette, making even a simple question about directions an intricate interplay of linguistic finesse.",
+    "quiz": {
+      "question": "What is the Japanese word for 'station'?",
+      "options": [
+        "a. 駅 (eki)",
+        "b. 信号 (shin-kō) ",
+        "c. 道 (dō)",
+        "d. 質問 (shinshū)"
+      ],
+      "correctAnswerIndex": "0",
+      "explanation": "The correct answer is 'a. 駅 (eki)', meaning 'station'.  Asking for directions in Japan involves a delicate balance of polite language and subtle cultural cues."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt: A person holding their smartphone with the Tokyo subway map open while looking at the station entrance, neon lights reflecting off the smartphone screen. The background is a busy Tokyo station with blurred faces and a sense of urban flow.",
+    "thumbnailUrl": "/images/level5-unique-slug-1785725084332-1785725199165.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt: A person holding their smartphone with the Tokyo subway map open while looking at the station entrance, neon lights reflecting off the smartphone screen. The background is a busy Tokyo station with blurred faces and a sense of urban flow.",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1785707988162",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
