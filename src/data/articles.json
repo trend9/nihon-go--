@@ -1,5 +1,71 @@
 [
   {
+    "id": "level2-unique-slug-1785822504285-1785822655595",
+    "title": "Ryokan Check-in: Navigating the Traditional Japanese Inn",
+    "subtitle": "From Teahouse to Tatami: Essential Rules and Etiquette for a Smooth Stay.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article provides a step-by-step guide to navigating the complexities of check-in at a traditional Japanese ryokan inn. Ideal for English speakers planning their first trip to Japan, it breaks down essential etiquette and dining rules.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional Japanese ryokan is like entering a scene straight from a film. The hushed tranquility of tatami mats, the delicate scent of cherry blossom, and the warmth of authentic hospitality create a truly immersive experience. While the beauty is undeniable, navigating your first stay can be daunting. This article offers a concise guide to understanding the ryokan's inner workings, ensuring your stay is both comfortable and culturally respectful.   \n \nFrom the initial steps of check-in to the etiquette of mealtimes, we'll demystify these rituals so you can enjoy every moment of your ryokan experience.\n\n\"ぁにしりすぜぜのきたがめせしいにちずの\" -  Ryokan guest, Tokyo.",
+    "grammarExplanation": "This article uses a mix of simple present tense for everyday details and future tense to introduce the process of check-in. This reflects the natural progression of the experience from arrival to enjoying your stay. For instance, \"We'll demystify these rituals\" indicates the process is ongoing, not finished.\n\nAdditionally, there's a slight shift in the article using formal Japanese terms like \"ryokan\" and \"check-in\" in some instances. This helps showcase authentic language while providing context for English readers.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This is a simple Japanese word meaning today, used in many contexts.",
+        "exampleJp": "今日は素晴らしい天気ですね。\n(Kyou wa sōshii te ni desu ne.) - Today's weather is beautiful!\n",
+        "exampleEn": "It's a great day today.",
+        "tip": "The 'kyou' can be pronounced like the English word \"know\", making it easier to understand."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お部屋",
+        "japanese": "お部屋",
+        "kana": "okayama",
+        "romaji": "okēma",
+        "english": "Room",
+        "explanation": "This word refers to the room you stay in at a ryokan, often with tatami mats and traditional screens.",
+        "exampleJp": "お部屋でゆっくりと過ごしましょう。\n(Okēma de yukkuri to sugoshōmasen.) - Let's relax in our room.\n",
+        "exampleEn": "Let's enjoy some time relaxing in the room.",
+        "tip": "Say 'お' before '部屋', then 'お部屋'.  This emphasizes the formality of the word \"room\"."
+      }
+    ],
+    "culturalInsight": " **Ryokan Etiquette: A Glimpse into Traditional Japanese Hospitality**\n\nThe art of hospitality within a traditional ryokan is deeply rooted in Japanese culture. The Ryokan's charm lies in its meticulous attention to detail, each aspect contributing to a seamless experience.\n\nFor example, the concept of 'O-chazuke,' where you enjoy hot green tea with rice, highlights this cultural connection. The act of serving small bowls of soup or pickles as your first meal is another beautiful tradition that reflects the ryokan's deep respect for its guests and their well-being.\n\nImmersion in such rituals enhances your journey beyond just accommodation and allows you to truly appreciate the essence of Japanese culture. ",
+    "quiz": {
+      "question": "What is a key feature of a traditional Japanese ryokan inn?\n\nA: Modern amenities like swimming pools\nB: Traditional wooden structures with tatami mats\nC: High-rise buildings in major cities\nD: Budget-friendly accommodation for solo travellers.\n",
+      "options": [
+        {
+          "text": "A: Modern amenities like swimming pools"
+        },
+        {
+          "text": "B: Traditional wooden structures with tatami mats"
+        },
+        {
+          "text": "C: High-rise buildings in major cities"
+        },
+        {
+          "text": "D: Budget-friendly accommodation for solo travellers"
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is B. Ryokans are known for their traditional wooden structures and tatami mats, creating a unique atmosphere.\n\nA - Modern amenities like swimming pools may be found in some hotels but not typical of the ryokan experience. \nC and D - These options focus on urban living which isn't characteristic of a Japanese ryokan."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\",\"@type\": \"Article\"}",
+    "imagePrompt": "A serene shot of a traditional wooden Ryokan with tatami mats, minimalist decor and guests enjoying their time in the room.",
+    "thumbnailUrl": "/images/level2-unique-slug-1785822504285-1785822655595.jpg",
+    "thumbnailAlt": "A serene shot of a traditional wooden Ryokan with tatami mats, minimalist decor and guests enjoying their time in the room.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1785810705368",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
