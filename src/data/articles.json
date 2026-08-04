@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-shinkansen-tickets-987654321-1785862501155",
+    "title": "Ready, Set, Shinkansen: Buying Tickets for Your Express Train Journey",
+    "subtitle": "A beginner's guide to navigating Japan's high-speed network",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Discover the convenience of Japan's renowned Shinkansen and learn how to purchase tickets like a local! From navigating platforms to understanding key terms, this guide empowers you to embark on your thrilling journey across the land of the rising sun.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Japan is known for its efficient and reliable public transportation. The Shinkansen, or bullet train, is a cornerstone of Japanese travel culture.  If you're planning to explore Japan by this speedy method, understanding the process of buying tickets can save you time and stress. We'll walk you through this fascinating world of ticketing with step-by-step instructions, making your journey even smoother.",
+    "grammarExplanation": "This article provides basic grammatical information and examples relevant to the topic of train travel in Japan.  For instance, it uses present tense verbs and explains how to use phrases like 'I would like to purchase a ticket' for a clear understanding of customer service interactions.",
+    "postIts": [
+      {
+        "id": "p-shinkansen-tickets",
+        "color": "blue",
+        "title": "Vocabulary: hoje",
+        "japanese": "新幹線",
+        "kana": "Shinkansenn",
+        "romaji": "Shinkansen",
+        "english": "Express Train",
+        "explanation": "The Shinkansen is the name of Japan's high-speed rail system. It connects major cities and allows you to travel quickly across the country.",
+        "exampleJp": "新幹線に乗車します。(Shinkansenn ni chokusemasu.)",
+        "exampleEn": "I will take the Shinkansen.",
+        "tip": "It means express train!"
+      },
+      {
+        "id": "p-ticket-purchase",
+        "color": "green",
+        "title": "Vocabulary: 買い",
+        "japanese": "買い",
+        "kana": "Yauki",
+        "romaji": "Buy",
+        "english": "Purchase",
+        "explanation": "This means 'to buy'.  To purchase a ticket on the Shinkansen, you need to make this action at a station.",
+        "exampleJp": "チケットを買ってください。(Tekki ni katta kudasai.)",
+        "exampleEn": "Please buy a ticket.",
+        "tip": "The word 'Ticket' can be used in the context of purchasing or buying tickets, even if not explicitly mentioned."
+      }
+    ],
+    "culturalInsight": "Travelling by Shinkansen is an integral part of Japanese culture. It offers comfort and efficiency, allowing people to travel quickly and comfortably across the country. The experience of riding a Shinkansen train is often depicted in art, film, and literature, making it a familiar sight for both locals and tourists.",
+    "quiz": {
+      "question": "What does 'Shinkansen' mean?",
+      "options": [
+        "High-speed Train",
+        "Tourist Express",
+        "Bullet Train",
+        "Express Railway"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is **(3) Bullet Train**. The Shinkansen is a famous high-speed rail system in Japan known for its speed and efficiency."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a Shinkansen train speeding across the landscape of Japan, capturing the contrast of urban sprawl and natural beauty. The image should convey a sense of excitement and modern Japanese aesthetics.",
+    "thumbnailUrl": "/images/level1-shinkansen-tickets-987654321-1785862501155.jpg",
+    "thumbnailAlt": "A photo of a Shinkansen train speeding across the landscape of Japan, capturing the contrast of urban sprawl and natural beauty. The image should convey a sense of excitement and modern Japanese aesthetics.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1785852851245",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
