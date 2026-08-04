@@ -1,5 +1,64 @@
 [
   {
+    "id": "level2-unique-slug-1785872286596-1785872391837",
+    "title": "Unlocking Your Japan: A Guide to Everyday Items & Routines",
+    "subtitle": "Learn the basics of Japanese daily life.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Dive into the everyday world of Japanese life with this concise guide! Learn about household items and common daily routines. ",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "In a bustling city like Tokyo, you might be surprised to find simple things can spark wonder. From your morning cuppa to the way people navigate their day, understanding basic Japanese words and short requests will unlock a deeper appreciation for this unique culture. This guide aims to familiarize you with essential vocabulary and routines common in everyday life.  \"[日常の小さなこと](https://www.youtube.com/watch?v=hN8Q-j9Zc8M)\" says one Japanese blogger, \"The little things add up, just like the tea leaves in your cup.\"",
+    "grammarExplanation": "This article focuses on present tense verbs for describing actions and routines, and everyday language. We'll introduce key grammatical concepts such as particles and verb conjugations to help you navigate these topics more confidently.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "yellow",
+        "title": "Vocabulary: Household Items",
+        "japanese": "家にあるもの",
+        "kana": "Ichi no aramomo",
+        "romaji": "Ike ni aru mono",
+        "english": "Household Items",
+        "explanation": "Learn about common household items you might encounter.",
+        "exampleJp": "冷蔵庫は冷蔵室で、洗濯機は寝室にあります。",
+        "exampleEn": "The refrigerator is in the cold storage room, and the washing machine is in the bedroom.",
+        "tip": "Use these Japanese phrases to ask for items like a spoon or a pillow."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: Kitchen Appliances",
+        "japanese": "キッチン家電",
+        "kana": "Chikin keisha",
+        "romaji": "Kitchin Keisha",
+        "english": "Kitchen Appliances",
+        "explanation": "Learn about common kitchen appliances you might encounter.",
+        "exampleJp": "炊飯器はご飯を炊くのに使います。",
+        "exampleEn": "The rice cooker is used to cook rice.",
+        "tip": "Use these Japanese phrases to ask for the oven or the blender."
+      }
+    ],
+    "culturalInsight": "Beyond the daily grind, Japan's culture embraces a sense of harmony and balance. It's reflected in simple routines like washing dishes, a practice often imbued with meticulous care and attention to detail.",
+    "quiz": {
+      "type": "multiple_choice",
+      "question": "What is the Japanese word for 'kitchen'?",
+      "options": [
+        "リビング",
+        "キッチン",
+        "寝室",
+        "オフィス"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is \"キッチン\".  This reflects the deep connection between food and culture in Japanese society.  \"[食卓](https://www.youtube.com/watch?v=u8J0s7c9f6I)\""
+    },
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo', \"[Image Prompt Description]\" )",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level2-unique-slug-1785872286596-1785872391837.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo', \"[Image Prompt Description]\" )",
+    "isVerified": true
+  },
+  {
     "id": "level1-shinkansen-tickets-987654321-1785862501155",
     "title": "Ready, Set, Shinkansen: Buying Tickets for Your Express Train Journey",
     "subtitle": "A beginner's guide to navigating Japan's high-speed network",
