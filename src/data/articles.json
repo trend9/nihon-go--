@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1785832604098-1785832732917",
+    "title": "Casual Izakaya Conversations: A Level 3 Japanese Language Journey",
+    "subtitle": "Unlocking authentic conversations with friends during Japan's vibrant evening hours.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn to confidently navigate casual conversations at an izakaya with this Level 3 lesson in Japanese! Explore authentic language and cultural insights, from ordering drinks to expressing desires. This article is designed for intermediate learners who are ready to immerse themselves in real-life Japanese interactions.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine the warm glow of lanterns illuminating a cozy izakaya as you settle into a conversation with your friends over glasses of beer and bowls of steaming ramen. These shared moments are what make Japan's vibrant nightlife so unique. While some may shy away from the complexities of Japanese culture, this level breaks down the language barriers to spark authentic conversations in casual settings.",
+    "grammarExplanation": "This level focuses on building sentence structures that go beyond basic greetings and simple requests. You'll encounter more complex verbs like '食べたい (tabetai)' meaning 'want to eat', allowing you to express your desire for a particular dish. It also emphasizes the use of particles, like '-な' in '-な〜,' marking a specific focus on the subject.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日は",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "Use 'きょう' to tell someone today you are going out.",
+        "exampleJp": "今日は天気がいいよ。",
+        "exampleEn": "The weather is nice today.",
+        "tip": "This helps build the confidence of expressing your day in Japanese."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 飲み物",
+        "japanese": "飲み物",
+        "kana": "nomimono",
+        "romaji": "nomimono",
+        "english": "Drink",
+        "explanation": "Use '飲み物' to talk about what drinks you're drinking.",
+        "exampleJp": "飲み物はビールが良いですね。",
+        "exampleEn": "I think beer would be good. ",
+        "tip": "Pronounced 'nomimono', remember the soft 'm' sound at the end."
+      }
+    ],
+    "culturalInsight": "The izakaya is more than just a place to enjoy food and drink; it's a social hub where you can connect with friends, strengthen bonds, and experience a unique aspect of Japanese culture. The atmosphere is informal, welcoming, and often filled with laughter and lively conversation. Learning the customs of these gatherings will elevate your immersion in Japanese life.",
+    "quiz": {
+      "question": "Which of the following describes a typical afternoon izakaya scene? ",
+      "options": [
+        "A hushed atmosphere for quiet reflection",
+        "An energetic setting with lively music and dancing",
+        "A casual gathering place for friends to share drinks and conversation",
+        "A formal dining experience with white tablecloths and intricate tableware"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The izakaya is an informal social space where you'll find relaxed settings, casual conversations, and a welcoming atmosphere for friends to gather. It's all about enjoying good food and drinks together."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A scene of a modern-style izakaya bar with neon lights in the background. Two people are sitting at a table with bottles of sake on the side, their friends laughing over a game of cards.",
+    "thumbnailUrl": "/images/level3-unique-slug-1785832604098-1785832732917.jpg",
+    "thumbnailAlt": "A scene of a modern-style izakaya bar with neon lights in the background. Two people are sitting at a table with bottles of sake on the side, their friends laughing over a game of cards.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1785822504285-1785822655595",
     "title": "Ryokan Check-in: Navigating the Traditional Japanese Inn",
     "subtitle": "From Teahouse to Tatami: Essential Rules and Etiquette for a Smooth Stay.",
