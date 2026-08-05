@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1785896923809-1785897034187",
+    "title": "Unlocking Everyday Japanese: Living the Local Routine",
+    "subtitle": "Navigating Your Evening in Japan with Ease.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Dive into the rhythm of everyday Japanese life. This article explores common household items and their functions within a typical evening routine, providing insights into the subtle nuances of Japanese culture.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine stepping back into your Tokyo apartment after a long day. The soft glow of the hallway light illuminates the familiar shapes of your belongings: a sleek rice cooker, the comforting click of the TV remote, and a beautifully patterned tatami mat beneath your feet. How do these everyday objects contribute to the story of your evening? This article delves into how seemingly simple routines reflect deeper cultural norms, giving you valuable insights into navigating life in Japan.",
+    "grammarExplanation": "This article employs advanced grammar techniques commonly found in English-language journalism. We'll explore complex sentence structures for greater clarity and impact. The use of passive voice emphasizes the action rather than the actor, allowing readers to focus on the actions themselves.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary:  今日の夕食",
+        "japanese": "今日の夕食",
+        "kana": "Kyō no yūchū",
+        "romaji": "kyō no yūchi-su",
+        "english": "Tonight's dinner",
+        "explanation": "Japanese evenings often include a family meal. This term is used to denote the evening meal, usually served in the late afternoon or early evening.",
+        "exampleJp": "夕食は、友達と家で食べる。",
+        "exampleEn": "Dinner will be eaten at home with friends.",
+        "tip": "This can also refer to having a quick, casual meal during a late afternoon/early evening before going out."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary:  お風呂",
+        "japanese": "お風呂",
+        "kana": "Obo-ro",
+        "romaji": "obu-ro",
+        "english": "Bath",
+        "explanation": "A bath is a common part of Japanese evening routines, often enjoyed after work or after spending time with family.",
+        "exampleJp": "夕食後、私はお風呂に入る。",
+        "exampleEn": "After dinner, I take a bath.",
+        "tip": "The bath can be an experience that involves warm water and essential oils, allowing for stress-relieving relaxation."
+      }
+    ],
+    "culturalInsight": "From family dinners to nightly hot baths, Japanese evenings are steeped in routine. This time for reflection and connection is often prioritized over individual pursuits. These traditions highlight the importance of community and shared experience, offering an invaluable glimpse into a different perspective on the world.",
+    "quiz": {
+      "question": "What does 'Yōkoso' mean?",
+      "options": [
+        "Welcome",
+        "Goodbye",
+        "Good morning",
+        "Thank you."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": " 'Yōkoso' is a common greeting used upon meeting someone for the first time. It is translated as 'Welcome'."
+    },
+    "schemaMarkup": "{\"type\":\"Article\", \"headline\":\"Unlocking Everyday Japanese: Living the Local Routine\", \"description\":\"Dive into the rhythm of everyday Japanese life. This article explores common household items and their functions within a typical evening routine, providing insights into the subtle nuances of Japanese culture.\", \"keywords\":[\"Japanese\", \"routine\", \"evening\", \"culture\", \"home\"]}",
+    "imagePrompt": "A photorealistic image of a woman preparing dinner for her family in a traditional Japanese home with tatami mats and sliding doors.",
+    "thumbnailUrl": "/images/level4-unique-slug-1785896923809-1785897034187.jpg",
+    "thumbnailAlt": "A photorealistic image of a woman preparing dinner for her family in a traditional Japanese home with tatami mats and sliding doors.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1785881727922",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
