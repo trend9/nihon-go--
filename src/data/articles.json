@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1785929029010-1785929140929",
+    "title": "Navigating the Subway: Asking for Directions",
+    "subtitle": "A Beginner's Guide to Finding Your Way in Tokyo Station",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to ask for directions at the subway station in Tokyo using basic Japanese. This article covers essential vocabulary and offers practical tips to navigate the bustling environment.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Getting lost in a new city can be an adventure, but it's often easier when you have clear directions. In Japan, especially in Tokyo, navigating the subway can seem daunting at first. But with some basic Japanese words and phrases, you can confidently ask for directions even if you don't speak a word of Japanese! This guide provides a simple starting point to your journey around Tokyo.",
+    "grammarExplanation": "In this article, we will focus on simple sentence structures commonly used in everyday conversation. Mastering the basics of Japanese verb conjugations and noun-adjective order will enable you to effectively communicate with locals. Additionally, learning how to ask for directions using polite phrases is a crucial element of navigating Japan's culture with respect.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "pink",
+        "title": "Vocabulary: Subway",
+        "japanese": "都営地下鉄 (Tokei Chikyu)",
+        "kana": "Dōkei Chikyū",
+        "romaji": "Toei Chikyu",
+        "english": "Subway",
+        "explanation": "This is a direct translation of the Japanese term for subway, which is widely used in Tokyo. Learn to pronounce it correctly.",
+        "exampleJp": "都営地下鉄で行く (Dōkei Chikyū de iku)",
+        "exampleEn": "I'm going on the Toei Line.",
+        "tip": "Use this phrase when you ask for directions on a subway line in Tokyo."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "blue",
+        "title": "Vocabulary: Directions",
+        "japanese": "行き先 (Ikinari)",
+        "kana": "Ikinaari",
+        "romaji": "Ikinari",
+        "english": "Directions",
+        "explanation": "This is the Japanese word for directions, which is used to describe where one should go in Japan. It's a key phrase when you need help navigating around.",
+        "exampleJp": "この駅はどこに (Kono eki wa doko ni?)",
+        "exampleEn": "Where is this station?",
+        "tip": "This word can be used in many different situations such as asking directions, finding your way out of a building or even asking someone for help. Remember to use it in a polite manner."
+      }
+    ],
+    "culturalInsight": "Navigating public transport in Japan is an art form. It involves mastering the nuances of etiquette and using language effectively. For instance, when requesting directions at a station, offering a polite 'すみません (Sumimasen)' shows respect for the local culture. Additionally, learning to use honorifics such as '-san' or '-sama' is essential when addressing Japanese people. This small gesture demonstrates your effort to understand their social customs and build rapport.",
+    "quiz": {
+      "question": "Where should you ask for directions in a Tokyo station?",
+      "options": [
+        "At the cashier",
+        "Near the ticket vending machine",
+        "In the information desk",
+        "Next to the food court"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Asking for directions at the information desk is the most common and efficient way to get assistance. It's usually staffed by people who speak multiple languages, including English."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photorealistic image of a busy Tokyo station. A close-up shot focusing on the subway map screen with commuters passing around.",
+    "thumbnailUrl": "/images/level2-unique-slug-1785929029010-1785929140929.jpg",
+    "thumbnailAlt": "A photorealistic image of a busy Tokyo station. A close-up shot focusing on the subway map screen with commuters passing around.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1785919134242",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
