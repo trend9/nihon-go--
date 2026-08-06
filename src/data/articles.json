@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1786025365555-1786025472687",
+    "title": "Getting Lost? Asking for Directions on the Subway!",
+    "subtitle": "A beginner's guide to navigating Japanese subway stations.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Ever found yourself staring at a maze of train tracks and platforms, unsure which way to go? This guide will help you navigate the bustling world of Japanese subway stations with confidence. From asking for directions to understanding basic station layout, learn how to conquer your journey.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Getting lost on the subway is a rite of passage for any new traveler in Japan! Even seasoned locals find themselves getting flustered at times. Thankfully, Japanese subway systems are generally well-organized and efficient. Here's how to ask for directions, even if you're not fluent in Japanese yet.",
+    "grammarExplanation": "Japanese grammar uses a subject-object-verb (SOV) structure similar to some other languages. The verb comes last in a sentence, and the order of words can vary depending on context. Pay attention to grammatical particles such as particles like ' desu' or ' ga' that change the meaning of a phrase.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Where is it?",
+        "japanese": "どこですか？",
+        "kana": "Doko desu ka?",
+        "romaji": "Do-ko desu ka?",
+        "english": "Where is it?",
+        "explanation": "Asking for directions using 'どこですか？' (Do-ko desu ka?). You can use this phrase when you need help finding something or are unsure of your surroundings.",
+        "exampleJp": "どこですか？",
+        "exampleEn": "Where is it?",
+        "tip": "Use a flat tone of voice and direct eye contact to get the most helpful responses.  "
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Platform Number",
+        "japanese": "ホーム番号は何ですか？",
+        "kana": "Hōmō-nyū wa nan desu ka?",
+        "romaji": "Home-ō-nyu wa nan desu ka?",
+        "english": "What platform number is it?",
+        "explanation": "Using the phrase 'ホーム番号は何ですか？ (Ho-mo-nyu wa nan desu ka?)' to ask about the platform number. ",
+        "exampleJp": "ホーム番号何ですか",
+        "exampleEn": "What is the platform number?",
+        "tip": "Always check the station map or a nearby screen before asking for directions. This will make your journey smoother."
+      }
+    ],
+    "culturalInsight": "Navigating the Japanese Subway system is an experience in itself. The trains run on specific schedules, and you might encounter unique customs like 'Itadakimasu' (thank you) after boarding a train or taking a seat.",
+    "quiz": {
+      "question": "What does the phrase \"Where is it?\" mean in Japanese?",
+      "options": [
+        "どこですか？",
+        "何ですか？",
+        "なぜ？",
+        "ありがとう"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'どこですか？' (Do-ko desu ka?). It's a polite way to ask for directions."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An illustration depicting a crowded Tokyo subway station, with commuters looking for the platform number and information boards. Use a bright color palette.",
+    "thumbnailUrl": "/images/level1-unique-slug-1786025365555-1786025472687.jpg",
+    "thumbnailAlt": "An illustration depicting a crowded Tokyo subway station, with commuters looking for the platform number and information boards. Use a bright color palette.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1786015662419",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
