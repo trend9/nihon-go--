@@ -1,5 +1,62 @@
 [
   {
+    "id": "level2-unique-slug-1785983446302-1785983601077",
+    "title": "Letters from the Season: Weather Greetings and Seasonal Changes",
+    "subtitle": "Unlocking the art of Japanese letter writing in a simple guide for English speakers",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn to express your feelings about the seasons through greetings in Japanese letters. Discover how weather affects our daily life and language. This article provides a starting point for you on your journey into mastering this beautiful art.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "As autumn leaves fall gracefully from their branches, we turn our gaze to the changing seasons in Japan. It's not just about the shift of weather but a deeper cultural reflection through written word, especially in letters. This article will guide you through the basic vocabulary and greetings used to express these changes to your loved ones.  Even a simple '今日は良い天気ですね' (Today looks nice weather, doesn't it?) can add warmth to your communication.",
+    "grammarExplanation": "Japanese grammar is known for its intricate structure, but this article focuses on basic phrases related to seasons and weather. We begin with introducing key words and how to express various degrees of greetings, followed by simple sentence structures that will allow you to use them in real conversations.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This word expresses the present day. It is used to talk about today's weather or schedule.",
+        "exampleJp": "今日の天気は晴れていますね。 (Kyō no tenki wa kare desu ne.) - Today's weather looks nice, doesn't it?",
+        "exampleEn": "The weather is beautiful today!",
+        "tip": "You can use '今日' to express the current time of day as well."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 明日",
+        "japanese": "明日の天気",
+        "kana": "migi no tenki",
+        "romaji": "Migi no tenki",
+        "english": "Weather tomorrow",
+        "explanation": "Use this to talk about the weather on the following day.",
+        "exampleJp": "明日は雨みたいですね。 (Ashuu a sumu tame desu ne.) - It looks like it will be raining tomorrow, doesn't it?",
+        "exampleEn": "It seems like it will rain tomorrow.",
+        "tip": "You can ask '明日の天気は？」to inquire about the weather."
+      }
+    ],
+    "culturalInsight": "Letters are an integral part of Japanese culture. From family letters to formal business correspondence, they hold a timeless charm and convey deeper emotions than just the words written on paper. Take inspiration from this tradition as you explore this fascinating art form.",
+    "quiz": {
+      "question": "What is the polite way to ask someone 'how's it going?' in Japanese?",
+      "options": [
+        "お元気ですか？ (O-genki desuka?)",
+        "今日はどうですか？ (Kyō wa dousu desu ka?)",
+        "最近、どうされました？ (Saikin, dousumeresou ka?)",
+        "元気ですか？ (Genki desu ka?)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The most appropriate and polite way to ask 'How are you?' is  'お元気ですか？ (O-genki desuka?)'. This directly translates to 'Are you well?', conveying respect and courtesy. The other options may sound slightly casual or even inappropriate in certain situations."
+    },
+    "schemaMarkup": "{\"type\":\"Article\", \"headline\":\"Letters from the Season: Weather Greetings and Seasonal Changes\", \"description\":\"Learn to express your feelings about the seasons through greetings in Japanese letters. Discover how weather affects our daily life and language. This article provides a starting point for you on your journey into mastering this beautiful art.\",\"imagePrompt\":\"A vintage monochrome illustration of a sushi chef in Tokyo\"}",
+    "thumbnailUrl": "/images/level2-unique-slug-1785983446302-1785983601077.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of expressing seasonal changes and weather greetings in letters",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1785968150603",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
