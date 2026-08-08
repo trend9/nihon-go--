@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1786181902159-1786182029583",
+    "title": "Navigating Japanese Homelife: Evening Rituals and Daily Routines",
+    "subtitle": "Unlocking the rhythm of daily life in Japan.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Unveiling the intricate tapestry of Japanese domestic life. Discover how daily routines weave together seamlessly with evening rituals, from preparing dinner to unwinding after work.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine the calming aroma of simmering miso soup filling your home as dusk descends on Tokyo. The setting sun casts long shadows across the tatami floor, reflecting a gentle rhythm that underscores the heartbeat of everyday life in Japan.  This evening tapestry is built upon a foundation of daily routines - from preparing a simple meal to creating a peaceful sanctuary after a long day – revealing a unique blend of efficiency and respect for tradition. This article delves into these rituals, providing insights into how Japanese homes function beyond just shelter. ",
+    "grammarExplanation": "The grammar used in this example includes the use of particles, which play a crucial role in Japanese sentence structure. It also utilizes various verb tenses to convey temporal relationships like past actions and future expectations.",
+    "postIts": [
+      {
+        "id": "p-1a",
+        "color": "yellow",
+        "title": "Vocabulary: Kitchen",
+        "japanese": "キッチン",
+        "kana": "Kitchin",
+        "romaji": "Kitchen",
+        "english": "Kitchen",
+        "explanation": "This post-it card lists basic vocabulary.",
+        "exampleJp": "お味噌汁を料理しましょう。",
+        "exampleEn": "Let's make miso soup.",
+        "tip": "Kitchen - Where cooking and eating takes place"
+      },
+      {
+        "id": "p-2b",
+        "color": "pink",
+        "title": "Vocabulary: Laundry",
+        "japanese": "洗濯",
+        "kana": "Senchouu",
+        "romaji": "Laundry",
+        "english": "Laundry",
+        "explanation": "This post-it card lists basic vocabulary.",
+        "exampleJp": "洗濯機を起動する。",
+        "exampleEn": "Start the washing machine.",
+        "tip": "Laundry -  A daily task often done at home. "
+      }
+    ],
+    "culturalInsight": "The Japanese concept of 'omotenashi' emphasizes hospitality and meticulous attention to detail, extending even to the domestic sphere. This translates into a meticulous approach to cleaning, tidying, and everyday routines. While Western homes might prioritize function, Japanese households often focus on creating a sense of tranquility and harmony within their living spaces.",
+    "quiz": {
+      "question": "What is a common practice in Japanese evening routine that reflects 'omotenashi' ?",
+      "options": [
+        "Working late into the night.",
+        "Preparing elaborate dinners for guests.",
+        "Cleaning and tidying after dinner.",
+        "Watching television with family members"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Option 3 accurately reflects 'omotenashi' as it emphasizes the importance of maintaining a clean and organized living space."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\", \"@type\": \"Article\"}",
+    "imagePrompt": "An image of a Japanese household at night. It shows the interior of a house with a traditional tatami floor, soft lighting from table lamps and minimal clutter. The focus should be on the everyday routines, such as reading books, preparing tea or simply relaxing on the sofa.",
+    "thumbnailUrl": "/images/level4-unique-slug-1786181902159-1786182029583.jpg",
+    "thumbnailAlt": "An image of a Japanese household at night. It shows the interior of a house with a traditional tatami floor, soft lighting from table lamps and minimal clutter. The focus should be on the everyday routines, such as reading books, preparing tea or simply relaxing on the sofa.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1786172159613",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
