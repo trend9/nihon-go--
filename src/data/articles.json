@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1786162329598-1786162468321",
+    "title": "Living Japanese Life: A Morning Routine & Household Essentials",
+    "subtitle": "Navigating everyday routines and mastering the basics of your Japanese home.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article offers a glimpse into the daily lives of Japanese people and equips English speakers with basic vocabulary and understanding to navigate their routines. Discover essential household items and familiarize yourself with common morning activities in Japan.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine waking up to the aroma of freshly brewed green tea and sunlight streaming through your paper-screened window in a cozy Japanese apartment. You reach for your smartphone – it's time for your daily dose of news and social media before heading out for your morning commute. In this piece, we delve into the world of everyday Japanese life, showcasing how simple routines and household objects contribute to a unique rhythm that defines life in Japan.",
+    "grammarExplanation": "This article introduces common grammar points relevant to Japanese sentence construction, specifically focusing on particles, verb conjugation, and basic question-asking. It provides examples of sentences with correct subject-object-verb (SOV) order commonly found in Japanese, as well as how to form simple questions using particles such as 'は' (wa), 'が' (ga).",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Kitchen Essentials",
+        "japanese": "キッチン用品",
+        "kana": "Kikin-yō-you-ni",
+        "romaji": "Kitchen Supplies",
+        "english": "Kitchen Supplies",
+        "explanation": "A list of commonly used kitchen items like a rice cooker, chopsticks, and bowls.",
+        "exampleJp": "炊飯器、箸、碗は必須の kitchen用品です。",
+        "exampleEn": "Rice cookers, chopsticks, and bowls are essential kitchen supplies.",
+        "tip": "You can also learn the pronunciation of these words by listening to Japanese audio resources."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Morning Routine",
+        "japanese": "朝 routines",
+        "kana": "Asa rō-tensu",
+        "romaji": "Morning Routine",
+        "english": "Morning Routine",
+        "explanation": "This covers basic words for morning activities like waking up, making coffee, and brushing teeth.",
+        "exampleJp": "おはよう！コーヒーを淹れて、歯を磨いて朝の準備をする。",
+        "exampleEn": "Good Morning!  I'm brewing coffee and brushing my teeth to start the morning routine.",
+        "tip": "Use this vocabulary in conversation when speaking with Japanese people. It helps you show understanding of their lifestyle."
+      }
+    ],
+    "culturalInsight": "Living in Japan is much more than just a bustling city experience. The country boasts a strong emphasis on community and tradition, reflected in daily routines and household practices. From the morning rituals to the evening tea ceremony, Japanese life follows a delicate rhythm that embodies respect for order and shared space. Witnessing this cultural perspective can enrich your travel experience.",
+    "quiz": {
+      "question": "What is the most common method of preparing rice in Japan? ",
+      "options": [
+        "Using an electric rice cooker",
+        "Steaming over a fire",
+        "Boiling in a pot on the stove",
+        "Shaving with a knife and rolling on a wooden table."
+      ],
+      "correctAnswerIndex": "0",
+      "explanation": "Japanese people often prepare rice using an electric rice cooker. This convenient appliance ensures perfectly cooked grains without any mess! It's a staple in Japanese households, making life easier. While other options are possible, the rice cooker is the most common method."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up photograph of a traditional Japanese tea set with whitewashed walls and paper screens in the background",
+    "thumbnailUrl": "/images/level2-unique-slug-1786162329598-1786162468321.jpg",
+    "thumbnailAlt": "A close-up photograph of a traditional Japanese tea set with whitewashed walls and paper screens in the background",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1786152595023-1786152707746",
     "title": "Eating Out Like a Local: Japanese Dining Etiquette and Seasonal Delights",
     "subtitle": "A Beginner's Guide to Ordering in Japan",
