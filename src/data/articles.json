@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1786152595023-1786152707746",
+    "title": "Eating Out Like a Local: Japanese Dining Etiquette and Seasonal Delights",
+    "subtitle": "A Beginner's Guide to Ordering in Japan",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Welcome to the world of Japanese cuisine! This beginner's guide will unlock the secrets of ordering food in Japan, from basic etiquette to understanding seasonal offerings.  Let's embark on a culinary adventure together.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine stepping into a bustling Japanese restaurant, surrounded by vibrant energy and the tantalizing aromas of freshly prepared dishes. While navigating this experience might feel daunting at first, mastering basic dining etiquette in Japan can open doors to deeper appreciation for this unique culinary culture. This guide will equip you with essential knowledge and help you enjoy your meal like a local.",
+    "grammarExplanation": "Japanese grammar uses grammatical particles, honorifics, and sentence structure to express nuanced meaning. For example, 'いただきます' (itadakimasu) is a respectful phrase used before eating and signifies gratitude for the meal.  Understanding these subtle elements can elevate your experience beyond just ordering food.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-today",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyō wa",
+        "english": "Today",
+        "explanation": "This is a simple and common phrase used to indicate the current day.",
+        "exampleJp": "今日はとても寒いですね。\n(Kyō wa totemo samishii desu ne.)",
+        "exampleEn": "It's quite cold today, isn't it? ",
+        "tip": "The word 'today' can also be used in a more general context like 'Today I went to the park.'."
+      },
+      {
+        "id": "p-vocabulary-dish",
+        "color": "pink",
+        "title": "Vocabulary: 料理",
+        "japanese": "料理",
+        "kana": "ryōri",
+        "romaji": "ryōri",
+        "english": "Food",
+        "explanation": "This is the Japanese word for food.",
+        "exampleJp": "今日はおいしい料理を食べる。(Kyou wa oishii ryōri wo tabar.)",
+        "exampleEn": "Today, I'm looking forward to having some delicious food.",
+        "tip": "Often you will hear this in restaurant settings - 'I would like a [dish name]'."
+      }
+    ],
+    "culturalInsight": "A cultural insight:  \nJapanese meals are often about sharing and enjoying the company of others.  If you are dining with friends or family, it is considered respectful to wait for your host to finish their meal before beginning your own. In some cases, the host might serve a small portion of food to each guest, signaling they should begin eating.",
+    "quiz": {
+      "question": "What is the appropriate way to say 'thank you' after a meal in Japanese?",
+      "options": [
+        "Arigato gozaimasu",
+        "Konnichiwa",
+        "Sayonara",
+        "Oyasumi nasai"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'Arigato gozaimasu', which translates to 'thank you'. This polite phrase is commonly used in various situations in Japan."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\", \"@type\": \"Article\", \"headline\": \"Eating Out Like a Local: Japanese Dining Etiquette and Seasonal Delights\", \"description\": \"Welcome to the world of Japanese cuisine! This beginner's guide will unlock the secrets of ordering food in Japan, from basic etiquette to understanding seasonal offerings.  Let's embark on a culinary adventure together.\", \"mainEntityOfPage\": { \"@type\": \"Page\", \"id\": \"level1-unique-slug-1786152595023\"}, \"image\": {\"url\": \"link to image\"}}",
+    "imagePrompt": "A photorealistic scene of a modern Japanese restaurant, with smiling diners enjoying their meals. It should be vibrant and colorful, reflecting the culture's enthusiasm for food.",
+    "thumbnailUrl": "/images/level1-unique-slug-1786152595023-1786152707746.jpg",
+    "thumbnailAlt": "A photorealistic scene of a modern Japanese restaurant, with smiling diners enjoying their meals. It should be vibrant and colorful, reflecting the culture's enthusiasm for food.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1786138921004",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
