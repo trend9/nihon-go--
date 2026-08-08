@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1786224678679-1786224807436",
+    "title": "Unexpected Happenings: When You Need Help, How to Ask for Assistance",
+    "subtitle": "An English language guide for navigating unexpected events and requesting assistance.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to confidently communicate your needs during unexpected events in Japanese. This article provides guidance on expressing urgency and requesting assistance, utilizing authentic vocabulary and sentence structures.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "It's 3 p.m., and you're enjoying a leisurely afternoon coffee outside your apartment building when suddenly, the power goes out. Your phone starts to buzz with notifications - someone has misplaced their wallet in a crowded market, and you can hear panicked shouts from across the street. Unexpected events happen all the time - whether it be misplacing your keys or a sudden emergency. Learning how to communicate effectively during such situations is essential for navigating life smoothly in Japan. This article provides an easy-to-follow guide on expressing urgency and requesting assistance in Japanese, including key phrases, grammar details, and cultural context.",
+    "grammarExplanation": "Japanese sentence structure follows a subject-verb-object order, with particles (助詞) playing a crucial role in conveying meaning. Verbs are conjugated based on tense and mood, while honorifics can indicate politeness or formality depending on the situation. This article focuses on phrases for requesting assistance, including expressing urgency and offering support. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 緊急事態 (Kyoukyō-jitsu)",
+        "japanese": "緊急事態",
+        "kana": "Kyōkyō jitsu",
+        "romaji": "Emergency Situation",
+        "english": "Emergency situation",
+        "explanation": "This is a broad term referring to a serious situation requiring immediate attention. 緊急事態 (Kyōkyō jitsu) means an emergency situation and often used as a catch-all phrase.",
+        "exampleJp": "大変な状況です。緊急事態です。\n(Taihen na jitsū desu. Kyōkyō jitsu desu.)",
+        "exampleEn": "It's a very serious situation. An emergency situation has occurred.\n",
+        "tip": "This is an everyday expression that can be used for unexpected situations."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 助けを求める (Tsuki wo moteru)",
+        "japanese": "助けを求める",
+        "kana": "Tata wo moteru",
+        "romaji": "Help to request.",
+        "english": "To ask for help",
+        "explanation": "Asking for help is a common and essential part of daily life in Japan. This post-it focuses on the Japanese phrase '助けを求める' which literally translates to \"to ask for help.\". It can be used for various situations, such as needing assistance with a simple task or facing an unexpected challenge.",
+        "exampleJp": "困った状況では、助けてほしいと言いたい。\n(Konatta jitsū de, tasukete hoshii to itai.)",
+        "exampleEn": "If I'm in a difficult situation and need help, I would say: 'I'd like some help. '\n",
+        "tip": "Use this phrase when needing assistance from someone else."
+      }
+    ],
+    "culturalInsight": "Navigating unexpected events can be an experience of cultural immersion. Japan has a strong societal value to maintain harmony and community support, which often translates to being more cautious when encountering unforeseen circumstances. The Japanese culture places high importance on group cohesion and collective responsibility, emphasizing the 'help each other' mentality. This means that even if you are not directly experiencing a difficult situation, it is important to understand how others might be feeling and offer help where possible. ",
+    "quiz": {
+      "question": "What is a common Japanese term for expressing an urgent need for help? \n",
+      "options": [
+        "助けを求める (Tsuki wo moteru)",
+        "緊急事態 (Kyoukyō jitsu) ",
+        "急ぐ (Jūgu) ",
+        "困る (Konru)"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": "The correct answer is '助けを求める (Tsuki wo moteru)' which means to ask for help.  It's a versatile phrase used in various situations when seeking assistance, emphasizing the need for support and collaboration."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"headline\":\"Unexpected Happenings: When You Need Help, How to Ask for Assistance\"}",
+    "imagePrompt": "A photo of two people looking concerned in front of a neon-lit building with a traditional Japanese wooden door in the background. The woman holds up her hand and gestures towards a man who looks worried about something off-camera.",
+    "thumbnailUrl": "/images/level3-unique-slug-1786224678679-1786224807436.jpg",
+    "thumbnailAlt": "A photo of two people looking concerned in front of a neon-lit building with a traditional Japanese wooden door in the background. The woman holds up her hand and gestures towards a man who looks worried about something off-camera.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1786214421675",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
