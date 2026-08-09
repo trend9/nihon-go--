@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1786258569459-1786258723843",
+    "title": "Finding Beauty in Imperfection: Understanding Japanese Concepts of Wabi-Sabi and Mono No Aware",
+    "subtitle": "A beginner's guide to appreciating the art of imperfection.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article explores the philosophical concepts of wabi-sabi and mono no aware, key elements in understanding Japanese aesthetics. Designed for learners starting their journey with the language, this guide offers an accessible introduction to these profound ideas through relatable examples.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine a simple teacup nestled amidst weathered wood and ancient moss. You might find beauty in its rustic charm, despite its imperfections. This is the essence of wabi-sabi, a Japanese aesthetic that celebrates imperfection and finds grace in the natural cycle of decay. It's about appreciating simplicity and finding solace in things as they are, not in their idealized forms.  ‘Wabi-sabi’ literally translates to ‘wabi’ (rustic, simple) and ‘sabi’ (the beauty of aging and change), highlighting the acceptance of impermanence and the inherent value of everyday objects.\nMono no aware, often translated as 'the pathos of things', goes further. It captures the poignant awareness of life's fleeting nature.  It acknowledges the inevitability of decay and loss, but also recognizes their delicate beauty, leaving us with a sense of profound acceptance.\nThese Japanese concepts go beyond mere aesthetics, offering a deeper understanding of life itself. They invite us to see beyond superficiality and embrace the inherent beauty found in imperfection, finding meaning in the natural flow of time.",
+    "grammarExplanation": "This article explores the use of basic sentence structure in English to convey grammatical ideas. It focuses on simple tenses like present tense, past tense, and future tense. The guide also touches upon common vocabulary words like 'to be', 'to have', and 'to do' and their usage in sentences. Additionally, it discusses punctuation, such as the use of commas and periods. A basic understanding of these concepts is crucial for effective communication in English.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyō",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This phrase signifies 'today', a simple and foundational part of daily conversation. It helps establish the present moment as the focus point, allowing for further exploration into Japanese culture.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "The weather is great today, isn't it?",
+        "tip": "Speak slowly and clearly when using this word. Try pronouncing 'kyou' at different speeds to get used to its sound."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 自然",
+        "japanese": "自然",
+        "kana": "shizen",
+        "romaji": "shisen",
+        "english": "Nature",
+        "explanation": "This is a core concept that captures the essence of wabi-sabi, often used to represent the beauty found in natural things. It provides a lens for observing and appreciating the impermanence and change found in nature.",
+        "exampleJp": "自然は美しく、儚いものだ。",
+        "exampleEn": "Nature is beautiful and fleetingly transient.",
+        "tip": "Try to describe something in your immediate surroundings using this word. It can spark a deeper conversation about the beauty around you."
+      }
+    ],
+    "culturalInsight": "## Finding Beauty in Imperfection: A Cultural Insight\nJapanese art, philosophy and culture often showcase a deep appreciation for imperfection. Wabi-sabi is not just about appreciating the beauty of asymmetry or rustic elements; it's also about finding meaning in simplicity and embracing change.\nThe concept of mono no aware goes beyond aesthetics to explore the deeper aspects of life. It reminds us that all things, including ourselves, have a natural cycle of decay. Recognizing this inevitability doesn't diminish their value, but rather reveals an appreciation for the ephemeral beauty of each moment.\nThis philosophy has become embedded in everyday practices such as tea ceremony, pottery making and gardening. From appreciating a weathered stone sculpture to the simple act of eating a meal, these traditions highlight the beauty found in imperfection, prompting a deeper connection with life’s natural rhythm.",
+    "quiz": {
+      "question": "What does 'wabi-sabi' literally translate to?",
+      "options": [
+        "The beauty of change",
+        "A rustic aesthetic",
+        "The pathos of things",
+        "Simplicity and decay"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "‘Wabi-sabi’ literally translates to ‘wabi’ (rustic, simple) and ‘sabi’ (the beauty of aging and change), highlighting the acceptance of impermanence and the inherent value of everyday objects. "
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A still life image showcasing an antique teacup adorned with moss against a backdrop of traditional Japanese wooden architecture.",
+    "thumbnailUrl": "/images/level1-unique-slug-1786258569459-1786258723843.jpg",
+    "thumbnailAlt": "A still life image showcasing an antique teacup adorned with moss against a backdrop of traditional Japanese wooden architecture.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1786249307320",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
