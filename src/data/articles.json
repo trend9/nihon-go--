@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1786367257803-1786367379289",
+    "title": "Checking In: Your Guide to Ryokan Etiquette for English Speakers",
+    "subtitle": "A beginner's guide to Japanese inn accommodations and dining customs.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Learn how to navigate the world of traditional Japanese inns (ryokans) and understand the unique dining etiquette associated with them. This beginner's guide provides a helpful overview for English speakers.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to Japan! Stepping into a ryokan is like stepping back in time. Quaint courtyards, tatami mats, and the soft murmur of traditional music create an atmosphere that feels truly authentic. It's also where you'll experience a unique dining culture based on ancient customs – but fear not, this beginner's guide will give you the confidence to navigate your first ryokan stay.",
+    "grammarExplanation": "This article uses simple and straightforward grammatical structures suitable for learners. We'll focus on basic sentence structure, word order, and common grammatical elements like subject-verb-object (SVO) pattern, helping you understand how sentences are built. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "本日は、おやすみ　",
+        "kana": "Hon-no-bi, oyasumi",
+        "romaji": "hon-no-bi, oyasumi",
+        "english": "Today's Day - Good Morning/Goodbye",
+        "explanation": "Greetings for the day and a polite good morning or goodbye. This is used in formal situations such as a ryokan.",
+        "exampleJp": "本日は、おやすみ　",
+        "exampleEn": "Good morning, it's a beautiful day!",
+        "tip": "Say '今日はいい天気だ' for 'It's a nice day today' in a casual setting."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  旅館 (Ryokan)",
+        "japanese": "旅館 (ryokan)",
+        "kana": "Ryo-kan",
+        "romaji": "ryokan",
+        "english": "Ryokan",
+        "explanation": "A traditional Japanese inn.",
+        "exampleJp": "旅館に泊まります、 (Kyo-ya ni, yo-bo-masu)",
+        "exampleEn": "I will stay at a ryokan for the night.",
+        "tip": "Ryokans are traditionally run by families with generations of experience."
+      }
+    ],
+    "culturalInsight": "A traditional Ryokan is more than just lodging. Imagine spending the night in a wooden haven nestled amongst cherry blossoms, and waking up to traditional tea ceremonies. These inns are often located near temples or scenic locations, offering guests an immersive cultural experience. The ryokans offer a unique blend of comfort and tradition, allowing you to truly connect with Japanese hospitality.\n\nBeyond the tatami mats and exquisite gardens,  Ryokans encourage calm and serenity. This tranquility is central to their cultural ethos: guests are welcomed into a world where time seems to slow down, encouraging relaxation and inner peace.",
+    "quiz": {
+      "question": "What is the traditional Japanese term for 'Inn'?",
+      "options": [
+        "民宿 (Minzu)",
+        "旅館 (Ryokan)",
+        "ホテル (Hotel)",
+        "ペンション (Pen-shon)"
+      ],
+      "correctAnswerIndex": "1",
+      "explanation": "The correct answer is '旅館' (Ryokan). Ryokans are a unique type of Japanese inn with a distinct cultural history."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An illustration of a serene traditional Japanese garden with visitors enjoying tea in a Ryokan. ",
+    "thumbnailUrl": "/images/level1-unique-slug-1786367257803-1786367379289.jpg",
+    "thumbnailAlt": "An illustration of a serene traditional Japanese garden with visitors enjoying tea in a Ryokan. ",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1786357101435-1786357224028",
     "title": "Cheers to Colleagues: Mastering the Art of Japanese Toast",
     "subtitle": "A nuanced guide for navigating Japan's social graces at night.",
