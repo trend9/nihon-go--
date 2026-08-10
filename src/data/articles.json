@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1786357101435-1786357224028",
+    "title": "Cheers to Colleagues: Mastering the Art of Japanese Toast",
+    "subtitle": "A nuanced guide for navigating Japan's social graces at night.",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "This article delves into the intricacies of Japanese toast expressions, offering a glimpse into the nuanced social etiquette woven into Japan's night culture. From formal gatherings to casual after-work celebrations, learn how to navigate your Japanese colleagues with grace and understanding. ",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "The moon hangs like a silent witness over Tokyo as the city hums with an electric energy unique to the night hours. This is when work fades into a gentle afterglow and conversations flow freely under the soft glow of neon signs. And while enjoying a celebratory toast, Japanese colleagues exchange witty banter and profound insights - often punctuated by a well-timed 'cheers' to commemorate their camaraderie. The art of the Japanese toast expression goes far beyond mere clinking glasses; it is a reflection of deep societal values and a testament to the importance of human connection.  Tonight's article explores these intricate nuances, offering readers the chance to master the art of navigating Japan’s social tapestry with confidence and grace.",
+    "grammarExplanation": "The Japanese language utilizes grammatical structures that rely on nuance and context, often employing formality based on age, relationship, and location. The use of honorifics such as '-san' or 'kun', along with word choice, is crucial in conveying the intended message of respect and politeness. Learn how to navigate these delicate aspects for smooth interactions with your colleagues.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "green",
+        "title": "Vocabulary: 今日は",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyō wa",
+        "english": "Today",
+        "explanation": "This is a common way to express 'today', commonly used at the start of any conversation.",
+        "exampleJp": "今日は良い天気ですね。\n(Kyō wa yoi tenki desu ne.)",
+        "exampleEn": "It's a nice day today, isn’t it?",
+        "tip": "Say 'kyou wa' before starting to talk about anything. It will show respect and formality."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "blue",
+        "title": "Vocabulary: ありがとうございます",
+        "japanese": "ありがとうございます",
+        "kana": "arigatou gozaimasu",
+        "romaji": "arigato gozaimasu",
+        "english": "Thank you",
+        "explanation": "It's a common phrase used to express gratitude in Japanese. This phrase can be utilized at any moment of the conversation or work.",
+        "exampleJp": "先生、ありがとうございます。\n(Sensei, arigatou gozaimasu.)",
+        "exampleEn": "Thank you, teacher. ",
+        "tip": "Use this when receiving any kind of favor from someone. Whether it's something small or big."
+      }
+    ],
+    "culturalInsight": "Beyond the mechanics of a toast, understanding the Japanese notion of 'wabi-sabi' and 'kanso' can offer valuable insights. Wabi-sabi embraces imperfection, finding beauty in the rough edges and transience of life. This philosophy resonates in Japanese hospitality where attention is paid to every detail, from a warm welcome to a thoughtfully curated menu.  Kanso, meaning simplicity, seeks to appreciate the inherent value of everyday objects. In this context, a simple glass of sake at a workplace event may hold deeper significance than its Western equivalent.",
+    "quiz": {
+      "question": "What is the typical Japanese toast expression used after clinking glasses with colleagues?",
+      "options": [
+        "Konnichiwa",
+        "Arigatou",
+        "Sayonara",
+        "Shichigosai"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "While 'Konnichiwa' means hello, 'Arigatou' is the most common expression of thanks used after clinking glasses in Japanese toast. It signifies appreciation for the company and a shared moment."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"headline\":\"Cheers to Colleagues: Mastering the Art of Japanese Toast\"}",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo preparing a delicious nigiri sushi, with a steaming glass of sake beside him, at a dimly lit restaurant counter.",
+    "thumbnailUrl": "/images/level5-unique-slug-1786357101435-1786357224028.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo preparing a delicious nigiri sushi, with a steaming glass of sake beside him, at a dimly lit restaurant counter.",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1786347785371",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
