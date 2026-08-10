@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1786326313101-1786326419505",
+    "title": "Toasting Your Colleagues: A Guide to Japanese Congratulatory Phrases",
+    "subtitle": "Learn how to celebrate your colleagues with authentic Japanese expressions.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to express congratulations in your workplace with easy Japanese phrases and toast expressions. This guide focuses on the time of day, level 2 vocabulary, and offers a cultural insight into Japanese customs around celebrations.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Congratulations! You've just wrapped up a project you were excited to complete, or maybe you’re celebrating an anniversary. Whether it’s good news or simply sharing in the joy of colleagues, Japanese culture offers a beautiful way to show appreciation and celebrate achievements. Mastering these simple phrases will elevate your interactions with coworkers in Japan.",
+    "grammarExplanation": "This article focuses on basic sentence structures, including how to use honorific titles (Mr./Ms.), adding politeness, and incorporating common greetings. By understanding the nuance of Japanese language, you'll be able to seamlessly navigate conversations.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: ありがとう",
+        "japanese": "ありがとう (Arigatou)",
+        "kana": "arigatō",
+        "romaji": "Arīgatou",
+        "english": "Thank you",
+        "explanation": "This is the most commonly used expression for saying thank you, and it can be easily adapted to different situations. Use this phrase after receiving compliments, acknowledging contributions in projects, or simply when expressing appreciation for someone’s efforts. ",
+        "exampleJp": "今日はプロジェクトで大変お世話になりました。ありがとうございます (Kyō wa jō-ryoku de taihen osow-e-remashite, arigatou gozaimasu.)",
+        "exampleEn": "I appreciate you all so much for your hard work on the project. I'm grateful for your support and help.",
+        "tip": "You can say this with a slight bow or nod of thanks to show respect."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: ごちそうさま (Gochisousama)",
+        "japanese": "ご(Go) ちそうさま (gochi-sou-sama)",
+        "kana": "gochi-sou-sama",
+        "romaji": "Goshisousama",
+        "english": "Thank you for the delicious meal/food",
+        "explanation": "A good way to say ‘thank you’ after a shared meal or when someone has prepared food. It can be used as a general expression of appreciation, particularly in a workplace setting.",
+        "exampleJp": "今日のランチ、ありがとうございます (Kyō wa lunch-ni, arigatou gozaimasu.)",
+        "exampleEn": "Thank you for the delicious lunch today!",
+        "tip": "Use this phrase when giving a sincere ‘thank you’ for food or drink."
+      }
+    ],
+    "culturalInsight": "A Toast to Success: A Glimpse into Japanese Work Culture\nJapanese work culture values collaboration and mutual respect. When congratulating colleagues, expressions of gratitude are common and often incorporated in a toast. The act of raising a glass in appreciation for their achievements is significant, symbolizing camaraderie and shared success.  The traditional Japanese custom of offering a 'drink before meal' is a testament to the importance of building connection through meals. \n\nRemember that formality plays an important role in Japanese society, so be mindful of your language choice and tone when expressing congratulations.\n",
+    "quiz": {
+      "question": "What is a common phrase for thanking someone in Japan?",
+      "answerIndex": 0,
+      "options": [
+        "Thank you.",
+        "You're welcome.",
+        "Thanks.",
+        "My pleasure."
+      ],
+      "explanation": "The correct answer is ‘Thank you.’ as it is a common and essential phrase used in various situations. The simple expression conveys sincerity and appreciation."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up of two colleagues raising their glasses for a toast with smiling faces against a traditional Japanese wooden desk and office setting.",
+    "thumbnailUrl": "/images/level2-unique-slug-1786326313101-1786326419505.jpg",
+    "thumbnailAlt": "A close-up of two colleagues raising their glasses for a toast with smiling faces against a traditional Japanese wooden desk and office setting.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1786311318441",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
