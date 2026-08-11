@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1786432040512-1786432140778",
+    "title": "Lost? Don't Panic! Asking for Directions at the Subway Station.",
+    "subtitle": "A quick guide to navigating Tokyo's bustling subway system.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article will walk you through navigating the subway station. Learn essential phrases and tips for a smooth journey.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating Tokyo's bustling subways can be daunting at first. The crowds, announcements in rapid-fire Japanese, and complex route maps can leave even seasoned travelers confused. But fear not! Mastering basic phrases will help you confidently ask for directions, find your way to your destination, and avoid any embarrassing moments.  \nThis article provides a quick guide for those facing the unfamiliar world of Tokyo's subway system, offering practical tips and essential vocabulary.  Let's dive in and become subway pros!\n\n*",
+    "grammarExplanation": "While Japanese grammar can be complex, the fundamentals remain relatively straightforward in asking for directions within a subway station. This article focuses on simple sentence structures, including verb-subject-object (VSO) order and common politeness phrases like 'arigato gozaimasu' (thank you).",
+    "postIts": [
+      {
+        "id": "p123",
+        "color": "yellow",
+        "title": "Vocabulary: Today!",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyo",
+        "english": "Today",
+        "explanation": "This is a basic word that means 'today.' Use this when discussing the current day.",
+        "exampleJp": "今日の天気は晴れですね",
+        "exampleEn": "It's going to be a sunny day today.",
+        "tip": "To use this with a question, add 'kan' at the beginning of the sentence like  'kyou kan desu ka?' (Is it today?)"
+      },
+      {
+        "id": "p124",
+        "color": "pink",
+        "title": "Vocabulary: Where?",
+        "japanese": "どこ",
+        "kana": "doko",
+        "romaji": "dōko",
+        "english": "Where?",
+        "explanation": "This word means 'where' and is used to ask for directions. It can be used before asking a question or telling someone where you are going.",
+        "exampleJp": "どこへ行く？",
+        "exampleEn": "Where are you headed?",
+        "tip": "Use this with your destination in mind, such as 'dōko Shibuya ni' (Where to Shibuya station?)."
+      }
+    ],
+    "culturalInsight": "Navigating public transportation in Japan is an art form. Mastering the intricacies of the subway system can feel like learning a new language. The etiquette around using the trains and stations is often different from what's expected in other countries. For instance, you should always step aside to allow people entering or exiting the train car.\nThe Japanese are known for their politeness and respect for others, which is evident when travelling on public transport. Be mindful of this culture during your journey.",
+    "quiz": {
+      "question": "What does 'どこ' mean in English?",
+      "answerIndex": 0,
+      "options": [
+        "Where",
+        "When",
+        "How much",
+        "Who"
+      ],
+      "explanation": "The word 'どこ' means 'where' in Japanese. Use it when asking for directions."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\", \"@type\":\"Article\"}",
+    "imagePrompt": "A close-up photo of a young traveler holding an old subway map while looking at a smartphone screen in Tokyo with a cherry blossom backdrop and traditional Japanese architecture in the background.",
+    "thumbnailUrl": "/images/level2-unique-slug-1786432040512-1786432140778.jpg",
+    "thumbnailAlt": "A close-up photo of a young traveler holding an old subway map while looking at a smartphone screen in Tokyo with a cherry blossom backdrop and traditional Japanese architecture in the background.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1786422226200",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
