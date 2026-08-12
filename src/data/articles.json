@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1786540122305-1786540220016",
+    "title": "Dining Etiquette & Seasonal Delights: Mastering Japanese Cuisine",
+    "subtitle": "A guide to navigating the world of Japanese dining etiquette and enjoying seasonal dishes.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article explores the essential etiquette of Japanese dining and provides an insightful look into seasonal dishes. Perfect for beginners.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating the world of Japanese cuisine can feel daunting for those unfamiliar with its unique traditions. From basic greetings to proper etiquette during meals, understanding these nuances will significantly enhance your dining experience. This guide explores essential aspects of Japanese dining, including seasonal dishes, respectful customs, and common scenarios you might encounter.",
+    "grammarExplanation": "This article uses a simple and straightforward style of grammar to ensure clarity for readers learning Japanese. It avoids complex grammatical structures or long sentences. For example, it relies heavily on the use of short phrases and clear verbs to convey meaning.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This is a common way of saying 'today' in Japanese. It's useful when ordering food, especially at restaurants.",
+        "exampleJp": "今日は何食べたい？",
+        "exampleEn": "What would you like to order today?",
+        "tip": "The phrase uses the present tense for emphasis on the current moment."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: 食材",
+        "japanese": "食材",
+        "kana": "shokuai",
+        "romaji": "shokuai",
+        "english": "Ingredients",
+        "explanation": "This refers to the various items used in cooking. Using this word helps understand menus and ingredients in a restaurant.",
+        "exampleJp": "食材はたくさんあります。",
+        "exampleEn": "There are so many ingredients available.",
+        "tip": "The 'ai' sounds at the end have a soft, rounded sound in Japanese."
+      }
+    ],
+    "culturalInsight": "A well-known Japanese dining custom is to be mindful of others. It’s considered rude to speak loudly or interrupt while someone else is speaking, and it’s best to wait for your turn.",
+    "quiz": {
+      "question": "Which of these words means ‘food’ in Japanese?",
+      "options": [
+        "料理",
+        "食事",
+        "食べ物",
+        "飲み物"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '料理' (ryōi) - it means ‘food’ in Japanese. Other options are also related to food but not the same meaning."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up shot of a sushi chef crafting a perfect roll with his hands, surrounded by fresh ingredients and glistening under the warm glow of a traditional Japanese kitchen light. Background: Traditional wooden Japanese dining room.",
+    "thumbnailUrl": "/images/level2-unique-slug-1786540122305-1786540220016.jpg",
+    "thumbnailAlt": "A close-up shot of a sushi chef crafting a perfect roll with his hands, surrounded by fresh ingredients and glistening under the warm glow of a traditional Japanese kitchen light. Background: Traditional wooden Japanese dining room.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1786529215206",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
