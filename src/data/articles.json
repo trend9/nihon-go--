@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1786550440870-1786550558854",
+    "title": "Catching Up at the Izakaya: A Level 3 Japanese Conversation Guide",
+    "subtitle": "Navigating casual talk with friends in a lively Japanese izakaya setting.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn to navigate casual conversations at a Japanese izakaya. This guide covers key phrases and cultural insights, perfect for intermediate learners.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "The sun dips low, casting long shadows across the bustling streets of Japan's urban centers. Laughter spills from open-air bars in the form of casual conversation, a symphony of voices mingling with the sounds of clinking glasses and sizzling yakitori. This is the heart of an izakaya – a shared space where friendships blossom over bowls of ramen and plates of meticulously crafted snacks. But while the atmosphere is invitingly warm and welcoming, communication can feel tricky for those just learning Japanese.",
+    "grammarExplanation": "The text focuses on common grammatical structures like the use of polite speech markers and casual conversational turns. It highlights the presence of the conditional grammar in spoken phrases such as asking someone's opinion or expressing a desire for something, utilizing 'かな' (kana) and ' Romaji' (romanization), to assist with pronunciation.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "Kyō wa",
+        "english": "Today",
+        "explanation": "This phrase signals the present day. \"Kyou wa\" is a common way to ask about someone’s current status or mood in Japanese.",
+        "exampleJp": "今日は天気がいいですよ。\n(Kyō wa tenki ga ii desu yo.)",
+        "exampleEn": "The weather is nice today, you know. \"I hope the day goes well!\" ",
+        "tip": "Learn to use this phrase with confidence, and it will help your conversations flow smoothly."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  飲み物",
+        "japanese": "飲み物",
+        "kana": "nomimono",
+        "romaji": "Nomimono",
+        "english": "Beverage",
+        "explanation": "The term 'nomimono' encompasses a wide range of drinks, from simple water to alcoholic beverages. You can use this phrase to politely request something to drink at a bar or restaurant.",
+        "exampleJp": "飲み物はどれですか？\n(Nomimono wa dō desu ka?)",
+        "exampleEn": "What would you like to drink? ",
+        "tip": "When ordering drinks, use this word for clarity. You'll find it easier to order food items using this phrase as well."
+      }
+    ],
+    "culturalInsight": "The Izakaya: More Than Just a Bar\nIn Japan, the izakaya represents not just a place to enjoy a drink but also a social space for building bonds. The casual atmosphere encourages relaxed conversation and laughter. It's where friends gather to share stories, discuss their lives, and experience a sense of community.\nUnderstanding this cultural context can enrich your Japanese conversations and help you appreciate the true spirit of a shared meal in an izakaya.",
+    "quiz": {
+      "question": "What is the meaning of the phrase \"今日はいい天気ですか？\"?",
+      "options": [
+        "Do you want to eat now? (どうした？)",
+        "Is there something wrong with your stomach? (お腹が鳴ってる？)",
+        "Is today a good day for going out? (今日の天気は大丈夫？)",
+        "I'm hungry. Can we order food? (食べようよ！)"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "This question tests your understanding of the sentence structure and the meaning of the phrase \"今日はいい天気ですか？\" \"It asks a simple but important question about weather for everyday conversations. It's best to ask this in a lighthearted tone."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level3-unique-slug-1786550440870-1786550558854.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1786540122305-1786540220016",
     "title": "Dining Etiquette & Seasonal Delights: Mastering Japanese Cuisine",
     "subtitle": "A guide to navigating the world of Japanese dining etiquette and enjoying seasonal dishes.",
