@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1786636838295-1786636968967",
+    "title": "Dining Etiquette and Seasonal Delights in Japan: A Beginner's Guide",
+    "subtitle": "Unlock the secrets of Japanese dining culture.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article will introduce you to basic dining etiquette in Japan.  You'll learn about ordering food at restaurants, understanding table manners, and appreciating the seasonal dishes that Japan offers.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to the world of Japanese cuisine! From elegant sushi bars to casual izakayas, dining in Japan is a unique experience. This guide will help you navigate the often-confusing world of Japanese etiquette and delve into the exciting flavors of seasonal dishes. Let's begin with some essential cultural knowledge to make your journey smoother and more enjoyable.",
+    "grammarExplanation": "Japanese grammar follows subject-verb-object (SVO) sentence structure, although it can be more complex in spoken language. Adjectives usually precede nouns, and particles are used extensively to clarify relationships between words. This article uses simple sentences with clear verb conjugation and avoids overly formal or complicated constructions for the sake of clarity.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: 挨拶",
+        "japanese": "こんにちは (konnichiwa)",
+        "kana": "Konnichiwa",
+        "romaji": "Konnichiwa",
+        "english": "Hello/Greetings",
+        "explanation": "Learn to greet people with a simple 'hello' or 'good morning'. This is essential in any social situation.",
+        "exampleJp": "こんにちは、先生 (konnichiwa, sensei)",
+        "exampleEn": "Hello, teacher.",
+        "tip": "Say ‘Konnichiwa’ when you meet someone for the first time."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary:  おやすみなさい (Oyashinaimasu)",
+        "japanese": "おやすみなさい (Oyasuminasai)",
+        "kana": "Oyasumi-nasai",
+        "romaji": "Oyasumi-nasai",
+        "english": "Goodnight.",
+        "explanation": "Say this when you are leaving the table or end your meal. It shows respect for those around you and for the host.",
+        "exampleJp": "おやすみなさい、先生 (oyasumi nasai, sensei)",
+        "exampleEn": "Good night, teacher.",
+        "tip": "Say 'Oyasuminasai' when leaving the table to show your thanks."
+      }
+    ],
+    "culturalInsight": "Japan places great importance on etiquette and social manners. Understanding these nuances helps create a more pleasant dining experience. For example, removing one’s shoes before entering homes is common courtesy in Japan, but it may seem unusual for foreigners.  A simple act like asking permission to enter the home or kitchen with your shoes on can be considered rude.",
+    "quiz": {
+      "question": "What is a good greeting to use when visiting someone's house? ",
+      "options": [
+        "Konnichiwa",
+        "Oyasumi nasai",
+        "Arigatou gozaimasu",
+        "Hajimemashite"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": "The correct answer is 'Konnichiwa' as it is a common and appropriate greeting in Japan. It’s used for any casual or formal situation."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\",\"@type\": \"Article\", \"name\": \"Dining Etiquette and Seasonal Delights in Japan: A Beginner's Guide\", \"description\": \"This article introduces you to basic dining etiquette in Japan, including how to order food at restaurants, understand table manners, and appreciate seasonal dishes.  It is written with clarity in mind for beginner learners.   \" ,\"image\": \"https://your-website/images/japan-cuisine-dinner.jpg\", \"author\": \"Emma Sterling\" }",
+    "imagePrompt": "A stylish photograph of an array of sushi rolls and sashimi displayed on a bamboo tray, surrounded by fresh vegetables and herbs in a traditional Japanese restaurant setting.",
+    "thumbnailUrl": "/images/level1-unique-slug-1786636838295-1786636968967.jpg",
+    "thumbnailAlt": "A stylish photograph of an array of sushi rolls and sashimi displayed on a bamboo tray, surrounded by fresh vegetables and herbs in a traditional Japanese restaurant setting.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1786626673947",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
