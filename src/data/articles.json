@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1786682974663-1786683088345",
+    "title": "Finding Zen in Everyday Moments: Understanding Wabi-Sabi & Mono No Aware",
+    "subtitle": "A reflection on the beauty of imperfection and impermanence through Japanese philosophy.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Dive into the world of Japanese aesthetics, exploring concepts like wabi-sabi and mono no aware to enhance your understanding of beauty in imperfection. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In a society driven by relentless progress and visual perfection, it can be easy to overlook the subtle beauty found in imperfections. This is where the concepts of wabi-sabi and mono no aware come into play. These two deeply ingrained Japanese philosophies offer unique perspectives on appreciating the transient nature of things – even within our everyday lives.  As we move through the busy days, these principles invite us to slow down and truly observe the world around us;  the worn teacup in your hands, the fading sunlight on a cherry blossom tree, the rust-colored leaves of autumn. While wabi-sabi celebrates imperfection as inherent beauty, mono no aware acknowledges the inevitability of impermanence, urging us to cherish each moment.",
+    "grammarExplanation": "This article employs a formal and direct style typical of journalistic writing, with an emphasis on clear sentence structure and straightforward language suitable for an English audience. This reflects the level of complexity associated with philosophical concepts like wabi-sabi and mono no aware while maintaining clarity and engagement for readers. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: Today's Wisdom",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today's Wisdom",
+        "explanation": "The day’s essence, the present moment.",
+        "exampleJp": "今日は良い天気です。",
+        "exampleEn": "It is a good day today. ",
+        "tip": "Pronounce with a light and clear tone, emphasizing the first syllable."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary:  Impermanence",
+        "japanese": " impermanence (無常)",
+        "kana": "impermanence",
+        "romaji": "impe-ren-an-se",
+        "english": "Impermanence",
+        "explanation": "The transient nature of all things, including ourselves. ",
+        "exampleJp": "人生は儚く、変遷していくものだ。",
+        "exampleEn": "Life is fleeting and ever changing.",
+        "tip": "Think about a season turning into winter; the cycle repeats."
+      }
+    ],
+    "culturalInsight": "In a culture where simplicity and humility are deeply valued, wabi-sabi has permeated Japanese arts for centuries. From architecture to pottery, artists strive for imperfection in their creations, celebrating the beauty of flaws. This philosophical concept encourages us to find beauty in the mundane, appreciating the unique character found within even the simplest things.  Similarly, mono no aware teaches us to acknowledge the inevitable passing of time and the fleeting nature of life's joys. It invites us to embrace change as an integral part of life's journey. ",
+    "quiz": {
+      "question": "What does wabi-sabi in Japanese philosophy celebrate?\n\n* a. The pursuit of perfection.\n* b. The beauty of imperfection.\n* c. The inevitability of change.\n* d. Simplicity and humility.",
+      "options": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "answerIndex": 2,
+      "explanation": "The correct answer is **b. The beauty of imperfection.** Wabi-sabi celebrates the rustic charm of natural imperfections as a source of enduring beauty."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A minimalist illustration depicting a serene Japanese garden, with weathered stones and moss-covered trees. The colors should be muted with a focus on natural textures.",
+    "thumbnailUrl": "/images/level4-unique-slug-1786682974663-1786683088345.jpg",
+    "thumbnailAlt": "A minimalist illustration depicting a serene Japanese garden, with weathered stones and moss-covered trees. The colors should be muted with a focus on natural textures.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1786672549736",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
