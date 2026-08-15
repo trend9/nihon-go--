@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1786828893582-1786829022994",
+    "title": "Chasing Travel Dreams: From Japan Vacation Plans to Real Adventures",
+    "subtitle": "Unlocking Your Vacation Potential",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover the art of planning your dream vacations with this comprehensive guide. Learn how to articulate your travel desires, organize your itineraries, and even navigate potential cultural nuances to create unforgettable experiences.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine yourself relaxing on a Japanese beach, the sun warming your skin as you listen to the gentle lapping of waves. Picture yourself strolling through vibrant, historic streets, discovering hidden gems tucked away in alleyways. This is the magic of travel, the intoxicating feeling of escaping routine and embracing the unknown.  But the road to that blissful vacation might feel long and complicated. From figuring out your ideal trip duration to crafting a realistic budget, the process of planning a vacation can feel daunting.  But fear not, as this article provides a step-by-step guide to transforming your travel dreams into a tangible reality, all while understanding the nuances of Japanese culture. ",
+    "grammarExplanation": "This article employs a formal, yet approachable tone, employing a variety of sentence structures from simple to complex.  The use of direct questions and concise explanations is aimed at engaging a more mature audience of learners who have a basic understanding of Japanese. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary:  旅行",
+        "japanese": "旅行",
+        "kana": "ryoku",
+        "romaji": "ryoku",
+        "english": "Travel",
+        "explanation": "This is a common word in Japanese that represents travel in general. ",
+        "exampleJp": "私は旅行が好きです。",
+        "exampleEn": "I love to travel.",
+        "tip": "Note the pronunciation of this word."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  観光",
+        "japanese": "観光",
+        "kana": "kankou",
+        "romaji": "kankou",
+        "english": "Tourist",
+        "explanation": "This word represents activities that tourists engage in. ",
+        "exampleJp": "観光は楽しいです。",
+        "exampleEn": "Tourism is fun.",
+        "tip": "Think about how to use this word in a sentence."
+      }
+    ],
+    "culturalInsight": "While planning for your trip, understanding Japanese culture can enhance your travel experience.  For instance, the concept of 'wa,' meaning harmony or group cohesion, is deeply ingrained in Japanese society.  When engaging with locals, remember to observe customs and traditions.  Respect for elders and a sense of collectivism are important values in Japanese society.  By immersing yourself in local customs, you will not only experience a richer journey but also build deeper connections with the people you meet.",
+    "quiz": {
+      "question": "What is the Japanese word for 'travel'?",
+      "options": [
+        "旅行 (ryoku)",
+        "観光 (kankou)",
+        "仕事 (shigoto)",
+        "勉強 (benkyou)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The Japanese word for 'travel' is '旅行 (ryoku)'.  It encompasses all forms of travel, including business trips and leisure trips. "
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "thumbnailUrl": "/images/level3-unique-slug-1786828893582-1786829022994.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1786818585360-1786818729156",
     "title": "Getting to Know Your Home: Japanese Everyday Life",
     "subtitle": "A beginner's guide to understanding Japanese household routines",
