@@ -1,5 +1,61 @@
 [
   {
+    "id": "level2-unique-slug-1786818585360-1786818729156",
+    "title": "Getting to Know Your Home: Japanese Everyday Life",
+    "subtitle": "A beginner's guide to understanding Japanese household routines",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Dive into the world of Japanese home life with this beginner's guide to understanding common routines. Learn how to greet guests, make simple meals, and navigate your way through everyday tasks.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to Level 2! Mastering the basics of Japanese is a step towards understanding a culture that values respect, efficiency, and a dash of tradition. Today, we're exploring the heart of everyday life in Japan, learning to navigate your own home with ease. 今日は、家の中をもっと詳しく見てみましょう。",
+    "grammarExplanation": "Japanese grammar can seem complex, but don't be intimidated! This article focuses on simple, common verbs and phrases. It utilizes a mix of formal and informal language, reflecting the natural flow of daily conversations. Keep in mind that Japanese sentence structure often prioritizes subject-verb-object (SVO).",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "pink",
+        "title": "Vocabulary:  Home",
+        "japanese": "家",
+        "kana": "ie",
+        "romaji": "ie",
+        "english": "House",
+        "explanation": "This word defines the very foundation of Japanese everyday life. From 'お宅' (o-takai) for the family home, to '家の場所' (kono-no basho) for the location of your living space. ",
+        "exampleJp": "私は家について興味があります。",
+        "exampleEn": "I'm interested in the concept of a house.",
+        "tip": "Pronunciation tip: Emphasize the vowel sound in '家' by pronouncing 'eh' like 'ei' in 'eye'  as the first syllable."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "green",
+        "title": "Vocabulary:  Morning",
+        "japanese": "朝",
+        "kana": "asa",
+        "romaji": "as-",
+        "english": "Morning",
+        "explanation": "This word encompasses the start of the day in Japan. Notice how it blends into the '朝' in 'morning'. This is a testament to the cultural depth of the language. ",
+        "exampleJp": "今日は朝早く起きる必要があります。",
+        "exampleEn": "I need to wake up early today.",
+        "tip": "Pronunciation tip:  Start with a soft 'a' sound and emphasize the ending 'o' like 'oh'."
+      }
+    ],
+    "culturalInsight": "The Japanese home isn't just a place to live; it's a space for interaction, reflection, and community. The 'kitchen' is the heart of the home, and meals are often enjoyed with family and friends. Don't be surprised to see a tea ceremony involved in some homes, as a way to build deeper connections.  This article will help you to understand the subtle nuances of daily routines that are essential for a deeper understanding of the Japanese language.",
+    "quiz": {
+      "question": "Which of the following words means 'house' in Japanese?",
+      "options": [
+        "a",
+        "家"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": " '家' (ie) is the most direct translation for 'house' in Japanese."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An illustration of a traditional Japanese home with a bonsai tree in the garden, surrounded by a cherry blossom tree and a bamboo forest, a calm and peaceful atmosphere. The image should evoke a sense of tranquility and tradition.",
+    "thumbnailUrl": "/images/level2-unique-slug-1786818585360-1786818729156.jpg",
+    "thumbnailAlt": "An illustration of a traditional Japanese home with a bonsai tree in the garden, surrounded by a cherry blossom tree and a bamboo forest, a calm and peaceful atmosphere. The image should evoke a sense of tranquility and tradition.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1786807404718",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
