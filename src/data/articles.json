@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1786883878302-1786884015663",
+    "title": "Navigating the Art of Japanese Dining: A Season's Guide to Ordering",
+    "subtitle": "From seasonal dishes to polite etiquette, mastering the art of Japanese dining",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn the nuances of Japanese dining etiquette and discover the joy of seasonal dishes, all while enjoying authentic Japanese cuisine.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "A true taste of Japanese culture awaits for you in a bustling restaurant.  From the precise art of using chopsticks to the subtle intricacies of ordering seasonal dishes, learning the etiquette is key to experiencing the full joy of Japanese dining. But fear not!  This guide offers a roadmap to navigating this world of culinary sophistication, helping you master the art of ordering and engaging with the culture.  Even seasoned foodies will find new insights and appreciation for this unique dining experience. Today, we explore the art of seasonal dishes, the key to enjoying authentic flavors.",
+    "grammarExplanation": "This article will employ a mix of complex sentences and simple declarative sentences, reflecting the typical conversational style of a Japanese restaurant. The language is concise and direct, offering a clear explanation of intricate concepts.  Avoid overly complex sentence structures and focus on clarity.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-today",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyo",
+        "english": "Today",
+        "explanation": "This word signifies the current day. Use this word to refer to the current day in a Japanese sentence. ",
+        "exampleJp": "今日は何ですか？",
+        "exampleEn": "What is today?",
+        "tip": "Japanese pronunciation: 'kyo' with a short 'o' sound"
+      },
+      {
+        "id": "p-vocabulary-おせち",
+        "color": "blue",
+        "title": "Vocabulary: おせち",
+        "japanese": "おせち",
+        "kana": "osechi",
+        "romaji": "osechi",
+        "english": " osechi",
+        "explanation": "This term refers to a traditional Japanese meal eaten during New Year's. It is filled with various foods representing the hopes and wishes of the year. ",
+        "exampleJp": "おせち料理は特別な日ですね。",
+        "exampleEn": " osechi dishes are special for special days.",
+        "tip": "Japanese pronunciation: 'osechi' with a hard 'o' sound"
+      }
+    ],
+    "culturalInsight": "From the meticulous art of using chopsticks to the nuanced etiquette of dining, Japanese culture holds a distinct beauty in simplicity. It's about respecting the process and the company.  In a Japanese setting, a shared table becomes a canvas for cultural exchange and genuine human connection.  Embrace the cultural tapestry and relish the moment, even if you're unsure of every rule.  Don't be afraid to ask for help and learn from the experts, for they hold the key to unlocking the true magic of Japanese dining.",
+    "quiz": {
+      "question": "What is the main focus of this article? ",
+      "options": [
+        "The beauty and intricacies of Japanese dining etiquette.",
+        "A guide to ordering seasonal Japanese dishes.",
+        "Tips on using chopsticks properly in a Japanese dining setting.",
+        "An overview of Japanese culture and its impact on food."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This article focuses on the etiquette of dining in Japan, helping readers understand the nuances and intricacies of the experience."
+    },
+    "schemaMarkup": "<html><body><div class=\"schema-org-item\"><meta itemprop=\"name\" content=\"A beautiful Japanese dining experience\" /><meta itemprop=\"description\" content=\"Learn the nuances of Japanese dining etiquette and discover the joy of seasonal dishes, all while enjoying authentic Japanese cuisine.\"><meta itemprop=\"author\" content=\"Emma Sterling, Culture Desk\" /><div class=\"schema-org-article-image\"><img src=\"https://example.com/japanesediing.jpg\" alt=\"Japan dining\" /></div><div class=\"schema-org-article-content\"><p>This article explores the art of seasonal dishes, the key to enjoying authentic flavors, and provides a roadmap for navigating the complexities of Japanese dining etiquette. </p></div></div></body></html>",
+    "imagePrompt": "A detailed artistic illustration of a table setting in a traditional Japanese restaurant with a beautiful view of Tokyo in the background, showcasing the cultural elements of this experience.",
+    "thumbnailUrl": "/images/level3-unique-slug-1786883878302-1786884015663.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of a table setting in a traditional Japanese restaurant with a beautiful view of Tokyo in the background, showcasing the cultural elements of this experience.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1786872465798-1786872569310",
     "title": "Congratulating Colleagues: A Toast in Japanese",
     "subtitle": "Expressing your well wishes in a Japanese workplace.",
