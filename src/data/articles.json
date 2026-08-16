@@ -1,5 +1,62 @@
 [
   {
+    "id": "level2-unique-slug-1786872465798-1786872569310",
+    "title": "Congratulating Colleagues: A Toast in Japanese",
+    "subtitle": "Expressing your well wishes in a Japanese workplace.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to congratulate colleagues and offer a toast in Japanese for successful projects and achievements.  This article provides a simple guide with explanations, vocabulary, and cultural insights.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Congratulations are a vital part of Japanese workplace culture. A simple 'おめでとう!' (O-men-toe!) goes a long way. But how do you go beyond the basics?  This guide will equip you with the tools to express sincere congratulations to colleagues in a professional and heartfelt manner.  Let's dive in and learn some of the key phrases and customs for a successful toast in the office.",
+    "grammarExplanation": "This article uses simple, clear structures common in Japanese. It highlights common grammatical features such as subject-object-verb (SOV) sentence structure. Learning the appropriate particles and verb conjugations will enhance your understanding. ",
+    "postIts": [
+      {
+        "id": "p-goodjob",
+        "color": "blue",
+        "title": "Vocabulary: Good Job",
+        "japanese": "よく頑張ったね!",
+        "kana": "youki gāpāta ne!",
+        "romaji": "yoky gāpāta ne!",
+        "english": "You did well!",
+        "explanation": "This phrase signifies admiration for someone's effort, often used after achieving a goal or completing a task.",
+        "exampleJp": "よく頑張ったね！\n\n\n(Yoky gāpāta ne!) Congratulations on the work!  Let's celebrate with a drink!",
+        "exampleEn": "You did well! Congratulations on the work! Let's celebrate with a drink!",
+        "tip": "Say this to a colleague who has succeeded in a project or task."
+      },
+      {
+        "id": "p-toast",
+        "color": "pink",
+        "title": "Vocabulary: Toast",
+        "japanese": "Cheers!",
+        "kana": "Cheers!",
+        "romaji": "Cheers!",
+        "english": "Toast",
+        "explanation": "A toast is a gesture of respect and appreciation. Use this phrase to express your congratulations in a friendly and celebratory way.",
+        "exampleJp": "乾杯！\n\n\n(Kyun-bai!) Cheers!  Let's celebrate this accomplishment!",
+        "exampleEn": "Cheers!",
+        "tip": "A toast is often followed by a brief moment of silence before starting the main speech."
+      }
+    ],
+    "culturalInsight": " \"In Japan, it's not just about the words, but the gesture. A toast, a simple 'Cheers!' or a nod of appreciation can carry a lot of weight. \" The Japanese workplace culture emphasizes respect and appreciation for others' achievements. A small gesture of congratulations can build trust and strengthen relationships.",
+    "quiz": {
+      "question": "What is the Japanese word for 'good job'?",
+      "options": [
+        "ありがとう",
+        "おめでとう",
+        "お疲れ様",
+        "ありがとうございます"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The most appropriate answer is 'おめでとう' (O-men-toe!) meaning 'Congratulations'. It's a widely used phrase to express appreciation and congratulations."
+    },
+    "imagePrompt": "An image of a diverse group of people celebrating in a Japanese office space, with traditional Japanese decor and a celebratory atmosphere.",
+    "thumbnailUrl": "/images/level2-unique-slug-1786872465798-1786872569310.jpg",
+    "thumbnailAlt": "An image of a diverse group of people celebrating in a Japanese office space, with traditional Japanese decor and a celebratory atmosphere.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1786862529245",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
