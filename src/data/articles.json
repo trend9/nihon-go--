@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1787370151362-1787370273097",
+    "title": "Kyoto Souvenir Shopping: From Temple to Tea Ceremony",
+    "subtitle": "Navigating the Markets and Museums for Japan's Treasures",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Discover the unique charm of Kyoto through its bustling markets and fascinating museums! Learn to navigate the city for souvenir shopping, mastering the art of requesting prices in Japanese. This guide, with a touch of authentic Japanese flavor, will help you get the most out of your Kyoto exploration.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Kyoto, a city steeped in history and vibrant culture, is a magnet for tourists seeking to discover the essence of Japan. From the imposing temples to the serene gardens, Kyoto offers a sensory overload for the visitor. But amidst this beautiful chaos lies a treasure trove for those looking for souvenirs—traditional crafts, stunning artwork, and iconic trinkets. Whether you're a seasoned traveler or embarking on your first adventure in Japan, navigating the bustling markets and museums of Kyoto for souvenirs can be both exciting and challenging. This guide will help you navigate the city and get the most out of your souvenir hunting experience.",
+    "grammarExplanation": "The grammar of Japanese sentences is more straightforward than English. Sentences typically start with a subject and a verb, and then you can include objects, adverbs, and other descriptive words. While this guide will include a basic overview of Japanese sentence structure, be sure to consult a more in-depth guide if you wish to delve deeper into the intricacies of the language.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: today",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This is used to express the present time. Learn how to incorporate it into your daily conversations. ",
+        "exampleJp": "今日はいい天気ですね！",
+        "exampleEn": "It's a nice day today!",
+        "tip": "This is an important term in everyday language, so don't be afraid to use it when talking about today's events."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: price",
+        "japanese": "値段",
+        "kana": "denna",
+        "romaji": "nenna",
+        "english": "Price",
+        "explanation": "This is a key word to know when shopping for souvenirs in Japan, as prices are often different than back home. ",
+        "exampleJp": "このバッグはいくらですか？",
+        "exampleEn": "How much is this bag?",
+        "tip": "Always use polite speech like 'すみません' (excuse me) when you ask for prices."
+      }
+    ],
+    "culturalInsight": "Kyoto's charm lies in its ability to seamlessly blend the ancient with the modern. Stepping into the iconic Yasaka Shrine, one can be captivated by the intricate architecture while witnessing the vibrant rituals of daily life. From the traditional tea ceremonies to the contemporary art installations, Kyoto offers a unique cultural journey that can be enjoyed through both the senses and the soul.  ",
+    "quiz": {
+      "question": "What is the polite way to ask for the price of an item in Japanese?",
+      "options": [
+        "ご質問",
+        "お見積り",
+        "お値段",
+        "お支払い"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Asking for the price politely is essential. 'お値段' (odani) is the correct way to ask for the price."
+    },
+    "schemaMarkup": "{\"@context\":\"http://schema.org/\",\"@type\":\"Article\",\"headline\":\"Kyoto Souvenir Shopping: From Temple to Tea Ceremony\",\"description\":\"Discover the unique charm of Kyoto through its bustling markets and fascinating museums! Learn to navigate the city for souvenir shopping, mastering the art of requesting prices in Japanese. This guide, with a touch of authentic Japanese flavor, will help you get the most out of your Kyoto exploration.\",\"datePublished\":\"2023-10-26T11:30:00Z\",\"publisher\":{\"name\":\"The Japan Travel Magazine\",\"url\":\"https://www.japanesetravel.com\"}}\n",
+    "imagePrompt": "An old-fashioned Japanese wooden lantern illuminating a bustling street market in Kyoto, with colorful umbrellas and people browsing goods.  A close-up on a kimono vendor smiling to a customer.",
+    "thumbnailUrl": "/images/level2-unique-slug-1787370151362-1787370273097.jpg",
+    "thumbnailAlt": "An old-fashioned Japanese wooden lantern illuminating a bustling street market in Kyoto, with colorful umbrellas and people browsing goods.  A close-up on a kimono vendor smiling to a customer.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1787361300220",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
