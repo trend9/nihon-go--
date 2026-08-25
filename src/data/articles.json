@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1787661977988-1787662073749",
+    "title": "Crafting Your Souvenir Memories: Shopping for Souvenirs in Kyoto's Evening Markets",
+    "subtitle": "A guide for English speakers to navigate the bustling souvenir streets of Kyoto.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Explore the enchanting souvenir markets of Kyoto during its evening hours, and discover the magic of local craftsmanship. This guide provides tips on navigating these vibrant locations, understanding pricing, and finding unique mementos that capture your Kyoto journey.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "As dusk settles upon the ancient streets of Kyoto, a magical transformation takes place. Market stalls burst with life, and the air is thick with the aroma of freshly baked mochi and traditional sweets. Wandering through these evening markets is an immersive experience, offering a glimpse into Kyoto's rich cultural heritage.  But navigating these bustling streets, especially for those unfamiliar with Japanese etiquette and customs, can feel daunting.  Don't worry, this guide will equip you with the knowledge and confidence to find the perfect souvenirs, while respectfully immersing yourself in this unique cultural experience.\n\nFor many, the allure of Kyoto lies in its ability to transport you back in time. This guide offers a glimpse into the city's vibrant evening markets, where you can delve into the world of traditional crafts, sample unique delicacies, and find souvenirs to take home as a reminder of your journey.",
+    "grammarExplanation": "This article employs a blend of formal and informal language, mirroring the typical style of a newspaper article. It utilizes a variety of sentence structures, including complex and simple sentences, to create a natural flow. The use of 'you' and 'your' throughout the text emphasizes a conversational tone, appealing to a wider audience. The inclusion of historical context and anecdotes adds a layer of depth and relatability, making the content more engaging and accessible for English speakers.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "Used for indicating the current day, in Japanese.",
+        "exampleJp": "今日はいい天気ですね",
+        "exampleEn": "It's a nice day today.",
+        "tip": "Pronunciation: 'kyou-ee', 'tai-n-e', 'na-a'"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: Souvenir",
+        "japanese": "Souvenir",
+        "kana": "souvenir",
+        "romaji": "souvenir",
+        "english": "Souvenir",
+        "explanation": "A memento of a place you visit, often a small object or item.",
+        "exampleJp": "お土産は何か持ってきた？",
+        "exampleEn": "Did you bring any souvenirs?",
+        "tip": "Pronunciation: 'sou-rei-n-e' "
+      }
+    ],
+    "culturalInsight": "Kyoto, Japan's cultural heart, is famed for its vibrant and charming souvenir markets. These markets are not only a shopper's paradise but also a window into the city's rich cultural heritage.  Wandering through the stalls, one can encounter beautifully crafted traditional crafts, such as lacquerware and woodblock prints, or sample local delicacies, such as wagashi, a traditional Japanese confection. Remember to be respectful of local customs and etiquette.",
+    "quiz": {
+      "question": "What is a common souvenir item found in Kyoto's evening markets?",
+      "options": [
+        "Silk scarves",
+        "Traditional dolls",
+        "Hand-painted ceramics",
+        "Wagashi sweets"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The correct answer is 'Hand-painted ceramics' as they are a common souvenir found in many Japanese markets. While silk scarves and traditional dolls are popular, they are not always typical souvenirs found in Kyoto's evening markets."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vibrant, detailed illustration of a bustling evening market in Kyoto, showcasing a variety of stalls selling traditional crafts, delicious snacks, and tourists enjoying the atmosphere.  Include a focus on a stall with traditional Japanese lacquerware, a tea ceremony set, and delicious wagashi sweets. Use a high-contrast color scheme and detailed shading to highlight the authenticity and cultural richness of the scene.",
+    "thumbnailUrl": "/images/level4-unique-slug-1787661977988-1787662073749.jpg",
+    "thumbnailAlt": "A vibrant, detailed illustration of a bustling evening market in Kyoto, showcasing a variety of stalls selling traditional crafts, delicious snacks, and tourists enjoying the atmosphere.  Include a focus on a stall with traditional Japanese lacquerware, a tea ceremony set, and delicious wagashi sweets. Use a high-contrast color scheme and detailed shading to highlight the authenticity and cultural richness of the scene.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1787650675633",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
