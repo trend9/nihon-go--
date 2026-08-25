@@ -1,5 +1,62 @@
 [
   {
+    "id": "level5-unique-slug-1787672731936-1787672864341",
+    "title": "A Toast to Success: Eloquent Expressions for Celebrating Colleagues",
+    "subtitle": "Mastering Japanese professional etiquette for truly meaningful gatherings",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Learn how to gracefully celebrate your colleagues' accomplishments in Japanese, with nuanced expressions of admiration, gratitude, and respect.  This article explores the subtle art of Japanese toast expressions for truly meaningful gatherings.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "There's a certain elegance and sophistication to a heartfelt toast, especially when shared with colleagues who have contributed to a shared success.  In Japanese culture, the act of offering a toast goes beyond mere appreciation; it's about acknowledging the effort and acknowledging individual contributions within a collective achievement.  This article navigates the intricate landscape of Japanese expressions for celebrating colleagues, from heartfelt praise to the elegant use of 'kirei desu' (beautiful) and 'kudasai' (please).",
+    "grammarExplanation": "Japanese grammar often prioritizes nuance and precision.  The article will explore the subtle differences in using 'kudasai' versus 'kirei desu' and the nuances of Japanese politeness in formal settings. ",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "pink",
+        "title": "Vocabulary:  A meaningful toast",
+        "japanese": "皆さんの努力が素晴らしいですね",
+        "kana": "Min-san no dōri ga sugoku-suru desu ne",
+        "romaji": "Min-san no dōri ga sugoku-suru desu ne",
+        "english": "Your contributions are truly admirable!",
+        "explanation": "This is a standard way to express appreciation, acknowledging the effort of others. ",
+        "exampleJp": "皆さんの努力が素晴らしいですね。",
+        "exampleEn": "Your contributions are truly admirable!",
+        "tip": "You can say 'kudasai' instead of 'kirei desu' for a more direct approach. "
+      },
+      {
+        "id": "p-2",
+        "color": "blue",
+        "title": "Vocabulary:  Adding depth to your toast",
+        "japanese": "その努力が、このプロジェクトの成功に大きく貢献しました",
+        "kana": "Sono dōri ga, kono projecto no seiketsu ni kogaku-kaku chi-kōshi-ni-tchi-mizu-desu",
+        "romaji": "Sono dōri ga, kono projecto no seiketsu ni kogaku-kaku chi-kōshi-ni-tchi-mizu-desu",
+        "english": "Your efforts significantly contributed to the success of this project.",
+        "explanation": "This post-it focuses on conveying the positive impact of someone's contribution to a project.",
+        "exampleJp": "その努力が、このプロジェクトの成功に大きく貢献しました。",
+        "exampleEn": "Your efforts significantly contributed to the success of this project.",
+        "tip": "When offering a toast, you can be more specific and elaborate on the effort made. "
+      }
+    ],
+    "culturalInsight": "Japanese Culture:  A Toast to Success",
+    "quiz": {
+      "question": "Which of these is a common way to express gratitude in a Japanese toast? ",
+      "options": [
+        "I appreciate you!",
+        "You're awesome!",
+        "Thank you so much!"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In Japanese culture, expressing gratitude is paramount. 'Arigatō gozaimasu' (thank you very much) is a common expression to show appreciation. This is often used in formal settings, especially when expressing gratitude for someone's contribution to a collective achievement."
+    },
+    "imagePrompt": "A close-up shot of hands raised together in a toast, amidst a beautiful cityscape, incorporating traditional Japanese elements like cherry blossoms and a bonsai tree.",
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\", \"@type\":\"Article\", \"name\":\"A Toast to Success: Eloquent Expressions for Celebrating Colleagues\"}",
+    "thumbnailUrl": "/images/level5-unique-slug-1787672731936-1787672864341.jpg",
+    "thumbnailAlt": "A close-up shot of hands raised together in a toast, amidst a beautiful cityscape, incorporating traditional Japanese elements like cherry blossoms and a bonsai tree.",
+    "isVerified": true
+  },
+  {
     "id": "level4-unique-slug-1787661977988-1787662073749",
     "title": "Crafting Your Souvenir Memories: Shopping for Souvenirs in Kyoto's Evening Markets",
     "subtitle": "A guide for English speakers to navigate the bustling souvenir streets of Kyoto.",
