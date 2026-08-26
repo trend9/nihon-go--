@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1787706976344-1787707082032",
+    "title": "Savoring Japan's Seasonal Delights: A Guide to Dining Etiquette",
+    "subtitle": "Unlocking the art of Japanese cuisine with local tips and customs",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover the secrets of Japanese dining etiquette and savor the flavors of the seasons with this guide. From polite ordering techniques to understanding seasonal dishes, this article will elevate your Japanese culinary journey.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From the delicate art of wagyu beef teppanyaki to the vibrant flavors of seasonal sushi, Japanese cuisine offers a sensory feast for English speakers. Yet, mastering the nuances of Japanese dining etiquette can be a delightful challenge. It's more than just eating; it's about understanding the cultural nuances that add depth to the experience. Today, we'll delve into the world of Japanese dining etiquette, exploring its customs and shedding light on how to navigate the culinary landscape with grace. ",
+    "grammarExplanation": "This article will employ simple present tense for its narrative and a moderate use of past tense for historical context and cultural insights. The article aims to be accessible to English-speaking learners while providing a glimpse into the intricacies of Japanese grammar and cultural norms. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This phrase translates directly to 'Today' in English, and is used to express the current day. This sentence is the key to understanding Japanese time management",
+        "exampleJp": "今日はおいしい料理を食べる",
+        "exampleEn": "I'd like to eat delicious food today.",
+        "tip": "To express the present day in English, use 'Today'!"
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary:  お箸",
+        "japanese": "箸",
+        "kana": "hashi",
+        "romaji": "hashi",
+        "english": "Chopsticks",
+        "explanation": "Chopsticks are essential utensils used in Japanese cuisine, representing an elegant symbol of culture and tradition, with a history dating back centuries.",
+        "exampleJp": "お箸を使っていただきます",
+        "exampleEn": "I'd like to eat with chopsticks, please.",
+        "tip": "When dining in Japan, chopsticks are a must-have, and a symbol of sophistication. Practice using them before you go, as this will greatly enhance your Japanese dining experience."
+      }
+    ],
+    "culturalInsight": "A Cultural Note:\n\nDining etiquette in Japan goes beyond mere politeness. It is a reflection of respect for the host and a way to connect on a deeper level. For example, when dining with someone, it's customary to leave a small amount of food on your plate to show your appreciation.  This is a subtle way to show gratitude, a cornerstone of Japanese culture.\n\nBeyond the dining room, Japanese culture also focuses on the 'Hara hachi bu' philosophy, which translates to 'eat until you are satisfied but not overly full.' This philosophy emphasizes mindful eating and promotes a greater appreciation for the flavors and textures of Japanese cuisine.",
+    "quiz": {
+      "question": "What is the meaning of 'いただきます'?",
+      "options": [
+        "Please wait.",
+        "Thank you.",
+        "Enjoy your meal.",
+        "I'm full."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "This question and answer test your knowledge of the Japanese culture in the context of dining etiquette."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo') ",
+    "thumbnailUrl": "/images/level3-unique-slug-1787706976344-1787707082032.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo') ",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1787693464994",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
