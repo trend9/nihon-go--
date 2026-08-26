@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-shinkansen-tickets-967214590156-1787737517171",
+    "title": "Traveling by Shinkansen: Buying Tickets Like a Pro",
+    "subtitle": "A beginner's guide to navigating Japan's high-speed rail system",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Start your journey in Japan with ease! This guide helps you navigate the exciting world of Shinkansen tickets, perfect for first-time travelers. ",
+    "byline": "By Sarah Lee, Tokyo Bureau",
+    "introduction": "From bustling Tokyo to historic Kyoto, Japan’s Shinkansen train offers a fast and efficient way to explore the country. But buying tickets can feel overwhelming at first.  \"特急料金は、事前に確認してください。\" - A wise traveler advises.  Don't be intimidated. This guide takes you step-by-step through the process, making your Shinkansen journey smooth and stress-free. ",
+    "grammarExplanation": "In Japanese, verbs are often marked by conjugations and particles. For example, the verb \"行く\" (to go) can be conjugated to \"行く\".  Learn how to identify these parts and understand the flow of the Japanese language.  Knowing basic grammar will help you understand the nuances of everyday communication in Japan.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は何曜日ですか？",
+        "kana": "kyou wa nan yōbi desu ka?",
+        "romaji": "Kyō wa nan yōbi desu ka?",
+        "english": "What day is it today?",
+        "explanation": "This is a simple question for today's date. Learn to use this in everyday conversations. ",
+        "exampleJp": "今日は月曜日です。",
+        "exampleEn": "It's a Monday today.",
+        "tip": "You should pronounce the 'k' sound like in 'kite' but with a shorter sound. "
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 〇〇",
+        "japanese": "〇〇",
+        "kana": "〇〇",
+        "romaji": "〇〇",
+        "english": " (The word that you need to fill in. Fill in the blank)",
+        "explanation": "To understand the concept of verbs and nouns in Japanese. ",
+        "exampleJp": "新幹線に乗ります",
+        "exampleEn": "I will take the Shinkansen.",
+        "tip": "Remember to fill in the blanks, and practice your pronunciation!"
+      }
+    ],
+    "culturalInsight": "Getting lost in the world of Japanese etiquette and customs.  A common rule is \"敬語\" which is an honorific style of speaking.  Learn about \"丁寧な言葉\" (polite language) which is fundamental in Japan.  It's a nice way to connect with people and show respect in the country.",
+    "quiz": {
+      "question": "What is the name of Japan's high-speed rail network? ",
+      "options": [
+        "JR Line",
+        "Tōkai Railway",
+        "Shinkansen",
+        "Kansai Rail"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The Shinkansen is the name of Japan's famous high-speed rail network, known for its punctuality and efficiency. "
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A close-up image of a ticket machine in a train station, with a passenger looking at a screen with a Shinkansen ticket on it. Use a modern, clean, and colorful aesthetic. ",
+    "thumbnailUrl": "/images/level1-shinkansen-tickets-967214590156-1787737517171.jpg",
+    "thumbnailAlt": "A close-up image of a ticket machine in a train station, with a passenger looking at a screen with a Shinkansen ticket on it. Use a modern, clean, and colorful aesthetic. ",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1787727043668",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
