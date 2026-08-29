@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-ryokan-check-in-1788006253719",
+    "title": "Checking into a Traditional Ryokan: A Beginner's Guide to the Japanese Inn Experience",
+    "subtitle": "Immerse yourself in Japanese culture and hospitality with this guide to ryokan stays.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Experience the authentic charm of Japan by learning the basics of ryokan stays, from the traditional check-in process to dining etiquette. This beginner's guide will help you navigate the world of Japanese inns and embrace the culture of hospitality.",
+    "byline": "By Sarah Lee, Tokyo Culture Desk",
+    "introduction": "Have you ever dreamed of sleeping on tatami mats, surrounded by ancient wood and a gentle sense of tranquility? The traditional Japanese inn, or ryokan, offers a unique and immersive experience of Japanese hospitality. While navigating the world of ryokan can feel daunting, this beginner's guide will help you understand the key elements of checking in and enjoying your stay.  As the famous haiku poet Matsuo Bashō wrote:  『旅は楽しいものだ / (Tabi wa tanoshii mono da) / Travel is a joyful thing.』  Let's begin our journey to discovering the charm of the ryokan experience.\n",
+    "grammarExplanation": "Japanese grammar is quite unique, but this guide will provide a basic understanding of how the language works. Learn about the sentence structure, the use of particles, and the key features of Japanese politeness. ",
+    "postIts": [
+      {
+        "id": "p-ryokan-check-in",
+        "color": "yellow",
+        "title": "Vocabulary:  チェックイン",
+        "japanese": "チェックイン",
+        "kana": "Ch-kkeki-nin",
+        "romaji": "check-in",
+        "english": "Check-in",
+        "explanation": "The process of checking into a ryokan. This word is used to denote the process of registering at the ryokan.",
+        "exampleJp": "チェックインをします。",
+        "exampleEn": "I will check in.",
+        "tip": "This is the standard term for 'registering' or 'checking in' at a ryokan."
+      },
+      {
+        "id": "p-ryokan-dinner",
+        "color": "pink",
+        "title": "Vocabulary: 食事",
+        "japanese": "食事",
+        "kana": "Se-ki-sho",
+        "romaji": "shokuji",
+        "english": "Meal",
+        "explanation": "Japanese meals are often served in the ryokan, and this word refers to the act of eating meals.",
+        "exampleJp": "食事をする",
+        "exampleEn": "I will have a meal.",
+        "tip": "Dinner time is a cultural aspect of the ryokan experience."
+      }
+    ],
+    "culturalInsight": "From the ancient wooden structures of the ryokan to the meticulous way of serving traditional meals, these inns offer a glimpse into the heart of Japanese culture. By immersing yourself in the ryokan experience, you can learn about the values of hospitality, respect, and tranquility that are deeply ingrained in Japanese society. Ryokan are much more than just accommodations; they're a window into a way of life that values tradition and connection. ",
+    "quiz": {
+      "question": "What is the traditional Japanese word for checking in at a ryokan? ",
+      "options": [
+        "チェックイン",
+        "食事",
+        "旅館",
+        "部屋"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is  'チェックイン' (check-in).  This is the standard term for 'registering' or 'checking in' at a ryokan."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A beautiful, detailed illustration of a traditional Japanese ryokan, with tatami mats, a paper sliding screen, and a peaceful garden view. ",
+    "thumbnailUrl": "/images/level1-ryokan-check-in-1788006253719.jpg",
+    "thumbnailAlt": "A beautiful, detailed illustration of a traditional Japanese ryokan, with tatami mats, a paper sliding screen, and a peaceful garden view. ",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1787982649703",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
