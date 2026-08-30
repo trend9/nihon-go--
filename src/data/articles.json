@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1788061882723-1788062030729",
+    "title": "Navigating Japanese Dining: Seasonal Flavors & Etiquette",
+    "subtitle": "An evening journey into the art of Japanese dining",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Experience the art of Japanese dining etiquette and seasonal cuisine as you venture into the heart of Japanese hospitality.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From the elegant sushi bar to the bustling izakaya, Japanese dining is an experience that goes beyond just the food. It's about respecting tradition, engaging in polite conversation, and enjoying the moments of cultural immersion. But navigating the nuances of Japanese dining etiquette can sometimes feel daunting. Let's delve into some essential guidelines to ensure your next Japanese dining experience is both delightful and respectful.\n\nFor example, the Japanese culture emphasizes the importance of 'omotenashi,' which translates to 'hospitality.' It's not just about the food but the experience itself. So, while you may be eager to try new dishes, remember to savor every moment.  As the famous Japanese author Matsuo Bashō once wrote: だだ'The taste of a meal is only half of the enjoyment.'だだ\n\nWhether you're planning a casual outing or a special occasion, understanding the local dining etiquette will enrich your culinary journey.\n",
+    "grammarExplanation": "This article utilizes a mix of passive and active voice to create a clear and engaging narrative. It avoids excessive use of jargon and employs clear, concise language. The article introduces various sentence structures to cater to a diverse readership, and it strategically incorporates cultural references for a deeper understanding.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "yellow",
+        "title": "Vocabulary: Seasonal Dishes",
+        "japanese": "季節の料理",
+        "kana": "sei-son-no-ryouri",
+        "romaji": "Seisō no ryouri",
+        "english": "Seasonal Dishes",
+        "explanation": "Seasonal dishes are dishes that change based on the current season. For example, in Spring, you might enjoy fresh green vegetables like spinach and asparagus. In Autumn, you might find sweet and savory treats like pumpkin and chestnuts.",
+        "exampleJp": "春は、新鮮な緑の野菜であるほうれん草やアスパラガスを味わうことができます。\n秋には、甘辛い風味の栗やさつまいもなどといった seasonal dishes も味わえます。",
+        "exampleEn": "Spring brings fresh green vegetables like spinach and asparagus, while autumn offers dishes like pumpkin and chestnuts.",
+        "tip": "Seasonal dishes can change based on the season, so ask your server for recommendations if you're unsure of what to try."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "blue",
+        "title": "Vocabulary: おせち料理",
+        "japanese": "おせち料理",
+        "kana": "ose-chi-ryouri",
+        "romaji": "Osechi Ryouri",
+        "english": "New Year's Dishes",
+        "explanation": "Osechi Ryouri are special, elaborate dishes eaten during New Year's. These dishes are carefully prepared in advance, typically in a pyramid shape for the New Year's celebration.",
+        "exampleJp": "おせち料理は、新年を祝うために特別に用意される、 elaborate dishes です。",
+        "exampleEn": " osechi ryouri are traditional special dishes intended for New Year's celebration.",
+        "tip": "Osechi Ryouri is a staple of Japanese New Year celebrations, and a key element of traditional customs."
+      }
+    ],
+    "culturalInsight": "The Japanese dining experience is not merely about the food. It is about the culture of hospitality, respect, and the art of conversation. The concept of 'omotenashi' encapsulates the essence of this culture. It goes beyond simply serving food; it encompasses creating an environment where guests feel welcomed, cherished, and valued. This deep-rooted appreciation for the guests is a vital element in Japanese dining culture, shaping the overall dining experience. ",
+    "quiz": {
+      "question": "What is the meaning of 'omotenashi' in Japanese?",
+      "options": [
+        "A traditional Japanese etiquette for dining out",
+        "A special dish served only during New Year",
+        "A cultural aspect of hospitality and care",
+        "A Japanese phrase meaning 'delicious food'"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": " 'Omotenashi' signifies a deep-rooted sense of hospitality and care within Japanese culture. It's not just about serving food; it's about creating an environment where guests feel truly valued and appreciated."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\", \"@type\":\"Article\", \"headline\":\"Navigating Japanese Dining: Seasonal Flavors & Etiquette\",\"description\":\"Experience the art of Japanese dining etiquette and seasonal cuisine as you venture into the heart of Japanese hospitality. This article explores the nuances of Japanese dining, from etiquette to seasonal dishes.\",\"author\":\"Emma Sterling\",\"datePublished\":\"2023-10-27T19:00:00+09:00\",\"keywords\":[\"Japanese cuisine\", \"dining etiquette\", \"seasonal dishes\", \"omotenashi\", \"culture\"]}",
+    "imagePrompt": "An intimate, artistic illustration of a chef preparing a traditional Japanese sushi set in a modern, minimalist setting with a backdrop of Tokyo's bustling Shibuya Crossing. ",
+    "thumbnailUrl": "/images/level4-unique-slug-1788061882723-1788062030729.jpg",
+    "thumbnailAlt": "An intimate, artistic illustration of a chef preparing a traditional Japanese sushi set in a modern, minimalist setting with a backdrop of Tokyo's bustling Shibuya Crossing. ",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1788044510441-1788044629261",
     "title": "Navigating the Metro: Your Guide to Asking for Directions",
     "subtitle": "Finding your way in Tokyo's bustling subway system",
