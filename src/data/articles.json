@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1788180574314-1788180693162",
+    "title": "The Art of Ryokan: Dining Etiquette in the Heart of Japan",
+    "subtitle": "A glimpse into the nuanced world of traditional Japanese hospitality",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Discover the elegant traditions and unspoken rules that govern the dining experience at Japan's iconic ryokan inns. This article delves into the heart of Japanese hospitality, exploring the delicate dance of etiquette that defines the journey from arrival to departure.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "As twilight descends upon the bustling streets of Tokyo, casting the neon signs into a soft luminescence, the tranquility of a traditional ryokan inn beckons. Stepping inside, one is greeted not just by the warm welcome of the host, but by the quiet sophistication of a cultural heritage woven into the fabric of the very rooms and the very air.  From the humble tea ceremony to the meticulously served multi-course meal, the ryokan's atmosphere is steeped in a deep respect for the passing of time and the art of a shared experience. But beneath this serene facade lies a subtle tapestry of rules and rituals, each one contributing to the symphony of a truly unforgettable journey.",
+    "grammarExplanation": "This article utilizes a blend of formal and informal language, reflecting the inherent duality of the Japanese language. It blends the precision and clarity of a textbook with the evocative storytelling of a literary piece. Employing sentence structure that reflects the flow of thought and the importance of context, the language flows naturally, akin to a leisurely conversation.",
+    "postIts": [
+      {
+        "id": "p1234567890",
+        "color": "yellow",
+        "title": "Vocabulary:  今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This word is used to express the present time, highlighting the present moment and the act of experiencing the meal with the utmost respect and mindfulness.",
+        "exampleJp": "今日は素晴らしい天気ですね",
+        "exampleEn": "It's a beautiful day today, isn't it?",
+        "tip": "Listen for the soft 'k' sound at the beginning of this word."
+      },
+      {
+        "id": "p9876543210",
+        "color": "pink",
+        "title": "Vocabulary:  お膳",
+        "japanese": "お膳",
+        "kana": "o-sento",
+        "romaji": "osento",
+        "english": "Table",
+        "explanation": "The 'o-sento' is a traditional wooden table on which the guests sit and eat. This signifies the importance of the dining experience and the respect for the host's efforts.",
+        "exampleJp": "お膳にご飯を載せましょう",
+        "exampleEn": "Let's put the rice on the table.",
+        "tip": "When you see the word 'o-sento', picture a traditional Japanese table. "
+      }
+    ],
+    "culturalInsight": "Ryokans, with their tatami mats, sliding doors, and elegant tea ceremonies, embody a Japanese ideal of simplicity and respect. The art of 'omotenashi' (hospitality) plays a pivotal role in the ryokan experience, where every guest is treated like a cherished guest, not just a visitor. This philosophy of 'omotenashi' extends to the table itself, where guests are expected to eat in silence and with a deep appreciation for the meticulous artistry of the presentation.",
+    "quiz": {
+      "question": "What is the most respectful way to remove your chopsticks from a rice bowl?",
+      "options": [
+        "a) Placing the chopsticks upside down.",
+        "b) Lifting them up and bowing.",
+        "c) Gently placing them on the table.",
+        "d) Throwing them to the ground."
+      ],
+      "correctAnswerIndex": "c",
+      "explanation": "The correct answer is 'c' because in Japanese culture, chopsticks should be placed on the table in an elegant, respectful manner, without any sudden movements or disarray.  It’s a subtle gesture that reflects a level of respect for the host and the meal itself."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A serene view of a traditional Japanese Ryokan inn, with a dimly lit interior, sliding doors, and guests enjoying a traditional multi-course meal on the tatami mats",
+    "thumbnailUrl": "/images/level5-unique-slug-1788180574314-1788180693162.jpg",
+    "thumbnailAlt": "A serene view of a traditional Japanese Ryokan inn, with a dimly lit interior, sliding doors, and guests enjoying a traditional multi-course meal on the tatami mats",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1788148504323",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
