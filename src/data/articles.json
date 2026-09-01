@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1788271158634-1788271255454",
+    "title": "Toast to Success: Celebrating in Business Japanese",
+    "subtitle": "Navigating professional congratulations in the Japanese workplace",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learn how to expertly celebrate successes in Japanese business, from heartfelt congratulations to appropriate toast expressions.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the fast-paced world of Japanese business, successful collaboration and shared accomplishments are not just celebrated; they are cherished. Understanding the nuances of congratulations and toast expressions is key to building lasting relationships and fostering a thriving work environment.  This article will explore the Japanese art of expressing gratitude, admiration, and congratulations, especially for professional achievements.  From humble words of appreciation to spirited toast wishes, we'll delve into the cultural nuances and provide practical tips for navigating the world of Japanese business congratulations. ",
+    "grammarExplanation": "This article delves into the intricacies of Japanese formal and informal expressions, covering greetings, compliments, and toast etiquette. It analyzes how Japanese grammar functions in social settings and uses examples to illustrate common sentence structures. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary:  おめでとうございます",
+        "japanese": "おめでとうございます",
+        "kana": "O-kome-te-masu",
+        "romaji": "O-kome-te-masu",
+        "english": "Congratulations",
+        "explanation": "This is the standard Japanese phrase for expressing congratulations, often used in business settings to acknowledge success. Use it to show respect and goodwill.",
+        "exampleJp": "プロジェクトに成功しましたね！おめでとうございます！",
+        "exampleEn": "Congratulations on the project's success!",
+        "tip": "Use this phrase to congratulate a colleague on a project completion or a successful presentation."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  ありがとうございます",
+        "japanese": "ありがとうございます",
+        "kana": "A-ki-no-te-masu",
+        "romaji": "A-ki-no-te-masu",
+        "english": "Thank you",
+        "explanation": "This is a polite expression of gratitude. Use this phrase when receiving a compliment or a gift. ",
+        "exampleJp": "プロジェクトを成功させるために、大変お世話になりました。ありがとうございます。",
+        "exampleEn": "Thank you for your help with the project. It was a pleasure working with you.",
+        "tip": "This phrase is a vital part of Japanese business etiquette and is used in various professional settings. Use it when receiving a compliment or a gift."
+      }
+    ],
+    "culturalInsight": "Celebrating success is ingrained in Japanese culture. In the corporate world, a shared meal or a small toast is a standard practice. This highlights the importance of building positive relationships and fostering a sense of camaraderie. ",
+    "quiz": {
+      "question": "What is the most appropriate Japanese toast expression to express congratulations for professional achievements? ",
+      "options": [
+        "おめでとう",
+        "ありがとう",
+        "お疲れ様",
+        "お仕事頑張って！"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "While other options might be acceptable in certain contexts, ‘おめでとう’ (congratulations) is the most standard and widely used expression for celebrating professional achievements in Japanese business. It conveys respect and appreciation for the accomplishment."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A businessman in a Japanese business suit, raising a glass of sake to a colleague, with a backdrop of a traditional Japanese office. The image should convey a feeling of respect, camaraderie, and celebration.",
+    "thumbnailUrl": "/images/level4-unique-slug-1788271158634-1788271255454.jpg",
+    "thumbnailAlt": "A businessman in a Japanese business suit, raising a glass of sake to a colleague, with a backdrop of a traditional Japanese office. The image should convey a feeling of respect, camaraderie, and celebration.",
+    "isVerified": true
+  },
+  {
     "id": "level3-unique-slug-1788250963766-1788251083769",
     "title": "A Helping Hand in Unexpected Times: Mastering Japanese Phrases for Emergencies",
     "subtitle": "Navigating the Unexpected with Confidence",
