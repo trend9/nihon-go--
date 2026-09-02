@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1788318239195-1788318351058",
+    "title": "Planning Your Perfect Vacation:  Japan's Travel Secrets Revealed!",
+    "subtitle": "Unlocking the joy of traveling",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article will help you plan your trip to Japan with easy-to-learn vocabulary and common travel phrases.  Learn how to discuss your travel plans in Japanese and discover the key phrases to help you navigate your journey. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Traveling to Japan is a dream for many, and a big part of the appeal lies in the country's rich cultural experience. But before you jump on that plane, it helps to know how to speak a bit of the language.  From asking for directions to ordering food, knowing some basic Japanese phrases can make your trip even more enjoyable.  Even a few words of Japanese can open the door to a deeper connection with the locals and help you make the most of your journey.  Let's dive into the essential Japanese phrases to get you started!",
+    "grammarExplanation": "This article focuses on the conversational aspects of the Japanese language, emphasizing how to express basic travel needs.  It covers common phrases and sentence structures, making it suitable for English-speaking learners at a basic level. The article includes a brief introduction to the Japanese sentence structure and how to utilize the particles for context. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 旅行",
+        "japanese": "旅行",
+        "kana": "ryokou",
+        "romaji": "ryokou",
+        "english": "Travel",
+        "explanation": "This is a common word for travelling. Learn how to use it to talk about your travel plans.",
+        "exampleJp": "旅行に行きます",
+        "exampleEn": "I'm going on a trip.",
+        "tip": "You can change '旅行' to '旅' for a casual term, like 'I'm going on a journey' which is slightly more informal"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: どこへ行く？",
+        "japanese": "どこへ行く？",
+        "kana": "doko e ikimas?",
+        "romaji": "doko e ikimas?",
+        "english": "Where are you going?",
+        "explanation": "This is a common phrase used to ask about travel destinations.",
+        "exampleJp": "どこへ行く？",
+        "exampleEn": "Where are you going?",
+        "tip": "Remember to use the question mark at the end."
+      }
+    ],
+    "culturalInsight": "Japan's cultural landscape is a blend of ancient traditions and modern innovation.  Whether you're exploring historical shrines, immersing yourself in vibrant cityscapes, or indulging in traditional tea ceremonies, Japan offers a captivating blend of history and modernity.  While you're there, try to learn about traditional Japanese customs, etiquette, and cultural sensitivities.  This will enrich your experience and show respect for the local culture.",
+    "quiz": {
+      "question": "How do you ask 'Where are you going?' in Japanese?",
+      "options": [
+        "何処へ行く？",
+        "どこへ行く？",
+        "どこで行く？",
+        "何処に行く？"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is 'どこへ行く？' This phrase directly translates to 'Where are you going?' and is used to politely inquire about a destination."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vintage monochrome illustration of a cherry blossom in full bloom against a backdrop of a traditional Japanese tea ceremony.",
+    "thumbnailUrl": "/images/level2-unique-slug-1788318239195-1788318351058.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a cherry blossom in full bloom against a backdrop of a traditional Japanese tea ceremony.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1788304026808",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
