@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1788345849179-1788345967722",
+    "title": "Savouring the Flavour of Japan: Dining Etiquette & Seasonal Dishes",
+    "subtitle": "Unlocking the Secrets of Japanese Cuisine for English Speakers",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Dive into the vibrant world of Japanese cuisine with this insightful guide, designed for English speakers who want to experience the true essence of Japanese dining etiquette and seasonal flavours.  Uncover cultural nuances, mastering the art of ordering and enjoying the culinary delights of the Land of the Rising Sun.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Japanese cuisine is renowned for its intricate flavours, artful presentation, and rich cultural traditions. But navigating the world of Japanese dining etiquette can feel like deciphering a secret code. From polite greetings to proper table manners, understanding these nuances is key to truly appreciating the Japanese culinary experience. From the precision of knifework in preparing sushi to the delicate balance of flavours in seasonal dishes, this guide unveils the secrets of mastering Japanese dining etiquette, allowing you to savor the true flavours of the Land of the Rising Sun. Let's begin! ",
+    "grammarExplanation": "This article incorporates advanced sentence structure and grammatical structures suitable for intermediate learners. The use of various tenses, such as present, past, and future, helps illustrate the dynamic nature of Japanese communication.  The article also incorporates grammatical rules including subject-verb agreement, plural and singular nouns, and pronoun usage. This allows for a deeper understanding of the complexities of the Japanese language.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-today",
+        "color": "green",
+        "title": "Vocabulary: Today",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "This is a simple phrase that conveys the present day, used in many contexts.",
+        "exampleJp": "今日はいい天気ですね",
+        "exampleEn": "The weather is nice today.",
+        "tip": "This is an everyday phrase and can be used in casual conversations."
+      },
+      {
+        "id": "p-food-enjoyment",
+        "color": "blue",
+        "title": "Vocabulary: Food and Enjoyment",
+        "japanese": "料理を楽しみましょう",
+        "kana": "ryou-o-sō-sase",
+        "romaji": "ryou-o-sō-sase",
+        "english": "Let's enjoy our food.",
+        "explanation": "This is a way to encourage appreciation of food and a positive mindset around it.",
+        "exampleJp": "今日は美味しい料理を楽しみましょう",
+        "exampleEn": "Let's enjoy some delicious food today!",
+        "tip": "This phrase is a polite way to encourage someone to enjoy their meal."
+      }
+    ],
+    "culturalInsight": "##  A Moment in Time: Dining for the Soul. ",
+    "quiz": {
+      "question": "When ordering food at a Japanese restaurant, it's customary to do what first?",
+      "options": [
+        "Ask the waiter for recommendations",
+        "Show the menu to your friends",
+        "Mention your dietary restrictions",
+        "Make a small, polite gesture of thanks"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "In Japanese culture, the waiter's expertise is respected. Ordering food with a polite request is the proper way to initiate the dining process. However, it's important to be respectful of the waiter's recommendations.  "
+    },
+    "schemaMarkup": "```json\n<div itemscope itemtype=\"http://schema.org/Article\" >\n  <meta itemprop=\"headline\" content=\"Savouring the Flavour of Japan: Dining Etiquette & Seasonal Dishes\" /> \n  <meta itemprop=\"description\" content=\"Dive into the vibrant world of Japanese cuisine with this insightful guide, designed for English speakers who want to experience the true essence of Japanese dining etiquette and seasonal flavours.  Uncover cultural nuances, mastering the art of ordering and enjoying the culinary delights of the Land of the Rising Sun.\" /> \n  <div itemscope itemtype=\"http://schema.org/CreativeWork\" >\n    <meta itemprop=\"name\" content=\"Savouring the Flavour of Japan\" /> \n  </div>\n  </div>\n```",
+    "imagePrompt": "An artist's impression of a traditional Japanese tea ceremony, featuring intricate wooden furnishings, a serene atmosphere, and a tea ceremony table with teacups and matcha in the foreground.",
+    "thumbnailUrl": "/images/level3-unique-slug-1788345849179-1788345967722.jpg",
+    "thumbnailAlt": "An artist's impression of a traditional Japanese tea ceremony, featuring intricate wooden furnishings, a serene atmosphere, and a tea ceremony table with teacups and matcha in the foreground.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1788318239195-1788318351058",
     "title": "Planning Your Perfect Vacation:  Japan's Travel Secrets Revealed!",
     "subtitle": "Unlocking the joy of traveling",
