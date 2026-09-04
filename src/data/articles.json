@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1788491264795-1788491372138",
+    "title": "Checking In to a Traditional Ryokan: Mastering the Art of Japanese Hospitality",
+    "subtitle": "Navigating Ryokan Etiquette for a Seamless Stay",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Discover the art of traditional Japanese hospitality with this beginner's guide to ryokans. Learn essential customs and etiquette for a smooth and delightful stay.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional ryokan is like entering a world of tranquility. The serene atmosphere, the welcoming staff, and the delicious local cuisine create an experience unlike any other. But navigating the intricacies of Japanese hospitality, from checking in to dining etiquette, can sometimes feel like a puzzle. This guide will help you decipher the customs and embrace the unique charm of Ryokans, ensuring your stay is both comfortable and culturally enriched. ",
+    "grammarExplanation": "This article employs a straightforward and simple sentence structure typical of English-language journalism, aiming to provide clarity and easy comprehension for English-speaking readers. It relies on commonly used grammatical rules, such as subject-verb-object order and simple sentence construction.  The article avoids complex or advanced grammatical structures to ensure accessibility for all readers. ",
+    "postIts": [
+      {
+        "id": "p-basic-check-in",
+        "color": "yellow",
+        "title": "Vocabulary: 〇〇へ",
+        "japanese": "〇〇へ",
+        "kana": "〇〇へ",
+        "romaji": "〇〇-e",
+        "english": "To",
+        "explanation": "This is a common phrase indicating travel or arrival, used to show the location of something. The kanji for 'to' can vary based on the context.",
+        "exampleJp": "ホテルへ",
+        "exampleEn": "Hotel",
+        "tip": "Use this phrase when making appointments or visiting places."
+      },
+      {
+        "id": "p-dinner-rules",
+        "color": "pink",
+        "title": "Vocabulary: 〇〇を",
+        "japanese": "〇〇を",
+        "kana": "〇〇を",
+        "romaji": "〇〇-o",
+        "english": "To",
+        "explanation": "This is a common phrase indicating action or purpose, used to show the behavior or action to be done. The kanji for 'to' can vary based on the context.",
+        "exampleJp": "ご飯を食べる",
+        "exampleEn": "To eat rice.",
+        "tip": "Use this phrase when talking about food."
+      }
+    ],
+    "culturalInsight": "  A Ryokan is more than just a hotel; it's an experience.  Japanese culture emphasizes harmony and respect. The ryokan's communal spaces, from the tatami-floored rooms to the communal bathhouse (onburo), foster interaction and allow guests to connect with the local traditions and way of life. Learning to embrace these customs and traditions will enrich your stay and deepen your appreciation for Japanese culture. ",
+    "quiz": {
+      "question": "What does 'check in' mean in Japanese?",
+      "options": [
+        "チェックイン",
+        "予約",
+        "宿泊",
+        "食事"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'チェックイン'. This term translates directly to 'check-in' and signifies the act of registering at a hotel or ryokan.  "
+    },
+    "schemaMarkup": "<script type=\"application/json\">{}</script>",
+    "imagePrompt": "An artist's rendering of a traditional Japanese ryokan with a beautiful garden, featuring a guest lounging in a tatami-room",
+    "thumbnailUrl": "/images/level2-unique-slug-1788491264795-1788491372138.jpg",
+    "thumbnailAlt": "An artist's rendering of a traditional Japanese ryokan with a beautiful garden, featuring a guest lounging in a tatami-room",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1788476727939",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
