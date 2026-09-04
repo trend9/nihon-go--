@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-japanese-emergency-assistance-1788562276821",
+    "title": "Don't Panic: Learning to Ask for Help in Japan",
+    "subtitle": "A beginner's guide to navigating unexpected events",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This guide provides a step-by-step introduction to Japanese, teaching you how to ask for help in unexpected situations.  It covers essential phrases, cultural sensitivities, and offers helpful examples to boost your confidence.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Unexpected situations can arise in Japan, just like anywhere in the world.  But, knowing how to ask for help can make a huge difference.  Don't be afraid!  This guide will teach you basic phrases to get through those moments when you need assistance.  We'll explore common words and phrases, and introduce you to Japanese culture's approach to support and help.  Let's begin with the basics.",
+    "grammarExplanation": "This article will focus on simple sentence structures and key vocabulary for everyday situations.  We'll explore basic sentence construction using 'subject-verb-object' and the use of honorifics for a more respectful and appropriate tone.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: お願い",
+        "japanese": "お願い",
+        "kana": "o-negai",
+        "romaji": "o-negai",
+        "english": "Please",
+        "explanation": "This phrase means 'Please' and is used to request something.  It shows respect and courtesy.",
+        "exampleJp": "すみません、おねがいします。",
+        "exampleEn": "Excuse me, would you mind?",
+        "tip": "Use 'すみません' as an opener for polite requests."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 困った",
+        "japanese": "困った",
+        "kana": "komatta",
+        "romaji": "k-omatta",
+        "english": "Stuck",
+        "explanation": "Use '困った' when you need help or are facing a problem.  It expresses a feeling of being stuck or in a difficult situation.",
+        "exampleJp": "この状況は困った",
+        "exampleEn": "I'm stuck in this situation.",
+        "tip": "Use this phrase when you're in a bind or need assistance. "
+      }
+    ],
+    "culturalInsight": "Asking for help is a sign of strength in Japan.  It shows maturity and the ability to handle challenging situations.  While the 'Thank you' phrase 'ありがとう' is essential, learn to ask for help when you need it.   Showing that you can be self-reliant and independent is a positive trait that will be appreciated.  The Japanese value a sense of responsibility and community.  Be open and honest about your needs, and don't be afraid to ask for assistance.   Remember that the Japanese value humility and respect, and these are crucial qualities in navigating social interactions.",
+    "quiz": {
+      "question": "What is the Japanese equivalent of 'Please'?",
+      "options": [
+        "はい",
+        "ごめんなさい",
+        "お願い",
+        "ありがとうございます"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is 'お願い', which means 'Please'.  This phrase shows respect and courtesy when requesting something from someone."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An illustration of someone seeking help from a Japanese shopkeeper, with a traditional wooden sign in the background.",
+    "thumbnailUrl": "/images/level1-japanese-emergency-assistance-1788562276821.jpg",
+    "thumbnailAlt": "An illustration of someone seeking help from a Japanese shopkeeper, with a traditional wooden sign in the background.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1788553470143",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
