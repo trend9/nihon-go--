@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1788716253589-1788716344194",
+    "title": "Getting Started with the Japanese House:  Morning Routine Essentials",
+    "subtitle": "Learn the basics of daily life in Japan.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article introduces basic Japanese home life for English speakers. Learn about typical morning routines and household items. Discover simple greetings and daily routines.  Start your Japanese journey here!",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Welcome to the world of Japanese daily life!  Learning a new language can feel daunting, but mastering even small details can make you feel more confident. This morning lesson will help you understand the basics of your new home, introducing you to key vocabulary and routines. こんにちは (Konnichiwa)! ",
+    "grammarExplanation": "This article provides basic Japanese vocabulary for understanding daily routines.  We'll introduce you to essential words and phrases, using simple sentences and grammar. For example, you'll learn 'おはよう (Ohayou)' - the typical morning greeting, or 'ありがとう (Arigatou)' - a polite way to say 'thank you'. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 挨拶 (Aishiteru)",
+        "japanese": "こんにちは (Konnichiwa)",
+        "kana": "Konnichiwa",
+        "romaji": "Konnichiwa",
+        "english": "Hello",
+        "explanation": "This is a common greeting in Japanese, used in all situations.  Learn it for a friendly start to your day.",
+        "exampleJp": "こんにちは。",
+        "exampleEn": "Hello.",
+        "tip": "Try saying 'Konnichiwa' out loud to get used to the sound."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  起床 (Kouseki)",
+        "japanese": "起きる (Okiru)",
+        "kana": "Okiiru",
+        "romaji": "Okiru",
+        "english": "Wake Up",
+        "explanation": "This is a common verb in Japanese used to describe waking up.  Try saying it in the present tense:  起きる (Okiru).",
+        "exampleJp": "起きる",
+        "exampleEn": "Wake up",
+        "tip": "Think of waking up as a big 'Okiru!' to start your day."
+      }
+    ],
+    "culturalInsight": "Living like a Local:  The Daily Rituals of the Japanese",
+    "quiz": {
+      "question": "What is the first thing most Japanese people do in the morning?",
+      "options": [
+        "Eat lunch.",
+        "Take a shower.",
+        "Wake up.",
+        "Go to work."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The answer is 'Wake up'.  Learning the Japanese morning routine is crucial in understanding daily life, and we'll explore those details in this article."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level1-unique-slug-1788716253589-1788716344194.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1788707007956",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
