@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1788725091590-1788725229022",
+    "title": "Finding Wabi-Sabi: A Journey of Appreciation in Daily Life",
+    "subtitle": "A Look at Japanese Philosophy for Everyday Living",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article explores the concept of Wabi-sabi, a core philosophy in Japanese aesthetics, and how it can enrich everyday life. Learn to appreciate the beauty of imperfection and find peace within the ordinary.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the bustling modern world, our lives are often filled with striving for perfection. We are bombarded with images of idealized beauty, from flawless skin to immaculate homes. But what if there's a deeper, more profound beauty in imperfection? This is the philosophy of Wabi-sabi, a Japanese aesthetic that celebrates the transient and the flawed. It encourages us to find beauty in the natural cycle of decay and the unexpected.  'Imperfection is the source of beauty,' states author Matsuo Bashō, a prominent haiku poet. This article will guide you through the basics of Wabi-sabi and how to embrace its lessons in your everyday life.  ",
+    "grammarExplanation": "This article utilizes simple grammar rules. Subject-Verb-Object sentence structure is used for a clear and concise writing style. The article employs a few common phrases and idioms, such as 'find beauty in imperfection' and 'the essence of Wabi-sabi.'",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyo",
+        "english": "Today",
+        "explanation": "This is the simple meaning of 'today'. It refers to the current day, often used in a context of time or schedule.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a nice day today.",
+        "tip": "This is a short and simple word that can be used as a starting point to express the present moment."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: 無",
+        "japanese": "無",
+        "kana": "mu",
+        "romaji": "mu",
+        "english": "Nothing",
+        "explanation": "This word is a fundamental concept in Japanese philosophy. It represents the absence of anything, emptiness, and the lack of a defined form. ",
+        "exampleJp": "私は何も持たないでいるよ。",
+        "exampleEn": "I'm nothing.",
+        "tip": "This word is often used in everyday conversations to express the emptiness of a feeling or situation, like when you're unsure about a decision. "
+      }
+    ],
+    "culturalInsight": "Wabi-sabi is deeply ingrained in Japanese culture, influencing everything from art and architecture to the way they interact with nature. Imagine visiting a traditional tea ceremony, where the beautifully rustic tea utensils are embraced for their inherent imperfection and historical significance. Or even the humble rice bowl, where the simple imperfection of its rough surface is considered a sign of its authenticity.  It reminds us that true beauty isn't about perfection but about accepting and appreciating the subtle nuances of life. ",
+    "quiz": {
+      "question": "What is the essence of Wabi-sabi? ",
+      "options": [
+        "Perfection",
+        "Imperfection",
+        "Simplicity",
+        "Elegance"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wabi-sabi values imperfection and the natural cycle of life. Therefore, the true essence of Wabi-sabi lies in embracing imperfection and finding beauty in the everyday."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A still life image showcasing a delicate bowl of rice with a teacup next to it, with a simple wooden table in the background, evoking a sense of warmth and calm, in a warm light. ",
+    "thumbnailUrl": "/images/level2-unique-slug-1788725091590-1788725229022.jpg",
+    "thumbnailAlt": "A still life image showcasing a delicate bowl of rice with a teacup next to it, with a simple wooden table in the background, evoking a sense of warmth and calm, in a warm light. ",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1788716253589-1788716344194",
     "title": "Getting Started with the Japanese House:  Morning Routine Essentials",
     "subtitle": "Learn the basics of daily life in Japan.",
