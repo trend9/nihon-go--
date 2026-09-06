@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1788664055166-1788664168038",
+    "title": "Unlocking the Secrets of Japanese Dining: Navigating Seasonal Dishes and Local Etiquette",
+    "subtitle": "An Afternoon Look at the Art of Japanese Table Manners and Foodie Delights",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This article explores the intricacies of Japanese dining etiquette, delving into the fascinating world of seasonal dishes and the cultural nuances that shape the dining experience. From the art of ordering to the etiquette of meals, we'll help you navigate the culinary landscape of Japan with confidence and grace.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Imagine yourself stepping into a traditional Japanese teahouse, the aroma of green tea filling the air as you witness the meticulous flow of the meal. The anticipation is palpable as you gaze upon the carefully arranged plates, each one showcasing a masterpiece of culinary art. This is a glimpse into the beauty and complexity of Japanese dining. However, mastering this delicate art requires understanding more than just the taste of the dishes. From the subtle nuances of table manners to the intricacies of ordering seasonal ingredients, there's a whole world of etiquette waiting to be unveiled. This article serves as a guide, offering insight into the cultural tapestry that weaves together the dining experience and the local traditions. So let's dive into this culinary journey, exploring the art of navigating Japanese dining etiquette and uncovering the secrets of seasonal dishes.",
+    "grammarExplanation": "This article utilizes a conversational and engaging tone, mimicking the style of a traditional English newspaper article. The vocabulary is carefully selected to maintain a flow of information while providing context. The text employs simple grammatical structures to ensure accessibility for English speakers. ",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "yellow",
+        "title": "Vocabulary: Today's Meal",
+        "japanese": "今日",
+        "kana": "kō",
+        "romaji": "kō",
+        "english": "Today's Meal",
+        "explanation": "This Japanese phrase emphasizes the context of the meal. It's an essential element for understanding the situation in which the meal is being discussed. ",
+        "exampleJp": "今日はカレーライスを食べました。",
+        "exampleEn": "I had curry rice today.",
+        "tip": "This word emphasizes the immediacy of the meal. It's a direct translation of the Japanese phrase, emphasizing the present-moment nature of the meal."
+      },
+      {
+        "id": "p-2",
+        "color": "pink",
+        "title": "Vocabulary:  Dining Etiquette",
+        "japanese": "食事",
+        "kana": "shikaku",
+        "romaji": "shikaku",
+        "english": "Dining Etiquette",
+        "explanation": "This is a common Japanese term for the set of rules and customs for proper dining manners. It's a concept important to understanding Japanese culture and the nuances of the dining experience.",
+        "exampleJp": "いただきます",
+        "exampleEn": "I humbly offer my thanks",
+        "tip": "Remember that Japanese etiquette emphasizes respect and politeness. Practice these gestures for a more authentic experience and deeper cultural understanding."
+      }
+    ],
+    "culturalInsight": "Beyond the culinary marvels of Japanese cuisine, lies the intricate tapestry of etiquette that defines the dining experience. From the art of bowing to express gratitude to the significance of using chopsticks, mastering these customs can elevate your journey through Japanese culture. It's not just about the food but about the spirit of the shared meal. Just remember to be mindful of the order of taking off your shoes before entering a home. The Japanese have strong traditions of respecting others’ space and time. ",
+    "quiz": {
+      "question": "What is the term for the polite gesture of bowing used in Japanese dining?",
+      "options": [
+        "Arigato",
+        "Gomen",
+        "O-genki",
+        "Itadakimasu"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The correct answer is 'Itadakimasu', meaning 'I humbly receive'.  It is a customary phrase used before a meal to show respect and gratitude for the food. Other options may be used in different contexts, but 'Itadakimasu' is most representative of a formal Japanese meal."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photorealistic illustration of a traditional Japanese teahouse, with guests seated around a tatami mat table, savoring a delicious dish of sushi. The scene should exude warmth and sophistication, reflecting the elegance of Japanese cuisine and dining etiquette.",
+    "thumbnailUrl": "/images/level3-unique-slug-1788664055166-1788664168038.jpg",
+    "thumbnailAlt": "A photorealistic illustration of a traditional Japanese teahouse, with guests seated around a tatami mat table, savoring a delicious dish of sushi. The scene should exude warmth and sophistication, reflecting the elegance of Japanese cuisine and dining etiquette.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1788648197126",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
