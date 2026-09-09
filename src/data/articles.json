@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1788923851367-1788923909864",
+    "title": "Letter-Perfect: Weaving Seasonal Changes into Your Greetings",
+    "subtitle": "Unlocking the nuances of Japanese letter writing through the seasons.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to craft charming and seasonally appropriate greetings in Japanese letters, enhancing your communication with a touch of Japanese elegance. This article explores the beauty of expressing seasonal changes and weather greetings in a way that's both natural and impactful.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From the crisp autumn air to the gentle spring showers, Japanese letter writing often carries a subtle, yet profound, connection to the fleeting seasons. Imagine the joy of sending a heartfelt letter to a friend in the snowy depths of winter or a heartfelt message to someone in the midst of blooming cherry blossoms.  Words like '秋' (autumn) or '春' (spring) in Japanese convey a deeper emotional impact, and they can be woven into the fabric of everyday greetings. This journey will guide you through the nuances of Japanese letter writing as we explore the cultural significance of seasons and weather in communication.",
+    "grammarExplanation": "Japanese grammar, with its inherent emphasis on context and nuance, allows for a beautiful interplay of meaning and word choice. Consider the use of polite forms, the flow of sentences, and the careful selection of words to convey a specific message. While we'll delve into the intricacies of Japanese sentence structure, remember to focus on the overall message and the emotions you wish to convey.",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "yellow",
+        "title": "Vocabulary: 季節",
+        "japanese": "季節 (kisetsu)",
+        "kana": "Kisetsu",
+        "romaji": "Kisetsu",
+        "english": "Season",
+        "explanation": "Seasons are a key element in Japanese letter writing, each season holds a unique significance in the culture and is reflected in the language.",
+        "exampleJp": "秋が来ている (Aki ga kuru tte iru)",
+        "exampleEn": "Autumn is coming.",
+        "tip": "Seasons are often expressed in Japanese using a simple word like '季節 (kisetsu)' followed by the season. For example, '秋 (Aki)' means 'autumn' and '春 (haru)' means 'spring'. The seasons are reflected in Japanese letter writing, adding depth and beauty to the communication."
+      },
+      {
+        "id": "p-2",
+        "color": "blue",
+        "title": "Vocabulary:  天気",
+        "japanese": "天気 (tenki)",
+        "kana": "Tenki",
+        "romaji": "Tenki",
+        "english": "Weather",
+        "explanation": "Weather plays a significant role in shaping the landscape of Japanese culture and in the language. Japanese weather is often referenced in letters, and it can set the tone for conversation and communication. ",
+        "exampleJp": "今日、雨が降っています (Kyō, ame ga furu tte iru)",
+        "exampleEn": "It's raining today.",
+        "tip": "The Japanese word for 'weather' is '天気 (tenki)', and it's commonly used in conversations to express the current state of the weather. For example, '今日は曇り (kyou wa kumo-ri)' means 'It's cloudy today', and '今日は晴れ (kyou wa hare)' means 'It's sunny today'. Understanding the different words for 'weather' can help you understand the tone of the conversation in Japanese letters."
+      }
+    ],
+    "culturalInsight": "Japanese letter writing often reflects the changing seasons.  This is evident in the way people choose their words and expressions, often incorporating seasonal themes. This practice is rooted in the deep connection Japanese people have to nature and its cyclical changes. For example, the act of writing a letter during the autumn season is often accompanied by a feeling of gratitude for the vibrant beauty of the changing leaves, symbolizing the cyclical nature of life itself. ",
+    "quiz": {
+      "question": "What is the Japanese word for 'weather'?",
+      "options": [
+        "季節 (kisetsu)",
+        "天気 (tenki)",
+        "雨 (ame)",
+        "風 (kaze)"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is '天気 (tenki)'."
+    },
+    "imagePrompt": "An illustration of a calligraphy scroll with a beautiful cherry blossom scene in the background.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1788923851367-1788923909864.jpg",
+    "thumbnailAlt": "An illustration of a calligraphy scroll with a beautiful cherry blossom scene in the background.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1788909441249",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
