@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-coffee-cafe-introduction-1789244233126",
+    "title": "Coffee Break: Your Guide to Ordering in a Japanese Cafe",
+    "subtitle": "Level 1: Mastering the Basics of Ordering in a Japanese Cafe",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article will guide you through ordering coffee at a Japanese cafe, from basic phrases to navigating the menu.  It's the perfect starting point for your Japanese language journey.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "  Imagine the aroma of freshly brewed coffee, the gentle clinking of teacups, and the friendly chatter of locals – all part of a serene Japanese cafe experience. It may seem like a foreign world, but with a little effort, ordering your caffeine fix can become a delightful moment of cultural immersion. Today, we’ll explore the essential phrases and etiquette to help you navigate your first coffee encounter in Japan.  Let's begin! \n   『コーヒー、お願いします』 (Coffee, please)  \n\n  This simple phrase will get you started, and it's often enough to order a simple coffee.  However, there are more ways to express your desires. ",
+    "grammarExplanation": "The grammar in Japanese is quite straightforward and relies on a relatively simple sentence structure. Basic phrases in Japanese are often followed by a simple verb and a noun. While there is a lot to learn, the fundamentals are easy to grasp, especially when you are learning from this guide. This article will provide you with a foundation to understand how to use basic Japanese verbs and nouns to express yourself in this language. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: Today",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This simple phrase marks the beginning of any sentence. It's a great way to get your conversation started in Japanese.",
+        "exampleJp": "今日はいい天気ですね",
+        "exampleEn": "It's a nice day today.",
+        "tip": "Try saying this phrase after asking, ‘How are you?’ or ‘What’s the weather like today?’"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: What do you like?",
+        "japanese": "どんなコーヒーが好きですか？",
+        "kana": "donna kōhī no so-kaku desu ka?",
+        "romaji": "donna kōhī no so-kaku desu ka?",
+        "english": "What kind of coffee do you like?",
+        "explanation": "Learn about different types of coffee in Japan, such as latte or drip coffee. Asking your waiter about preferred coffee style can make ordering more comfortable.",
+        "exampleJp": "砂糖を入れてください",
+        "exampleEn": "Please add sugar.",
+        "tip": "Focus on the type of coffee, sugar, and other preferences when asking the barista.  For instance, if you like a strong coffee, you can ask for a ‘strong coffee’ or ‘espresso’ in Japanese."
+      }
+    ],
+    "culturalInsight": "In Japan, coffee culture is a cherished tradition.  Cafés are often seen as gathering places, where you can enjoy the company of others, whether it’s for a quick chat or a more intimate conversation. Coffee is often served in a 'cafe' setting.  Cafes are well-decorated and cozy, and often have a distinct and welcoming atmosphere.",
+    "quiz": {
+      "question": "What is a common phrase for asking for coffee in Japanese? ",
+      "options": [
+        "コーヒーをどうぞ",
+        "お飲み物ください",
+        "コーヒーお願いします",
+        "お茶をください"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": " The correct answer is ‘コーヒーお願いします’ (Coffee, please) This phrase is a very common phrase in Japanese, and it is the easiest phrase to start with."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vintage monochrome illustration of a person enjoying a cup of coffee at a traditional Japanese cafe. ",
+    "thumbnailUrl": "/images/level1-coffee-cafe-introduction-1789244233126.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a person enjoying a cup of coffee at a traditional Japanese cafe. ",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1789225677005",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
