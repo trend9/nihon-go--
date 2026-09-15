@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1789505793862-1789505928248",
+    "title": "A Toast to Colleagues: Mastering the Art of Japanese Congratulatory Expressions",
+    "subtitle": "Leveling Up Your Professionalism in the Japanese Workplace",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Celebrate professional successes and strengthen workplace bonds with the precision and elegance of Japanese congratulatory expressions. Dive into this article to learn the nuances of Japanese toast expressions and their profound philosophical undertones.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the bustling workplace of Tokyo, a heartfelt congratulatory expression can bridge cultural divides and solidify professional bonds. Mastering the art of Japanese toast expressions goes beyond mere politeness; it signifies the depth of cultural understanding and the nuanced appreciation of the human spirit.  From the subtle formality of a 'Konnichiwa' (こんにちは) to the heartfelt sincerity of 'Ohayo gozaimasu' (おはよう), this article navigates the intricate world of Japanese congratulatory expressions, offering insights into how to truly express congratulations with authenticity and grace.  After all, even the most mundane work meeting becomes a symphony of shared aspirations when conducted with a touch of Japanese poetic elegance.",
+    "grammarExplanation": "The Japanese language, known for its complex grammar, often requires a nuanced approach to express congratulations effectively. While English uses simple verb tenses, Japanese employs complex particles and sentence structure, sometimes requiring a deeper understanding of the speaker's intentions. This article delves into the intricacies of Japanese verb conjugation, highlighting the subtle differences in formality and the power of word choice. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: 今日は良い結果ですね",
+        "japanese": "今日は良い結果ですね",
+        "kana": "kyou wa yoi kessho desu",
+        "romaji": "kyou wa yoi kessho desu",
+        "english": "Today is a good day, isn't it? Congratulations on your achievement!",
+        "explanation": "This sentence is perfect for a congratulatory toast after a successful project presentation or a successful meeting. It expresses a sense of joy and appreciation for the team's efforts.",
+        "exampleJp": "今日の成果は素晴らしく、達成感に満ちていますね",
+        "exampleEn": "Your results today are incredible and filled with achievement! Congratulations! ",
+        "tip": "For a more informal tone, you can simply say \"今日は素晴らしいね\". \"今日は良い結果だね\" expresses appreciation and congratulation, and \"今日の成果が素晴らしいね\" expresses pride. "
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary: 頑張りましょう",
+        "japanese": "頑張ってましょう",
+        "kana": "Ganbatte mo shma",
+        "romaji": "Ganbatte mo shma",
+        "english": "Let's try our best!",
+        "explanation": "This is an expression of encouragement and motivation after a successful project or achievement, conveying the spirit of perseverance and determination.",
+        "exampleJp": "素晴らしい成果を達成できたから、次の目標に向けて頑張りましょう",
+        "exampleEn": "Since we achieved such great results, let's continue to strive and work hard for our next goals!",
+        "tip": "Use this phrase after a successful meeting or presentation, and it will express a positive outlook and a sense of shared ambition."
+      }
+    ],
+    "culturalInsight": " **From the Ritualistic Toasts of the Workplace to the Art of the Small Gesture**\n\nThe Japanese workplace culture is built upon a foundation of meticulous formality and subtle gestures of respect. A simple toast, however, goes beyond mere politeness. It signifies a deeper understanding of the human spirit and an appreciation for shared aspirations. A well-crafted toast can be a powerful expression of camaraderie and support. Imagine a colleague's heartfelt congratulations, delivered with a subtle nod of recognition, a warm smile, and a traditional Japanese toast - a gesture that embodies the essence of Japanese professionalism.",
+    "quiz": {
+      "question": "What is the correct Japanese way to congratulate a colleague on a successful project? ",
+      "options": [
+        "おめでとうございます!",
+        "おめでとう！",
+        "お疲れ様！",
+        "ありがとう"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is \"おめでとう！\" (O-to-me-o!), which translates to \"Congratulations!.\" It is a universal expression of congratulations in Japanese and conveys the sincerity of your admiration for their achievement."
+    },
+    "imagePrompt": "A close-up shot of two colleagues smiling with a celebratory glass of sake in front of a traditional Japanese building, with cherry blossoms in the background",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level5-unique-slug-1789505793862-1789505928248.jpg",
+    "thumbnailAlt": "A close-up shot of two colleagues smiling with a celebratory glass of sake in front of a traditional Japanese building, with cherry blossoms in the background",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1789489497345",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
