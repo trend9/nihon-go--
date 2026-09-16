@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1789575264085-1789575405143",
+    "title": "Decoding the Daily Rhythms: A Homemaker's Guide to Japanese Living",
+    "subtitle": "Evening Edition",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Learn how to navigate your way through the day's routines in Japan. This insightful guide is for those looking to understand the intricacies of daily life in the Land of the Rising Sun.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From the serene rhythm of the morning commute to the comforting hum of evening rituals, Japanese society thrives on a carefully orchestrated dance of daily routines. While the image of a bustling city might initially come to mind, a deeper dive reveals a fascinating tapestry woven from simple, yet profound, traditions. As the sun begins to set, the country shifts into a new mode of activity, one often fueled by the comforting scents of steaming ramen and the soft glow of evening television.  This guide delves into the everyday, offering insights into how Japanese families and individuals navigate their evenings. Whether you are planning a trip to Japan or simply wanting to appreciate another culture's way of life, this article provides valuable insight into the nuances of Japanese daily life. ",
+    "grammarExplanation": "This article uses a series of descriptive sentences, employing passive voice and a formal tone. It avoids using excessive slang or colloquialisms. The grammar emphasizes a clear explanation of Japanese daily life using descriptive language.  It uses simple and clear sentence structures, ensuring comprehension for English-speaking readers. It employs cultural references such as 'dinner' and 'evening' while avoiding unnecessary jargon. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "blue",
+        "title": "Vocabulary: 晩御飯",
+        "japanese": "晩御飯",
+        "kana": "ばんぎ飯",
+        "romaji": "Ban-Gih-mae",
+        "english": "Dinner",
+        "explanation": "Evening meal, typically eaten after work/school, marks the beginning of the evening. ",
+        "exampleJp": "夕食は、いつも晩御飯を食べる",
+        "exampleEn": "Dinner is always a staple in the evening.",
+        "tip": "This is often eaten at home."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "pink",
+        "title": "Vocabulary: お茶",
+        "japanese": "お茶",
+        "kana": "ocha",
+        "romaji": "Ocha",
+        "english": "Tea",
+        "explanation": "A staple drink in Japanese culture, it is enjoyed before, during, or after meals. ",
+        "exampleJp": "今日は、緑茶を淹れてお茶を飲んだ",
+        "exampleEn": "I brewed green tea this evening to enjoy a relaxing cup of tea.",
+        "tip": "Try different types of tea for a unique experience."
+      }
+    ],
+    "culturalInsight": "Just as the sun begins to set in Japan, a sense of tranquility washes over the land. As people gather for dinner, families engage in meaningful conversations.  The evening often finds people relaxing on the tatami floor, listening to the gentle patter of the rain, or enjoying the company of loved ones. This quiet time fosters a sense of connection and allows individuals to unwind and reconnect with themselves. For many, this evening ritual marks the end of a day, a transition from work and daily responsibilities to a space for personal reflection. ",
+    "quiz": {
+      "question": "Which of these activities is typically associated with the evening in Japan?",
+      "options": [
+        "Early morning shopping trips",
+        "Visiting a shrine",
+        "Relaxing with family",
+        "Working late hours"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "While shopping and visiting shrines are common activities in Japan, evening time is generally dedicated to relaxation with family. This is a core aspect of Japanese culture."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"headline\":\"Decoding the Daily Rhythms: A Homemaker's Guide to Japanese Living\",\"description\":\"Learn how to navigate your way through the day's routines in Japan. This insightful guide is for those looking to understand the intricacies of daily life in the Land of the Rising Sun.\",\"author\":\"Emma Sterling\",\"datePublished\":\"2023-10-26T19:00:00+00:00\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level4-unique-slug-1789575264085-1789575405143.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1789556327217",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
