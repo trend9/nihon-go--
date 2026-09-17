@@ -1,5 +1,64 @@
 [
   {
+    "id": "level3-unique-slug-1789643048709-1789643157360",
+    "title": "Navigating Japanese Homes: A Look at Daily Routines",
+    "subtitle": "Learning how to describe your daily life in Japanese",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover the intricacies of Japanese household routines and learn how to describe them in a way that captures the essence of daily life. This article will help you bridge the gap between everyday Japanese and English for a deeper cultural understanding.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine this: It's 4pm, and you're settling in for the afternoon in your stylish Japanese home.  The sunlight streams through the paper-thin tatami mats, casting a calming glow across the room.  You sip on green tea, enjoying the quiet moments before your evening activities begin.  How do you describe this everyday scene in Japanese? This article will guide you through the language of daily routines and household items, giving you the tools to communicate your life in Japan more effectively.  From understanding the concept of ‘omotenashi’ (hospitality) to describing the use of everyday appliances, we'll explore the nuances of Japanese home life.",
+    "grammarExplanation": "This article will focus on how to describe daily routines using a variety of sentence structures and vocabulary specific to the context of Japanese homes. We'll analyze the use of grammatical particles and how they contribute to the flow and meaning of sentences. For example, we will explore the subtle difference between ‘desu’ and ‘wa’ and how they can change the direction of your sentence. Mastering these nuances will allow you to navigate Japanese conversation with confidence.",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: Kitchen",
+        "japanese": "キッチン",
+        "kana": "Kitchin",
+        "romaji": "Kitchin",
+        "english": "Kitchen",
+        "explanation": "The kitchen is the heart of the Japanese home, and a common topic in daily life.  Learning to describe the kitchen is an important step to understanding the cultural nuances of daily life.",
+        "exampleJp": "私のキッチンは、とても清潔です。",
+        "exampleEn": "My kitchen is very clean.",
+        "tip": "The term ‘kitchen’ in Japanese can refer to a small room or a whole floor dedicated to cooking. "
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "green",
+        "title": "Vocabulary: Laundry",
+        "japanese": "洗濯",
+        "kana": "San-tsu-u",
+        "romaji": "Santtsu",
+        "english": "Laundry",
+        "explanation": "Learning about everyday tasks such as washing clothes is essential for understanding daily life in Japan.  It helps you see how Japanese people live and interact with their routines.",
+        "exampleJp": "私は毎日洗濯をします。",
+        "exampleEn": "I do laundry every day.",
+        "tip": "While washing clothes is a common practice, understanding the nuances of different machines and methods of washing is a helpful skill."
+      }
+    ],
+    "culturalInsight": "Daily life in Japan is rooted in traditions and respect for family and community. This is evident in how people interact with their homes, the environment, and the social interactions within their households. From the concept of 'omotenashi' - hospitality - to the art of creating a clean and organized living space, these cultural values are interwoven into the very fabric of Japanese home life.",
+    "quiz": {
+      "question": "Which of the following items is commonly found in a Japanese kitchen?",
+      "options": [
+        "Dishwasher",
+        "Rice cooker",
+        "Television",
+        "Refrigerator"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The most common appliance in a Japanese kitchen is a Rice cooker. This appliance is used to cook rice and is often considered a symbol of good luck in Japan."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\",\"@type\":\"Article\",\"description\":\"Discover the intricacies of Japanese household routines and learn how to describe them in a way that captures the essence of daily life. This article will help you bridge the gap between everyday Japanese and English for a deeper cultural understanding.\",\"keywords\":[\"Japanese\", \"Daily Routine\", \"Households\", \"Culture\", \"Vocabulary\", \"Living in Japan\"],\"language\":\"en\",\"mainEntity\":{\"name\":\"Learning How to Describe Japanese Households\"},\"author\":{\"name\":\"Emma Sterling\"},\"publisher\":{\"name\":\"The Japanese Language Learning Journal\"}}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "meta description": "Learn how to describe your daily life in Japanese and navigate the complexities of everyday routines. This article explores the nuances of Japanese home life, providing tools for communicating your life in Japan. ",
+    "thumbnailUrl": "/images/level3-unique-slug-1789643048709-1789643157360.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1789616217109-1789616320659",
     "title": "Learning the Seasons: Greetings in Letters",
     "subtitle": "Mastering the subtle shifts in Japanese weather greetings",
