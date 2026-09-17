@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1789616217109-1789616320659",
+    "title": "Learning the Seasons: Greetings in Letters",
+    "subtitle": "Mastering the subtle shifts in Japanese weather greetings",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to greet others with the changing seasons and weather in Japanese.  This guide focuses on the subtle nuances of language in everyday life.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The subtle shifts in weather and the changing seasons are often reflected in our greetings in Japanese.  Just as a gentle breeze signals the arrival of autumn, a simple '今日はいい天気' (kyou wa ii tenki) can brighten your day. This guide will take you through some of these common expressions, helping you navigate the ever-evolving Japanese weather.  From greetings to more nuanced weather-related inquiries, this journey will help you master the art of expressing yourself in Japanese.  Let's begin with some foundational words.",
+    "grammarExplanation": "This level introduces basic grammar structures like subject-verb-object order in Japanese.  We'll focus on how verbs change based on tense and how to use particles to connect ideas.   Learning these patterns is essential for everyday communication.",
+    "postIts": [
+      {
+        "id": "p-Vocabulary-Weather",
+        "color": "yellow",
+        "title": "Vocabulary:  天気 (tenki)",
+        "japanese": "天気",
+        "kana": "tenki",
+        "romaji": "tenki",
+        "english": "Weather",
+        "explanation": "Weather in Japan is often a topic of conversation, and learning how to talk about it is a big part of communicating with Japanese people. ",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "Today's weather is nice.",
+        "tip": "Sounds like 'tenki' in Japanese.  Remember to use it in context -  '天気はいい' means 'the weather is nice' .  Try it out in your daily conversations!"
+      },
+      {
+        "id": "p-Weather-Greetings",
+        "color": "blue",
+        "title": "Vocabulary:  天気予報 (tenki youbo)",
+        "japanese": "天気予報",
+        "kana": "tenki youbo",
+        "romaji": "tenki youbo",
+        "english": "Weather Forecast",
+        "explanation": "Weather forecasts are an essential part of everyday life in Japan. Learning to use these terms can help you understand what the experts are saying.",
+        "exampleJp": "天気予報はいいですね。",
+        "exampleEn": "The weather forecast is good.",
+        "tip": "Weather reports are a big deal in Japan.  Try using '天気予報' to ask about the weather forecast."
+      }
+    ],
+    "culturalInsight": "In Japan, weather is a topic of great importance. The weather is a constant presence in the culture, from the way people dress to the way they talk about food. Understanding the weather in Japan, especially its nuanced relationship to daily life, will help you connect with the culture on a deeper level. Pay attention to the subtle shifts in vocabulary, and be aware of how they affect how people express themselves. ",
+    "quiz": {
+      "question": "What does '天気' mean in Japanese?",
+      "options": [
+        "Weather",
+        "Time",
+        "Temperature",
+        "Location"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": " '天気' is the Japanese word for 'weather'.  "
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"@context\":\"http://schema.org/\",\"@id\":\"level2-unique-slug-1789616217109\"}",
+    "imagePrompt": "A vibrant Japanese landscape during the autumn with colorful leaves falling, with a Japanese house in the background.  The overall mood should be warm and inviting.",
+    "thumbnailUrl": "/images/level2-unique-slug-1789616217109-1789616320659.jpg",
+    "thumbnailAlt": "A vibrant Japanese landscape during the autumn with colorful leaves falling, with a Japanese house in the background.  The overall mood should be warm and inviting.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1789601897367",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
