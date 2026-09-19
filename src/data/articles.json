@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1789831642424-1789831736375",
+    "title": "Checking In at a Traditional Ryokan: Dining Rules & Etiquette",
+    "subtitle": "A Guide to Experiencing Japanese Hospitality",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Immerse yourself in the elegant traditions of Japanese hospitality with this guide to ryokan etiquette. Discover how to navigate the world of Japanese dining and experience the true essence of a Ryokan stay.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional Ryokan inn evokes a sense of tranquility and respect.  This article will guide you through the intricacies of Ryokan dining and delve into the customs that define this unique Japanese experience. From respectful behavior in the communal space to understanding the nuances of the meal, we aim to equip you with the knowledge to fully appreciate the Japanese art of hospitality.",
+    "grammarExplanation": "This article explores advanced grammatical concepts such as the use of the conditional tense (if clause) and complex sentence structures. It also provides context on the role of politeness levels and the proper use of Japanese honorifics. ",
+    "postIts": [
+      {
+        "id": "p_1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This is the Japanese for 'today', used to refer to the present time.",
+        "exampleJp": "今日は天気はいいですよ。",
+        "exampleEn": "It's a nice day today.",
+        "tip": "Pronounce it as 'kyou' and consider the context of the sentence to adjust the intonation."
+      },
+      {
+        "id": "p_2",
+        "color": "blue",
+        "title": "Vocabulary: お願い",
+        "japanese": "お願いします",
+        "kana": "onegai",
+        "romaji": "onegai",
+        "english": "Please",
+        "explanation": "This is the standard Japanese polite form of asking for something. Use it for anything from ordering food to asking for a favor.",
+        "exampleJp": "おやすみ、お願いします。",
+        "exampleEn": "Good night, please.",
+        "tip": "Using this phrase shows respect and enhances the interaction."
+      }
+    ],
+    "culturalInsight": "Ryokans are more than just overnight accommodations; they are a window into Japanese culture and tradition.  From the meticulous arrangement of traditional tatami mats to the delicate beauty of paper lanterns, each detail reflects the spirit of Japanese hospitality.  Immerse yourself in the tranquil atmosphere of a traditional Ryokan, and you'll find yourself captivated by the essence of Japanese hospitality.",
+    "quiz": {
+      "question": "When ordering your Ryokan meal, you should always:",
+      "options": [
+        "Demand the chef create a dish specifically to your liking.",
+        "Proceed to the table without a word and wait for the others to serve you.",
+        "Ask the waiter for a dish suggestion and politely say 'お願いします',.",
+        "Order your meal without speaking and rely on the host to serve you."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Understanding Japanese dining etiquette is crucial for a seamless Ryokan experience. 'お願いします' is a polite way to ask the waiter for recommendations and to show respect for the service provided."
+    },
+    "imagePrompt": "An image of a traditional Ryokan inn with tatami mats, a wooden door, paper lanterns, and a serene landscape in the background. ",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level4-unique-slug-1789831642424-1789831736375.jpg",
+    "thumbnailAlt": "An image of a traditional Ryokan inn with tatami mats, a wooden door, paper lanterns, and a serene landscape in the background. ",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1789813623615",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
