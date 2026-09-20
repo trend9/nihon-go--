@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1789901017233-1789901151183",
+    "title": "Decoding Japanese Dining Etiquette and Seasonal Delights",
+    "subtitle": "A guide to mastering the art of ordering in Japan's vibrant culinary scene",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Embark on a culinary journey through Japan, understanding the nuances of dining etiquette and seasonal offerings. This comprehensive guide will equip you to navigate the complexities of Japanese cuisine with confidence.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "\"今日は何がいいですか？\" (Today, what should I order?) is a question that can seem intimidating, yet it's at the heart of Japanese dining culture.  Understanding the subtle nuances of etiquette and the seasons' bounty allows you to truly savor the Japanese dining experience. From the art of ordering seasonal dishes to the delicate etiquette of table manners, this guide will help you navigate the cultural landscape with ease.  \"おせち\" (osechi), a traditional celebratory meal of packed with regional specialties, awaits! Let's dive in and learn the secrets of authentic Japanese dining. ",
+    "grammarExplanation": "This article utilizes a simple present tense for the general description of the culture and food, and past tense for specific historical and cultural context. This allows a clear understanding of the current state of Japan's culture, while remaining respectful of historical context. Remember that Japanese society is deeply rooted in politeness and respect for elders, and this is reflected in the language, from the formalities in the writing to the way in which the food is presented.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-today",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "Today is the present day in Japanese. This is a key concept to understand, particularly in Japanese restaurants and bars.",
+        "exampleJp": "今日、何がいいですか？",
+        "exampleEn": "What should I order today?",
+        "tip": "When talking about the present day, you will often use '今日は' (kyou)."
+      },
+      {
+        "id": "p-vocabulary-seasonal",
+        "color": "pink",
+        "title": "Vocabulary: 季節 (Kisetsu)",
+        "japanese": "季節 (Kisetsu)",
+        "kana": "kisetsu",
+        "romaji": "kisetsu",
+        "english": "Season",
+        "explanation": "Seasonal ingredients are key to understanding Japanese cuisine, from the delicate flavor of sakura (cherry blossom) ice cream to the rich, earthy notes of winter mushrooms. ",
+        "exampleJp": "春の旬 (haru no kisetsu)",
+        "exampleEn": "Spring season",
+        "tip": "When talking about seasons, you will often use '季節 (kisetsu)'. This is a key concept to understand, particularly in Japanese restaurants and bars."
+      }
+    ],
+    "culturalInsight": "Dining in Japan is not just about consuming food, it is an art form that intertwines culture, tradition, and a deep appreciation for the finer things in life.  From the meticulous presentation of food to the quiet rituals of sharing meals, Japanese dining embodies a unique blend of simplicity and sophistication.  \"おせち\" (osechi), a traditional celebratory meal of packed with regional specialties, awaits! Let's dive in and learn the secrets of authentic Japanese dining. ",
+    "quiz": {
+      "question": "Which of the following is a key concept in Japanese dining etiquette?",
+      "options": [
+        "Asking for extra rice.",
+        "Sharing chopsticks.",
+        "Respecting your elders.",
+        "Eating only until your stomach is completely full."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Respecting elders and maintaining a respectful demeanor during a meal is a fundamental part of Japanese dining etiquette. Sharing chopsticks and expressing gratitude for the food you receive are common practices."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\", \"@type\": \"Article\", \"headline\": \"Decoding Japanese Dining Etiquette and Seasonal Delights\", \"description\": \"Embark on a culinary journey through Japan, understanding the nuances of dining etiquette and the seasons' bounty. This comprehensive guide will equip you to navigate the complexities of Japanese cuisine with confidence.\", \"datePublished\": \"2023-10-26T15:00:00+09:00\", \"author\": { \"@type\": \"Person\", \"name\": \"Emma Sterling\"}, \"mainEntityOfPage\": { \"@type\": \"Webpage\", \"url\": \"https://example.com/\", \"name\": \"Japanese Dining Etiquette\"}, \"image\": { \"@type\": \"Image\", \"url\": \"https://example.com/image.jpg\"}, \"keywords\": \"Japan, Dining Etiquette, Seasonal Dishes\" , \"language\": \"en\" , \"genre\": \"How To\" , \"location\": \"Japan\" , \"publisher\": \"Example Publisher\" , \"contentLocation\": \"text\" }",
+    "imagePrompt": "A young woman sitting at a traditional Japanese teahouse, sipping green tea and enjoying a delicious bento box. The scene should evoke a feeling of calm and serenity.",
+    "thumbnailUrl": "/images/level3-unique-slug-1789901017233-1789901151183.jpg",
+    "thumbnailAlt": "A young woman sitting at a traditional Japanese teahouse, sipping green tea and enjoying a delicious bento box. The scene should evoke a feeling of calm and serenity.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1789875428202-1789875560826",
     "title": "Crafting Polite Business Requests in Corporate Meetings",
     "subtitle": "A guide for making your business requests clear and respectful",
