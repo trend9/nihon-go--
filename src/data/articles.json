@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1789875428202-1789875560826",
+    "title": "Crafting Polite Business Requests in Corporate Meetings",
+    "subtitle": "A guide for making your business requests clear and respectful",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn to make clear and respectful business requests in the bustling world of Japanese corporate meetings.  This article offers practical tips and examples.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating the world of corporate meetings in Japan requires a delicate balance of professional etiquette and assertive communication. While Japanese culture emphasizes harmony and respect, you also need to be clear about your needs and requests.  This guide will provide practical advice on how to make those polite business requests in a way that ensures your message is understood and your business goals are met.  Let's dive into the details of Japanese business culture and learn how to be a successful professional in Japan's corporate landscape.  ",
+    "grammarExplanation": "Japanese grammar focuses heavily on politeness and formality. The use of honorifics such as 'san' and 'sama' is crucial in business settings to show respect for others.  Additionally, questions are often phrased politely with particles such as ‘ga' and 'wa' for emphasis and clarity.  Knowing the appropriate level of formality and using these particles correctly can make a big difference in how your request is received.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-request",
+        "color": "blue",
+        "title": "Vocabulary: 依頼 (ari)",
+        "japanese": "依頼 (ari)",
+        "kana": "a-ri",
+        "romaji": "ari",
+        "english": "Request",
+        "explanation": "This is a core word for making a request in business and professional contexts.  It's about asking for something from someone else.",
+        "exampleJp": "会議で提案をする依頼 (kaigi de taihen o ureshi ari)",
+        "exampleEn": "Make a request for a proposal at the meeting.",
+        "tip": "Requests often involve a reason or a benefit, so always be clear about what you are asking for."
+      },
+      {
+        "id": "p-vocabulary-質問 (shinshin)",
+        "color": "green",
+        "title": "Vocabulary: 質問 (shinshin)",
+        "japanese": "質問 (shinshin)",
+        "kana": "shinshin",
+        "romaji": "shinshin",
+        "english": "Question",
+        "explanation": "When you want to clarify something, you need to ask a question. It's important to ask respectful questions, and to be prepared for a possible response.",
+        "exampleJp": "プロジェクトの進捗について質問します (purojekuto no shinkou o yo-shi-su-yo ni shinshin-su-su-o)",
+        "exampleEn": "I would like to ask you about the progress of the project.",
+        "tip": "Use 'hontou ni' (truly) to show sincerity in your question to ensure the person taking your question seriously."
+      }
+    ],
+    "culturalInsight": " **Business Etiquette Matters**  ",
+    "quiz": {
+      "question": "In Japanese business settings, it's customary to use honorifics like 'san' or 'sama' when speaking to someone. What does this indicate about the level of formality and respect in the communication?",
+      "options": [
+        "a) Casual and relaxed",
+        "b) Respectful and polite",
+        "c) Rude and dismissive",
+        "d) Formal but impersonal"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Correct answer: b) Respectful and polite.  The use of honorifics in Japanese business meetings demonstrates the importance of respect and politeness in professional communication."
+    },
+    "schemaMarkup": "```json\n<script type=\"application/ld+json\">\n{\n  \"headline\": \"Crafting Polite Business Requests in Corporate Meetings\", \n  \"description\": \"Learn to make clear and respectful business requests in the bustling world of Japanese corporate meetings.  This article offers practical advice on how to make those polite business requests in a way that ensures your message is understood and your business goals are met.  Let's dive into the details of Japanese business culture and learn how to be a successful professional in Japan's corporate landscape.  \", \n  \"type\": \"Article\",\n  \"keywords\": [\n    \"Japanese business etiquette\", \"corporate meeting\", \"polite communication\", \"Japanese culture\", \"business requests\", \"request\" \n  ]\n}\n```",
+    "imagePrompt": "A photograph of a business meeting in a modern, minimalist office space, with a Japanese person sitting in the center, facing a whiteboard. The person is politely speaking with a colleague, and there's a clear visual of respect and professional decorum.",
+    "thumbnailUrl": "/images/level2-unique-slug-1789875428202-1789875560826.jpg",
+    "thumbnailAlt": "A photograph of a business meeting in a modern, minimalist office space, with a Japanese person sitting in the center, facing a whiteboard. The person is politely speaking with a colleague, and there's a clear visual of respect and professional decorum.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1789858012265",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
