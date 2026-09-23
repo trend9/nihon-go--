@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1790160697036-1790160758888",
+    "title": "Lost in Translation? Mastering Subway Directions in Japanese",
+    "subtitle": "An Essential Guide for English Speakers",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to navigate Japan's iconic subway system with ease. This guide will teach you essential phrases and basic vocabulary for requesting directions, even in the middle of the morning rush.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating the labyrinthine Japanese subway system can be daunting for English speakers. With a wealth of cultural nuances and specific terms, understanding the basic vocabulary and conversational cues can make all the difference.  From basic directions like 'to the Shibuya station,' to more advanced questions like 'Please tell me how to reach the Asakusa station,' this guide provides a roadmap to mastering these essential phrases. This will empower you to confidently traverse Japan's iconic subterranean network, and more importantly, avoid getting lost.",
+    "grammarExplanation": "Japanese grammar focuses on sentence structure and particles. Subject-verb-object (SVO) is the most common structure. Particles, small grammatical markers, connect words and change the meaning of phrases.  For example, particles can indicate possession (の), time (が), or purpose (を). Mastering the use of these particles will significantly enhance your fluency.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary:  Directions",
+        "japanese": "Directions",
+        "kana": "directions",
+        "romaji": "directions",
+        "english": "Directions",
+        "explanation": "Basic directions in Japanese are often expressed as 'to the (destination)' or 'directions to (destination)'.",
+        "exampleJp": "この駅に行く",
+        "exampleEn": "Go to this station.",
+        "tip": "Start by learning basic directions like 'To the station' or 'To the train station' to build your vocabulary."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary:  Subway Line",
+        "japanese": "Subway Line",
+        "kana": "subway line",
+        "romaji": "Subway Line",
+        "english": "Subway line",
+        "explanation": "Knowing the different subway lines will help you navigate Tokyo's complex network.",
+        "exampleJp": "JR線",
+        "exampleEn": "JR line",
+        "tip": "You can use words like 'JR' (Japan Railway) for the main lines."
+      }
+    ],
+    "culturalInsight": "**A cultural sidebar: Navigating the Labyrinth: Japanese Subways.** While the Japanese subway system is renowned for its efficiency, it can be confusing for visitors. The stations are meticulously designed with different levels and platforms, each with a specific destination.  Japanese commuters rely on a specific level of etiquette, from understanding the 'ticket' system to bowing as a courtesy.  Learning these subtle social customs can enhance your travel experience and show respect for the culture.",
+    "quiz": {
+      "question": "Which of these is NOT a common Japanese word for 'Subway'?:",
+      "options": [
+        "Toei",
+        "Tokyo Metro",
+        "Chuo-sen",
+        "Shibuya-station"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is 'Shibuya-station' as it refers to a specific station, not a general type of subway. The other options are well-known Japanese companies that operate subway lines.  Understanding the difference between the two can help you ask accurate directions."
+    },
+    "schemaMarkup": "{'type': 'Article', 'headline': 'Lost in Translation? Mastering Subway Directions in Japanese', 'description': 'Learn how to navigate Japan's iconic subway system with ease. This guide will teach you essential phrases and basic vocabulary for requesting directions, even in the middle of the morning rush.', 'language': 'English', 'mainEntity': {'name': 'Subway Directions in Japanese', 'description': 'Learn how to navigate Japan's iconic subway system with ease. This guide will teach you essential phrases and basic vocabulary for requesting directions, even in the middle of the morning rush.'}, 'publishedDate': '2023-10-26T11:30:00Z'}",
+    "imagePrompt": "A detailed artistic illustration depicting a busy Tokyo subway station, with people walking, looking at maps, and commuters on the platform.",
+    "thumbnailUrl": "/images/level2-unique-slug-1790160697036-1790160758888.jpg",
+    "thumbnailAlt": "A detailed artistic illustration depicting a busy Tokyo subway station, with people walking, looking at maps, and commuters on the platform.",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1790134405414",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
