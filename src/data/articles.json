@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1790267854710-1790268007425",
+    "title": "Mastering Business Requests in Japanese Corporate Meetings",
+    "subtitle": "A guide for English-speaking professionals navigating Japanese business culture.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article provides a clear roadmap for making polite business requests in Japanese corporate meetings.  Learn essential vocabulary and phrases to navigate business etiquette, build rapport, and foster positive interactions with colleagues.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Navigating a Japanese corporate meeting can feel like entering a foreign land.  Japanese business culture is known for its formality and subtle nuances, and successfully requesting something often requires a careful approach. But, with the right words and a little understanding, you can confidently navigate your way through any meeting. This guide will equip you with essential vocabulary and phrases to ensure your requests are clear, concise, and respectful. Let's start by understanding the key components of Japanese business etiquette and how to adapt your communication style.",
+    "grammarExplanation": "Japanese grammar is nuanced and builds on formal structures.  This article will focus on essential phrases, sentence construction, and common grammatical patterns to provide a solid foundation.  Remember to always address colleagues formally, use polite forms of speech, and use specific language when addressing business needs.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "pink",
+        "title": "Vocabulary:  ビジネス依頼",
+        "japanese": "ビジネス依頼",
+        "kana": "Bī-jū-sā-r-i",
+        "romaji": "Bī-jū-sā-r-i",
+        "english": "Business Request",
+        "explanation": "This is the formal term for 'business request'. It can be used when you need to ask for something in a business setting.  For example:  「ビジネス依頼は、新しいプロジェクトの提案を提出してください。」  ('Request for business proposal is a request to submit a proposal for a new project.')",
+        "exampleJp": "新しいプロジェクトの提案を提出して欲しいです。",
+        "exampleEn": "I would like you to submit a proposal for a new project.",
+        "tip": "When you make a request, be sure to use polite language, such as 'would you mind...?' or 'would it be possible...?'"
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "green",
+        "title": "Vocabulary:  質問",
+        "japanese": "質問",
+        "kana": "Shinsatsu",
+        "romaji": "Shinsatsu",
+        "english": "Question",
+        "explanation": "Asking a question is key to understanding and clarifying. Always remember that Japanese culture values direct and respectful communication.  For example:  「お役に立てて、質問があれば教えてください。」  ('If you have any questions, please let me know.')",
+        "exampleJp": "質問があれば教えて下さい。",
+        "exampleEn": "If you have any questions, please let me know.",
+        "tip": "The key to asking questions is to do so politely and with a respectful tone.  Avoid being too direct or assertive."
+      }
+    ],
+    "culturalInsight": "The Japanese business world is incredibly structured and follows a strict hierarchy. This article focuses on the language and cultural aspects of making requests within this context. Understanding these dynamics can help you navigate your communication effectively and build stronger professional relationships.  For example, always use a title of '先生' (Sensei) to address a senior colleague.  Similarly, always address the person you are speaking to as '先生' (Sensei) or 'さん' (San) to show respect and formality in the workplace.  If unsure, it's best to err on the side of formality and address the person as '先生' (Sensei) to demonstrate respect.",
+    "quiz": {
+      "question": "How would you translate 'I would like to request a meeting' in Japanese?",
+      "options": [
+        "会議の依頼をしたい",
+        "会いたい",
+        "会合を依頼したい",
+        "要望を申し立てる"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Option 1, '会議の依頼をしたい', is the most accurate translation of 'I would like to request a meeting'. The phrase implies a formal request for a meeting."
+    },
+    "imagePrompt": "A Japanese business executive in a meeting room with a white background and subtle color gradients, surrounded by various documents and technology",
+    "schemaMarkup": "<meta name=\"description\" content=\"Learn to make polite business requests in Japanese corporate meetings and navigate the subtleties of Japanese business culture. This guide provides essential vocabulary and phrases for successful communication.  \" />",
+    "thumbnailUrl": "/images/level2-unique-slug-1790267854710-1790268007425.jpg",
+    "thumbnailAlt": "A Japanese business executive in a meeting room with a white background and subtle color gradients, surrounded by various documents and technology",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1790248458165",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
