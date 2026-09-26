@@ -1,5 +1,62 @@
 [
   {
+    "id": "level3-unique-slug-1790394227066-1790394401730",
+    "title": "Unlocking the Secrets of Ryokan Stays: Dining Etiquette & Check-In",
+    "subtitle": "An afternoon guide to the traditional Japanese inn experience",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Immerse yourself in the tranquility of Japan's traditional inns, ryokans. This guide will guide you through the nuances of Ryokan check-in and dining etiquette for a seamless and respectful experience.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a ryokan, Japan's quintessential traditional inn, is like stepping into a world steeped in history and serenity. The quiet hum of conversation, the gentle rustling of paper sliding screens, and the aroma of freshly brewed green tea all contribute to a unique atmosphere. But beyond the picturesque scenery, lies a world of unspoken rules, rituals, and customs, crucial to ensuring a harmonious stay. This article dives deep into the world of Ryokans, guiding you through the key aspects of check-in and the subtle yet significant dining etiquette that define this unique experience.  From the moment you arrive, you'll be immersed in the essence of Japanese hospitality and culture.\n\n**Traditional Ryokan: A Journey into Japanese Hospitality**\n\n\n*   スチトムスムザシーワトスイスク (Ryokan Check-In)\n*   そアシヂスーリデサアデ (Traditional Dining Etiquette)\n*   ッュイスジデンュアデ (Cultural Insight and Etiquette)\n\nThis guide will help you navigate these complexities, ensuring a comfortable and culturally enriching experience. ",
+    "grammarExplanation": "This article will utilize a variety of grammatical structures, including basic sentence structure with subject-verb-object patterns, complex sentences with dependent clauses, and the use of tenses to convey nuance and detail.  Emphasis on the historical context of the Ryokan experience will be used to create a more immersive and culturally rich experience for readers.",
+    "postIts": [
+      {
+        "id": "p-Vocabulary-Today",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou wa",
+        "romaji": "kyou wa",
+        "english": "Today",
+        "explanation": "This is the word used to indicate the current day.  Understanding its use is essential for communicating about the current date and time. ",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a nice day today.",
+        "tip": "Pronounce 'kyou wa' as 'kyou wa' with a soft 'w' sound. This is a common way to express the current day in Japanese."
+      },
+      {
+        "id": "p-Vocabulary-Dinner",
+        "color": "blue",
+        "title": "Vocabulary: 食事",
+        "japanese": "食事",
+        "kana": "shokuji",
+        "romaji": "shokuji",
+        "english": "Dinner",
+        "explanation": "This is the word used for mealtime and to refer to the act of eating.",
+        "exampleJp": "食事の時間です。",
+        "exampleEn": "It's time for dinner.",
+        "tip": "This word should be pronounced as 'shokuji' with a soft 's' sound."
+      }
+    ],
+    "culturalInsight": "The Ryokan Experience\n\nRyokan, a Japanese traditional inn, offers a unique blend of comfort and cultural immersion.  Stepping into a Ryokan is akin to stepping back in time, embracing a slower pace and a reverence for tradition. The emphasis on minimalism, respect, and personal connection creates an atmosphere that is both calming and awe-inspiring. \n\n\n*   デーュチテクァシヂスト (The Art of Wabi-sabi) \n\nRyokans embody the philosophy of Wabi-sabi, a Japanese aesthetic emphasizing natural beauty, imperfection, and finding peace in simplicity.  Every element is carefully chosen to contribute to this aesthetic, from the minimalist design of the rooms to the carefully curated use of traditional Japanese art. It is a celebration of the beauty in the ordinary and a reminder of the profound meaning of simplicity.\n\n*  スケアデムシ (Harmony and Respect) \n\nRyokan embodies a deep sense of harmony and respect. From the careful presentation of food to the respectful use of shared spaces, each aspect of the experience emphasizes the value of community and shared experiences.\n\n*   パチースリデスデェ (The Art of the Tea Ceremony)\n\nThe tea ceremony, a cornerstone of Japanese culture, plays a crucial role in Ryokan stays. This sacred ritual allows for personal reflection, connection, and a deeper understanding of the beauty and philosophy of the Ryokan experience. ",
+    "quiz": {
+      "question": "What does the Japanese word 'shokuji' mean?",
+      "options": [
+        "Dinner",
+        "Tea",
+        "Rest",
+        "Travel"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'Dinner'.  The word 'shokuji' means 'dinner' in Japanese, and is used when talking about the meal eaten in the evening."
+    },
+    "schemaMarkup": "<article>\n<meta name=\"title\" content=\"Unlocking the Secrets of Ryokan Stays: Dining Etiquette & Check-In\" />\n<meta name=\"description\" content=\"Immerse yourself in the tranquility of Japan's traditional inns, ryokans. This guide will guide you through the nuances of Ryokan check-in and the subtle yet significant dining etiquette that define this unique experience.  From the moment you arrive, you'll be immersed in the essence of Japanese hospitality and culture.\" />\n</article>\n",
+    "thumbnailUrl": "/images/level3-unique-slug-1790394227066-1790394401730.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of checking into a traditional ryokan inn and dining rules",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1790370741128",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
