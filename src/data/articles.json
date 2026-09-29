@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1790711527922-1790711589865",
+    "title": "Seasonal Greetings and Weather in Japanese Letters: A Letter From the Tokyo Bureau",
+    "subtitle": "Exploring how to express the changing seasons in Japanese.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to express changing seasons in your Japanese writing. This article covers greetings for different weather and the best ways to express your thoughts about the seasonality of nature.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "As the leaves change color in the Japanese countryside and the air grows crisp, a new sense of excitement fills the air. It's that time of year when we reflect on the changing seasons and prepare for the colder months.  Just as we do in English, the Japanese approach the coming winter with enthusiasm.  In this article, we'll explore how to express the changing seasons in Japanese and introduce you to a new language element that can truly enrich your communication with Japanese people.  \n\nThe beauty of the Japanese language lies in its ability to express nuanced emotions and experiences.  From the subtle shift in wind to the first snowfall, Japanese people have found a way to connect with the natural world through words. \n\nLet's start with the basics and explore the fascinating world of weather greetings and seasonal expressions in Japanese. This is a journey into the heart of Japanese culture.",
+    "grammarExplanation": "This article delves into the grammatical nuances of expressing seasonal changes and weather in Japanese.  We'll examine the role of verbs, adjectives, and adverbs in conveying different aspects of the season.  Additionally, we will explore how to use particles and sentence structures to create a clear and concise message.  This will be a valuable guide for those looking to improve their understanding of Japanese grammar.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary:  季節",
+        "japanese": "季節 (kisetsu)",
+        "kana": "kisetsu",
+        "romaji": "kisetsu",
+        "english": "Season",
+        "explanation": "The Japanese word for season, 'kisetsu', encompasses the cyclical nature of nature.",
+        "exampleJp": "春が来ると、桜の花が咲きます。 (Haru ga kuru, Sakura no hana ga saki masu.)",
+        "exampleEn": "When spring comes, cherry blossoms bloom.",
+        "tip": "Season is often used as a reference to time of year in Japanese."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary:  天気",
+        "japanese": "天気 (tenki)",
+        "kana": "tenki",
+        "romaji": "tenki",
+        "english": "Weather",
+        "explanation": "This word describes the state of the atmosphere at any given time.",
+        "exampleJp": "今日は天気がいいです。 (Kyō wa tenki ga ii desu.)",
+        "exampleEn": "The weather is good today.",
+        "tip": "Use 'tenki' to express weather conditions in a casual manner."
+      }
+    ],
+    "culturalInsight": "**From Cherry Blossoms to First Snow** \n\nJapanese culture is deeply connected to the seasons. The cycle of nature is a central theme in traditional arts, literature, and festivals. The changing seasons are celebrated and revered through seasonal expressions and traditions that reflect the beauty and fragility of life.  \n\nConsider how the changing seasons might inspire creative expressions of your own. Would you like to write a poem or song about the changing seasons in Japan?  Or perhaps share a story about a meaningful experience related to the changing seasons. \n\nThe beauty of Japanese traditions lies in the fact that they allow us to appreciate the world around us in a deeper, more meaningful way.  \n\n\n\n",
+    "quiz": {
+      "question": "What does the Japanese word 'kisetsu' mean?",
+      "options": [
+        "Season",
+        "Weather",
+        "Temperature",
+        "Direction"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The Japanese word 'kisetsu' means 'season'. It is used to refer to the cyclical nature of the Earth's climate and how it changes throughout the year."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photo of a woman wearing a traditional kimono sitting in a teahouse on a snowy day in Kyoto, Japan. The focus is on her expression and the soft lighting. The surrounding environment is detailed, including a traditional tea-room with a small fireplace and some traditional decorations.",
+    "thumbnailUrl": "/images/level3-unique-slug-1790711527922-1790711589865.jpg",
+    "thumbnailAlt": "A photo of a woman wearing a traditional kimono sitting in a teahouse on a snowy day in Kyoto, Japan. The focus is on her expression and the soft lighting. The surrounding environment is detailed, including a traditional tea-room with a small fireplace and some traditional decorations.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1790684179840",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
