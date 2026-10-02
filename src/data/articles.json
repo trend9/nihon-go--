@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1790901298421-1790901422658",
+    "title": "Your Ticket to the Shinkansen: A Beginner's Guide",
+    "subtitle": "Navigating Japan's High-Speed Railways",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This guide will teach you everything you need to know about buying train tickets for Japan’s famous Shinkansen (新幹線) high-speed rail network, even if you’re a complete beginner in Japanese. We will also explore the cultural nuances of purchasing tickets, and provide you with helpful tips to ensure a smooth journey.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Getting from one city to another in Japan can feel like a daunting task, especially for those just starting to explore the country. But fear not! With a little guidance, you can navigate Japan’s complex transportation system with ease. This beginner’s guide will focus on the iconic Shinkansen (新幹線), Japan’s high-speed rail network that connects major cities across the country.  Even if you’re new to learning Japanese, you’ll find this guide to be incredibly helpful.  After all, buying a ticket is a simple yet critical part of travelling in Japan, and understanding the basics will make your trip that much smoother.",
+    "grammarExplanation": "This article uses simple Japanese grammar to make it easier to understand.  The level of Japanese used is beginner-friendly.  For example, we will be using basic sentence structure, and avoiding complex verb tenses.  This approach keeps the text clear and concise, which is key for beginners learning Japanese.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-ticket",
+        "color": "yellow",
+        "title": "Vocabulary: 乗車券",
+        "japanese": "乗車券 (jobō kēn)",
+        "kana": "じょほうけん",
+        "romaji": "jo-hō-ken",
+        "english": "Ticket",
+        "explanation": "This is the Japanese word for a train ticket. It's important to learn this word in order to understand what you're purchasing when you buy a ticket.",
+        "exampleJp": "駅で乗車券を買ってください。(Eki de jitōkō-ken o kaitaite kudasai.)",
+        "exampleEn": "Buy a ticket at the station.",
+        "tip": "When you hear someone say ‘乗車券’, think about buying a train ticket."
+      },
+      {
+        "id": "p-shinkansen",
+        "color": "blue",
+        "title": "Vocabulary: Shinkansen",
+        "japanese": "新幹線 (Shinkansen)",
+        "kana": "しんかんせん",
+        "romaji": "shin-kansen",
+        "english": "Shinkansen",
+        "explanation": "This is the name of Japan's high-speed rail network.  The word is a combination of two Japanese words: ‘Shinkansen’ (新幹線).  It means 'new' and 'train'.  It's a powerful word that signifies the future of travel in Japan.",
+        "exampleJp": "新幹線に乗って、東京へ行く。(Shinkansen ni nite, Tokyo e iku.)",
+        "exampleEn": "Traveling by Shinkansen to Tokyo.",
+        "tip": "Remember, Shinkansen refers to the high-speed rail network, not just any train."
+      }
+    ],
+    "culturalInsight": "The act of purchasing train tickets in Japan is a social ritual, one that involves a respectful and polite exchange.  Before heading to the ticket window, make sure you have the appropriate fare for your destination.  In Japan, time is highly valued, so always be punctual when buying a ticket.  Don't hesitate to ask for help if needed.  Japan's trains are renowned for their efficiency, and this can be a great way to experience a unique cultural facet of Japan. ",
+    "quiz": {
+      "question": "What does the Japanese word '乗車券' mean?",
+      "options": [
+        "a train ticket",
+        "a travel pass",
+        "a bus ticket",
+        "a plane ticket"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The Japanese word '乗車券' means 'train ticket'.  It's used for buying tickets for the Shinkansen high-speed train network."
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\", \"@type\":\"Article\"}",
+    "imagePrompt": "A photograph of a bustling station in Tokyo, with people waiting for the arrival of a Shinkansen train, with a cityscape in the background.",
+    "thumbnailUrl": "/images/level1-unique-slug-1790901298421-1790901422658.jpg",
+    "thumbnailAlt": "A photograph of a bustling station in Tokyo, with people waiting for the arrival of a Shinkansen train, with a cityscape in the background.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1790885622944",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
