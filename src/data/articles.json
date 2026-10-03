@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1790999902600-1790999989926",
+    "title": "Toast to Success: Master the Art of Congratulatory Phrases",
+    "subtitle": "Unlocking the nuanced language of Japanese congratulations",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Celebrate the achievements of your colleagues in the nuanced world of Japanese congratulations. Dive into the depth of cultural expressions and master the art of toast expressions for truly impactful celebrations. ",
+    "byline": "By Aiko Hayashi, Tokyo Bureau",
+    "introduction": "Beyond the simple 'おめでとう' (omotenashi) that graces many a Japanese celebration, the art of congratulatory speech is a tapestry woven with intricate details, cultural nuances, and a touch of philosophical reflection. Just like a perfectly crafted sake, a heartfelt toast reveals a depth of knowledge and a respect for the individual being honored. Tonight, we delve into the world of Japanese congratulations, exploring the diverse expressions that truly mark a milestone.  From the humble 'ありがとう' (arigato) to the poetic ‘素晴らしい’ (tabishite), we’ll uncover the power of language to celebrate the triumphs of others. Let's toast to the depths of shared joy and the richness of human connection.",
+    "grammarExplanation": "Japanese grammar, known for its meticulous precision, lends a unique elegance to celebratory toasts. The structure often revolves around respect, gratitude, and recognition. For instance, '〇〇おめでとうございます' (〇〇-kon-o-matte-yo-e) is a standard structure. To understand the nuances of this, we need to delve into the intricacies of the Japanese language. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の喜び",
+        "japanese": "今日の喜びを",
+        "kana": "Kyō no yorimo",
+        "romaji": "Kyō no yori mo",
+        "english": "Celebration of Today",
+        "explanation": "This post-it explains a common phrase, but is open to interpretation.  It is a simple sentence, often used as a general expression of congratulations. ",
+        "exampleJp": "今日の喜びを伝える",
+        "exampleEn": "Expressing joy for today",
+        "tip": "A toast to a moment of pure joy and accomplishment."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 努力の成果",
+        "japanese": "努力の成果",
+        "kana": "Dōri no kōkyō",
+        "romaji": "Dori no kōkyō",
+        "english": "The fruits of hard work",
+        "explanation": "This post-it explains a common phrase, but is open to interpretation.  It is a simple sentence, often used as a general expression of congratulations. ",
+        "exampleJp": "努力の成果を祝う",
+        "exampleEn": "Congratulating on the fruits of hard work",
+        "tip": "Toasting with a nod to the effort and result, a good way to show respect and appreciation for hard work."
+      }
+    ],
+    "culturalInsight": "In the Japanese culture, congratulations are a way to express respect, acknowledge hard work, and celebrate the shared joy of accomplishment. They are not just words, but a reflection of the individual's achievements. While 'おめでとう' (omotenashi) is a common phrase, incorporating specific details and elements of the individual's work adds a layer of depth to the expression. Consider a toast that acknowledges the individual's dedication and their journey to success. It is about celebrating their personal growth and recognizing their individual path.  For example, a congratulatory toast to a new business achievement might incorporate the company's name and the founder's name. This demonstrates respect and appreciation for their effort and the company's growth. ",
+    "quiz": {
+      "question": "What is a common element in Japanese congratulations that is similar to a 'cheers'?",
+      "options": [
+        "Shōkō",
+        "Kyo",
+        "Dōri",
+        "Arigato"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Shōkō is a traditional Japanese toast, similar to a 'cheers' in English."
+    },
+    "schemaMarkup": "{\"type\":\"Article\", \"headline\":\"Toast to Success: Master the Art of Congratulatory Phrases\"}",
+    "imagePrompt": "A close-up of a person raising a glass of sake to toast with a celebratory smile at a traditional Japanese dinner party.",
+    "thumbnailUrl": "/images/level5-unique-slug-1790999902600-1790999989926.jpg",
+    "thumbnailAlt": "A close-up of a person raising a glass of sake to toast with a celebratory smile at a traditional Japanese dinner party.",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1790978176929",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
