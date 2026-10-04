@@ -1,5 +1,57 @@
 [
   {
+    "id": "level3-unique-slug-1791147385513-1791147546692",
+    "title": "Izakaya Chats: Mastering Casual Conversations in Japanese",
+    "subtitle": "Unlocking the Art of Friendships and Laughter at Japan's Cozy Bars",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to navigate the vibrant world of Japanese izakayas with this comprehensive guide. From casual conversation starters to sharing life's stories over sake, dive into the heart of Japanese friendship culture. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The scent of grilled meat, the clinking of glasses, and the warm hum of lively chatter are the hallmarks of a perfect Japanese izakaya evening. These cozy bars are the heart of Japanese culture, where friends gather to unwind, share stories, and celebrate life's little joys. But navigating the world of izakaya conversations can sometimes feel like deciphering a foreign language.  With this guide, you'll unlock the secrets of casual conversation in Japanese, leaving you fluent in the art of  Japanese friendship and ready to enjoy the warmth of shared moments.",
+    "grammarExplanation": "This article delves into the intricacies of Japanese grammar, showcasing how it facilitates casual conversations in the context of friends at izakayas. We'll explore sentence structure, addressing the use of particles and how they influence meaning, and delve into the nuances of expressing desires and opinions. ",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "pink",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This word introduces the present moment and helps start a conversation about current events. ",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a nice day today, isn't it?",
+        "tip": "To use this word, you need to know the context of the conversation to ensure its meaning is accurate."
+      },
+      {
+        "id": "p-2",
+        "color": "blue",
+        "title": "Vocabulary: お願い",
+        "japanese": "お願い",
+        "kana": "onegai",
+        "romaji": "onegai",
+        "english": "Please",
+        "explanation": "This word is used for polite requests. ",
+        "exampleJp": "お茶をください、お願い。",
+        "exampleEn": "Could you please bring me a cup of tea?",
+        "tip": "Use this word when you are politely requesting something from someone, such as food, drinks, or help."
+      }
+    ],
+    "culturalInsight": "**The Izakaya: A Melting Pot of Culture**\n\nThe izakaya is more than just a bar; it's a social hub where friends gather to unwind after a long day. The atmosphere is relaxed and convivial, with a focus on shared experiences.  While sake is often a key element, the convivial atmosphere extends to a wide variety of snacks, from traditional yakitori to modern fusion dishes. This blend of tradition and modernity makes the izakaya a microcosm of Japanese culture, offering a glimpse into the warmth and hospitality that permeates everyday life. \n\n**Beyond the Drinks: The Importance of Connection**\n\nWhile sake flows freely, the true essence of the izakaya lies in the conversations between friends. These casual gatherings offer a chance to connect on a deeper level, forging enduring bonds and celebrating life's joys.  It's a place where stories are shared, laughter is encouraged, and memories are created. ",
+    "quiz": {
+      "question": "Which of these phrases best expresses a polite request for food at an izakaya?\n\n(A) これはおいしいね。\n(B) 何か食べたい？\n(C) お願い、ラーメンください！\n(D) 今日の天気はどう？\n",
+      "answerIndex": 1,
+      "explanation": "The correct answer is (B) 何か食べたい？. This phrase translates to 'Do you want to eat something?' and is a polite way to express a desire for food at an izakaya.  The other options don't express a request for food in a polite manner. "
+    },
+    "imagePrompt": "An energetic drawing of a group of friends laughing and sipping on sake in an izakaya, with a warm sunset outside the windows.",
+    "schemaMarkup": "{\"type\": \"Article\", \"headline\": \"A beautiful catchy newspaper title\", \"author\": \"Emma Sterling\", \"description\": \"Learn how to navigate the vibrant world of Japanese izakayas with this comprehensive guide. From casual conversation starters to sharing life's stories over sake, dive into the heart of Japanese friendship culture.  \", \"image\": \"imagePrompt\" }",
+    "thumbnailUrl": "/images/level3-unique-slug-1791147385513-1791147546692.jpg",
+    "thumbnailAlt": "An energetic drawing of a group of friends laughing and sipping on sake in an izakaya, with a warm sunset outside the windows.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1791131630662",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
