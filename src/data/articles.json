@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1791173764863-1791173881546",
+    "title": "Kyoto Souvenir Secrets: Finding Value in the Night",
+    "subtitle": "Navigating the world of Japanese trinkets with a deeper understanding of the city's heart",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Embark on a sensory journey through the bustling streets of Kyoto, where the night air hums with a unique energy.  This article explores the art of souvenir shopping, delving into the subtle nuances of price negotiation and the stories behind the objects that whisper tales of tradition and artistry. Dive deeper, and discover how Kyoto's night becomes a canvas for uncovering the city's soul.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine standing beneath the shimmering cherry blossoms in a Kyoto night market. The air is thick with the fragrance of sweet mochi and the rhythmic hum of bartering. You feel the city's pulse beneath your feet, a tangible mix of ancient tradition and modern innovation. In this space, souvenirs come alive - not just trinkets to carry home, but windows into a culture that speaks through the whispers of woodblock prints and the glint of traditional ceramics. But shopping for souvenirs isn't just about finding the perfect gift. It's about understanding the city's rhythm, the art of subtle negotiations, and the stories etched into each piece.",
+    "grammarExplanation": "This article explores complex grammatical structures and sentence flow, incorporating the use of passive voice and formal language.  For example, the use of 'imagine' and 'feel' creates a more evocative experience for the reader, moving beyond a simple description of the scene.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This is a common term used to express the present, indicating the time of speaking. The phrase is used in conjunction with other words to indicate the present moment.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a nice day today, isn't it?",
+        "tip": "This word is often used to denote the present.  It can be used in casual and formal settings."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 縁",
+        "japanese": "縁",
+        "kana": "en",
+        "romaji": "en",
+        "english": "Connection",
+        "explanation": "This word is used to describe a bond or a relationship that is formed over time and signifies a special connection. It can be used in many contexts, such as love, friendship, or professional relationships.",
+        "exampleJp": "私たちは長い縁で繋がっています。",
+        "exampleEn": "We've been connected for a long time.",
+        "tip": "The meaning of 'en' can be used in a romantic context and as a metaphor for long-lasting connection."
+      }
+    ],
+    "culturalInsight": "Kyoto's nocturnal energy is a unique experience. It's a world of quiet contemplation, where the bustling daytime gives way to a more intimate dialogue with the city's soul.  Souvenir shopping takes on a different meaning in this space.  It's about connecting with the city on a deeper level, about understanding its history and the artistry that fuels it.  You won't just buy a trinket. You'll be buying a piece of history, a whisper of tradition, a glimpse into the city's soul. This is where the magic of Kyoto happens, under the soft glow of the night lights, where the whispers of the past and the dreams of the future come together.",
+    "quiz": {
+      "question": "What does the Japanese word '縁' primarily convey?",
+      "options": [
+        "a. A person's social standing",
+        "b. A lasting bond",
+        "c. A desire for luxury",
+        "d. A type of traditional architecture"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is (b) A lasting bond.  The word '縁' (en) in Japanese generally refers to a connection or a lasting relationship that develops over time. It is often used in the context of relationships, especially romantic ones. "
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in a bustling Kyoto market during the evening, with the illuminated signs of nearby shops and restaurants casting a soft glow on the scene.",
+    "thumbnailUrl": "/images/level5-unique-slug-1791173764863-1791173881546.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in a bustling Kyoto market during the evening, with the illuminated signs of nearby shops and restaurants casting a soft glow on the scene.",
+    "isVerified": true
+  },
+  {
     "id": "level4-unique-slug-1791157938078-1791158074696",
     "title": "Navigating Japan's Speedy Shinkansen: A Ticket Guide for Travelers",
     "subtitle": "Mastering the art of high-speed rail travel",
