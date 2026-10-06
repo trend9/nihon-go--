@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1791316990991-1791317081830",
+    "title": "Mastering Business Diplomacy: Politeness in Corporate Meetings",
+    "subtitle": "Navigating the nuances of Japanese business etiquette",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "This article delves into the art of polite business requests in a Japanese corporate setting, offering insights into nuanced communication for maximizing effectiveness and fostering strong professional relationships.",
+    "byline": "By  Naomi Sato, Tokyo Bureau",
+    "introduction": "The atmosphere in a Japanese corporate meeting is often a quiet blend of seriousness and respect. While the language itself might seem simple, mastering the art of polite business requests is essential to navigate the intricate social dance of Japanese business culture. A slight word or phrase can often be the difference between a successful negotiation and a missed opportunity. The language of the corporate world in Japan is not just about words but about subtle hints, unspoken social cues, and a deep understanding of Japanese etiquette. As the saying goes, 'The heart of business is politeness' (『商売の真髄は礼儀』), a sentiment that resonates deeply within the Japanese business landscape. This article aims to illuminate this delicate art, providing a guide to navigating the subtle complexities of politeness in Japanese business interactions.",
+    "grammarExplanation": "Japanese grammar, while seemingly complex, possesses a rich and elegant structure. It relies on a system of honorifics, respectful forms of address, and nuanced sentence structure. This article provides a comprehensive analysis of these intricacies, highlighting their impact on business communication. By understanding these nuances, English speakers can achieve a greater level of fluency and effectiveness in their interactions.",
+    "postIts": [
+      {
+        "id": "p-vocab-request",
+        "color": "pink",
+        "title": "Vocabulary: 依頼",
+        "japanese": "依頼 (raifu)",
+        "kana": "raifu",
+        "romaji": "raifu",
+        "english": "Request",
+        "explanation": "This is a crucial Japanese term that refers to making a request for something.  It can range from a simple question to a significant demand. Mastering the art of '依頼' in business settings opens doors to success.",
+        "exampleJp": "会議で、新しい提案を依頼したいです (kaigi de, atarashii teiyō wo raifu shite imasu)",
+        "exampleEn": "I would like to request a new proposal at the meeting.",
+        "tip": "In Japanese, '依頼' is used for formal requests, while 'お願い' (onegai) is more suitable for informal requests."
+      },
+      {
+        "id": "p-vocab-提案",
+        "color": "blue",
+        "title": "Vocabulary: 提案",
+        "japanese": "提案 (taikō)",
+        "kana": "taikō",
+        "romaji": "taikō",
+        "english": "Proposal",
+        "explanation": "This word is used in Japanese business to mean 'suggestion' or 'offer'. It is a crucial component of Japanese business culture to be respectful and considerate when proposing something. Mastering the art of '提案' can be key to building trust and confidence in business relationships",
+        "exampleJp": "新しい提案を検討しましょう (atashi no taikō o kenkō shōme)",
+        "exampleEn": "Let's consider a new proposal.",
+        "tip": "It's best to propose an idea in writing before presenting it in person. This ensures a clear, concise, and respectful delivery of your message."
+      }
+    ],
+    "culturalInsight": "## The Essence of Business in Japan: A Deeper Look into the Power of Respect",
+    "quiz": {
+      "question": "What is the significance of honorifics in Japanese business communication?",
+      "options": [
+        "Honorifics are used to show respect and politeness, as well as to establish hierarchy in the workplace.",
+        "Honorifics are merely a formality in business settings, and they do not hold much weight in business interactions.",
+        "Honorifics are not used in business communication, as it is too formal and difficult for modern businesses.",
+        "Honorifics are only used in written communication, as they are considered too delicate for spoken communication."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is that honorifics are used to show respect and politeness, as well as to establish hierarchy in the workplace. They are a crucial part of Japanese business culture, and understanding them is essential for successful communication and business relationships. Mastering the art of addressing individuals using the correct honorifics can be the key to smooth communication."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "An image of a businessman in a suit standing with a traditional Japanese tea bowl, a peaceful scene with subtle nods of cultural understanding and respect.",
+    "thumbnailUrl": "/images/level5-unique-slug-1791316990991-1791317081830.jpg",
+    "thumbnailAlt": "An image of a businessman in a suit standing with a traditional Japanese tea bowl, a peaceful scene with subtle nods of cultural understanding and respect.",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1791291196952",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
