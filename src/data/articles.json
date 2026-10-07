@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1791397910528-1791398024145",
+    "title": "Navigating the Subway Labyrinth: A Guide to Asking for Directions",
+    "subtitle": "Unlocking Japan's Underground Network",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "From bustling Shibuya to the serene Yamanote Line, navigating Japan's subway system can feel like exploring a hidden world. This guide will help you confidently ask for directions in a station, even if you're not quite fluent yet. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Picture this: you're in a Tokyo station, surrounded by flashing neon signs, rushing crowds, and the air buzzing with an electric energy. You need to get to a specific location, but the maps are a confusing tangle of lines and symbols.  How do you find your way?  It's time to unleash your inner Japanese traveler! This article will guide you through the basics of asking for directions in a subway station, using essential phrases and Japanese etiquette.",
+    "grammarExplanation": "This guide utilizes a combination of simple sentence structures and the use of auxiliary verbs (like 'do' and 'will'), reflecting a level of natural fluency expected in intermediate learners. The use of 'would like to' is a common phrase to express desire or intention, helping bridge the gap between simple and complex sentences. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-directions",
+        "color": "blue",
+        "title": "Vocabulary: Directions",
+        "japanese": " directions\n",
+        "kana": "directions",
+        "romaji": "directions",
+        "english": "Directions",
+        "explanation": "This post-it will provide a brief overview of essential Japanese terms for asking directions. The Japanese words and their romanji counterparts will help you navigate the subway.",
+        "exampleJp": "どこへ行く？",
+        "exampleEn": "Where are you going?",
+        "tip": "Start with a simple question such as 'どこへ行く？' (where are you going?).  Focus on clarity and directness to avoid any confusion."
+      },
+      {
+        "id": "p-directions-station",
+        "color": "pink",
+        "title": "Vocabulary: Station",
+        "japanese": "駅\n",
+        "kana": "eki",
+        "romaji": "eki",
+        "english": "Station",
+        "explanation": "This post-it will provide a brief overview of essential Japanese terms for asking directions. The Japanese words and their romanji counterparts will help you navigate the subway.",
+        "exampleJp": "駅はどこ？",
+        "exampleEn": "Where is the station?",
+        "tip": "This phrase can be used to find the station you're going to.  It's a simple and direct way to ask for help."
+      }
+    ],
+    "culturalInsight": "The Japanese subway system is renowned for its efficiency and cleanliness. However, the stations can be remarkably busy and crowded, especially during rush hour. It's not uncommon for people to stand shoulder-to-shoulder in the station, creating a unique cultural experience.  Remember to be respectful of the locals and their personal space.  A simple smile and a nod can go a long way in navigating this fascinating social landscape.",
+    "quiz": {
+      "question": "Which of the following is the correct way to ask for directions in a Japanese subway station? ",
+      "options": [
+        "Excuse me, can you help me with the directions?",
+        "I'd like directions to the station please.",
+        "Excuse me, where is the station?",
+        "Where is the nearest station?"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The most natural way to ask for directions is by asking 'Excuse me, can you help me with the directions?' This phrase is direct and polite, making it an ideal way to initiate a conversation with someone for directions. The other options, while potentially correct in specific contexts, may come across as overly casual or demanding."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\",\"@type\": \"Article\"}",
+    "imagePrompt": "A photorealistic image of a bustling Tokyo subway station, with people on the platform and the surrounding urban landscape.  The image should showcase the cultural atmosphere of Japan, and capture the vibrant energy of the subway system.",
+    "thumbnailUrl": "/images/level3-unique-slug-1791397910528-1791398024145.jpg",
+    "thumbnailAlt": "A photorealistic image of a bustling Tokyo subway station, with people on the platform and the surrounding urban landscape.  The image should showcase the cultural atmosphere of Japan, and capture the vibrant energy of the subway system.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1791366995310",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
