@@ -1,5 +1,62 @@
 [
   {
+    "id": "level1-japanese-dining-etiquette-1791484362739",
+    "title": "Understanding Japanese Dining Etiquette & Ordering Seasonal Dishes",
+    "subtitle": "A Beginner's Guide for English Speakers",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article guides English speakers on navigating Japanese dining etiquette and ordering seasonal dishes. Discover how to gracefully navigate the social nuances of Japanese meals and enjoy the unique flavors of the season.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "As a beginner in the world of Japanese cuisine, understanding the cultural nuances behind dining etiquette can feel daunting.  Japanese culture holds deep respect for hospitality, tradition, and the delicate art of serving food. From the specific seating arrangements to the subtle ways to express gratitude, these nuances can enhance your dining experience. This article offers a beginner's guide to navigating Japanese dining etiquette, with insights into seasonal dishes. Whether you're enjoying a casual ramen bowl or a formal multi-course meal, this guide will help you make the most of your Japanese culinary adventure.",
+    "grammarExplanation": "Japanese grammar can be complex. This article focuses on basic sentence structure with simple subject-verb-object format. For instance, '食べます' means 'I eat', and 'おいしい' means 'delicious' in Japanese.  Remember, using correct grammar will make communication clearer and more engaging.",
+    "postIts": [
+      {
+        "id": "p-vocabulary-today",
+        "color": "green",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "Today expresses the current date. Learn this word to navigate ordering meals or asking about a specific day.",
+        "exampleJp": "今日は何ですか？",
+        "exampleEn": "What would you like to order today?",
+        "tip": "Use '今日' for 'today' when you are talking about a particular day."
+      },
+      {
+        "id": "p-vocabulary-いただきます",
+        "color": "yellow",
+        "title": "Vocabulary: いただきます",
+        "japanese": "いただきます",
+        "kana": "itadakimasu",
+        "romaji": "itadakimasu",
+        "english": "I humbly receive",
+        "explanation": "This is the Japanese expression of gratitude for receiving food.",
+        "exampleJp": "いただきます。",
+        "exampleEn": "I humbly receive.",
+        "tip": "This is a polite way to say ‘Thank you for the food’.  Say this before taking a bite of a meal."
+      }
+    ],
+    "culturalInsight": "Japan's culinary tradition is deeply rooted in etiquette. For Japanese, food is a symbol of respect and shared experience, and dining often transcends mere sustenance. Mastering basic Japanese dining etiquette can elevate your dining experience beyond simply consuming a meal.  In Japan, the act of dining itself carries a level of social decorum and respect for the host.  Knowing the proper greetings and seating arrangements will help you understand the depth and meaning of the experience.  The Japanese art of preparing and presenting food is also a unique aspect of the culture.  Savor the beauty of a perfectly arranged sushi platter, a steaming bowl of ramen, or a delicate dessert.  Each bite is a moment of shared appreciation and connection.",
+    "quiz": {
+      "question": "What is the traditional Japanese expression of gratitude before taking a bite of food? ",
+      "options": [
+        "こんにちは",
+        "ありがとうございます",
+        "いただきます",
+        "おやすみなさい"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is 'いただきます'. It means 'I humbly receive' and is a polite way to express gratitude for the food."
+    },
+    "schemaMarkup": "```json\n<script type='application/ld+json'>\n  { \n    \"@context\": \"https://schema.org\",\n    \"@type\": \"Article\",\n    \"headline\": \"Understanding Japanese Dining Etiquette & Ordering Seasonal Dishes\",\n    \"description\": \"This article guides English speakers on navigating Japanese dining etiquette and ordering seasonal dishes. Discover how to gracefully navigate the social nuances of Japanese meals and enjoy the unique flavors of the season.\",\n    \"keywords\": [ \"Japanese cuisine\", \"dining etiquette\", \"seasonal dishes\", \"beginners guide\", \"Tokyo\", \"cultural insight\" ],\n    \"articleBody\": \"\\n\nAs a beginner in the world of Japanese cuisine, understanding the cultural nuances behind dining etiquette can feel daunting.  Japanese culture holds deep respect for hospitality, tradition, and the delicate art of serving food.  From the specific seating arrangements to the subtle ways to express gratitude, these nuances can enhance your dining experience.  This article offers a beginner's guide to navigating Japanese dining etiquette, with insights into seasonal dishes. Whether you're enjoying a casual ramen bowl or a formal multi-course meal, this guide will help you make the most of your Japanese culinary adventure. \\n\nThis article will help you navigate the social nuances of Japanese meals, from the etiquette around ordering to the subtle ways to express gratitude.  \\n\\n\\n\", \n    \"image\": { \"alt\": \"A bowl of ramen in Tokyo\" }, \n    \"language\": \"en-US\",\n    \"dateModified\": \"2023-10-27T07:00:00Z\"\n  }\n</script>\n```",
+    "thumbnailUrl": "/images/level1-japanese-dining-etiquette-1791484362739.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of understanding local dining etiquette and ordering seasonal dishes",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1791453944927-1791454113588",
     "title": "Kyoto's Charms: Unmasking the Souvenirs' Secret Price",
     "subtitle": "A night-time exploration of navigating the Japanese art of souvenir shopping in the historical heart of Kyoto",
