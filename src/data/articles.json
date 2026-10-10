@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1791633624854-1791633719971",
+    "title": "Kyoto Souvenirs: A Shopping Guide for English Speakers",
+    "subtitle": "Navigating the vibrant streets of Japan's cultural heart",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article provides a step-by-step guide to navigating the souvenirs and shopping scene in Kyoto. Ideal for English speakers interested in a quick introduction to the local scene and tips on where to begin their souvenir shopping. ",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "Kyoto, the ancient capital of Japan, bursts with charm. Its cobbled streets, historical temples, and iconic Geisha district all offer a captivating glimpse into Japanese culture. But with so much to see and do, navigating the world of souvenirs can seem daunting. This guide offers a crash course in the essential Japanese words and phrases for navigating the bustling markets and shopping districts of Kyoto. From navigating the price tags to mastering basic greetings, you'll be ready to grab those perfect souvenirs before you know it.",
+    "grammarExplanation": "This article utilizes basic sentence structures and vocabulary commonly found in English language learning materials. Simple past tense verbs are used, and a variety of sentence types are employed to explain different concepts. The focus is on clear and concise explanations, allowing English speakers to absorb information easily. ",
+    "postIts": [
+      {
+        "id": "p-Vocabulary-Souvenirs",
+        "color": "yellow",
+        "title": "Vocabulary: Souvenirs",
+        "japanese": "お土産",
+        "kana": "o-momotaro",
+        "romaji": "oma-otaro",
+        "english": "Souvenir",
+        "explanation": "This is a common Japanese word that means 'souvenir.' It refers to items bought as a reminder of a place or experience.",
+        "exampleJp": "お土産を買おうか？",
+        "exampleEn": "Should I buy a souvenir?",
+        "tip": "Use this phrase to ask about purchasing a souvenir."
+      },
+      {
+        "id": "p-Price-Conversation",
+        "color": "pink",
+        "title": "Vocabulary: Asking the Price",
+        "japanese": "値段はいくらですか？",
+        "kana": "ne-wa ikura desu ka?",
+        "romaji": "ne-wa ikura desu ka?",
+        "english": "How much is this?",
+        "explanation": "This phrase asks about the price of an item or service. It is a common phrase for polite inquiries.",
+        "exampleJp": "このお菓子はいくらですか？",
+        "exampleEn": "How much is this candy?",
+        "tip": "Remember to use this phrase with respect and a smile. This will improve the customer experience."
+      }
+    ],
+    "culturalInsight": "Kyoto's bustling shopping streets offer a treasure trove of souvenirs. From intricately crafted silk kimonos to tiny porcelain dolls, every corner holds a piece of the city's cultural heritage. A traditional craft workshop in Fushimi Inari Shrine or a local market with a vibrant atmosphere can be a great place to find unique gifts. Don't hesitate to bargain for a better price or ask for a discount if you see something you like. Remember, a little bit of bargaining can go a long way in building a positive relationship with the vendors.  ",
+    "quiz": {
+      "question": "What is the Japanese word for 'souvenir'?",
+      "options": [
+        "お土産",
+        "旅行",
+        "ギフト",
+        "本"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The answer is 'お土産' (oma-otaro). This is a common Japanese word that means 'souvenir' and refers to items bought as a reminder of a place or experience."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\", \"@type\": \"Article\", \"headline\": \"Kyoto Souvenirs: A Shopping Guide for English Speakers\", \"description\": \"This article provides a step-by-step guide to navigating the souvenirs and shopping scene in Kyoto. Ideal for English speakers interested in a quick introduction to the local scene and tips on where to begin their souvenir shopping.  \", \"mainEntity\": { \"headline\": \"Kyoto Souvenirs: A Shopping Guide for English Speakers\" }, \"author\": { \"name\": \"Kenji Sato\"}, \"keywords\": [ \"Kyoto\", \"souvenirs\", \"shopping\" ], \"language\": \"en\", \"datePublished\": \"2023-10-27T11:30:00+09:00\"}",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "thumbnailUrl": "/images/level2-unique-slug-1791633624854-1791633719971.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1791606727168",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
