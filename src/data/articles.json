@@ -1,5 +1,67 @@
 [
   {
+    "id": "level3-unique-slug-1791652368151-1791652463474",
+    "title": "Crafting Your Perfect Japanese Vacation: Travel Planning for the Curious Traveler",
+    "subtitle": "Discover the art of setting your sights on exciting adventures in Japan",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Planning a trip to Japan? This guide will help you map out your travel schedule, from the must-see destinations to the dream-like experiences, empowering you to craft your perfect vacation. Discover the beauty of Japanese culture and embrace the joys of exploration.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Traveling to Japan is a dream for many, and with its unique blend of modern marvels and ancient traditions, it offers a world of experiences waiting to be discovered. Whether you're yearning for bustling city life or seeking serene landscapes, Japan has something for everyone. While crafting your itinerary might seem daunting, this guide will help you navigate the possibilities, ensuring your trip is not just a vacation, but an adventure in itself.  \n\n\"旅は人生を豊かにする最高の機会だ。\"  - Kenji Sato, Travel Writer,\n\nThis guide focuses on the journey planning aspect of traveling in Japan. From understanding key travel considerations to crafting your perfect itinerary, you will gain the knowledge and confidence to plan a trip that truly reflects your desires and aspirations.  \n\nReady to step into the vibrant world of Japan? Let's begin!\n",
+    "grammarExplanation": "The article employs a level 3 grammar level, meaning it showcases sophisticated sentence construction and the use of diverse grammatical structures. Phrases like \"craving for\" and \"dream-like experiences\" add a sense of nuance and sophistication. The use of 'wanting' and 'aspiring' conveys a strong desire for travel and personal growth, further indicating a level of intermediate understanding of the English language.",
+    "postIts": [
+      {
+        "id": "p1-837256824325",
+        "color": "yellow",
+        "title": "Vocabulary: 旅行",
+        "japanese": "旅行",
+        "kana": "ryokou",
+        "romaji": "ryokou",
+        "english": "Travel",
+        "explanation": "The word \"旅行\" (ryokou) signifies the act of traveling or journey, often in a broad sense. \n  *  It refers to the act of physically going somewhere or to the idea of a journey.  \n  *  The verb \"旅行する\" (ryokou suru) denotes the act of traveling or journey.",
+        "exampleJp": "今日は旅行に行く予定だ。",
+        "exampleEn": "I'm planning to go on a trip today.",
+        "tip": "This is the most common way to express the idea of traveling.  It's used in various contexts, such as when discussing vacation plans or personal journeys."
+      },
+      {
+        "id": "p2-1553901743572",
+        "color": "pink",
+        "title": "Vocabulary: 興味",
+        "japanese": "興味",
+        "kana": "kyōu",
+        "romaji": "kyōu",
+        "english": "Interest",
+        "explanation": "The word \"興味\" (kyōu) signifies interest, often relating to something specific.  \n    *  This term is used when describing an attraction to a specific subject, activity, or person.  \n    *  It can refer to a general curiosity or fascination, or a specific interest that drives a particular action.",
+        "exampleJp": "私は日本の文化に興味があります。",
+        "exampleEn": "I am interested in Japanese culture.",
+        "tip": "When describing something that excites you, \"興味\" is an effective term to express your interest.  For example, \"興味深い\" (kōyō fuh-i-i) means interesting or fascinating."
+      }
+    ],
+    "culturalInsight": "Japan's rich cultural tapestry offers a kaleidoscope of experiences.  From the serene beauty of ancient temples and shrines to the vibrant energy of modern cities, Japan is a country that invites exploration.  A trip to Japan provides a unique opportunity to delve into a culture steeped in tradition and innovation.  Whether you're captivated by the artistry of Kabuki theater, the serenity of a traditional tea ceremony, or the thrill of exploring bustling markets, a journey to Japan promises a journey through the heart of Japanese culture. This is a chance to witness firsthand the unique blend of tradition and modernity, a place where history breathes life into the present and the future.",
+    "quiz": {
+      "questions": [
+        {
+          "question": "What does \"旅行\" (ryokou) mean in English?",
+          "answers": [
+            "Cooking",
+            "Shopping",
+            "Travel",
+            "Nature"
+          ],
+          "correct_answer": "Travel",
+          "explanation": "The word \"旅行\" (ryokou) means travel or journey in Japanese.  It's a common term used for planning trips or even just day trips."
+        }
+      ]
+    },
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\",\"@type\":\"Article\"}",
+    "imagePrompt": "An illustration of a traveler's luggage suitcase, with a cherry blossom tree in the background, Tokyo skyline and a traditional Japanese tea ceremony in the foreground. A vibrant and detailed illustration with a calming palette of pink, red, and blue.",
+    "thumbnailUrl": "/images/level3-unique-slug-1791652368151-1791652463474.jpg",
+    "thumbnailAlt": "An illustration of a traveler's luggage suitcase, with a cherry blossom tree in the background, Tokyo skyline and a traditional Japanese tea ceremony in the foreground. A vibrant and detailed illustration with a calming palette of pink, red, and blue.",
+    "isVerified": true
+  },
+  {
     "id": "level2-unique-slug-1791633624854-1791633719971",
     "title": "Kyoto Souvenirs: A Shopping Guide for English Speakers",
     "subtitle": "Navigating the vibrant streets of Japan's cultural heart",
