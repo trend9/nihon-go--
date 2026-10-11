@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-japanese-learning-1791720750022-1791720846804",
+    "title": "Japanese Language Learning: Urgent Requests and Assistance",
+    "subtitle": "Mastering the Basics for Everyday Interactions",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Get started with essential Japanese language learning for daily life situations. This beginner-friendly guide covers basic expressions for requesting help in unexpected situations and navigating daily challenges.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Unexpected events can happen anywhere, but how do you express your need for help in Japanese? This article will equip you with the necessary phrases and vocabulary to navigate those moments with confidence. From asking for assistance to politely making a request, we'll cover the key expressions in this beginner-friendly guide. Let's delve into the world of Japanese communication and become more confident in your daily interactions.",
+    "grammarExplanation": "This article will guide you through the basic grammar concepts used in Japanese. We'll focus on sentence structure, politeness levels, and common grammatical elements, ensuring you understand how to construct meaningful sentences. Understanding the building blocks of Japanese grammar will help you understand how to express yourself effectively in this language. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 緊急",
+        "japanese": "緊急",
+        "kana": "Kyuu-gen",
+        "romaji": "Gyun-gen",
+        "english": "Urgent/Emergency",
+        "explanation": "This word means 'urgent' or 'emergency'. Use it to express a situation requiring immediate attention.",
+        "exampleJp": "緊急事態のため、助けてください",
+        "exampleEn": "In an emergency, please help me.",
+        "tip": "A quick '緊急!' will suffice for urgency, like saying 'This is urgent!'"
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 困っている",
+        "japanese": "困っている",
+        "kana": "Komi-te-iru",
+        "romaji": "Komitte-iru",
+        "english": "Struggling/Stuck",
+        "explanation": "This word means 'struggling' or 'stuck'. It's used to express that you're having difficulty with something.",
+        "exampleJp": "困っている人がいたら、助けを借りましょう",
+        "exampleEn": "If you encounter someone who is struggling, help them out.",
+        "tip": "Remember to use this when you need help or are facing difficulties. It can also be used to ask someone for assistance, like ‘困っている、あなたに頼みます’ or ‘I’m struggling. Can you help me?'."
+      }
+    ],
+    "culturalInsight": "Navigating unexpected events in Japanese culture is often done with a level of formality and respect. When you encounter a challenge, Japanese society often prioritizes politeness.  Remember to use appropriate phrases like 'すみません' (sumimasen) for an apology or 'お願いです' (onegai desu) for a request for assistance.  These subtle phrases demonstrate your cultural sensitivity and create a more positive interaction.",
+    "quiz": {
+      "question": "What is the Japanese word for ‘urgent’ or ‘emergency’? ",
+      "options": [
+        "困っている",
+        "緊急",
+        "お願い",
+        "すみません"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": "The correct answer is '緊急' (Gyun-gen).  This word means 'urgent' or 'emergency' and is often used when expressing a situation requiring immediate attention. The other options are all polite expressions used in various situations."
+    },
+    "schemaMarkup": "{\"@context\": \"http://schema.org/\", \"@type\": \"Article\", \"headline\": \"Japanese Language Learning: Urgent Requests and Assistance\", \"description\": \"Get started with essential Japanese language learning for daily life situations. This beginner-friendly guide covers basic expressions for requesting help in unexpected situations and navigating daily challenges.\", \"author\": { \"@type\": \"Person\", \"name\": \"Emma Sterling\" }, \"mainEntity\": [ { \"@type\": \"Article\", \"headline\": \"Japanese Language Learning: Urgent Requests and Assistance\", \"description\": \"Get started with essential Japanese language learning for daily life situations. This beginner-friendly guide covers basic expressions for requesting help in unexpected situations and navigating daily challenges.\", \"author\": { \"@type\": \"Person\", \"name\": \"Emma Sterling\" } } ],\"publisher\": { \"@type\": \"Organization\", \"name\": \"English Language Learning Company\" } }",
+    "imagePrompt": "A vintage monochrome illustration of a person holding a phone with a worried expression, set against a backdrop of bustling Tokyo street vendors in the rain.",
+    "thumbnailUrl": "/images/level1-japanese-learning-1791720750022-1791720846804.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a person holding a phone with a worried expression, set against a backdrop of bustling Tokyo street vendors in the rain.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1791692222054",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
