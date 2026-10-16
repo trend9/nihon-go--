@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1792192682217-1792192821409",
+    "title": "Navigating the Tokyo Subway: A Guide for the Intermediate Learner",
+    "subtitle": "Unlocking the language of directions in Japan's bustling underground.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn to confidently navigate the Tokyo subway system with this guide, designed for those already familiar with basic Japanese and ready to tackle intermediate sentence structures and desires for direction.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine: You're in Tokyo, navigating the labyrinthine subway system, your pocket-sized Japanese phrasebook clutched tight. The rush of the crowd, the cacophony of announcements, the unfamiliar station names... A moment of panic sets in as you realize your journey is only just beginning. But fear not! With a little practice and a splash of Japanese, you can conquer the Tokyo subway and navigate it with confidence. This article will equip you with the essential vocabulary and sentence structures you need to confidently ask for directions in the bustling Japanese underground. From mastering the ‘ directional phrases to deciphering the station map, we'll empower you to speak like a local in no time!  ",
+    "grammarExplanation": "This article introduces the intermediate level of Japanese language learning, focusing on sentence structures and the ability to express desires. Mastering the 'directional phrases' is crucial in this stage, leading to the formation of meaningful and concise sentences. ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "pink",
+        "title": "Vocabulary: 出典",
+        "japanese": "出発",
+        "kana": "Hajime",
+        "romaji": "Hajime",
+        "english": "Depart",
+        "explanation": "This post-it note provides the Japanese word for 'depart', a phrase used to signify the act of leaving a place.",
+        "exampleJp": "地下鉄で出発します",
+        "exampleEn": "We're going to leave by the subway.",
+        "tip": "When asking for directions, you would say '出発' or '出発します' to indicate a desire to leave a location."
+      },
+      {
+        "id": "p2",
+        "color": "blue",
+        "title": "Vocabulary: 駅",
+        "japanese": "駅",
+        "kana": "eki",
+        "romaji": "Eki",
+        "english": "Station",
+        "explanation": "This post-it note provides the Japanese word for 'station', an essential element when navigating public transportation.",
+        "exampleJp": "この駅で降りる",
+        "exampleEn": "I'm getting off at this station.",
+        "tip": "Japanese use the word '駅' to signify the specific place of arrival and departure."
+      }
+    ],
+    "culturalInsight": "The Subway, a Symbol of Japanese Efficiency",
+    "quiz": {
+      "question": "Which of these is NOT a common Japanese subway station announcement? ",
+      "options": [
+        "駅",
+        "路線",
+        "ホーム",
+        "駅舎"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '路線'. Station announcements will usually indicate the direction and line of the train. However, '路線' means 'route' and is not commonly used in train announcements."
+    },
+    "imagePrompt": "A bustling Tokyo subway station, showcasing both the station's entrance and a passenger's perspective.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1792192682217-1792192821409.jpg",
+    "thumbnailAlt": "A bustling Tokyo subway station, showcasing both the station's entrance and a passenger's perspective.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1792183096634",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
