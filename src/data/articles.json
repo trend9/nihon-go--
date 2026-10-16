@@ -1,5 +1,64 @@
 [
   {
+    "id": "level1-unexpected-help-04-1792167185260",
+    "title": "Unexpected Help: SOS (緊急対応) 緊急 SOS",
+    "subtitle": "When things go wrong,  knowing the right words is essential.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This article provides essential vocabulary and explanations for when you need help urgently in Japan, covering common phrases and cultural considerations. Suitable for absolute beginners who want to feel more confident navigating unexpected situations.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Sometimes unexpected things happen in life. You may be lost, feeling unwell, or facing an accident.  Knowing how to express your need for help in Japanese can be crucial.  This article explains common phrases and vocabulary to use in different situations and provides insights into the culture. Let's learn how to handle an unexpected situation like a flat tire or a medical emergency. ",
+    "grammarExplanation": "Japanese grammar relies heavily on context.  This article uses simple structures, focusing on essential vocabulary, and offers examples.  The use of particles and verb conjugations will be covered in subsequent articles. ",
+    "postIts": [
+      {
+        "id": "p-today-is-an-emergency",
+        "color": "pink",
+        "title": "緊急対応 (Kyoumi-Couppo)",
+        "japanese": "緊急対応 (Kyōmi-Couppo)",
+        "kana": "Kyoumi-Couppo",
+        "romaji": "Kyōmi-Couppo",
+        "english": "Emergency Response",
+        "explanation": "Emergency response is about dealing with an unexpected situation that requires immediate action. It could be anything from a medical emergency to a natural disaster.  Knowing what to say can help you get the help you need.",
+        "exampleJp": "緊急対応が必要な時 (Kyōmi-Couppo ni tsumuke iru toki)",
+        "exampleEn": "In case of an emergency",
+        "tip": "You can say this phrase even if the situation is not exactly an 'emergency.'  Just make sure to use the word 'needed' to indicate you need help."
+      },
+      {
+        "id": "p-need-help-english",
+        "color": "blue",
+        "title": "English Help",
+        "japanese": "英語の助け (Eikō-no-takii)",
+        "kana": "Eikō-no-takii",
+        "romaji": "Eikō-no-takii",
+        "english": "English Help",
+        "explanation": "In a medical or technical situation, knowing how to ask for help in English can be beneficial. You can use phrases like 'I need help,' or 'Can you help me?'  This phrase helps when you need immediate help. ",
+        "exampleJp": "日本語が話せません (Nihongo ga hanasemasen)",
+        "exampleEn": "I don't speak Japanese",
+        "tip": "Use simple words and phrases in English.  Don't be afraid to ask for help."
+      }
+    ],
+    "culturalInsight": "Emergency situations require a clear and concise approach.  It is important to remain calm and speak clearly. It is helpful to be aware of cultural differences and customs related to emergency situations.",
+    "quiz": {
+      "question": "What is the best way to ask for help when you're lost in Japan?",
+      "answerIndex": 1,
+      "options": [
+        "I need help!",
+        "Can you please help me?",
+        "Is there someone I can ask for help?",
+        "Can anyone help me?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The most important thing is to express your need for help clearly and directly.  Saying 'I need help' or 'Can you please help me?' is the most effective way to seek assistance in a lost situation."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A person in panic running through a crowded city street with a map and a phone in hand. The picture should be in the style of a photojournalist. The scene should be chaotic yet realistic. The overall mood of the image should be tense and urgent.",
+    "thumbnailUrl": "/images/level1-unexpected-help-04-1792167185260.jpg",
+    "thumbnailAlt": "A person in panic running through a crowded city street with a map and a phone in hand. The picture should be in the style of a photojournalist. The scene should be chaotic yet realistic. The overall mood of the image should be tense and urgent.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1792147914320",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
