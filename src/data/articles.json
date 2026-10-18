@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1792354279307-1792354349913",
+    "title": "Mastering the Art of Corporate Requests: A Guide to Polite Business Dialogue",
+    "subtitle": "Navigating the intricacies of workplace communication in Japan",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Learn how to navigate the subtle yet crucial art of business communication in Japanese corporate settings. This guide provides practical tips and insights on mastering polite requests and building professional relationships.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Navigating the world of corporate meetings in Japan can be a unique and rewarding experience.  While business etiquette might seem like a labyrinth, understanding the nuances of polite language is key to success. From formal greetings to delicate requests, Japanese corporate culture emphasizes respect and consideration. This article explores how to navigate the complexities of business communication, empowering you to make a positive impact in your interactions. ",
+    "grammarExplanation": "The Japanese language places a strong emphasis on formality, and business settings require a level of politeness that goes beyond simply addressing a person by name. For instance, using honorifics like '-san' or '-sama' for colleagues demonstrates respect and formality, and understanding these nuances can dramatically impact communication success. This guide delves into the nuances of Japanese language usage and explores how to utilize proper grammar and structure for impactful communication. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "blue",
+        "title": "Vocabulary: 依頼",
+        "japanese": "依頼 (raiketsu)",
+        "kana": "raiketsu",
+        "romaji": "raiketsu",
+        "english": "Request",
+        "explanation": "This translates to 'request' and is used to express a need or wish.  It implies that someone is asking for something from another person. ",
+        "exampleJp": "私の提案について、依頼をお願いします。",
+        "exampleEn": "Could you please tell me about your proposal?",
+        "tip": "Formal, polite, and always best to use in business."
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "green",
+        "title": "Vocabulary: 提案",
+        "japanese": "提案 (teikan)",
+        "kana": "teikan",
+        "romaji": "teikan",
+        "english": "Proposal",
+        "explanation": "This translates to 'proposal' and is used when making an idea or plan. ",
+        "exampleJp": "提案をさせていただきます。",
+        "exampleEn": "I would like to make a proposal.",
+        "tip": "Often used in business meetings to introduce a new idea or plan."
+      }
+    ],
+    "culturalInsight": "**Navigating the Corporate Labyrinth: A Glimpse into Japanese Business Culture**\n\nThe Japanese corporate world is known for its meticulous approach, intricate social hierarchy, and unique etiquette.  Business interactions in Japan are deeply rooted in formality, respect, and a sense of mutual understanding. Understanding these cultural nuances is key to navigating the intricate world of corporate communication.  \n\nA handshake is often the first step in a business interaction, followed by a polite introduction.  Respect for seniority is paramount, and titles are a crucial element of addressing individuals. Addressing people by their title, like '-sama' or '-san', demonstrates respect and a sense of formality.  Don't be surprised if a conversation starts with a detailed explanation of your background and what you offer. This reflects the Japanese culture of taking time and building relationships before diving into business matters.  \n\nWhile this may seem daunting, it is a critical part of business success in Japan.   Remember, it's about building trust and respect, paving the way for strong and lasting partnerships. ",
+    "quiz": {
+      "question": "What is the most common way to address someone formally in a Japanese business setting? \n\n1.  John\n2.  先生 (Sensei)\n3.  Mr. / Mrs. / Ms.\n4.  They are all equally formal",
+      "options": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The answer is '先生 (Sensei)' and 'they are all equally formal'.  Using '先生 (Sensei)' is the most common way to address someone formally in a Japanese business setting. It is a respectful and courteous way to address someone."
+    },
+    "imagePrompt": "A high-rise office building with a meeting room in the background, featuring a Japanese employee in a formal business suit looking towards a camera with a serene expression.",
+    "schemaMarkup": "{\"type\": \"Article\", \"headline\": \"Mastering the Art of Corporate Requests: A Guide to Polite Business Dialogue\", \"description\": \"Learn how to navigate the subtle yet crucial art of business communication in Japanese corporate settings. This guide provides practical tips and insights on mastering polite requests and building professional relationships.\", \"keywords\": [], \"datePublished\": \"2023-10-27T15:00:00Z\", \"author\": \"Emma Sterling\", \"summary\": \"Learn how to navigate the subtle yet crucial art of business communication in Japanese corporate settings. This guide provides practical tips and insights on mastering polite requests and building professional relationships.\"}",
+    "thumbnailUrl": "/images/level3-unique-slug-1792354279307-1792354349913.jpg",
+    "thumbnailAlt": "A high-rise office building with a meeting room in the background, featuring a Japanese employee in a formal business suit looking towards a camera with a serene expression.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1792337382959",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
