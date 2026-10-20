@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1792484110631-1792484183534",
+    "title": "Navigating Japanese Daily Routines: From Evening to Night",
+    "subtitle": "Understanding household items and routines in Japanese life.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "This article dives into the details of Japanese daily routines and household items, giving you a firsthand look at the life of a Japanese resident.  Learn about common routines and explore the rich culture behind them with this in-depth guide.  ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "From preparing a simple dinner to settling down for the night, Japanese daily routines are a fascinating blend of efficiency and meticulous attention to detail.  Understanding these routines can unlock a deeper understanding of Japanese culture and life, from the humble home to the bustling streets of Tokyo.  Today, we'll explore a typical evening in Japan, delving into the daily rhythms of Japanese life, and the household items that form the foundation of this routine. \n\n*  How do Japanese families unwind after work? \n*  What household items are essential for a peaceful evening? \n*  Can you find a sense of continuity in everyday routines?  \n\nThis journey will give you a glimpse into the heart of Japanese life, revealing the nuances of daily routines.  Let's begin, shall we?  \n\n*",
+    "grammarExplanation": "This article uses a variety of sentence structures and grammatical approaches commonly found in upper-intermediate English language texts, including conditional statements, comparisons, and specific vocabulary for everyday routines.  The text incorporates diverse sentence structures to illustrate different grammatical structures, while maintaining clarity and ease of understanding for English speakers.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の夕食 (Kyō no yūchū)",
+        "japanese": "今日の夕食 (Kyō no yūchū)",
+        "kana": "Kyō no yūchū",
+        "romaji": "Kyō no yūchū",
+        "english": "Tonight's dinner",
+        "explanation": "This describes the evening meal. It is a commonly used phrase in Japanese. It can be used in many situations.",
+        "exampleJp": "夕食を家で食べる (Yūchū o e de tabemasu)",
+        "exampleEn": "To have dinner at home.",
+        "tip": "The word 'yōchū' translates to 'evening meal' and often refers to dinner in a casual setting."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 炊事 (Tsuji)",
+        "japanese": "炊事 (Tsuji)",
+        "kana": "Tsuji",
+        "romaji": "Tsui-ji",
+        "english": "Cooking",
+        "explanation": "This refers to the process of cooking food. It can also refer to the act of preparing a meal, often referring to preparing ingredients like rice and vegetables before cooking a meal.",
+        "exampleJp": "ご飯を炊く (Gohan wo tsuku)",
+        "exampleEn": "To cook rice.",
+        "tip": "This is a verb in Japanese, meaning to cook, and can also be a noun in a more figurative sense, referring to the process of food preparation as a whole."
+      }
+    ],
+    "culturalInsight": "From the moment you arrive at home, the evening unfolds with a sense of calm.  The act of preparing dinner often serves as a ritual, connecting the day's experiences to the peace of the evening meal.  Often, the family gathers to eat together, strengthening bonds and sharing stories from the day's events.  In this cultural context, the dinner table becomes a symbolic center of family life. \n\n\n\n",
+    "quiz": {
+      "question": "What is a typical activity in Japanese families on a summer evening?",
+      "options": [
+        "Going to the beach",
+        "Playing board games",
+        "Eating dinner",
+        "Attending a festival"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is 'Eating dinner' because dinner is a significant part of the evening routine in many Japanese households, often shared together."
+    },
+    "imagePrompt": "A photo of a traditional Japanese dinner table, with chopsticks, a bowl of rice, and fresh seafood.",
+    "schemaMarkup": "{\"@context\":\"https://schema.org/\",\"@type\":\"Article\",\"headline\":\"Navigating Japanese Daily Routines: From Evening to Night\",\"description\":\"Learn about everyday Japanese routines and household items from our expert guides. This article helps you navigate your way around Japan's daily life with ease.\",\"publisher\":{\"name\":\"Your Publisher Name\"},\"image\":{\"url\":\"https://example.com/image.jpg\",\"caption\":\"Image caption\"},\"author\":{\"name\":\"Emma Sterling\"}}",
+    "thumbnailUrl": "/images/level4-unique-slug-1792484110631-1792484183534.jpg",
+    "thumbnailAlt": "A photo of a traditional Japanese dinner table, with chopsticks, a bowl of rice, and fresh seafood.",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1792455050698",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
