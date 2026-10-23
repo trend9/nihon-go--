@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1792726403080-1792726464535",
+    "title": "How to Buy Shinkansen Tickets: A Beginner's Guide",
+    "subtitle": "Navigating Japan's Express Train Network",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "This guide provides a straightforward introduction to buying Shinkansen train tickets for English speakers. Learn how to navigate the ticketing process and enjoy your travel! ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Japan's Shinkansen network is a marvel of speed and efficiency, connecting major cities across the country. As an English speaker venturing into Japan's world-renowned travel system, understanding how to purchase Shinkansen tickets is a crucial step. This article provides a simple, step-by-step guide to navigating the process and ensuring a smooth journey.  \n  \"出発\" is the common Japanese phrase meaning \"Get on board!\"  \n\nLet's embark on this journey together and get you started on your Japanese train adventure!  ",
+    "grammarExplanation": "This article will cover basic grammatical concepts, like learning how to identify and use the correct verb tense for describing actions. We will also introduce the concept of particles and how they affect sentence structure. \n",
+    "postIts": [
+      {
+        "id": "p_vocabulary_today",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の駅",
+        "japanese": "今日の駅",
+        "kana": "Kono eki",
+        "romaji": "Kono eki",
+        "english": "The station",
+        "explanation": "This is the station where you're planning to take the train.",
+        "exampleJp": "駅でチケットを買います。",
+        "exampleEn": "I will buy a ticket at the station.",
+        "tip": "To buy a ticket at the station, you'll need to purchase from a machine or at a counter."
+      },
+      {
+        "id": "p_vocabulary_shinkansen",
+        "color": "pink",
+        "title": "Vocabulary:  新幹線",
+        "japanese": "新幹線",
+        "kana": "Shinkansen",
+        "romaji": "Shinkansen",
+        "english": "Shinkansen",
+        "explanation": "Shinkansen is the name of the high-speed train network.",
+        "exampleJp": "新幹線は速くて便利",
+        "exampleEn": "The Shinkansen is fast and convenient.",
+        "tip": "Shinkansen is a famous bullet train system in Japan."
+      }
+    ],
+    "culturalInsight": " **Japanese Punctuality: A Cultural Corner**\n\n  Japanese culture places a strong emphasis on punctuality, and the Shinkansen is no exception. Arriving late for a Shinkansen train can be quite a shock, even as a visitor.  Always aim for the station at least 10 minutes before departure to allow for delays and unexpected stops. \n\n It's also important to note that the Japanese train etiquette is very different than in some Western countries, with a focus on quietness and tidiness.  When on the train, try to keep the lights off, and keep your voice low and polite. If you need to use your phone, be mindful of others. \n\n This sense of punctuality is not only applied on the train, but also in everyday life.  \n\n Enjoy your journey and remember to be respectful of the Japanese culture, and you'll have a great experience on your Shinkansen adventure.",
+    "quiz": {
+      "question": "Which of these is NOT a common Shinkansen station name in Japan? \n  A: Shibuya Station  \n  B: Tokyo Station  \n  C: Shizuoka Station  \n  D: Osaka Station \n",
+      "options": [
+        "A: Shibuya Station",
+        "B: Tokyo Station",
+        "C: Shizuoka Station",
+        "D: Osaka Station"
+      ],
+      "correctAnswerIndex": "B",
+      "explanation": "Tokyo Station is a major Shinkansen station.  While Shibuya Station and Osaka Station are also major transportation hubs, these stations are not specifically a Shinkansen station."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level1-unique-slug-1792726403080-1792726464535.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1792703900552-1792704005089",
     "title": "The Art of Ryokan Hospitality: Ritual and Refinement in Japan's Inn Tradition",
     "subtitle": "A Nighttime Exploration of Japan's Cultural Aesthetics",
