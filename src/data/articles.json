@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1792773258130-1792773379017",
+    "title": "Savor the Flavors of Japan: Dining Etiquette and Seasonal Delights",
+    "subtitle": "Unlock the secrets of Japanese cuisine with this guide to dining etiquette and seasonal offerings.",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Dive into the world of Japanese dining, discover the nuances of local etiquette, and learn how to savor the freshest seasonal dishes.  This guide will take you from basic knowledge to confident enjoyment of Japanese cuisine. ",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Japan is renowned for its rich culinary traditions, where every dish is an art form. From the elegant presentation to the meticulous etiquette, understanding the nuances of Japanese dining can elevate your experience. Whether you're exploring bustling restaurants or seeking a quiet tea ceremony, mastering these customs can make your Japanese food adventure truly memorable.  \"[「食卓は、静寂と温かさが溢れる場所」]\" - Kenji Watanabe, Japan Today Magazine\n\nBut first, let's demystify the basics. This guide will walk you through the essential etiquette and cultural insights to navigate Japanese dining with ease and grace.  Let's begin! ",
+    "grammarExplanation": "This article uses a combination of formal and informal language styles, mirroring the dynamic nature of Japanese society. Simple explanations are provided for common grammatical structures like verb conjugations and sentence structure, while more complex phrases are highlighted for deeper understanding. The text also uses a mix of formal and informal language, reflecting the casual yet sophisticated nature of Japanese food culture. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "yellow",
+        "title": "Vocabulary: Today's Menu",
+        "japanese": "今日のメニュー",
+        "kana": "kyou no menu",
+        "romaji": "kyou no menu",
+        "english": "Today's menu",
+        "explanation": "This is a general term for the daily menu offered in a restaurant.  It can be used in formal and informal contexts.\n\n\n\t**Example:**  Menu-san wa ikimasho. (Men-san wa ikimasho.)  The menu is for us to look at. ",
+        "exampleJp": "今日のメニュー",
+        "exampleEn": "Today's menu",
+        "tip": "This word is a great foundation for learning Japanese menus!"
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "pink",
+        "title": "Vocabulary:  Seasonal Dishes",
+        "japanese": "季節の料理",
+        "kana": "kisetsu no rōri",
+        "romaji": "kisetsu no rōri",
+        "english": "Seasonal dishes",
+        "explanation": "Seasonal dishes are dishes that highlight the freshest ingredients available during a particular season. This is an excellent way to experience the diverse flavors of Japanese cuisine.",
+        "exampleJp": "春は桜の季節の料理",
+        "exampleEn": "Spring is a cherry blossom season dish",
+        "tip": "Seasonal dishes are often featured in Japanese restaurants to highlight fresh ingredients!"
+      }
+    ],
+    "culturalInsight": "##  A Deeper Dive: Beyond the Plate",
+    "quiz": {
+      "question": "What is a 'teishoku'?",
+      "options": [
+        "A traditional Japanese tea ceremony",
+        "A set meal typically consisting of rice, soup, and a selection of side dishes",
+        "A casual dining experience featuring street food vendors",
+        "A specific type of sushi"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Teishoku (定食) is a cornerstone of Japanese dining, offering a pre-prepared and carefully curated set of dishes at a fixed price. It provides a cost-effective and balanced way to enjoy the flavors of Japanese cuisine."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\",\"@type\": \"Article\", \"headline\": \"Savor the Flavors of Japan: Dining Etiquette and Seasonal Delights\", \"datePublished\": \"2023-10-27T15:00:00Z\", \"publisher\": { \"@type\": \"Organization\", \"name\": \"Your Publishing Company\" }, \"articleBody\": \"...\" ,\"author\": \"Emma Sterling\", \"keywords\": \"Japanese Cuisine, Dining Etiquette, Seasonal Dishes\", \"image\": \"...\", \"mainEntityOfPage\": \"#Page1\", \"description\": \"Dive into the world of Japanese dining, discover the nuances of local etiquette, and learn how to savor the freshest seasonal dishes.  This guide will take you from basic knowledge to confident enjoyment of Japanese cuisine.  \", \"articleSection\": \"How-To\" ,\"disclaimer\": \"...\" ,\"category\": \"Cultural\" , \"imagePrompt\": \"An artistic image description of a Japanese dining experience\" }",
+    "imagePrompt": "An artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo') ",
+    "thumbnailUrl": "/images/level3-unique-slug-1792773258130-1792773379017.jpg",
+    "thumbnailAlt": "An artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo') ",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1792753750413",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
