@@ -1,5 +1,62 @@
 [
   {
+    "id": "level2-unique-slug-1793046133010-1793046310173",
+    "title": "Finding Beauty in Imperfection: Exploring Japanese Concepts of Wabi-Sabi and Mono no Aware",
+    "subtitle": "A look at how to appreciate the subtle beauty of life's impermanence.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "This article delves into the philosophies of wabi-sabi and mono no aware, two concepts integral to Japanese aesthetic sensibility. By understanding these ideas, we can begin to appreciate the beauty in imperfections and find a deeper understanding of the transient nature of all things.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Have you ever seen a weathered bonsai tree, a cracked tea bowl, or a rustic kimono, and felt a certain kind of calm? In Japanese culture, these imperfections are often celebrated as beautiful in themselves, embodying a concept known as wabi-sabi. It's about accepting the beauty in the imperfect, the worn, and the incomplete. This is a philosophy that extends beyond art and into everyday life.  In contrast, mono no aware is the gentle awareness of impermanence. It's the realization that everything is in constant flux, that nothing lasts forever.  It's an appreciation for the transient nature of life, a deep connection to the present moment.  The intersection of these two concepts opens up a unique perspective on beauty, where finding peace and gratitude lies not in the absence of flaws but in the presence of them. ",
+    "grammarExplanation": "This article uses simple sentence structures with clear subject-verb-object order, common in formal English writing, to ensure readability.  The vocabulary emphasizes clear and concise communication, typical of everyday Japanese culture. ",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "yellow",
+        "title": "Vocabulary: 侘び-サビ",
+        "japanese": "侘び-サビ",
+        "kana": " Wabivi-sabī ",
+        "romaji": "Wabi-sabi",
+        "english": "Wabi-sabi",
+        "explanation": "Wabi-sabi is a philosophy that celebrates the beauty in imperfection, often embodied in natural elements like aged wood or cracked pottery. It's about finding beauty in the simple, the rustic, and the humble.",
+        "exampleJp": "侘び-サビは、自然の美しさや、古びた木材や、割れた陶器のような、美しさを発見することを意味します。",
+        "exampleEn": "Wabi-sabi is a philosophy that celebrates the beauty in imperfection, often embodied in natural elements like aged wood or cracked pottery. It's about finding beauty in the simple, the rustic, and the humble.",
+        "tip": "The 'sabi' part of the term literally means 'rustic' or 'aged' in Japanese, reflecting this focus on natural decay."
+      },
+      {
+        "id": "p-2",
+        "color": "pink",
+        "title": "Vocabulary: 無常",
+        "japanese": "無常",
+        "kana": "Mokushō",
+        "romaji": "Monno Aware",
+        "english": "Monno Aware",
+        "explanation": "Monno aware is the awareness of impermanence. It is about recognizing that everything is in a constant state of change and that nothing lasts forever. It's a way of seeing the beauty in the transient nature of life, even in the face of inevitable decay.",
+        "exampleJp": "人間は、死に至るまで、無常を常に感じます。",
+        "exampleEn": "Humans are constantly aware of the impermanence of life, which is a key element of monno aware.",
+        "tip": "The word 'mono' is the Japanese term for 'one' or 'alone', which ties in with the idea that all things are transient and independent."
+      }
+    ],
+    "culturalInsight": "In Japanese culture, wabi-sabi and mono no aware are not just abstract concepts. They are deeply integrated into everyday life. The focus on natural beauty, the appreciation of simplicity, and the acceptance of impermanence are reflected in everything from fashion and food to architecture and art.  Take a moment to consider the beauty of a well-worn kimono, the comforting aroma of traditional tea, or the serene simplicity of a Zen garden. These elements are imbued with a deeper meaning, a reflection of these philosophies that we discuss.",
+    "quiz": {
+      "question": "What is the Japanese term for 'imperfection' that is often celebrated in art and design? ",
+      "options": [
+        "Shinpai",
+        "Mono no aware",
+        "Wabi-sabi",
+        "Ikigai"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is 'Wabi-sabi'.  Wabi-sabi refers to a philosophy and aesthetic sensibility celebrating the beauty of imperfection, often in natural elements, like aged wood or cracked pottery."
+    },
+    "schemaMarkup": "{\"@context\":\"http://schema.org/\",\"@type\":\"Article\",\"headline\":\"Finding Beauty in Imperfection: Exploring Japanese Concepts of Wabi-Sabi and Mono no Aware\",\"description\":\"This article delves into the philosophies of wabi-sabi and mono no aware, two concepts integral to Japanese aesthetic sensibility. By understanding these ideas, we can begin to appreciate the beauty in imperfections and find a deeper understanding of the transient nature of all things.\",\"mainEntity\":[{\"name\":\"Finding Beauty in Imperfection: Exploring Japanese Concepts of Wabi-Sabi and Mono no Aware\",\"description\":\"This article delves into the philosophies of wabi-sabi and mono no aware, two concepts integral to Japanese aesthetic sensibility. By understanding these ideas, we can begin to appreciate the beauty in imperfections and find a deeper understanding of the transient nature of all things.\",\"type\":\"Article\"},{\"name\":\"Vocabulary: 侘び-サビ\",\"description\":\"Wabi-sabi is a philosophy that celebrates the beauty in imperfection, often embodied in natural elements like aged wood or cracked pottery. It's about finding beauty in the simple, the rustic, and the humble.\",\"type\":\"Concept\"},{\"name\":\"Vocabulary: 無常\",\"description\":\"Monno aware is the awareness of impermanence. It is about recognizing that everything is in a constant state of change and that nothing lasts forever. It's a way of seeing the beauty in the transient nature of life, even in the face of inevitable decay.\",\"type\":\"Concept\"},{\"name\":\"Culture Insight\",\"description\":\"In Japanese culture, wabi-sabi and mono no aware are not just abstract concepts. They are deeply integrated into everyday life. The focus on natural beauty, the appreciation of simplicity, and the acceptance of impermanence are reflected in everything from fashion and food to architecture and art. Take a moment to consider the beauty of a well-worn kimono, the comforting aroma of traditional tea, or the serene simplicity of a Zen garden. These elements are imbued with a deeper meaning, a reflection of these philosophies that we discuss.\",\"type\":\"Article\"},{\"name\":\"Quiz\",\"description\":\"What is the Japanese term for 'imperfection' that is often celebrated in art and design?\",\"type\":\"Question\"}]}",
+    "thumbnailUrl": "/images/level2-unique-slug-1793046133010-1793046310173.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of philosophical terms like wabi-sabi, mono no aware, or yugen",
+    "isVerified": true
+  },
+  {
     "id": "level1-unique-slug-1793017312683-1793017475617",
     "title": "The Beauty in Imperfection: Exploring Wabi-Sabi and Mono No Aware",
     "subtitle": "A Journey into Japanese Philosophy for Beginners",
