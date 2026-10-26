@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1793017312683-1793017475617",
+    "title": "The Beauty in Imperfection: Exploring Wabi-Sabi and Mono No Aware",
+    "subtitle": "A Journey into Japanese Philosophy for Beginners",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Dive into the world of Japanese philosophy with this beginner-friendly guide. Explore the concepts of wabi-sabi and mono no aware and discover their impact on Japanese aesthetics and everyday life.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Have you ever noticed a cracked pottery piece or a weathered wooden table that somehow feels incredibly charming? This is the essence of wabi-sabi and mono no aware, two fundamental concepts in Japanese philosophy that celebrate the beauty in imperfection. While they may sound complex, their essence lies in appreciating the fleeting nature of life and finding serenity within the humble and unconventional. \n\n\n*From the renowned painter, Suzuki Kuniyoshi, who captured the essence of wabi-sabi with his art: 'Imperfection is the most beautiful thing in the world'*.  Mono no aware, meaning the poignant awareness of the impermanence of life, adds to this appreciation, reminding us to cherish every moment and embrace the inevitable cycle of decay and renewal.* \n\n This article will explore these philosophies, providing insights into their applications, their impact on art, and their role in shaping a more mindful and appreciative life. ",
+    "grammarExplanation": "This article uses basic English grammar and sentence structures to ensure a clear and understandable experience for beginners. It avoids overly complex word choice and relies on simple, yet effective, sentence patterns. For instance, the use of short and direct sentences contributes to a clear and straightforward reading experience. This ensures accessibility to a broad audience seeking to learn about these philosophical ideas.",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "blue",
+        "title": "Vocabulary: Today",
+        "japanese": "今日",
+        "kana": "Kyō",
+        "romaji": "Kyō",
+        "english": "Today",
+        "explanation": "Today refers to the current day, which is the focus of this article.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a beautiful day today.",
+        "tip": "Say 'Kyō wa ii tenki desu ne' to express your appreciation for the day's weather. This is a common phrase that can be used in a variety of settings."
+      },
+      {
+        "id": "p-2",
+        "color": "green",
+        "title": "Vocabulary: Imperfection",
+        "japanese": " imperfection",
+        "kana": "imperfection",
+        "romaji": "imperfection",
+        "english": "Imperfection",
+        "explanation": "Imperfection refers to the absence of perfection or flawlessness, as a concept in philosophy. ",
+        "exampleJp": "美しい imperfection は、私たちを魅了する。",
+        "exampleEn": "The beauty of imperfection captivates us.",
+        "tip": "To understand the meaning of 'imperfection' in context, read the sentences and understand the relationship between the words."
+      }
+    ],
+    "culturalInsight": "## A Glimpse into Japanese Philosophy\nThe beauty of Japanese aesthetics is closely linked to concepts like wabi-sabi and mono no aware, which are deeply rooted in the understanding of life's impermanence. These philosophies highlight the essence of embracing imperfection and appreciating the natural beauty that emerges from the flow of time. \n\nFrom traditional tea ceremonies where the simplicity of the set is admired, to the artistic expression of the haiku poems, the Japanese appreciate the beauty in the everyday. This focus on simplicity and the acceptance of change leads to a sense of inner peace and satisfaction.\n\nThink of the classic image of a cherry blossom tree. This fleeting moment of beauty is a perfect representation of wabi-sabi and mono no aware. The impermanence of the flower, yet its beauty, highlights the beauty in the natural cycle of life. \n\nIt’s important to note that wabi-sabi and mono no aware are not just for the Japanese. These concepts offer valuable insights into how to approach life and find serenity in the midst of the ever-changing world around us.",
+    "quiz": {
+      "question": "Which of the following best describes the concept of wabi-sabi? \n1. A longing for a perfect and unchanging world\n2. The appreciation of nature’s beauty and imperfections\n3. A focus on achieving material wealth and success\n4. The belief that happiness comes from material possessions",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct answer is 2. Wabi-sabi is the appreciation of natural beauty, including its imperfections. It embraces the beauty of simplicity, imperfection, and transience.  "
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A still life of traditional Japanese teacups and a bowl of rice grains, with a focus on the natural beauty and imperfection of the objects in the scene, with soft lighting, and a serene composition.",
+    "thumbnailUrl": "/images/level1-unique-slug-1793017312683-1793017475617.jpg",
+    "thumbnailAlt": "A still life of traditional Japanese teacups and a bowl of rice grains, with a focus on the natural beauty and imperfection of the objects in the scene, with soft lighting, and a serene composition.",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1792985225133",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
