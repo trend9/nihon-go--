@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1793382424234-1793382538538",
+    "title": "Words of Change: Expressing Seasons and Weather in Letters",
+    "subtitle": "Unlocking the nuances of Japanese greetings",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "This article delves into the beautiful art of expressing seasons and weather through letters in Japanese.  From subtle shifts in tone to poetic language, learn to craft authentic greetings that capture the essence of the changing seasons.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the quiet stillness of a Japanese evening, the air is heavy with the scent of autumn leaves and the promise of a new season. Letters, often crafted with calligraphic precision, become a bridge between the physical and the ephemeral, a vessel for communicating not only the changing weather but also the nuances of human emotion.  Take, for example, the poem 'Autumn Leaves' from renowned poet Matsuo Bashō.   \n\n\"First, the leaves of the maple, then the leaves of the plum tree, fall to the earth. It is a time of quiet change and a time of joy.\"\n\nThis exploration aims to bridge the linguistic and cultural gap for English speakers, offering an in-depth look at how the delicate art of expressing seasonal greetings in Japanese is more than just a means of communicating the weather; it's about expressing the very essence of being alive. \n\nWe'll learn to understand the power of word choice, exploring the subtle nuances of language that convey the fleeting beauty of each season. ",
+    "grammarExplanation": "Japanese grammar can be complex, but mastering it allows you to express nuanced ideas in beautiful, expressive ways. The use of particles, adjectives, and sentence structures all play a vital role in conveying the intended meaning. This article will provide a brief overview of key grammatical concepts, such as the use of particles like 'ga' (for subject), 'wa' (for topic), 'o' (for object), and 'de' (for purpose). These particles are essential for conveying the flow of the narrative in Japanese writing. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-today",
+        "color": "blue",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kō",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "The 'today' or 'now' of Japanese time. Often used to describe the current situation in a sentence. ",
+        "exampleJp": "今日はいい天気です",
+        "exampleEn": "It's a nice day today.",
+        "tip": " 'Today' can be used to talk about the day's weather."
+      },
+      {
+        "id": "p-vocabulary-Weather",
+        "color": "pink",
+        "title": "Vocabulary: 天候",
+        "japanese": "天気",
+        "kana": "tenki",
+        "romaji": "tenki",
+        "english": "Weather",
+        "explanation": "Describes the current state of the weather, in short or long form.",
+        "exampleJp": "今日は雨です。",
+        "exampleEn": "It's raining today.",
+        "tip": "Weather can be used in a formal or informal context, depending on the situation."
+      }
+    ],
+    "culturalInsight": " **A Touch of Tradition** \n\nIn Japan, the changing seasons are celebrated with great ritual and reverence. The changing of the leaves signifies the passage of time and the beauty of impermanence. Letter writing serves as a tangible form of embracing this cyclical reality. The act of creating calligraphy and expressing heartfelt sentiments in a letter connects the writer to the natural world, forging a deeper understanding of life's rhythm. \n\nFor example, in the Edo period, elegant handwritten notes adorned with beautiful calligraphy were used to express gratitude to friends and family. This tradition continues to thrive in modern Japan, where a handwritten letter can still convey a heartfelt message. \n\nTake a moment to appreciate the beauty of the Japanese language and its nuanced expressions of change and change. \n",
+    "quiz": {
+      "question": "What is the meaning of the word 'today' in Japanese?",
+      "options": [
+        "今日は",
+        "明日",
+        "昨日",
+        "いつも"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The word '今日は' is a direct translation of 'today' in Japanese. It's a common phrase used to refer to the current day."
+    },
+    "imagePrompt": "A detailed artistic illustration of a traditional Japanese calligraphy brush gently tracing the edges of a scroll with beautiful, flowing calligraphy. The scroll should depict a picturesque autumn scene.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level5-unique-slug-1793382424234-1793382538538.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of a traditional Japanese calligraphy brush gently tracing the edges of a scroll with beautiful, flowing calligraphy. The scroll should depict a picturesque autumn scene.",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1793353453004",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
