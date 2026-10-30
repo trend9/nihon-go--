@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1793397556985-1793397698995",
+    "title": "Brewing Your Morning: A Beginner's Guide to Ordering Coffee in Japan",
+    "subtitle": "Unlocking the secrets of Japanese coffee culture.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Dive into the world of Japanese coffee and learn how to order your morning brew! This beginner-friendly guide will help you navigate the world of cafes in Japan.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "In the vibrant, ever-evolving world of Japanese culture, the humble coffee shop holds a special place. From bustling city centers to quaint village cafes, the aroma of freshly brewed coffee fills the air, inviting you to embrace a new experience. This guide will equip you with the essential vocabulary and knowledge to order your coffee like a true local. Say goodbye to confusion and hello to a smoother, more enjoyable coffee experience in Japan.",
+    "grammarExplanation": "The Japanese language uses a unique grammar system, featuring a subject-object-verb (SOV) structure. This means that the subject of a sentence typically comes first, followed by the object, and then the verb. For example, '私はコーヒーを飲む' translates to 'I drink coffee'. This is a common grammatical pattern, and it is used extensively in everyday conversation. Additionally, Japanese is known for its politeness and formality.  It is important to use polite language and address people with honorifics, such as '-san' or '-sama' when speaking to someone you do not know well or who is in a position of authority.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: コーヒー",
+        "japanese": "コーヒー",
+        "kana": "kōhī",
+        "romaji": "kohi",
+        "english": "Coffee",
+        "explanation": "This is the word for coffee itself.",
+        "exampleJp": "コーヒーを飲みたい",
+        "exampleEn": "I would like to drink coffee.",
+        "tip": "The pronunciation of 'kohi' is similar to the word 'coffee' in English."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: 砂糖",
+        "japanese": "砂糖",
+        "kana": "sātā",
+        "romaji": "sato",
+        "english": "Sugar",
+        "explanation": "Sugar is commonly added to coffee, so it's essential to know this word.",
+        "exampleJp": "砂糖を足して",
+        "exampleEn": "Add sugar.",
+        "tip": "The pronunciation of 'sāto' is similar to the word 'sugar' in English."
+      }
+    ],
+    "culturalInsight": "A culture-focused analysis: Japan's coffee culture, where the act of coffee drinking transcends merely a beverage, is rooted in a deep history of tradition. Coffee houses in Japan often offer more than just a caffeine boost; they serve as spaces for interaction, a place to relax and connect with friends and colleagues. This cultural connection is often the foundation for deeper conversations and connections.",
+    "quiz": {
+      "type": "multipleChoice",
+      "question": "What is a typical Japanese coffee order?",
+      "options": [
+        "A cup of green tea.",
+        "A cup of black coffee.",
+        "A cup of instant coffee.",
+        "A cup of milk tea."
+      ],
+      "answerIndex": 2,
+      "explanation": "Instant coffee is a popular choice in Japan, as is the common practice of adding sugar to your coffee."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"id\":\"level1-unique-slug-1793397556985\",\"title\":\"Brewing Your Morning: A Beginner's Guide to Ordering Coffee in Japan\",\"description\":\"Dive into the world of Japanese coffee and learn how to order your morning brew! This beginner-friendly guide will help you navigate the world of cafes in Japan. Say goodbye to confusion and hello to a smoother, more enjoyable coffee experience in Japan.\",\"language\":\"en\",\"date\":\"2023-10-26T07:00:00Z\",\"abstract\":\"Dive into the world of Japanese coffee and learn how to order your morning brew! This beginner-friendly guide will help you navigate the world of cafes in Japan. Say goodbye to confusion and hello to a smoother, more enjoyable coffee experience in Japan.\",\"byline\":\"Emma Sterling, Culture Desk\",\"imagePrompt\":\"A vintage monochrome illustration of a sushi chef in Tokyo\"}",
+    "thumbnailUrl": "/images/level1-unique-slug-1793397556985-1793397698995.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of ordering coffee and custom requests at a cafe",
+    "isVerified": true
+  },
+  {
     "id": "level5-unique-slug-1793382424234-1793382538538",
     "title": "Words of Change: Expressing Seasons and Weather in Letters",
     "subtitle": "Unlocking the nuances of Japanese greetings",
