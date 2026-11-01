@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-shopping-in-kyoto-1793507818944",
+    "title": "Souvenirs and Prices: Shopping in Kyoto's Mornings",
+    "subtitle": "A beginner's guide for exploring the ancient city",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Dive into the vibrant world of souvenirs and discover how to navigate the bustling streets of Kyoto. From traditional crafts to modern gadgets, this guide will help you find the perfect treasures and ask for prices in a polite manner.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into Kyoto's ancient streets is like stepping back in time.  From the iconic Fushimi Inari Shrine to the serene Kiyomizu-dera temple, you'll be surrounded by history and culture. While you explore these breathtaking landmarks, don't forget about the joys of souvenir shopping.  This guide will help you navigate the vibrant streets of Kyoto, learn the basics of Japanese politeness, and snag the perfect souvenirs to remember your trip.  *",
+    "grammarExplanation": "This article will introduce essential grammatical concepts in Japanese to help you understand the nuances of Japanese communication.  We will explore basic sentence structure, verb conjugation, and how to use honorifics for polite conversation.  Don't worry if you're still getting the hang of it, practice makes perfect! ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "This expression is used to ask about the present time.  It helps us to form simple and concise sentences for everyday conversation.",
+        "exampleJp": "今日はいい天気ですね！",
+        "exampleEn": "It's a beautiful day today! ",
+        "tip": "In Japanese, when you want to ask about today's weather, use the phrase ‘今日はいい天気ですね！’.  The word ‘天気’ literally means ‘weather’."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お願い",
+        "japanese": "お願い",
+        "kana": "onegai",
+        "romaji": "onegai",
+        "english": "Please",
+        "explanation": "When you want to ask for something, it's always polite to say ‘お願いします’.  This word is used in various contexts, such as requesting a piece of information, asking for help, or making a purchase.",
+        "exampleJp": "すみません、お砂糖をください。",
+        "exampleEn": "Excuse me, I would like some sugar, please.",
+        "tip": "In Japanese, when you want to politely ask for something, always use the phrase ‘お願いします’. It is crucial for a positive experience when communicating with Japanese people. "
+      }
+    ],
+    "culturalInsight": "Kyoto's shopping culture is steeped in tradition and etiquette.  From the iconic geisha districts to the bustling markets, every interaction with local vendors is a learning opportunity.  Remember to use polite language and observe the customs surrounding greetings, purchases, and gift-giving.  These cultural nuances will enhance your experience and provide a deeper appreciation for the city's charm. ",
+    "quiz": {
+      "question": "What is the polite phrase to ask for something in Japanese?",
+      "options": [
+        "はい",
+        "いいえ",
+        "お願いします",
+        "ありがとう"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "While 'はい' and 'いいえ' can be used to confirm,  'お願いします' is the polite way to ask for something in Japanese.  This phrase is a cornerstone of respectful and professional interaction in the language."
+    },
+    "schemaMarkup": "{\"@context\":\"http://schema.org/\", \"@type\":\"Article\", \"headline\":\"Souvenirs and Prices: Shopping in Kyoto's Mornings\", \"description\":\"Dive into the vibrant world of souvenirs and discover how to navigate the bustling streets of Kyoto.  From traditional crafts to modern gadgets, this guide will help you find the perfect treasures and ask for prices in a polite manner.\", \"mainEntity\": {\"@type\":\"Product\"}, \"author\": {\"@type\":\"Person\", \"name\":\"Emma Sterling\"}, \"dateCreated\": \"2023-10-27T07:00:00Z\", \"dateModified\": \"2023-10-27T07:00:00Z\", \"language\":\"en\"}, \"imagePrompt\":\"A vintage monochrome illustration of a sushi chef in Tokyo\" }",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "thumbnailUrl": "/images/level1-shopping-in-kyoto-1793507818944.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1793480738335",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
