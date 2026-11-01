@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1793561155484-1793561251204",
+    "title": "Navigating Japanese Dining Culture: Seasonal Delights & Etiquette",
+    "subtitle": "A guide to ordering at your next Japanese meal",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Unlock the secrets of Japanese dining etiquette and savor the flavors of seasonal delicacies. This article delves into the nuances of ordering food, from mastering polite phrases to understanding the cultural significance of seasonal dishes.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Picture this: you're seated in a cozy Japanese restaurant, the aroma of miso and soy sauce filling the air.  The waiter approaches, holding a menu that promises a tantalizing journey through the freshest seasonal delights.  Ordering in Japanese can feel daunting, but with a few key insights, you'll navigate the world of Japanese dining with grace and confidence. From polite phrases to understanding the significance of seasonal dishes, this guide will empower you to truly appreciate the unique culinary experience of Japanese cuisine.  Just as a cherry blossom blooms in spring, so too can your knowledge of Japanese dining etiquette blossom into a delightful culinary adventure. ",
+    "grammarExplanation": "This article uses a clear and concise writing style, with a mix of simple and compound sentences. It incorporates grammatical features commonly used in journalism, such as the use of active voice for a more engaging feel. The language is straightforward and avoids overly complex sentence structures. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-post-it-1",
+        "color": "blue",
+        "title": "Vocabulary: 今日は",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This simple phrase expresses the current day and is used for everyday greetings and time-related matters.",
+        "exampleJp": "今日はいい天気ですね！",
+        "exampleEn": "It's a nice day today!",
+        "tip": "The word '今日は' can be used in a variety of contexts, such as asking the date or speaking about the current day."
+      },
+      {
+        "id": "p-vocabulary-post-it-2",
+        "color": "green",
+        "title": "Vocabulary: お願い",
+        "japanese": "お願いします",
+        "kana": "onegai shimasu",
+        "romaji": "onegai shimasu",
+        "english": "Please",
+        "explanation": "This is a polite phrase used when asking for something. It's a crucial part of Japanese dining etiquette. ",
+        "exampleJp": "お食事をいただけますでしょうか？",
+        "exampleEn": "Would you please be able to order some food?",
+        "tip": "The word 'お願いします' is a polite way to ask for something, and it's essential for making good impressions in a Japanese dining environment."
+      }
+    ],
+    "culturalInsight": "Dining etiquette in Japan is a unique blend of formality and respect, where every detail matters. A simple meal can transform into a cultural experience.  It’s crucial to understand that the way you greet someone, the way you eat, and even the timing of your meal all hold cultural significance.  These subtleties are what make Japanese dining so unique. ",
+    "quiz": {
+      "question": "What is a common phrase used to request someone to provide a service? ",
+      "options": [
+        "ありがとうございます",
+        "おねがいします",
+        "すみません",
+        "どうぞ"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The phrase 'おねがいします' is the polite way to ask someone to do something.  It shows respect and politeness in Japanese culture. "
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"headline\":\"Navigating Japanese Dining Culture: Seasonal Delights & Etiquette\"}",
+    "imagePrompt": "A detailed artistic illustration of a modern Japanese restaurant interior with a lively ambiance. Focus on the details like wooden furniture, sake bottles, and a traditional Japanese table setting, to create a beautiful visual representation.",
+    "thumbnailUrl": "/images/level3-unique-slug-1793561155484-1793561251204.jpg",
+    "thumbnailAlt": "A detailed artistic illustration of a modern Japanese restaurant interior with a lively ambiance. Focus on the details like wooden furniture, sake bottles, and a traditional Japanese table setting, to create a beautiful visual representation.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1793537271974",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
