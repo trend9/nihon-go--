@@ -1,5 +1,63 @@
 [
   {
+    "id": "level1-unique-slug-1793788333787-1793788459795",
+    "title": "Kyoto Souvenirs: Shopping for Treasures in the Morning Light",
+    "subtitle": "A beginner's guide to finding your perfect souvenir.",
+    "level": 1,
+    "levelName": "Level 1: Absolute Beginner",
+    "timeOfDay": "Morning",
+    "publishedAt": "07:00",
+    "description": "Start your Japanese adventure in Kyoto! This article guides you through the bustling streets and unique shops, offering tips for finding the perfect souvenirs. Discover the joy of haggling and immerse yourself in the vibrant culture.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Kyoto is a city steeped in tradition and beauty, offering a plethora of souvenirs that capture its spirit. Whether you're a first-time visitor or returning to its ancient streets, Kyoto's unique charm is woven into every souvenir you purchase. This article guides you through the process of shopping for souvenirs, from identifying key locations to navigating the language barrier and learning the art of haggling. Let's dive into the enchanting world of Kyoto shopping!",
+    "grammarExplanation": "For a beginner learner, this article focuses on basic sentence structures and vocabulary relevant to shopping and travel. Common sentence structures like question-and-answer formats are utilized for clarity, while the introduction and conclusion provide an overview of the article's content.",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "yellow",
+        "title": "Vocabulary: 買い物",
+        "japanese": "買い物",
+        "kana": "kaimō",
+        "romaji": "kaimō",
+        "english": "Shopping",
+        "explanation": "This is a Japanese word used for 'shopping' which is a familiar term to beginners.",
+        "exampleJp": "私はお土産を買いました。",
+        "exampleEn": "I bought souvenirs.",
+        "tip": "Remember to pronounce it 'kaimō' with a short 'a' sound."
+      },
+      {
+        "id": "p2",
+        "color": "pink",
+        "title": "Vocabulary: お土産",
+        "japanese": "お土産",
+        "kana": "omiai",
+        "romaji": "omiai",
+        "english": "Souvenir",
+        "explanation": "This is a Japanese word used for 'souvenir'. Remember to pronounce it 'omiai' with a short 'o' sound.",
+        "exampleJp": "私はお土産を買いました。",
+        "exampleEn": "I bought souvenirs.",
+        "tip": "Think of 'omiai' as a gift-related term."
+      }
+    ],
+    "culturalInsight": "Kyoto's vibrant culture is woven into the very fabric of its souvenirs. From traditional crafts to modern art, Kyoto offers a sensory explosion for every taste. Whether you're drawn to the intricate beauty of lacquerware or the charm of handcrafted pottery, the souvenirs speak volumes of the city's rich heritage.  A visit to Fushimi Inari Shrine is a must, and the intricate torii gates can be found in souvenir shops all around the city. Remember to ask about the history of the souvenirs before purchasing them, as this will enhance your cultural experience.",
+    "quiz": {
+      "question": "Where is the best place to find souvenirs in Kyoto?",
+      "options": [
+        "Shibuya Crossing",
+        "Gion District",
+        "Nijo Castle",
+        "Fushimi Inari Shrine"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "While Shibuya Crossing is famous, the best place to find souvenirs in Kyoto is Fushimi Inari Shrine, which offers a variety of traditional crafts and local artwork."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\", \"@type\": \"Article\", \"headline\": \"Kyoto Souvenirs: Shopping for Treasures in the Morning Light\", \"dateCreated\": \"2023-10-26T07:00:00+00:00\", \"description\": \"Start your Japanese adventure in Kyoto! This article guides you through the bustling streets and unique shops, offering tips for finding the perfect souvenirs. Discover the joy of haggling and immerse yourself in the vibrant culture\", \"image\": \"https://example.com/souvenir-shop-in-kyoto.jpg\", \"author\": \"Emma Sterling\", \"mainEntityOfPage\": \"https://www.example.com/kyoto-souvenirs-guide.html\", \"publisher\": \"Example Publishing Company\", \"keywords\": \"Kyoto, souvenirs, shopping, Japan, travel, culture\", \"articleBody\": \"... (body of article) ...\" , \"geo\": { \"location\": \"Kyoto, Japan\" } }",
+    "imagePrompt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "thumbnailUrl": "/images/level1-unique-slug-1793788333787-1793788459795.jpg",
+    "thumbnailAlt": "A vintage monochrome illustration of a sushi chef in Tokyo",
+    "isVerified": true
+  },
+  {
     "id": "level5-embracing-imperfection-1793754491910",
     "title": "Embracing Imperfection: Understanding Wabi-Sabi at Night",
     "subtitle": "How Japanese aesthetics find beauty in the transient and humble",
