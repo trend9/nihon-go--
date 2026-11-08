@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1794112804578-1794112929020",
+    "title": "Dreaming of Faraway Lands: Mastering Vacation Plans",
+    "subtitle": "Your guide to planning your next Japanese adventure",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Master the art of travel planning with this comprehensive guide for English speakers venturing into the exciting world of Japanese vacation destinations.  From bustling cities to tranquil nature, learn to craft your perfect journey and navigate the language barriers to truly experience the charm of Japan.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine standing on the bustling Shibuya crossing, the neon lights reflecting off a vibrant crowd. Or perhaps picturing yourself sipping green tea in a tranquil bamboo forest, the serenity echoing the ancient traditions of Japan.  Traveling to a new country, especially one as fascinating as Japan, can feel both exciting and overwhelming.  This article will equip you with the tools to plan a smooth and enjoyable trip, from mastering basic travel planning to confidently navigating Japanese culture.  Let's embark on a journey of discovery and unlock the secrets of your next Japanese vacation.",
+    "grammarExplanation": "This article uses a conversational tone and employs a mix of simple and complex sentences, reflecting the typical writing style of an intermediate English learner. The grammar focuses on using past tense verbs, including 'went,' 'saw,' and 'had,' and present tense verbs, such as 'visiting,' 'eating,' and 'traveling.' The article uses a variety of sentence structures, including direct and indirect questions, to encourage active reading and engagement.  The use of 'would' and 'should' in the discussion of desired travel plans demonstrates an understanding of complex sentence structure.",
+    "postIts": [
+      {
+        "id": "p1-unique-id-20230928-1458",
+        "color": "yellow",
+        "title": "Vocabulary: 旅行",
+        "japanese": "旅行",
+        "kana": "ryokou",
+        "romaji": "ryokou",
+        "english": "Travel",
+        "explanation": "This is the Japanese word for 'travel' or 'journey'.  It can be used in many contexts related to moving from one place to another.",
+        "exampleJp": "旅行に行く",
+        "exampleEn": "Going on a trip.",
+        "tip": "Remember to use the correct tense, such as past tense (行った) or present tense (行く)."
+      },
+      {
+        "id": "p2-unique-id-20230928-1458-1",
+        "color": "blue",
+        "title": "Vocabulary: ホテル",
+        "japanese": "ホテル",
+        "kana": "honto",
+        "romaji": "ho-tel",
+        "english": "Hotel",
+        "explanation": "This is the Japanese word for 'hotel.' It refers to a place to stay overnight during a journey. ",
+        "exampleJp": "ホテルに泊まる",
+        "exampleEn": "Staying at a hotel",
+        "tip": "When talking about hotels, it's a good idea to use a verb like 'stay' or 'book' to communicate more effectively."
+      }
+    ],
+    "culturalInsight": "Understanding travel etiquette is essential for smooth travel in Japan. For example, bowing is a common greeting and a polite way to show respect. This act often follows any formal introductions. Punctuality is highly valued in Japan, with a strict adherence to schedules for meetings and travel. These practices contribute to a harmonious travel experience. Additionally, knowing basic Japanese phrases like 'thank you' or 'excuse me' can go a long way in building positive relationships. Remember to approach cultural norms with respect and understanding, ensuring a more enriching travel experience.",
+    "quiz": {
+      "question": "What is the Japanese word for 'travel'?",
+      "options": [
+        "旅行",
+        "観光",
+        "出張",
+        "留学"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct answer is '旅行' (ryokou). This is the most commonly used word for 'travel' in Japanese."
+    },
+    "schemaMarkup": "{\"type\":\"Article\",\"description\":\"Learn how to plan a trip to Japan and master the art of travel planning. This article focuses on intermediate English learners looking to explore the exciting world of Japanese culture. \"}\n",
+    "imagePrompt": "A photo of someone standing on a train platform in Tokyo, with the Tokyo skyline in the background. The photo should convey a sense of anticipation and excitement, and capture the bustling atmosphere of the city.",
+    "thumbnailUrl": "/images/level3-unique-slug-1794112804578-1794112929020.jpg",
+    "thumbnailAlt": "A photo of someone standing on a train platform in Tokyo, with the Tokyo skyline in the background. The photo should convey a sense of anticipation and excitement, and capture the bustling atmosphere of the city.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1794087177555",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
