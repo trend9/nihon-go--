@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1794165806470-1794165893919",
+    "title": "Finding the Art in Imperfection: The Zen of Wabi-Sabi",
+    "subtitle": "A Night of Reflection - Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "This article delves into the concept of 'Wabi-Sabi' - a Japanese aesthetic that finds beauty in imperfection and transience. Explore the philosophical depths of this timeless approach to beauty and experience its impact on the Japanese mindset.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine a bamboo forest bathed in twilight. The delicate stalks sway gently in the evening breeze, their rough edges starkly beautiful in the soft, orange glow of the dying sun. This image, perhaps, captures the essence of 'wabi-sabi,' a Japanese aesthetic that celebrates imperfection and the natural cycle of life. It is a philosophy born of acceptance, rather than an idealized pursuit of beauty. This philosophy encourages us to find value in the imperfections and fleeting moments of life, embracing their transience and finding beauty in the simple flow of time. In a world obsessed with perfection and control, wabi-sabi offers a profound alternative. It teaches us to appreciate the beauty in the ordinary, the fragility of existence, and the quiet acceptance of change.  This is a philosophy that allows us to embrace the present moment, finding solace in its impermanence.  It is about seeing the inherent beauty in the flaws of life, in the worn wood of a teacup or the faded pattern of a kimono.  From the artist's hand-thrown pottery to the weathered shoji screens of a traditional teahouse, every aspect of Japanese culture reflects this philosophy.",
+    "grammarExplanation": "The article employs a formal and sophisticated tone, mirroring the traditional style of Japanese essay writing. It employs a simple structure, employing introductory sentences and concluding sentences, while incorporating descriptive language to paint a vivid picture for the reader. The language is direct and accessible, yet carries a level of intellectual depth, reflecting the philosophical nature of the theme.",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "green",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日",
+        "kana": "kyou",
+        "romaji": "kyou",
+        "english": "Today",
+        "explanation": "Today, a simple word with a profound meaning. It reminds us of the fleeting nature of time and the constant cycle of change, an aspect of Wabi-Sabi.",
+        "exampleJp": "今日は素晴らしい天気ですね。",
+        "exampleEn": "It's a wonderful day today.",
+        "tip": "For pronunciation, use a slightly nasal sound like 'kyo' followed by a short 'u' sound."
+      },
+      {
+        "id": "p-2",
+        "color": "blue",
+        "title": "Vocabulary: impermanence",
+        "japanese": "変容",
+        "kana": "henjou",
+        "romaji": "henjou",
+        "english": "Change",
+        "explanation": "Change is a constant factor of life. Wabi-Sabi encourages us to find beauty in that change.",
+        "exampleJp": "人生は変容の連続である。",
+        "exampleEn": "Life is a continuous cycle of change.",
+        "tip": "Pronounce the 'h' sound, like the English word 'high'. Then, follow it with a 'n' sound."
+      }
+    ],
+    "culturalInsight": "**Beyond Aesthetics: Wabi-Sabi and the Search for Meaning**\n\nIn a society that often prioritizes the pursuit of material wealth and perfection, wabi-sabi offers a unique perspective. It encourages us to find beauty in the imperfect and the transient, reminding us that true value lies in the journey, not the destination.  This philosophy resonates deeply within Japanese culture, serving as a cornerstone of their art, architecture, and even their daily routines. The ephemeral beauty of cherry blossoms, the subtle imperfections in traditional pottery, the quiet simplicity of a well-worn teacup – all embody this philosophy. It is about finding joy in the ordinary, accepting the ever-changing world around us, and finding meaning in the simple things. By embracing this philosophy, we can learn to appreciate the present moment, finding solace in the impermanence of life.",
+    "quiz": {
+      "question": "What is the core philosophy of Wabi-Sabi?",
+      "options": [
+        "The pursuit of perfection",
+        "Finding beauty in imperfection and transience",
+        "Embracing material wealth",
+        "Achieving enlightenment through meditation"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is 'Finding beauty in imperfection and transience'.  Wabi-Sabi offers a unique perspective on beauty, celebrating the flaws and the transience of life."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A serene image of a traditional Japanese teahouse, with worn wooden floors, a single lantern illuminating the space, and a quiet woman reading a book in the corner, against a backdrop of twilight. The emphasis should be on capturing the beauty of the space and the calm, quiet atmosphere. ",
+    "thumbnailUrl": "/images/level5-unique-slug-1794165806470-1794165893919.jpg",
+    "thumbnailAlt": "A serene image of a traditional Japanese teahouse, with worn wooden floors, a single lantern illuminating the space, and a quiet woman reading a book in the corner, against a backdrop of twilight. The emphasis should be on capturing the beauty of the space and the calm, quiet atmosphere. ",
+    "isVerified": true
+  },
+  {
     "id": "level4-business-harmony-1794142430411",
     "title": "Business Harmony: Navigating Conditional Agreements in Tokyo",
     "subtitle": "How to use '~tara' politely to suggest next steps in meetings",
