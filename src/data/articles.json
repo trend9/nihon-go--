@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1794221895158-1794222056441",
+    "title": "Finding Wabi-sabi: A Glimpse into Japanese Philosophy",
+    "subtitle": "A journey through the aesthetics of imperfection.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Explore the world of Japanese philosophy through a lens of beauty and acceptance. Dive into the profound concept of wabi-sabi, finding unexpected grace in imperfection.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The beauty of a weathered teacup, the gentle curve of moss on a rock, or the intricate pattern of a bamboo leaf—in Japanese culture, these elements are not merely aesthetic, but hold a deeper meaning. This is the essence of wabi-sabi, a philosophy deeply intertwined with art, life, and the appreciation of the natural world.  It is not about striving for perfection, but rather embracing the imperfections of the world.  \n\n\"It’s the beauty of something that's not perfect, something flawed,\" says Kenji Sato, a renowned professor of Japanese cultural studies. \"It’s about finding beauty in imperfection.\" This piece explores the concept of wabi-sabi and the art of finding grace in the flaws of life. ",
+    "grammarExplanation": "This article adopts a conversational, yet respectful tone in accordance with the publication's style. The prose uses simple, easy-to-understand vocabulary. The emphasis is on clarity and ease of comprehension. The text will use a mix of short and long sentences to create a natural rhythm.  For example, using phrases like 'the beauty of a weathered teacup' instead of a direct translation, such as 'the cup is old and worn.' This encourages engagement and understanding.",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日の",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This phrase signifies that the following content applies to the present day. ",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "It's a nice day today.",
+        "tip": "Use this phrase when referring to the present day to show you are discussing something happening now."
+      },
+      {
+        "id": "p-2",
+        "color": "pink",
+        "title": "Vocabulary: 自然",
+        "japanese": "自然",
+        "kana": "shizen",
+        "romaji": "shisen",
+        "english": "Nature",
+        "explanation": "It refers to the natural world in Japanese. ",
+        "exampleJp": "自然は美しいですね。",
+        "exampleEn": "Nature is beautiful.",
+        "tip": "Use this term to describe natural elements or phenomena, such as the ocean or mountains."
+      }
+    ],
+    "culturalInsight": "Wabi-sabi isn't merely a philosophical concept; it's a guiding principle in daily life. The appreciation of imperfection can be found in everything from architecture to food. Consider a simple bowl of rice. The imperfections in the shape, size, and texture contribute to its charm.  For a deeper understanding of the philosophy, explore the works of influential Japanese philosophers, like Matsuo Bashō, a renowned poet known for his insightful haiku.  He perfectly captures the essence of wabi-sabi, saying that \"Imperfection is beauty\" and \"Strength is beauty.\"  The Japanese appreciate the beauty of imperfections as a way of life. ",
+    "quiz": {
+      "question": "Which of these is an example of a wabi-sabi object?",
+      "options": [
+        "A meticulously crafted, antique tea set with every detail flawless.",
+        "A weathered, vintage kimono worn by a grandmother.",
+        "A bright, brand-new, perfectly polished car on a showroom floor.",
+        "A simple, unassuming stone sculpture with a rough, uneven surface."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The beauty of wabi-sabi lies in the appreciation of imperfection. Option 4 represents the essence of wabi-sabi as it embraces the beauty of a simple, rough stone sculpture, a testament to the philosophy of accepting the beauty of flaws."
+    },
+    "imagePrompt": "An old, worn wooden scroll decorated with traditional Japanese ink paintings depicting a tranquil landscape in a minimalist style, featuring subtle imperfections and the beauty of imperfection. The image should depict a sense of serenity, depth, and a gentle interplay between rough and smooth textures, as well as traditional Japanese aesthetics. ",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level2-unique-slug-1794221895158-1794222056441.jpg",
+    "thumbnailAlt": "An old, worn wooden scroll decorated with traditional Japanese ink paintings depicting a tranquil landscape in a minimalist style, featuring subtle imperfections and the beauty of imperfection. The image should depict a sense of serenity, depth, and a gentle interplay between rough and smooth textures, as well as traditional Japanese aesthetics. ",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1794184829494",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
