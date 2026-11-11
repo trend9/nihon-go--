@@ -1,5 +1,63 @@
 [
   {
+    "id": "level4-unique-slug-1794433628517-1794433741998",
+    "title": "Unlocking Daily Life: Inside the Japanese Home",
+    "subtitle": "Navigating routines, from work to relaxation.",
+    "level": 4,
+    "levelName": "Level 4: Upper-Intermediate Business & Conditional logic",
+    "timeOfDay": "Evening",
+    "publishedAt": "19:00",
+    "description": "Dive into the rhythm of daily life in Japan with our comprehensive guide to household items and routines. Learn the nuances of Japanese culture and communication through the lens of home life.  From morning rituals to evening relaxation, we'll illuminate the hidden complexities of Japanese living.",
+    "byline": "By Kenji Sato, Tokyo Bureau",
+    "introduction": "A home in Japan is a microcosm of society, a vibrant tapestry woven with tradition and innovation.  Everyday rituals, from the morning tea ceremony to the evening bath, offer a fascinating glimpse into the lives of Japanese people. Whether you're planning a visit to the Land of the Rising Sun or seeking to deepen your understanding of the Japanese way of life, this article will guide you through the intricate details of household life.  Imagine a gentle breeze rustling through a paper screen; the aroma of matcha wafting from the kitchen; or the quiet hum of an electric kettle. This is the essence of Japanese home life, and we invite you to explore it with us.",
+    "grammarExplanation": "This article utilizes a combination of complex sentence structures, common business vocabulary, and casual language for an everyday, relatable tone. The vocabulary is carefully selected to reflect the sophisticated nature of the topic and the audience's level of understanding. The article employs a consistent structure, ensuring clarity and consistency throughout. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "blue",
+        "title": "Vocabulary: Kitchen",
+        "japanese": "キッチン",
+        "kana": "Kitchin",
+        "romaji": "Kitchin",
+        "english": "Kitchen",
+        "explanation": "The kitchen is the heart of the home in Japan. It is a place for cooking, eating, and gathering with family and friends. ",
+        "exampleJp": "キッチンは、家族と過ごす大切な場所です。",
+        "exampleEn": "The kitchen is a very important place in Japan, where families gather and enjoy time together.",
+        "tip": "In Japanese, the kitchen is a place for creation and nourishment, similar to the English term 'kitchen' for food preparation. "
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: Washing machine",
+        "japanese": "洗濯機",
+        "kana": "Sentaku-ki",
+        "romaji": "Sentaku-ki",
+        "english": "Washing Machine",
+        "explanation": "The washing machine is a common household appliance in Japan. This machine is used to wash clothes and linens, providing convenience and ease of use. ",
+        "exampleJp": "洗濯機を使うと、より楽に衣類を洗えるよ。",
+        "exampleEn": "Using a washing machine makes it easier and more convenient to wash clothes and linens.",
+        "tip": "The washing machine in Japan, as in many other countries, is a convenient appliance that simplifies everyday tasks. "
+      }
+    ],
+    "culturalInsight": "A Japanese home is an intricate balance of tradition and modern convenience.  The minimalist aesthetics of Japanese living are visible in every corner, from the carefully curated furniture to the use of natural light and materials.  Dinner often involves family members sharing a meal and discussing the day's events.  The evening, in particular, can be a time for reflection and quiet contemplation. This may involve preparing for the next day with a cup of green tea or enjoying a relaxing hot bath.",
+    "quiz": {
+      "question": "What is a common Japanese household appliance used for washing clothes?",
+      "options": [
+        "冷蔵庫 (Refrigerator)",
+        "洗濯機 (Washing Machine)",
+        "エアコン (Air Conditioner)",
+        "テレビ (TV)"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct answer is '洗濯機 (Washing Machine)' - washing machines are common in Japan, making laundry easier and more convenient. "
+    },
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a Japanese woman in a kimono, cooking a traditional meal with fresh ingredients in a minimalist kitchen.')",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level4-unique-slug-1794433628517-1794433741998.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a Japanese woman in a kimono, cooking a traditional meal with fresh ingredients in a minimalist kitchen.')",
+    "isVerified": true
+  },
+  {
     "id": "level3-navigating-kyoto-1794404480247",
     "title": "Navigating Kyoto: Expressing Where You Want to Go",
     "subtitle": "Using '~tai' to smoothly share your travel wishes",
