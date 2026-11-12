@@ -1,5 +1,63 @@
 [
   {
+    "id": "level5-unique-slug-1794462913640-1794463027247",
+    "title": "Beyond the Surface: Finding Wabi-Sabi in the Night",
+    "subtitle": "Exploring Japanese aesthetics through philosophical nuance",
+    "level": 5,
+    "levelName": "Level 5: Advanced Aesthetics & Philosophical Nuance",
+    "timeOfDay": "Night",
+    "publishedAt": "22:00",
+    "description": "Learn to appreciate the beauty of imperfection in this in-depth exploration of Japanese aesthetics. Dive into the world of wabi-sabi and mono no aware, and discover the profound wisdom hidden in everyday life.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "The quiet hush of night holds a unique beauty, a world of tranquility where thoughts drift like smoke through the air. This quietude, however, is also a world of vulnerability. It is in this space where the deeper meanings of Japanese philosophy find their voice - in the fleeting beauty of imperfection, in the acceptance of impermanence. This is the essence of wabi-sabi, the profound art of finding beauty in imperfection. It is a concept that transcends mere aestheticism, leading us to a deeper understanding of life's fleeting nature. It is a philosophy that whispers of the impermanence of even the most treasured things, urging us to find solace in this constant dance of change. This journey invites you to explore the essence of Japanese aesthetics through the lens of wabi-sabi. We invite you to step into the night, to embrace the silence, and to truly appreciate the beauty found in the imperfect.",
+    "grammarExplanation": "The article employs a formal, journalistic style with a focus on concise, clear sentences and a sophisticated vocabulary. This approach is characteristic of English-language journalism, particularly in the field of culture and aesthetics. ",
+    "postIts": [
+      {
+        "id": "p-1",
+        "color": "blue",
+        "title": "Vocabulary:  Today",
+        "japanese": "今日",
+        "kana": "Kyō",
+        "romaji": "Kyō",
+        "english": "Today",
+        "explanation": "The word 'Today' signifies the present moment.",
+        "exampleJp": "きょうは天気がよいです",
+        "exampleEn": "It is a nice day today.",
+        "tip": "For a more casual setting, 'Now' can be used instead."
+      },
+      {
+        "id": "p-2",
+        "color": "green",
+        "title": "Vocabulary:  Impermanence",
+        "japanese": "変容 (henyō)  /  変遷 (henkē)",
+        "kana": "Henyō",
+        "romaji": "Henyo",
+        "english": "Change",
+        "explanation": "Change is inevitable and a source of growth and transformation. ",
+        "exampleJp": "この世は常に変化している",
+        "exampleEn": "The world is constantly changing.",
+        "tip": "Use 'Change' in a general sense, 'Evolution' for a more specific one."
+      }
+    ],
+    "culturalInsight": "In the serene twilight hours, a sense of 'mono no aware' settles over us. This profound awareness of impermanence is a cornerstone of Japanese culture, deeply rooted in their philosophical worldview. It's about finding beauty in the transient nature of life, from the fleeting beauty of cherry blossoms to the passing of time itself. It is in this acceptance of change that we find peace and serenity.  This evening's contemplation invites you to embrace this philosophy, to find solace in the fleeting nature of life and to appreciate the subtle beauty found in the constant dance of change.  ",
+    "quiz": {
+      "question": "Which of the following best describes the concept of 'mono no aware'?",
+      "options": [
+        "The beauty found in the fleeting nature of life",
+        "A deep appreciation for nature",
+        "The pursuit of wealth and prosperity",
+        "The importance of family lineage"
+      ],
+      "correctAnswerIndex": 0,
+      "answerExplanation": " 'Mono no aware' captures the essence of life's impermanence and its beauty. This philosophy is not about sadness or lamenting the fleeting nature of things, but rather an appreciation for the beauty and fragility of existence. It is about finding peace and serenity within the context of impermanence."
+    },
+    "imagePrompt": "A misty night view of a traditional Japanese garden with a stone lantern illuminating a path. A lone cherry tree blossoms softly in the background, capturing the ephemeral beauty of Japanese aesthetics.",
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "thumbnailUrl": "/images/level5-unique-slug-1794462913640-1794463027247.jpg",
+    "thumbnailAlt": "A misty night view of a traditional Japanese garden with a stone lantern illuminating a path. A lone cherry tree blossoms softly in the background, capturing the ephemeral beauty of Japanese aesthetics.",
+    "isVerified": true
+  },
+  {
     "id": "level4-unique-slug-1794433628517-1794433741998",
     "title": "Unlocking Daily Life: Inside the Japanese Home",
     "subtitle": "Navigating routines, from work to relaxation.",
