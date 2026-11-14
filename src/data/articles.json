@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1794685560180-1794685655724",
+    "title": "Mastering Corporate Requests at Meetings in Japan",
+    "subtitle": "A guide to navigating polite business communication",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "This guide provides a deeper understanding of business requests in Japanese corporate meetings, helping you navigate interactions smoothly.  With cultural nuances and practical advice, you'll master the art of polite requests and build strong professional connections.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Even in the fast-paced world of business, professionalism and respect remain paramount in Japan.  As the saying goes, 'A calm sea is a good sign of a rough journey,' and Japanese corporate meetings often reflect this philosophy. Mastering the art of making polite business requests is key to achieving a smooth and successful meeting.  This article provides a deeper dive into the intricacies of this process, helping you navigate the complexities of Japanese corporate communication with confidence and finesse.  Let's explore how to make those requests that will leave a lasting impression on your colleagues.",
+    "grammarExplanation": "This article focuses on the use of polite verb forms in Japanese business situations.  We will also explore the use of honorifics, which are essential for demonstrating respect in Japanese business interactions.  The article provides examples of how to use these elements in a business context. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary-1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "kyō",
+        "english": "Today",
+        "explanation": "This means 'today' and is used in the context of schedules, dates, and time. ",
+        "exampleJp": "今日は会議ですね！",
+        "exampleEn": "It's a meeting today, isn't it?",
+        "tip": "The word 'today' can be used to express general time frames. For example: 'Today, I have a lot of work to do'. "
+      },
+      {
+        "id": "p-vocabulary-2",
+        "color": "pink",
+        "title": "Vocabulary: ありがとうございます",
+        "japanese": "ありがとうございます",
+        "kana": "arigatou gozaimasu",
+        "romaji": "arigatou gozaimasu",
+        "english": "Thank you",
+        "explanation": "This is the polite way of expressing gratitude, and is essential in Japanese business settings.",
+        "exampleJp": "ありがとうございます。",
+        "exampleEn": "Thank you.",
+        "tip": "This phrase should be used after receiving a compliment, help, or any kind of assistance from someone."
+      }
+    ],
+    "culturalInsight": "In Japan, business etiquette is deeply ingrained in the culture. This goes beyond just formality. It is a reflection of the inherent respect for hierarchy and order that permeates the Japanese mindset. A subtle nod, a small smile, or a concise and respectful question can often convey a deeper meaning than words alone. This article delves into the complexities of Japanese business communication, providing a deeper understanding of the nuances that underpin this unique culture.",
+    "quiz": {
+      "question": "What is the meaning of '今日は' in Japanese?",
+      "options": [
+        "A pleasant greeting",
+        "A polite request",
+        "An expression of gratitude",
+        "A way to ask about time"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The meaning of '今日は' in Japanese is 'Today'. This is used to refer to the current day, and is a common term used in business settings to set the context for a meeting or discussion."
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "thumbnailUrl": "/images/level3-unique-slug-1794685560180-1794685655724.jpg",
+    "thumbnailAlt": "A detailed artistic image prompt (e.g., 'A vintage monochrome illustration of a sushi chef in Tokyo')",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1794661456351",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
