@@ -1,5 +1,63 @@
 [
   {
+    "id": "level2-unique-slug-1794790149876-1794790259560",
+    "title": "Coffee & Conversation: Mastering the Ordering Game at Japanese Cafes",
+    "subtitle": "A guide to ordering coffee and making requests at a cafe in Japan.",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Unlock the secrets of ordering coffee and customizing your experience at Japanese cafes. From mastering basic vocabulary to navigating the nuances of the ordering process, this guide will equip you to confidently navigate the Japanese cafe scene.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Imagine stepping into a bustling Japanese cafe. The air buzzes with chatter, steaming coffee cups, and a symphony of Japanese-style cafe culture. It's a sensory experience unique to Japan, where even the simplest act of ordering coffee transforms into a playful exchange. Today, we'll unlock the secrets of navigating this vibrant world. From essential phrases to cultural nuances, this guide will guide you through the art of ordering coffee and making your voice heard at a Japanese cafe.",
+    "grammarExplanation": "In this article, we delve into the fundamental grammar concepts of Japanese used for ordering at cafes, helping you navigate the complexities of ordering a simple coffee.  ",
+    "postIts": [
+      {
+        "id": "p1",
+        "color": "blue",
+        "title": "Vocabulary: 今日は",
+        "japanese": "今日は",
+        "kana": "kyou",
+        "romaji": "Kyō wa",
+        "english": "Today",
+        "explanation": "This is used to ask about the current day.",
+        "exampleJp": "今日はいい天気ですね。",
+        "exampleEn": "The weather is nice today, isn't it?",
+        "tip": "Say this when asking about the day or requesting a specific item."
+      },
+      {
+        "id": "p2",
+        "color": "green",
+        "title": "Vocabulary: コーヒー",
+        "japanese": "コーヒー",
+        "kana": "Kohoo",
+        "romaji": "Coffee",
+        "english": "Coffee",
+        "explanation": "The most common word for coffee, pronounced with a short 'o' sound.",
+        "exampleJp": "コーヒー、お願いします",
+        "exampleEn": "Would you please bring me some coffee?",
+        "tip": "Learn this word as you encounter it in the cafe."
+      }
+    ],
+    "culturalInsight": "Japanese cafes are much more than just places to get a caffeine fix. They are social hubs, places to meet friends, and even places to work.  A cafe is a reflection of Japanese culture.  So,  remember to be patient, smile, and learn the basic phrases. You'll find yourself immersed in the heart of Japanese cafe culture.",
+    "quiz": {
+      "question": "How do you politely ask for coffee at a Japanese cafe? ",
+      "options": [
+        "A.  'Please, give me coffee.'",
+        "B.  'Gimme coffee!'",
+        "C.  'Coffee, please.'",
+        "D.  'Coffee, one for me, please."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The best way to ask for coffee in Japanese is 'Coffee, please.'  Keep in mind that Japanese culture emphasizes politeness and respect. "
+    },
+    "schemaMarkup": "{\"type\":\"Article\"}",
+    "imagePrompt": "A photorealistic image of a person looking at a steaming cup of coffee in a traditional Japanese cafe, with a warm and inviting atmosphere. ",
+    "thumbnailUrl": "/images/level2-unique-slug-1794790149876-1794790259560.jpg",
+    "thumbnailAlt": "A photorealistic image of a person looking at a steaming cup of coffee in a traditional Japanese cafe, with a warm and inviting atmosphere. ",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1794767708101",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
