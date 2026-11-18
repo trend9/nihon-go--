@@ -1,5 +1,63 @@
 [
   {
+    "id": "level3-unique-slug-1795032170537-1795032259497",
+    "title": "Checking In: A Ryokan Experience",
+    "subtitle": "Navigating the art of traditional Japanese hospitality",
+    "level": 3,
+    "levelName": "Level 3: Intermediate Sentences & Desires",
+    "timeOfDay": "Afternoon",
+    "publishedAt": "15:00",
+    "description": "Discover the charm and etiquette of staying in a traditional Ryokan inn in Japan. Learn the customs and expectations for your check-in and dining experience in this culturally immersive guide.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional Ryokan inn is akin to entering a world of serenity and elegance. The delicate wood, calming scent of incense, and hushed whispers of guests all coalesce to create an atmosphere of quiet sophistication.  This guide will help you navigate the intricacies of checking in, enjoying the Ryokan's unique dining rituals, and immersing yourself in the welcoming atmosphere of this quintessential Japanese experience.  '旅館の雰囲気は、心まで癒すものだ', said one seasoned traveler, highlighting the inherent charm of Ryokan living. Let's delve into the details.",
+    "grammarExplanation": "This article employs a level of linguistic sophistication that reflects the nuanced experience of navigating a Ryokan. We will use a combination of present tense and past tense, incorporating formal language and casual expressions, to convey the essence of cultural interaction and understanding. Pay attention to the use of honorifics like 'san' to show respect for the guests. ",
+    "postIts": [
+      {
+        "id": "p-vocabulary1",
+        "color": "yellow",
+        "title": "Vocabulary:  チェックイン",
+        "japanese": "チェックイン",
+        "kana": "ke-ch-kin",
+        "romaji": "Kekushin",
+        "english": "Check-in",
+        "explanation": "The act of officially entering a Ryokan for lodging, marking the start of your stay.",
+        "exampleJp": "部屋に荷物を置いて、チェックインします。",
+        "exampleEn": "We will leave our luggage at the room, and check-in.",
+        "tip": "The word 'チェックイン' is often used in a formal context and can be considered polite."
+      },
+      {
+        "id": "p-vocabulary2",
+        "color": "pink",
+        "title": "Vocabulary: 食事",
+        "japanese": "食事",
+        "kana": "shokuji",
+        "romaji": "Shokuji",
+        "english": "Dinner",
+        "explanation": "Ryokan often offer multi-course traditional Japanese meals, a staple part of the hospitality experience.",
+        "exampleJp": "夕食は旅館で、部屋で食事をする。",
+        "exampleEn": "Dinner will be served in the Ryokan, where we will enjoy a meal within the room.",
+        "tip": "The correct pronunciation of '食事' is 'shokuji'."
+      }
+    ],
+    "culturalInsight": "**A Ryokan's Quiet Charm:** The essence of a Ryokan lies in its ability to transcend the ordinary and usher the guest into a world of calm. The tranquility is not just about the absence of noise, but about the presence of a mindful, respectful approach to living. From the hushed tones of conversation to the meticulous art of tea ceremonies, every element in a Ryokan reflects this essence. This 'Ryokan Way' is a testament to a slower pace of life, where each moment is savored and appreciated.  This is the unique charm that awaits you in a Ryokan, a sanctuary of quiet elegance.",
+    "quiz": {
+      "question": "What is the Japanese word for 'check-in'?",
+      "answerIndex": 0,
+      "options": [
+        "チェックイン",
+        "食事",
+        "旅館",
+        "部屋"
+      ],
+      "explanation": "The correct answer is 'チェックイン' (Kekushin). This word is often used in a formal context and can be considered polite."
+    },
+    "schemaMarkup": "{\"@context\": \"https://schema.org/\", \"@type\": \"Article\", \"name\": \"A beautiful catchy newspaper title\", \"description\": \"Discover the charm and etiquette of staying in a traditional Ryokan inn in Japan. Learn the customs and expectations for your check-in and dining experience in this culturally immersive guide.\", \"author\": \"Emma Sterling\", \"language\": \"en\", \"datePublished\": \"2023-10-26T15:00:00+00:00\", \"keywords\": \"Ryokan, Japanese, culture, hospitality, travel\", \"image\": \"imagePrompt\" }",
+    "imagePrompt": "A traditional Japanese Ryokan with tatami mats and a modern, minimalist design, illuminated with soft, warm lights. In the background, guests are gathered in the main room for a tea ceremony, creating an atmosphere of peace and serenity.",
+    "thumbnailUrl": "/images/level3-unique-slug-1795032170537-1795032259497.jpg",
+    "thumbnailAlt": "A traditional Japanese Ryokan with tatami mats and a modern, minimalist design, illuminated with soft, warm lights. In the background, guests are gathered in the main room for a tea ceremony, creating an atmosphere of peace and serenity.",
+    "isVerified": true
+  },
+  {
     "id": "level2-ordering-coffee-1795000519196",
     "title": "Ordering Coffee in Tokyo: The Power of 'Kore o kudasai'",
     "subtitle": "Mastering simple requests for your late-morning coffee run",
