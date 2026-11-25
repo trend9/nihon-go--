@@ -1,5 +1,62 @@
 [
   {
+    "id": "level2-unique-slug-1795625636810-1795625767799",
+    "title": "Beyond the Zen: A Ryokan Stay in Japan",
+    "subtitle": "Decoding the rules of traditional Japanese inn etiquette",
+    "level": 2,
+    "levelName": "Level 2: Basic Words & Short Requests",
+    "timeOfDay": "Late-Morning",
+    "publishedAt": "11:30",
+    "description": "Learn how to navigate the unique world of Japanese ryokans for a truly authentic experience. From check-in procedures to dining etiquette, this guide will empower you to master the art of traditional hospitality.",
+    "byline": "By Emma Sterling, Culture Desk",
+    "introduction": "Stepping into a traditional Japanese ryokan is like stepping into a peaceful oasis.  These charming inn accommodations offer a glimpse into Japan's rich cultural heritage, but navigating the initial steps can be overwhelming for first-time visitors.  This guide, designed for those embarking on a ryokan adventure, delves into the customs and etiquette of this unique accommodation style. From understanding the check-in process to mastering the art of dining in a traditional ryokan, we'll provide you with the tools and confidence to enjoy a truly immersive experience.",
+    "grammarExplanation": "The grammatical structure of this article employs a clear and concise style, suitable for an English-speaking audience.  Simple sentence structure, common grammar rules, and direct language are used to guide the reader through the information. This article utilizes a conversational tone and emphasizes easy-to-understand explanations. ",
+    "postIts": [
+      {
+        "id": "p_vocabulary_1",
+        "color": "yellow",
+        "title": "Vocabulary: 今日のチェックイン",
+        "japanese": "今日のチェックイン",
+        "kana": "Kyō no check-in",
+        "romaji": "Kyō no check-in",
+        "english": "Check-In",
+        "explanation": "This is a very basic phrase for checking into a ryokan inn. You'll need to know this for a smooth check-in process.",
+        "exampleJp": "チェックインをさせていただきます。",
+        "exampleEn": "I would like to check in.",
+        "tip": "The phrase is used with the staff at the check-in desk."
+      },
+      {
+        "id": "p_vocabulary_2",
+        "color": "pink",
+        "title": "Vocabulary: 抹茶",
+        "japanese": "抹茶",
+        "kana": "Matcha",
+        "romaji": "Matcha",
+        "english": "Matcha",
+        "explanation": "Matcha is a powdered green tea, and a must-try when staying in a traditional Japanese inn.  It is a traditional Japanese beverage and is served at many ryokans.",
+        "exampleJp": "抹茶をいただきます。",
+        "exampleEn": "I would like to enjoy some Matcha.",
+        "tip": "The tea is usually served with a small bowl."
+      }
+    ],
+    "culturalInsight": "**Beyond the Zen:** **Ryokans: An Insider's Guide**\n\n\nThe traditional Japanese inn, or ryokan, is a concept rooted in centuries of cultural heritage.  Beyond just a place to stay, the ryokan embodies a unique form of hospitality and Japanese tradition.  While modern accommodations may offer convenience, the ryokan experience is about immersing yourself in the beauty of Japanese culture.  \n\nRyokans are more than just buildings; they are spaces designed to facilitate a sense of harmony.  The quiet atmosphere, the focus on natural materials, and the traditional architecture all contribute to an experience that is both relaxing and respectful.  The emphasis on simplicity, combined with a strong connection to nature, creates a sense of peace and tranquility that is hard to find elsewhere.\n\nThe art of the ryokan lies in understanding the nuances of its customs.  From the traditional seating arrangements to the precise etiquette of mealtimes, each element of the ryokan experience is designed to create a sense of authenticity.  \n\nFor those seeking an authentic Japanese experience, exploring a ryokan is a journey into a unique world of cultural immersion.  \n\n",
+    "quiz": {
+      "question": "What is the correct way to say 'good morning' in Japanese when visiting a ryokan?",
+      "options": [
+        "Konnichiwa",
+        "Ohayou gozaimasu",
+        "Sayonara",
+        "Sayonara gozaimasu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The correct way to say 'good morning' in Japanese is 'Ohayou gozaimasu', which means 'good morning' in formal settings.  This is used when visiting a ryokan for the first time."
+    },
+    "schemaMarkup": "```json\n<script type='application/ld+json'>\n{\n  \"@context\": \"http://schema.org/\"\n,\n  \"@type\": \"Article\"\n,\n  \"headline\": \"A beautiful catchy newspaper title\"\n,\n  \"description\": \"Learn how to navigate the unique world of Japanese ryokans for a truly authentic experience. From check-in procedures to dining etiquette, this guide will empower you to master the art of traditional hospitality.\"\n,\n  \"author\": \"Emma Sterling, Culture Desk\"\n,\n  \"mainEntity\": {\n    \"headline\": \"Beyond the Zen: A Ryokan Stay in Japan\"\n    \"description\": \"Learn how to navigate the unique world of Japanese ryokans for a truly authentic experience. From check-in procedures to dining etiquette, this guide will empower you to master the art of traditional hospitality.\"\n    \"articleBody\": \"This guide, designed for those embarking on a ryokan adventure, delves into the customs and etiquette of this unique accommodation style. From understanding the check-in process to mastering the art of dining in a traditional ryokan, we'll provide you with the tools and confidence to enjoy a truly immersive experience.\"\n  },\n  \"datePublished\": \"2023-10-26T11:30:00+09:00\"\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"The Japan Daily\"\n  },\n  \"location\": {\n    \"@type\": \"Location\",\n    \"name\": \"Tokyo\"\n  }\n}\n```\n",
+    "thumbnailUrl": "/images/level2-unique-slug-1795625636810-1795625767799.jpg",
+    "thumbnailAlt": "Vintage British newspaper illustration of checking into a traditional ryokan inn and dining rules",
+    "isVerified": true
+  },
+  {
     "id": "level1-greeting-the-sun-1795579325656",
     "title": "Greeting the Sun: The Art of Ohayou Gozaimasu",
     "subtitle": "How a simple morning phrase connects people in Japan",
